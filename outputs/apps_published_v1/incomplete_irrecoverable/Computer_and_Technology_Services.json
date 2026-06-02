@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Computer & Technology Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TechSavvy Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Tech Lane, Suite 101, San Francisco, CA 94103-5678",
+      "CONTACT FOR INSPECTION": "John Doe, Compliance Manager, TechSavvy Solutions, (555) 123-4567, johndoe@techsavvysolutions.com",
+      "GL CODE": "\"61524\"",
+      "SIC": "7371",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "TechSavvy Solutions provides comprehensive IT consulting and technology services, specializing in remote technical support, software development, network management, and cybersecurity solutions for small to medium-sized businesses. Our operations focus on delivering high-quality, tailored technology solutions while maintaining strict compliance with data protection regulations. We offer services such as cloud management, data backup and recovery, and online IT training, all designed to help clients enhance their operational efficiency and security posture. Our team operates primarily from a central office, minimizing on-site exposure, and we have robust policies in place to ensure data security and regulatory compliance.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,000.00",
+      "POLICY #": "TS-2023-001",
+      "OTHER BUSINESSES OWNED": "TechSavvy Innovations LLC, providing innovative software solutions and digital marketing services.",
+      "PREVIOUS CARRIER": "TechShield Insurance Company",
+      "POLICY NUMBER": "TS-2023-002",
+      "TOTAL LOSSES": "$3,200",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, TechSavvy Solutions experienced a data breach due to a phishing attack, resulting in unauthorized access to client data. The estimated loss incurred for notification and remediation was $3,200. The matter is currently resolved with no ongoing claims.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$250,000 / $2,500",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$250,000 / $5,000",
+      "money and securities": "$100,000 / $2,500",
+      "ADDRESS": "1234 Tech Valley Drive, Suite 201, San Francisco, CA 94103-5678",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 6:00 PM",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade II, Secured electronic vault for data storage and protection.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security personnel on-site during business hours to monitor premises and prevent unauthorized access.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 TechSavvy Solutions does not engage in activities related to storing, treating, discharging, applying, disposing of, or transporting hazardous materials in its operations. The company focuses on providing IT consulting and technology services, which do not involve such activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TechSavvy Solutions does not sponsor any athletic teams as our focus is primarily on providing IT consulting and technology services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. TechSavvy Solutions ensures compliance by checking the certificates and related documentation before permitting subcontractor engagement.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 TechSavvy Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a strong commitment to ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 TechSavvy Solutions has not had any policy or coverage declined, canceled, or non-renewed in the past three years. We maintain a good standing with our insurance carrier and ensure compliance with all requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TechSavvy Solutions does not lease employees to or from other employers, as our operations focus on providing in-house IT consulting and technology services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 TechSavvy Solutions does not currently carry Workers Compensation insurance, but complies with all applicable legal requirements regarding employee coverage.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 TechSavvy Solutions also owns and operates TechSavvy Innovations LLC, which focuses on providing innovative software solutions and digital marketing services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TechSavvy Solutions does not have any other insurance policies with the company at this time. Currently, we maintain a single policy for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TechSavvy Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are focused on providing IT consulting and technology services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 TechSavvy Solutions does not rent or loan equipment to others as our operations primarily focus on providing IT consulting and technology services without physical equipment transactions.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 TechSavvy Solutions has not experienced any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years, maintaining a stable financial position throughout this period.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TechSavvy Solutions does not have any exposure to flammables, explosives, or chemicals as our operations focus exclusively on IT consulting and technology services, which do not involve such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 TechSavvy Solutions does not have any exposure to catastrophe risks, as our operations focus on IT consulting and technology services, which do not involve activities that could lead to such exposures.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TechSavvy Solutions has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to ethical practices and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TechSavvy Solutions has no uncorrected fire code violations and ensures compliance with all applicable fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 3200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "TechSavvy Solutions provided exceptional support when I faced a major IT issue. Their team was quick to respond and resolved everything efficiently!",
+          "I highly recommend TechSavvy Solutions for their professional and knowledgeable staff. They helped us streamline our network management seamlessly.",
+          "Great experience with TechSavvy! Their remote support is top-notch, and they really understand the needs of small businesses.",
+          "The cybersecurity solutions offered by TechSavvy Solutions have significantly improved our data protection. Very satisfied with their service!",
+          "TechSavvy Solutions has been a reliable partner for our IT needs. Their expertise in software development has truly made a difference for our operations."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Coverage excludes computers used to operate production-type machinery."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Computer & Technology Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage excludes computers used to operate production-type machinery."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text describes IT consulting and technology services without any mention of operating production-type machinery, and the third-party data focuses on IT support and cybersecurity without indicating any involvement in such activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Computer & Technology Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage excludes computers used to operate production-type machinery."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation: Coverage excludes computers used to operate production-type machinery.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text describes IT consulting and technology services without any mention of operating production-type machinery, and the third-party data focuses on IT support and cybersecurity without indicating any involvement in such activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

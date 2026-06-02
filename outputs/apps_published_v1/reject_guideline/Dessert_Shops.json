@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Dessert Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sweet Indulgence Dessert Shop",
+      "FEIN OR SOC SEC #": "REJECT",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Sweet Tooth Lane, Dessert City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "N/A",
+      "GL CODE": "REJECT: \"GQ-07: Missing Required Licenses or Legally Mandated Insurance, including liquor licenses for alcohol service.\"",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Sweet Indulgence Dessert Shop, we specialize in creating a wide variety of delectable desserts including cakes, pastries, cookies, and seasonal specialties. Our operations focus primarily on retail sales, with a commitment to quality and customer satisfaction. We ensure a clean and safe environment by maintaining all necessary health department permits and adhering to strict food safety protocols. While we offer a limited selection of alcoholic beverages, our alcohol service is secondary to our dessert sales, and we have all required licenses in place for compliance. All staff serving alcohol are trained and certified in responsible service. Our team consists of experienced individuals in the food service industry, enabling us to effectively manage operations while enhancing customer experience. Additionally, we regularly conduct equipment maintenance and implement risk management strategies to mitigate any potential hazards in our operations.\n\nOur dessert shop offers a selection of gourmet desserts paired with fine wines, which enhances the overall dining experience for our customers.",
+      "DATE BUSINESS STARTED": "08/15/2022",
+      "EFFECTIVE DATE": "09/01/2022",
+      "EXPIRATION DATE": "09/01/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECT-SPEC-1-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Sweet Treats Insurance Company",
+      "POLICY NUMBER": "REJECT-SPEC-1-002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "\"None reported. Current loss status is clean; no claims or incidents since establishment.\"",
+      "Combined Single Limit": "0",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000; $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $4,000,000; $1,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "\"$50,000 / $1,000\"",
+      "Professional Liability": "reject",
+      "Liquor Liability": "reject",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "\"$500,000 / $1,000\"",
+      "Computers": "$5,000 / $500",
+      "ordinence and law": "\"$100,000 / $1,000\"",
+      "Flood": "reject",
+      "accounts recievable": "\"$10,000 / $500\"",
+      "employee dishonesty": "$25,000 / $1,000",
+      "money and securities": "$5,000 / $500",
+      "ADDRESS": "456 Dessert Avenue, Sweet City, CA 90211-5678",
+      "Year Built": "2021",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "reject",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$0",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "$1,000",
+      "OTHER PROTECTION": "N/A",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual cash value",
+      "personal property limit": "reject",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The dessert shop does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of its operations. It focuses on retail sales of desserts and adheres to all relevant safety and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sweet Indulgence Dessert Shop does not sponsor athletic teams as our primary focus is on retail dessert sales and we adhere to our core business operations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as it helps manage liability risks. The certificates are typically checked by the business owner or designated management personnel.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Sweet Indulgence Dessert Shop has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. Our current loss status is clean, with no claims or incidents reported since establishment.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sweet Indulgence Dessert Shop does not lease employees to or from other employers. All staff are directly employed by the shop, ensuring a consistent and reliable team.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Sweet Indulgence Dessert Shop does not currently carry Workers' Compensation insurance, as it is required to maintain compliance with legal obligations. This omission is a significant issue that needs to be addressed.",
+      "G8: Do you own or operate any other business?": "No \u2013 Sweet Indulgence Dessert Shop does not own or operate any other business. Our focus remains solely on delivering quality desserts to our customers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sweet Indulgence Dessert Shop does not have any other insurance policies with this company at this time. All insurance requirements are currently under review and will be updated as needed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sweet Indulgence Dessert Shop is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retail sales of desserts.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sweet Indulgence Dessert Shop does not rent or loan equipment to others, as our focus remains on providing quality desserts to our customers. We ensure compliance with all operational regulations and maintain our equipment solely for in-house use.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Sweet Indulgence Dessert Shop has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The financial status is clean, with no claims or incidents reported since establishment.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The dessert shop does not have any exposure to flammables, explosives, or chemicals as it primarily focuses on the retail sale of desserts and adheres to safety regulations. All operations are carried out in compliance with relevant industry standards to ensure a safe environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sweet Indulgence Dessert Shop does not have any catastrophe exposure as the operations are focused on retail sales of desserts, and all necessary safety and compliance measures are in place.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Sweet Indulgence Dessert Shop has no past losses or claims relating to sexual abuse, molestation allegations, discrimination, or negligent hiring. The business prioritizes maintaining a safe and compliant environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations reported. The dessert shop maintains compliance with all relevant safety standards.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The desserts here are absolutely divine! I can't get enough of their chocolate mousse.",
+          "A cozy little spot with a fantastic selection of pastries. Perfect for a sweet treat!",
+          "I love the seasonal specials they offer. The pumpkin spice cupcakes were a hit!",
+          "Great atmosphere and friendly staff. The ice cream is a must-try!",
+          "I visited for the first time and was blown away by the variety. Definitely coming back!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Dessert shops must maintain current and appropriate liquor licenses for any alcohol service."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Dessert Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Dessert shops must maintain current and appropriate liquor licenses for any alcohol service."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Dessert shops must maintain current and appropriate liquor licenses for any alcohol service.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business offers a limited selection of alcoholic beverages and claims to have all required licenses in place for compliance."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Dessert Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Dessert shops must maintain current and appropriate liquor licenses for any alcohol service."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the violation of the rule: 'Dessert shops must maintain current and appropriate liquor licenses for any alcohol service.' No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Dessert shops must maintain current and appropriate liquor licenses for any alcohol service.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business offers a limited selection of alcoholic beverages and claims to have all required licenses in place for compliance."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

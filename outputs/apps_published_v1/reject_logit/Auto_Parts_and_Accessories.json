@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Auto Parts & Accessories",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "AutoZone Parts & Accessories",
+      "FEIN OR SOC SEC #": "41-1234567",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Elm Street, Suite 100, Memphis, TN 38104-1503",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator",
+      "GL CODE": "AUTO-PARTS-GL-001",
+      "SIC": "3714",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "AutoZone Parts & Accessories focuses on the retail distribution of a wide range of automotive parts and accessories. Our operations include providing customers with quality products such as batteries, filters, brakes, and repair tools, along with expert advice from knowledgeable staff. We prioritize customer service and maintain a clean, secure, and well-organized retail environment to facilitate easy shopping. Our facilities are equipped with appropriate fire protection measures, and we ensure compliance with OSHA regulations to promote a safe workplace. We do not engage in high-risk activities such as racing modifications or self-service repairs, adhering to industry standards to minimize liability and ensure customer safety.",
+      "DATE BUSINESS STARTED": "03/15/2010",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "AZ-2023-001",
+      "OTHER BUSINESSES OWNED": "AutoZone Distribution Center, 5678 Maple Avenue, Memphis, TN 38104-1506",
+      "PREVIOUS CARRIER": "Auto Insurance Co.",
+      "POLICY NUMBER": "AZ-2022-002",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "On 08/15/2023, we experienced a theft of auto parts valued at $5,000. The incident occurred during after-hours when the premises were compromised due to inadequate nighttime security measures. The investigation is ongoing, and measures are being implemented to enhance security protocols to prevent future incidents.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $250",
+      "Damge to Rental Premises": "$150,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$100,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "5678 Maple Avenue, Memphis, TN 38104-1506",
+      "Year Built": "1990",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "08:00 AM - 08:00 PM",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$1,500,000.00",
+      "TOTAL PAYROLL": "$600,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial Safe, Class B, UL Listed",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Security fencing and on-site watchpersons during off-hours to enhance site security and mitigate theft risk.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 AutoZone Parts & Accessories does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business focuses on retail distribution of automotive parts and accessories in a controlled and compliant environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 AutoZone Parts & Accessories does not sponsor athletic teams as part of its business operations. The focus remains on retail distribution of automotive parts and providing customer service.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the designated Inspection Coordinator to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions of any degree of the crime of fraud, bribery, arson, or any arson-related crime in connection with this or any other property for the applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years for AutoZone Parts & Accessories.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 AutoZone Parts & Accessories does not lease employees to or from other employers. Our staffing is managed in-house to maintain full control over our operations and workforce.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 AutoZone Parts & Accessories carries Workers' Compensation insurance as part of its compliance with statutory requirements for employee coverage. This ensures protection for employees in case of work-related injuries or illnesses.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 AutoZone Parts & Accessories also owns and operates the AutoZone Distribution Center located at 5678 Maple Avenue, Memphis, TN. This facility supports our retail operations by supplying a wide range of automotive parts and accessories.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 AutoZone Parts & Accessories does not have any other insurance policies with this company at this time. We currently only hold the active policy number AZ-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 AutoZone Parts & Accessories does not engage in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on retailing automotive parts and accessories.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 AutoZone Parts & Accessories does not rent or loan equipment to others. The focus is on retailing automotive parts and accessories without engaging in equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a solid financial standing and compliance with industry standards.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 AutoZone Parts & Accessories does not have exposure to flammables, explosives, or chemicals, as our operations focus solely on retailing automotive parts and accessories in a controlled environment. We maintain compliance with safety regulations and prioritize the safe handling of products.",
+      "G14: Any catastrophe exposure?": "No \u2013 AutoZone Parts & Accessories does not have any catastrophe exposure as it focuses on retail distribution of automotive parts in a controlled environment and does not engage in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 AutoZone Parts & Accessories has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company prioritizes adherence to ethical hiring practices and maintains a strong commitment to a safe and inclusive workplace.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 AutoZone Parts & Accessories has no uncorrected fire code violations, and the facility is equipped with appropriate fire protection measures, ensuring compliance with safety regulations.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of auto parts! The staff was super helpful in finding exactly what I needed.",
+          "I always find what I'm looking for at AutoZone. Their prices are competitive and the service is excellent.",
+          "Fast and friendly service! I appreciate the knowledgeable staff who helped me with my car issues.",
+          "The store is well-organized, making it easy to find parts. I had a great experience shopping here.",
+          "AutoZone has become my go-to for all my automotive needs. Highly recommend for quality and service!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Auto Parts & Accessories",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Auto Parts & Accessories",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Camping & Outdoor Equipment Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Nature's Gear Outdoors",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Hiking Trail, Outdoor City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "R-2200",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Nature's Gear Outdoors operates as a retail store specializing in new camping, hiking, and outdoor recreational equipment. Our core operations focus on providing high-quality outdoor gear to enthusiasts, with a strong emphasis on customer education and safety. We maintain robust inventory management systems along with documented vendor relationships that ensure our products meet safety and regulatory standards. Our staff undergoes regular training to enhance their product knowledge, enabling them to provide expert advice and support to our customers. \n\nIn addition to retail sales, we host in-store instructional activities aimed at promoting the safe and responsible use of outdoor equipment. Our location is equipped with advanced security measures, including monitored burglar alarms and surveillance systems, which help protect our inventory against theft and vandalism. We prioritize compliance with all applicable regulations and laws, ensuring that our operations are both safe and legally sound. \n\nOur commitment to customer safety and education, combined with diligent inventory controls and regulatory adherence, underpins our operation as a trusted provider of outdoor equipment.\n\nCompliance Confirmation: The business does not engage in gun repair or gunsmithing services, and confirms that it does not rent or lease outdoor equipment. Additionally, we do not supply athletic or outdoor equipment to schools or institutional buyers, and we do not sell restricted military goods, firearms, or tactical equipment without proper documentation.",
+      "DATE BUSINESS STARTED": "03/15/2020",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500.00",
+      "POLICY #": "NGA-2023-00123",
+      "OTHER BUSINESSES OWNED": "Outdoor Adventure Guide Services",
+      "PREVIOUS CARRIER": "Outdoor Insurance Group",
+      "POLICY NUMBER": "NGA-2022-00567",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Losses incurred between 05/01/2022 and 08/15/2023 due to theft incidents at our retail location, amounting to $2,500. Status: Claims submitted and processed with all necessary documentation provided.",
+      "Combined Single Limit": "1,000,000 / 2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $250",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "1,000,000 / 2,500",
+      "Liquor Liability": "1,000,000 / 2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "1,000,000 / 2,500",
+      "Computers": "$15,000 / $500",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "456 Adventure Lane, Outdoor City, CA 90211-5678",
+      "Year Built": "2015",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "08:00 AM - 08:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "120000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "UL Class 350, Grade 1, Secured by monitored burglar alarms and surveillance systems.",
+      "MONEY ON PREMISES": "15000.00",
+      "OTHER PROTECTION": "Monitored security cameras and routine security patrols on-site.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "200000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Nature's Gear Outdoors does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The focus is solely on retailing camping and outdoor equipment without involvement in hazardous material activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Nature's Gear Outdoors does not sponsor athletic teams as part of its business operations. The focus is strictly on retailing camping and outdoor recreational equipment.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our management team to ensure compliance and risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Nature's Gear Outdoors has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our business operations maintain a focus on compliance and integrity.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Nature's Gear Outdoors has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. We maintain a compliant and transparent insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Nature's Gear Outdoors does not lease employees to or from other employers, as we maintain a dedicated team of employees for our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Nature's Gear Outdoors carries Workers' Compensation insurance to ensure compliance with legal requirements and to provide coverage for employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Nature's Gear Outdoors owns and operates an additional business called Outdoor Adventure Guide Services, which provides guided outdoor experiences.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Nature's Gear Outdoors does not have any other insurance policies with this company at this time. All relevant coverages are managed under the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Nature's Gear Outdoors is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retailing new camping and outdoor recreational equipment.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Nature's Gear Outdoors does not rent or loan equipment to others, as our operations focus solely on retailing outdoor gear. This aligns with our commitment to minimizing liability and ensuring compliance with operational guidelines.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Nature's Gear Outdoors has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a positive financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Nature's Gear Outdoors does not have exposure to flammables, explosives, or chemicals, as our operations focus strictly on retailing camping and outdoor recreational equipment without involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Nature's Gear Outdoors does not have any exposure to catastrophe-related risks as our operations focus solely on retailing camping and outdoor recreational equipment with robust safety measures in place. Our advanced security protocols further mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Nature's Gear Outdoors has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations emphasize a strong commitment to safety and compliance in all aspects of our business.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Nature's Gear Outdoors has no uncorrected fire code violations and maintains compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Nature's Gear Outdoors has an amazing selection of camping gear! The staff is super knowledgeable and helped me find exactly what I needed for my trip.",
+          "I love shopping here! The prices are reasonable, and the quality of the equipment is top-notch. Highly recommend for any outdoor enthusiast.",
+          "Great experience! The store is well-organized, and I appreciated the in-store workshops on using the gear safely.",
+          "I found everything I needed for my hiking adventure. The staff was friendly and offered great tips on local trails!",
+          "This place is a gem! They have a wide variety of outdoor equipment, and the customer service is outstanding."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Gun repair and gunsmithing services are strictly prohibited.",
+        "Rental or leasing of outdoor equipment is not permitted.",
+        "Applicants must not supply athletic or outdoor equipment to schools or institutional buyers.",
+        "Sale of restricted military goods, firearms, or tactical equipment without proper documentation is not allowed."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Camping & Outdoor Equipment Stores",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Camping & Outdoor Equipment Stores",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Nature's Gear Outdoors is accepted as it meets the preferred and acceptable criteria without any violations of the specified restrictions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

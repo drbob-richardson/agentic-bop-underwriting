@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Cable & Telecommunications",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Telecom Innovations LLC",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Connectivity Blvd, Suite 200, Tech City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator, Telecom Innovations LLC, (555) 123-4567, johndoe@telecominnovations.com",
+      "GL CODE": "56300",
+      "SIC": "4822",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Telecom Innovations LLC specializes in providing a range of telecommunications services, including the installation and repair of low-voltage wiring and standard consumer electronics for residential customers. Our operations include the retail sale of audio/visual equipment, like televisions and speakers, along with offering rental services for A/V gear during events, ensuring all rentals come with delivery and pickup but without on-site setup to minimize liability risks. We are committed to maintaining a robust safety program and ensuring our technicians have up-to-date training certifications. Furthermore, our operations are documented with safety protocols, and we do not subcontract installation work, which significantly reduces our exposure to third-party liability. We prioritize compliance with federal, state, and local telecommunications regulations, ensuring that our services are reliable and safe for our customers.\n\nCompliance Confirmation: The business does not engage in any activities related to utility service failures occurring off-premises and confirms that the exclusion for loss or damage to 'computer(s)' and 'electronic data' does not apply. Additionally, all contractors involved in reconstruction, erection, or repair of buildings adhere to our established standards, and any subcontracted work related to building construction, reconstruction, or repair is managed in full compliance with our operational policies.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "TIC-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "AT&T Insurance Services",
+      "POLICY NUMBER": "TIC-2022-002",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "Water damage occurred on March 10, 2023, due to a burst pipe in our office that affected our equipment and materials. The estimated loss was $3,500. Status: Claim filed and currently being processed.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Bodily Injury & Property Damage Occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Bodily Injury & Property Damage Aggregate with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible.",
+      "Damge to Rental Premises": "$500,000 with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$500,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$250,000 limit with a $1,000 deductible",
+      "ADDRESS": "1234 Connectivity Blvd, Suite 200, Tech City, CA 90210-1234",
+      "Year Built": "2010",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM - 5 PM; Saturday: 10 AM - 3 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1500000",
+      "TOTAL PAYROLL": "$600,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Fire Resistant Safe, UL Listed, ANSI Grade 1",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Fencing and patrolling security services for premises protection.",
+      "Building limit": "$1215000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Telecom Innovations LLC does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus on low-voltage wiring and standard consumer electronics without handling such materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Telecom Innovations LLC does not sponsor any athletic teams. Our focus is primarily on telecommunications services and related retail operations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The insurance certificates are typically checked by the main contractor or project manager to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Telecom Innovations LLC has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Telecom Innovations LLC has not had any policy or coverage declined, canceled, or non-renewed in the past three years. Our previous insurer was AT&T Insurance Services, and our coverage has been active without interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Telecom Innovations LLC does not lease employees to or from other employers. Our staffing is managed internally without external employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Telecom Innovations LLC carries Workers' Compensation insurance to ensure compliance with state regulations and to protect our employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Telecom Innovations LLC does not own or operate any other business. Our focus is solely on providing telecommunications services and related operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Telecom Innovations LLC does not have any other insurance with this company at this time. The only active policy is the current one, identified as TIC-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Telecom Innovations LLC is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus exclusively on providing telecommunications services and retailing audio/visual equipment without engaging in any manufacturing activities.",
+      "G11: Do you rent or loan equipment to others?": "Yes \u2013 Telecom Innovations LLC rents equipment for audio/visual gear during events, but all rentals include delivery and pickup without on-site setup, minimizing liability risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Telecom Innovations LLC has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. We maintain a stable financial position and adhere to responsible financial practices.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Telecom Innovations LLC does not have any exposure to flammables, explosives, or chemicals. Our operations are focused on low-voltage wiring and consumer electronics, which do not involve handling such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Telecom Innovations LLC does not have any catastrophe exposure as our operations focus on telecommunications services with minimal risk associated with natural disasters or severe external events. We operate in a low-crime area and follow safety protocols to mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Telecom Innovations LLC has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize compliance and maintaining a safe workplace for all employees.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Telecom Innovations LLC does not have any uncorrected fire code violations. We prioritize fire safety and compliance, ensuring that all necessary inspections and codes are adhered to.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "Telecom Innovations LLC provided excellent service when I needed to install new wiring for my home. The technicians were professional and efficient!",
+          "I rented A/V equipment for my event, and the delivery was prompt. Everything worked perfectly, and I appreciated the hassle-free pickup.",
+          "Great experience with their customer service! They answered all my questions and helped me choose the right products for my needs.",
+          "I had a minor issue with my installation, but their support team resolved it quickly. I\u2019m very satisfied with their responsiveness.",
+          "The quality of the audio/visual equipment I rented was top-notch. I will definitely use Telecom Innovations for my future events!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises.",
+        "Exclusion for loss or damage to 'computer(s)' and 'electronic data' does not apply.",
+        "Contractors involved in reconstruction, erection, or repair of buildings are subject to specific underwriting guidelines.",
+        "Subcontracted work related to building construction, reconstruction, or repair is subject to underwriting restrictions."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Cable & Telecommunications",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Cable & Telecommunications",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Telecom Innovations LLC is valid and meets the underwriting criteria for Cable & Telecommunications.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

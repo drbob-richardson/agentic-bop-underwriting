@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Auto Parts & Accessories",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "AutoZone Parts & Accessories",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Auto Parts Ave, Suite 100, Memphis, TN 38103-4501",
+      "CONTACT FOR INSPECTION": "John Doe, Inspections Manager, (555) 123-4567, jdoe@autozone.com",
+      "GL CODE": "AC-8911",
+      "SIC": "3714",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "AutoZone Parts & Accessories specializes in retailing a wide range of automotive parts and accessories, catering to both professional repair shops and individual consumers. Our operations involve the procurement and distribution of high-quality parts and accessories for various vehicle makes and models. We prioritize safety and regulatory compliance, operating from secure and well-maintained facilities that adhere to all local, state, and federal regulations. Our inventory management systems ensure efficient stock management, minimizing stockouts and overstocking. We emphasize employee safety training aligned with OSHA standards to foster a safe working environment. Our facilities implement documented fire protection measures, including automatic sprinkler systems and approved fire extinguishers, particularly in areas dealing with flammable materials. With a focus on customer service, our knowledgeable staff members provide expert assistance to help customers find the right products for their automotive needs.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RENEWAL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "AZ-2023-001",
+      "OTHER BUSINESSES OWNED": "AutoZone Auto Repair & Services, LLC, 9876 Repair Way, Memphis, TN 38103-4502, specializes in mechanical repairs and diagnostics for a variety of vehicles.",
+      "PREVIOUS CARRIER": "State Farm Insurance",
+      "POLICY NUMBER": "AZ-2023-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 05/15/2023; Cause: Water damage from a leaky roof; Amount: $2,500; Status: Claim filed and pending approval.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate limit with a $2,500 deductible.",
+      "Medical Expense (per person)": "$5,000.00 per person with a $500 deductible.",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$100,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $2,500 deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible",
+      "accounts recievable": "$500,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$500,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "1234 Auto Parts Blvd, Memphis, TN 38103",
+      "Year Built": "2015",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8 AM - 6 PM, Saturday: 9 AM - 4 PM, Closed Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2021",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$1250000",
+      "TOTAL PAYROLL": "$600,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Heavy-Duty Steel Safe, Class B, UL Listed.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Security patrols and fencing around the premises to enhance protection against theft and vandalism.",
+      "Building limit": "$1080000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$250,000.00",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 AutoZone Parts & Accessories does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is on retailing automotive parts and accessories, prioritizing safety and compliance with regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 AutoZone Parts & Accessories does not sponsor athletic teams as part of its business operations. The company's primary focus is on retailing automotive parts and accessories.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors must provide a certificate of insurance before working. This ensures risk transfer and is typically checked by the project manager or designated compliance officer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 AutoZone Parts & Accessories has not been indicted or convicted of any degree of fraud, bribery, arson, or any related crimes in connection with this or any other property. The company operates with a strong emphasis on compliance and ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years for AutoZone Parts & Accessories.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 AutoZone Parts & Accessories does not lease employees to or from other employers. All employees are directly employed by the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 AutoZone Parts & Accessories carries Workers Compensation insurance to ensure compliance with legal requirements and to protect employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 AutoZone Parts & Accessories owns and operates another business, AutoZone Auto Repair & Services, LLC, which specializes in mechanical repairs and diagnostics for various vehicles.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 AutoZone Parts & Accessories does not have any other insurance policies with the current company. The only policy listed is AZ-2023-001, which covers our primary operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 AutoZone Parts & Accessories is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus primarily on the retailing of automotive parts and accessories.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 AutoZone Parts & Accessories does not rent or loan equipment to others as part of its operations. The focus is on retailing automotive parts and accessories without engaging in equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 AutoZone Parts & Accessories has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company's financial standing remains stable and compliant with all regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 AutoZone Parts & Accessories does not have any exposure to flammables, explosives, or chemicals beyond incidental use in the retailing of automotive parts and accessories, which are managed under strict safety protocols.",
+      "G14: Any catastrophe exposure?": "No \u2013 AutoZone Parts & Accessories does not have any catastrophe exposure as our operations are primarily focused on retailing automotive parts and accessories, which do not involve high-risk activities associated with catastrophes.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 AutoZone Parts & Accessories has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to compliance and ethical business practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 AutoZone Parts & Accessories has no uncorrected fire code violations and maintains compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had a fantastic experience at this shop! They not only helped me find the perfect parts for my car, but they also offered some incredible racing modifications that really boosted my vehicle's performance on the track. Highly recommend for anyone looking to enhance their ride!",
+          "I always find what I'm looking for at AutoZone. Their prices are competitive and the service is top-notch.",
+          "Fast service and knowledgeable staff. I appreciate their assistance in choosing the right parts for my car.",
+          "The store is well-organized, making it easy to find parts. I had a pleasant shopping experience.",
+          "AutoZone has become my go-to for all my automotive needs. Highly recommend for anyone looking for quality parts!"
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No coverage for businesses engaged in racing modifications, demolition work, or other high-risk automotive activities."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for businesses engaged in racing modifications, demolition work, or other high-risk automotive activities."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Auto Parts & Accessories",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses engaged in racing modifications, demolition work, or other high-risk automotive activities."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses engaged in racing modifications, demolition work, or other high-risk automotive activities. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a Google review that explicitly mentions 'incredible racing modifications' which indicates engagement in prohibited high-risk automotive activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Auto Parts & Accessories",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses engaged in racing modifications, demolition work, or other high-risk automotive activities."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: No coverage for businesses engaged in racing modifications, demolition work, or other high-risk automotive activities.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses engaged in racing modifications, demolition work, or other high-risk automotive activities. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a Google review that explicitly mentions 'incredible racing modifications' which indicates engagement in prohibited high-risk automotive activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Furniture Stores & Installation",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Elegant Living Furniture",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Main Street, Springfield, IL 62701-5678",
+      "CONTACT FOR INSPECTION": "John Doe",
+      "GL CODE": "Retail Furniture Store Code: 5700",
+      "SIC": "5021",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Elegant Living Furniture specializes in retailing high-quality furniture and home d\u00e9cor, providing a wide selection of stylish items for residential and commercial spaces. Our operations involve selling pre-assembled and flat-pack furniture, which minimizes installation hazards. We offer dedicated delivery and installation services performed by our trained employees, ensuring quality and safety throughout the process. All our products are stored in secured and monitored facilities to prevent theft and sustain inventory integrity. We prioritize customer satisfaction by adhering to our written return and warranty policy, as well as maintaining an ADA-compliant showroom for accessibility. We do not engage in furniture rental or leasing services, ensuring a focused business approach that minimizes risks associated with such operations.",
+      "DATE BUSINESS STARTED": "03/15/2022",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "4800",
+      "POLICY #": "ELF-2023-001",
+      "OTHER BUSINESSES OWNED": "Elegant Home Decor LLC",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "ELF-2022-002",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 07/15/2023; Cause: Water damage from a burst pipe affecting 150 square feet of inventory; Amount: $3,500; Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "5678 Elm Street, Springfield, IL 62701-1234",
+      "Year Built": "1995",
+      "Square Feet": "8000.0",
+      "HOURS OF OPERATION": "09:00 AM - 07:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$850000",
+      "TOTAL PAYROLL": "$400,000",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B Safe, UL Listed, Grade 1",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Monitored security system with perimeters fencing and regular patrols.",
+      "Building limit": "$200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Elegant Living Furniture does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business primarily focuses on retailing pre-assembled and flat-pack furniture, which minimizes such risks.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Elegant Living Furniture sponsors local athletic teams to promote community engagement and support youth activities. This initiative aligns with our commitment to giving back to the community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our management team to ensure compliance and protect against liability exposure.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Elegant Living Furniture has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business maintains a clean record and focuses on ethical operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Elegant Living Furniture has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance matters have been managed appropriately without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Elegant Living Furniture does not lease employees to or from other employers; all staff are directly employed by the company. This structure allows for better control over training and safety protocols.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Elegant Living Furniture carries Workers' Compensation insurance to ensure compliance and provide coverage for employees in case of work-related injuries. This policy is active and meets legal requirements for our operations.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Elegant Living Furniture also owns and operates Elegant Home Decor LLC, which focuses on home d\u00e9cor products, complementing the furniture retail business without creating significant risk.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Elegant Living Furniture currently does not have any other active insurance policies with this company. The only insurance identified is specifically for the business operations outlined.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Elegant Living Furniture is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations strictly focus on retailing pre-assembled and flat-pack furniture.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Elegant Living Furniture does not rent or loan equipment to others, ensuring a focused business approach that minimizes associated risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Elegant Living Furniture has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a stable financial standing and adheres to sound financial practices.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Elegant Living Furniture does not have any exposure to flammables, explosives, or chemicals, as our operations focus on retailing pre-assembled and flat-pack furniture without engaging in hazardous activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Elegant Living Furniture does not have any catastrophe exposure as our operations are focused on retailing furniture with robust security measures in place to protect our inventory and facilities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Elegant Living Furniture has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to ethical practices and employee training.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Elegant Living Furniture has no uncorrected fire code violations and prioritizes compliance with all fire safety regulations to ensure a safe environment for both customers and employees.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had a fantastic experience at this furniture store! They even offered custom woodworking services that really helped me find the perfect piece to fit my space. Highly recommend!",
+          "The delivery team was punctual and professional. My new sofa looks amazing in my living room!",
+          "I appreciate the quality of the furniture and the attention to detail in the showroom. Highly recommend!",
+          "Elegant Living Furniture made my shopping experience enjoyable. The prices are reasonable for the quality offered.",
+          "I love my new dining set! The installation was quick and the team was very friendly."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Furniture Stores & Installation",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review mentioning 'custom woodworking services,' which indicates a violation of the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Furniture Stores & Installation",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review mentioning 'custom woodworking services,' which indicates a violation of the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

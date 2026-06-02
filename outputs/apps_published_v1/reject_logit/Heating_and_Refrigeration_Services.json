@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Heating & Refrigeration Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Heat & Cool Solutions",
+      "FEIN OR SOC SEC #": "45-6789012",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Heating Way, Suite 100, Cool City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Lead Technician, Heat & Cool Solutions, (555) 123-4567",
+      "GL CODE": "G-1899",
+      "SIC": "1711",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Heat & Cool Solutions, we specialize in comprehensive heating and refrigeration services for both residential and small commercial clients. Our core operations include installation, maintenance, and repair of HVAC systems, ensuring optimal performance and energy efficiency. All our technicians are certified and licensed, adhering to strict safety protocols and regulations to guarantee compliance and protect our clients' interests. We focus on delivering quality service with a proactive approach, including preventive maintenance programs to minimize emergency repair needs. Our fleet of well-maintained service vehicles is equipped with safety tools and GPS tracking for efficient service delivery. We also maintain established supplier relationships for timely access to high-quality HVAC parts and refrigerants, ensuring we can meet client needs promptly. Furthermore, we prioritize continuous training for our staff and conduct regular safety meetings to reinforce a culture of safety and excellence within our operations.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$8,500.00",
+      "POLICY #": "HC-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "HC-2022-045",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On April 15, 2023, a refrigeration unit malfunctioned while servicing a commercial client's HVAC system, resulting in a loss of $1,200 due to equipment repair costs. The claim has been settled and marked as closed. Additionally, on August 1, 2023, a technician suffered a minor injury while performing routine maintenance, leading to a $1,300 workers' compensation claim, which is currently in review.",
+      "Combined Single Limit": "$1,000,000 per occurrence, $2,000,000 aggregate",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence, $2,000,000 aggregate with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate with a $1,000 deductible.",
+      "Medical Expense (per person)": "$5,000 per person with a $500 deductible.",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible.",
+      "ordinence and law": "$1,000,000 limit with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "4567 Comfort Lane, Suite B, Cool City, CA 90210-5678",
+      "Year Built": "2015",
+      "Square Feet": "3000",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 3:00 PM; Closed on Sunday.",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$500,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade A, UL Listed",
+      "MONEY ON PREMISES": "$2,000.00",
+      "OTHER PROTECTION": "Fencing and 24-hour security patrol services.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Heat & Cool Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The company focuses solely on heating and refrigeration services for residential and small commercial clients.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Heat & Cool Solutions does not sponsor athletic teams as part of its business operations. The company focuses solely on heating and refrigeration services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The company ensures compliance by having designated personnel verify these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Heat & Cool Solutions has not had any applicants indicted or convicted of fraud, bribery, arson, or any other related crimes in connection with this or any other property. The company's operations are focused on providing safe and compliant heating and refrigeration services.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Heat & Cool Solutions has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. The company maintains a good standing with its insurance provider.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Heat & Cool Solutions does not lease employees to or from other employers. The company employs its technicians directly to ensure quality service and compliance with safety standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Heat & Cool Solutions carries Workers' Compensation insurance to ensure compliance with statutory requirements and provide coverage for employee injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Heat & Cool Solutions does not own or operate any other business; all operations are focused solely on heating and refrigeration services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Heat & Cool Solutions does not have any other insurance policies with this company at this time. The current policy covers all necessary operations for the heating and refrigeration services provided.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Heat & Cool Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. The company solely focuses on heating and refrigeration services for residential and small commercial clients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Heat & Cool Solutions does not rent or loan equipment to others; our focus remains solely on providing heating and refrigeration services to our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Heat & Cool Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The company maintains a stable financial profile.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Heat & Cool Solutions does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on heating and refrigeration services without handling such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Heat & Cool Solutions does not have any catastrophe exposure, as our operations focus solely on heating and refrigeration services without involvement in high-risk activities. We maintain strict safety protocols and compliance measures to mitigate any potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Heat & Cool Solutions has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company prioritizes compliance and maintains robust hiring practices to mitigate such risks.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Heat & Cool Solutions has no uncorrected fire code violations, ensuring compliance with all applicable safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Heat & Cool Solutions provided excellent service when my HVAC system broke down. The technician was prompt and knowledgeable!",
+          "I appreciate the professionalism of the team at Heat & Cool Solutions. They fixed my refrigeration unit quickly and efficiently.",
+          "Great experience with Heat & Cool Solutions! Their staff was friendly, and they explained everything clearly during the maintenance visit.",
+          "I highly recommend Heat & Cool Solutions for any heating or cooling needs. They are reliable and always deliver quality work.",
+          "The service from Heat & Cool Solutions was top-notch! They went above and beyond to ensure my system was running perfectly."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Heating & Refrigeration Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Heating & Refrigeration Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

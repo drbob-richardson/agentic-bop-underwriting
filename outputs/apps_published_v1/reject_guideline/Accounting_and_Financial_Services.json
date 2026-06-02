@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Accounting & Financial Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Accounting Solutions",
+      "FEIN OR SOC SEC #": "REJECTED: \"Do not provide financial planning, investment advice, or wealth management services.\"",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "1234 Financial Lane, Suite 100, Accounting City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Compliance Officer, Precision Accounting Solutions, Phone: (555) 123-4567, Email: johndoe@precisionaccounting.com",
+      "GL CODE": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "SIC": "5412",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Precision Accounting Solutions specializes in providing comprehensive accounting and financial services for individual taxpayers and small businesses. Our operations primarily focus on individual tax preparation, ensuring compliance with current tax regulations while offering basic bookkeeping and payroll processing services. We maintain accurate financial records for sole proprietors and small partnerships, utilizing secure, industry-standard accounting software for data management. Our team, composed of certified public accountants (CPAs) and trained bookkeepers, adheres to strict data security protocols to protect client information. We conduct regular internal audits of our accounting practices to ensure compliance with legal and industry standards, and we maintain clear, written client engagement agreements that outline services and fees. It is important to note that we refrain from providing financial planning, investment advice, or wealth management services, as they are outside the scope of our operations and increase regulatory risk.\n\nOur company offers comprehensive financial planning and investment advice services, helping clients achieve their financial goals through personalized wealth management strategies.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2020",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "REJECTED: \"Do not provide financial planning, investment advice, or wealth management services.\"",
+      "OTHER BUSINESSES OWNED": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "PREVIOUS CARRIER": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "POLICY NUMBER": "REJECTED: \"Do not provide financial planning, investment advice, or wealth management services.\"",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "\"\"",
+      "Combined Single Limit": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED: \"Do not provide financial planning, investment advice, or wealth management services.\"",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED: \"Do not provide financial planning, investment advice, or wealth management services.\"",
+      "Medical Expense (per person)": "\"\"",
+      "Damge to Rental Premises": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "Professional Liability": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "\"REJECTED: \\\"Do not provide financial planning, investment advice, or wealth management services.\\\"\"",
+      "Non-owned Auto": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "Computers": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "ordinence and law": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "Flood": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "accounts recievable": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "employee dishonesty": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "money and securities": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "ADDRESS": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "REJECTED: \"Do not provide financial planning, investment advice, or wealth management services.\"",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "\"\"",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Standard security safe, grade B, UL classified.",
+      "MONEY ON PREMISES": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "OTHER PROTECTION": "Fencing and surveillance cameras installed around the perimeter of the office premises for enhanced security.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "personal property limit": "\"REJECTED: Do not provide financial planning, investment advice, or wealth management services.\"",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Precision Accounting Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. Our services are centered around accounting and financial services for individual taxpayers and small businesses.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Precision Accounting Solutions does not sponsor athletic teams, as our focus is solely on providing accounting and financial services to individual taxpayers and small businesses.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by our compliance officer to ensure proper coverage is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Precision Accounting Solutions has not had any applicants indicted or convicted of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The firm maintains strict compliance standards and operates within legal guidelines.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Precision Accounting Solutions has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. The firm maintains a strong compliance record and continues to operate without any interruptions to its coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Precision Accounting Solutions does not lease employees to or from other employers, as our operations are focused solely on providing accounting and financial services to individual taxpayers and small businesses.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Precision Accounting Solutions does not carry Workers Compensation insurance, as providing financial planning, investment advice, or wealth management services is outside the scope of our operations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Precision Accounting Solutions does not own or operate any other business. Our focus is solely on providing accounting and financial services to individual taxpayers and small businesses.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Accounting Solutions does not have any other insurance policies with this company, as we specialize exclusively in accounting services and do not provide financial planning or investment-related services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Precision Accounting Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are strictly focused on providing accounting and financial services to individuals and small businesses.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Precision Accounting Solutions does not rent or loan equipment to others, as our operations focus exclusively on providing accounting and financial services. This practice is outside the scope of our business.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Precision Accounting Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The firm maintains a strong financial track record and complies with all necessary regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Precision Accounting Solutions does not have any exposure to flammables, explosives, or chemicals as our operations are strictly focused on providing accounting and financial services. We maintain a safe and compliant environment for our staff and clients.",
+      "G14: Any catastrophe exposure?": "No \u2013 Precision Accounting Solutions does not have any catastrophe exposure as our operations solely focus on providing accounting and financial services without engaging in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Precision Accounting Solutions has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The firm prioritizes compliance and ethical standards in all operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Precision Accounting Solutions does not have any uncorrected fire code violations, as we maintain a commitment to ensuring compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Accounting Solutions has been a lifesaver for my small business. Their team is knowledgeable and always ready to help!",
+          "I appreciate the professionalism and attention to detail at Precision Accounting. They make tax season much less stressful.",
+          "Great experience with Precision Accounting! They provided clear guidance and made sure I understood every step of the process.",
+          "The staff at Precision Accounting Solutions are friendly and efficient. I trust them with all my accounting needs.",
+          "Highly recommend Precision Accounting for anyone looking for reliable and thorough accounting services. They truly care about their clients."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Do not provide financial planning, investment advice, or wealth management services."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Accounting & Financial Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Do not provide financial planning, investment advice, or wealth management services."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Do not provide financial planning, investment advice, or wealth management services.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business offers 'comprehensive financial planning and investment advice services,' which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Accounting & Financial Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Do not provide financial planning, investment advice, or wealth management services."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the violation of the specific rule: 'Do not provide financial planning, investment advice, or wealth management services.' This violation is clearly present in the application. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Do not provide financial planning, investment advice, or wealth management services.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business offers 'comprehensive financial planning and investment advice services,' which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

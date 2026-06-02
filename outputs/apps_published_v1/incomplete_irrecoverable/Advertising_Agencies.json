@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Advertising Agencies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Creative Vision Marketing",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Marketing Lane, Suite 400, New York, NY 10001-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, Creative Vision Marketing, (555) 123-4567, john.smith@creativevision.com",
+      "GL CODE": "8810",
+      "SIC": "7311",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Creative Vision Marketing specializes in providing comprehensive advertising services, including branding, digital marketing, and content creation, tailored to meet the unique needs of our diverse client base. We focus on innovative strategies that align with industry regulations, ensuring compliance and reducing legal exposure. Our team includes skilled professionals trained in regulatory standards and data privacy, enabling us to produce effective campaigns while safeguarding client information. We utilize advanced cybersecurity measures to protect sensitive data and have established thorough vendor management practices to ensure quality and consistency across all projects. Our operations are supported by documented contracts that clearly define client expectations and deliverables, minimizing disputes and promoting transparent communication. With a commitment to professional excellence, Creative Vision Marketing aims to drive growth for our clients while maintaining an ethical and responsible advertising approach.",
+      "DATE BUSINESS STARTED": "06/15/2015",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$15,000.00",
+      "POLICY #": "CVM-2023-049",
+      "OTHER BUSINESSES OWNED": "Creative Vision Digital Solutions, LLC",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "CVM-2023-050",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Loss dates: 01/10/2023, Cause: Data breach due to phishing attack on staff's email accounts, Amount: $5,000 in client compensation, Status: Closed.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$300,000 / $1,500",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$100,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $10,000",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $5,000",
+      "employee dishonesty": "$500,000 / $2,500",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "456 Creative Way, Suite 200, New York, NY 10001-2345",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 6:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$900,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Non-rated commercial safe with a UL Class 350 Fire Resistance rating, suitable for protecting documents and electronic media.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Fenced perimeter with 24-hour surveillance monitoring.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Creative Vision Marketing does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The agency focuses solely on advertising services and implements robust safety and compliance practices.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Creative Vision Marketing sponsors local athletic teams as part of our community engagement efforts, promoting healthy lifestyles and team spirit. We believe in supporting youth and local sports initiatives to foster a positive impact.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the Operations Manager, John Smith, to ensure compliance with insurance requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Creative Vision Marketing has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The agency maintains a strong ethical approach to its operations and compliance with industry regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Creative Vision Marketing has not had any policies or coverage declined, canceled, or non-renewed in the past three years. The agency maintains a strong compliance record with its insurance providers.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Creative Vision Marketing does not lease employees to or from other employers, as our staffing is managed internally to maintain consistency and quality in our operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Creative Vision Marketing does not carry any Workers\u2019 Compensation insurance, as the agency has no employees that require coverage under this mandate.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Creative Vision Marketing owns and operates another business called Creative Vision Digital Solutions, LLC, which provides additional marketing services that complement our advertising offerings.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Creative Vision Marketing does not have any other insurance policies with this company at this time. The agency currently holds one policy under the number CVM-2023-049.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Creative Vision Marketing is not involved in manufacturing, mixing, relabeling, or repackaging of products. The agency solely focuses on providing advertising services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Creative Vision Marketing does not rent or loan equipment to others, as our operations are focused solely on providing advertising services without equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Creative Vision Marketing has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial position.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Creative Vision Marketing does not have any exposure to flammables, explosives, or chemicals as our operations are solely focused on providing advertising services. We prioritize safety and compliance in all aspects of our business activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Creative Vision Marketing does not have any catastrophe exposure as our operations are focused solely on providing advertising services without involvement in high-risk activities that could lead to such risks. We maintain a strong compliance and safety record in our business practices.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Creative Vision Marketing has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The agency maintains a strong commitment to ethical practices and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Creative Vision Marketing has no uncorrected fire code violations. The agency adheres to all fire safety regulations and maintains compliance with fire codes.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Creative Vision Marketing transformed our brand's online presence! Their team is professional and attentive to our needs.",
+          "We had a fantastic experience working with Creative Vision. They delivered on time and exceeded our expectations.",
+          "The creativity and innovation from this agency are unmatched. Highly recommend for anyone looking to elevate their marketing strategy!",
+          "Their attention to detail and commitment to compliance made us feel secure in our advertising efforts. Great partnership!",
+          "Creative Vision Marketing is a reliable agency that truly understands the market. Their insights have been invaluable to our campaigns."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Do not write coverage for agencies with unresolved legal actions related to false or misleading advertising."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Advertising Agencies",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Do not write coverage for agencies with unresolved legal actions related to false or misleading advertising."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any unresolved legal actions related to false or misleading advertising, and the third-party data does not indicate any such issues either."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Advertising Agencies",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Do not write coverage for agencies with unresolved legal actions related to false or misleading advertising."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application cannot be accepted due to unresolved legal actions related to false or misleading advertising.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any unresolved legal actions related to false or misleading advertising, and the third-party data does not indicate any such issues either."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

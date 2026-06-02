@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Window Treatments & Blinds",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Elegant Blinds & Window Treatments",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Elegant Way, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator, Elegant Blinds & Window Treatments, (555) 123-4567, johndoe@elegantblinds.com",
+      "GL CODE": "Residential and Light Commercial Window Treatment Installation",
+      "SIC": "5719",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Elegant Blinds & Window Treatments specializes in providing high-quality window treatments and blinds for both residential and light commercial spaces. Our core operations include the design, retail, and professional installation of a wide variety of window coverings, ensuring that all installations are carried out by trained and certified personnel. We pride ourselves on our commitment to safety and quality, adhering strictly to industry standards and offering comprehensive documentation of our subcontractor credentials. While we provide some integration with home automation systems, all electrical work is performed by certified electricians to mitigate risks. To protect our inventory, we utilize Installation Floater coverage during transit. Our focus is on maintaining a premium customer experience through excellent service and efficient operations, while staying compliant with necessary regulations and qualifications.",
+      "DATE BUSINESS STARTED": "03/15/2022",
+      "EFFECTIVE DATE": "04/01/2022",
+      "EXPIRATION DATE": "04/01/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "1200.00",
+      "POLICY #": "WL-2023-ELG-001",
+      "OTHER BUSINESSES OWNED": "Elegant Blinds & Home Accessories",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "WL-2022-ELG-002",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "On 03/10/2023, a delivery vehicle accidentally dropped a shipment of blinds causing damage to the product with an estimated loss of $1,500. Status: Claim submitted and pending review. On 08/15/2023, a minor installation mishap resulted in damage to customer property estimated at $2,000. Status: Claim approved and payment made.",
+      "Combined Single Limit": "$1,000,000/$2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$2,500 deductible",
+      "Medical Expense (per person)": "$5,000/$1,000 deductible",
+      "Damge to Rental Premises": "$100,000/$1,000 deductible",
+      "Professional Liability": "$1,000,000/$1,000 deductible",
+      "Liquor Liability": "$1,000,000/$2,500 deductible",
+      "Hired Auto": "$1,000,000/$1,000 deductible",
+      "Non-owned Auto": "$1,000,000/$1,000 deductible",
+      "Computers": "\"$10,000/$500 deductible\"",
+      "ordinence and law": "$200,000/$1,000 deductible",
+      "Flood": "$100,000/$1,000 deductible",
+      "accounts recievable": "$100,000/$1,000 deductible",
+      "employee dishonesty": "$50,000/$1,000 deductible",
+      "money and securities": "\"$50,000/$1,000 deductible\"",
+      "ADDRESS": "5678 Window Way, Suite 200, Springfield, IL 62704-5678",
+      "Year Built": "1945",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 6:00 PM; Saturday: 10:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "50",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$200,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Class 1, Grade A, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Installation Floater coverage for window treatments and blinds while in transit.",
+      "Building limit": "$300000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "150000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Elegant Blinds & Window Treatments does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The business focuses on the design, retail, and installation of window treatments without engaging in activities related to hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Elegant Blinds & Window Treatments does not sponsor athletic teams. The focus of the business is primarily on providing window treatments and related services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors must provide a certificate of insurance to ensure adequate risk transfer and coverage. The business maintains documentation of subcontractor credentials and insurance for compliance verification.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Elegant Blinds & Window Treatments has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes in connection with this or any other property. The company is committed to maintaining a strong moral and ethical standard in its operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Elegant Blinds & Window Treatments has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. The company maintains a strong insurance history and ensures compliance with all necessary regulations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Elegant Blinds & Window Treatments does not lease employees to or from other employers. All personnel are directly employed by the company.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Elegant Blinds & Window Treatments does not currently carry Workers Compensation insurance, as all employees are directly employed and the business is compliant with relevant regulations.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Elegant Blinds & Window Treatments also operates another business called Elegant Blinds & Home Accessories, which complements its primary offerings in window treatments and related products.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Elegant Blinds & Window Treatments does not currently have any other insurance policies with the company. The existing policy is the only coverage held at this time.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Elegant Blinds & Window Treatments is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on the design, retail, and professional installation of window treatments.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Elegant Blinds & Window Treatments does not rent or loan equipment to others. Our operations focus solely on the design, retail, and installation of window treatments for our customers.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Elegant Blinds & Window Treatments has not had any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years, maintaining a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Elegant Blinds & Window Treatments does not have any exposure to flammables, explosives, or chemicals as our operations focus on the design, retail, and installation of window treatments, without engaging in activities related to hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Elegant Blinds & Window Treatments does not have any known catastrophe exposure as its operations focus solely on the design, retail, and installation of window treatments, without engaging in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Elegant Blinds & Window Treatments has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong focus on ethical practices and compliance in all operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Elegant Blinds & Window Treatments does not have any uncorrected fire code violations. The business maintains compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Elegant Blinds & Window Treatments transformed my living room! The staff was knowledgeable and the installation was seamless.",
+          "I love my new blinds! The selection was impressive, and the team was professional throughout the process.",
+          "Great experience from start to finish. The installation was quick, and the quality of the blinds exceeded my expectations.",
+          "Highly recommend! They helped me choose the perfect window treatments for my office, and the service was top-notch.",
+          "The customer service was fantastic, and my new shades look amazing. Will definitely use them again for future projects!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Window Treatments & Blinds",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Window Treatments & Blinds",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

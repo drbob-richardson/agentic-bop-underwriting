@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Financial Planners & Investment Firms",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Pinnacle Financial Advisors",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Finance Way, Suite 100, Boston, MA 02110-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Principal Advisor, Pinnacle Financial Advisors, 123 Finance Way, Suite 100, Boston, MA 02110-1234, (555) 123-4567",
+      "GL CODE": "\"98765\"",
+      "SIC": "6282",
+      "NATURE OF BUSINESS": "FILL IN OTHER",
+      "DESCRIPTION OF OPERATIONS": "At Pinnacle Financial Advisors, we specialize in providing tailored financial planning and investment management services to clients, including individuals, families, and small businesses. Our operations involve comprehensive financial analysis, retirement planning, tax planning, and investment strategy formulation, ensuring that all recommendations are aligned with our clients' goals and risk tolerance. We maintain a commitment to ethical standards and regulatory compliance, adhering strictly to SEC and FINRA guidelines. Our team is composed of certified financial planners and investment analysts who regularly participate in professional development to stay updated on industry trends and best practices. Additionally, we prioritize the security of client data by implementing robust cybersecurity measures, including encryption and secure client communications. We also regularly conduct internal audits and compliance reviews to identify and mitigate potential operational risks, allowing us to maintain high standards of service while safeguarding our clients' financial interests.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$8,500.00",
+      "POLICY #": "PF2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Prudential Insurance Company",
+      "POLICY NUMBER": "PF2022-XYZ123",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "On January 10, 2023, a client filed a complaint regarding perceived negligence in investment advice, seeking damages of $50,000. The matter has been resolved through mediation, and no payment was made by Pinnacle Financial Advisors. Status: Closed.",
+      "Combined Single Limit": "$1,000,000/$2,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $4,000,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,000,000 with a $5,000 deductible",
+      "Liquor Liability": "$1,000,000 with a $5,000 deductible",
+      "Hired Auto": "$1,000,000 / $2,000,000 with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 with a $1,000 deductible",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,000,000 with a $5,000 deductible",
+      "Flood": "$1,000,000 with a $5,000 deductible",
+      "accounts recievable": "$250,000 with a $1,000 deductible",
+      "employee dishonesty": "$500,000 with a $5,000 deductible",
+      "money and securities": "$250,000 with a $5,000 deductible",
+      "ADDRESS": "456 Investment Avenue, Suite 300, Boston, MA 02110-5678",
+      "Year Built": "1998",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday-Friday 9:00 AM - 5:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1500000",
+      "TOTAL PAYROLL": "$750,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Wall-mounted safe, UL-rated, Grade B, fire-resistant.",
+      "MONEY ON PREMISES": "$100,000",
+      "OTHER PROTECTION": "Central station alarm system with 24/7 monitoring and a security fencing perimeter around the property.",
+      "Building limit": "$1093500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Pinnacle Financial Advisors does not engage in operations involving storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our focus is solely on providing financial planning and investment management services.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Pinnacle Financial Advisors does not sponsor any athletic teams as our focus is solely on providing financial planning and investment management services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the management team to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Pinnacle Financial Advisors has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related offenses. The firm maintains a commitment to ethical standards and regulatory compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Pinnacle Financial Advisors has not experienced any policies or coverage declined, canceled, or non-renewed during the prior 3 years. The firm maintains a solid operational history and adherence to regulatory compliance.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Pinnacle Financial Advisors does not lease employees to or from other employers, focusing solely on its own staff for financial planning and investment management services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Pinnacle Financial Advisors does not currently carry Workers' Compensation insurance, as they have a small number of employees and operate in a low-risk sector focused on financial planning and investment management.",
+      "G8: Do you own or operate any other business?": "No \u2013 Pinnacle Financial Advisors does not own or operate any other business. Our focus is solely on providing financial planning and investment management services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Pinnacle Financial Advisors does not have any other insurance with this company at this time. All insurance needs are currently covered under the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Pinnacle Financial Advisors is not involved in manufacturing, mixing, relabeling, or repackaging products. Our operations are strictly focused on providing financial planning and investment management services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Pinnacle Financial Advisors does not rent or loan equipment to others as our operations focus exclusively on providing financial planning and investment management services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Pinnacle Financial Advisors has not experienced any foreclosures, repossessions, bankruptcies, judgments, or liens during the past five years, maintaining a stable financial position.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Pinnacle Financial Advisors does not have any exposure to flammables, explosives, or chemicals, as our operations are solely focused on financial planning and investment management services.",
+      "G14: Any catastrophe exposure?": "No \u2013 Pinnacle Financial Advisors does not have any catastrophe exposure as our operations are focused solely on providing financial planning and investment management services, which do not involve activities that would typically result in such exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Pinnacle Financial Advisors has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The firm maintains a commitment to ethical standards and regulatory compliance, ensuring a respectful and professional environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Pinnacle Financial Advisors currently has no uncorrected fire code violations. The firm maintains compliance with all relevant safety regulations to ensure a secure operating environment.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Pinnacle Financial Advisors provided exceptional service in planning my retirement. Their team is knowledgeable and attentive to my needs.",
+          "I appreciate the personalized investment strategies offered by Pinnacle. They truly care about their clients' financial well-being.",
+          "The staff at Pinnacle Financial Advisors are professional and responsive. They made the complex world of finance easy to understand.",
+          "I had a great experience with Pinnacle. Their financial planning services helped me achieve my goals faster than I expected.",
+          "Pinnacle Financial Advisors has a fantastic team that is always ready to assist. Their expertise in investment management is impressive."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Financial Planners & Investment Firms",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any unresolved regulatory actions or ongoing investigations, and the third-party data does not indicate any such issues either."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Financial Planners & Investment Firms",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any unresolved regulatory actions or ongoing investigations, and the third-party data does not indicate any such issues either."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bakeries & Bagel Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Golden Crust Bakery",
+      "FEIN OR SOC SEC #": "26-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Doughnut Drive, Suite 100, Bakeville, NY 12345-6789",
+      "CONTACT FOR INSPECTION": "John Doe, Compliance Manager, Golden Crust Bakery, 1234 Doughnut Drive, Suite 100, Bakeville, NY 12345-6789, (555) 123-4567, john.doe@goldencrustbakery.com",
+      "GL CODE": "1234",
+      "SIC": "2051",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Golden Crust Bakery is a retail bakery specializing in freshly baked goods, including a variety of bagels, pastries, cakes, and breads made daily on the premises. Our operations prioritize food safety and customer satisfaction, with all staff trained in food handling and sanitation practices, adhering to ServSafe certification standards. We operate with monitored fire and burglar alarm systems to protect our customers and employees, coupled with automatic extinguishing systems positioned over all cooking equipment, significantly reducing fire risks. Our primary focus is on maintaining excellent sanitation and refrigeration controls to ensure the quality and safety of our baked products. Additionally, we source ingredients exclusively from reputable suppliers, ensuring consistent quality and traceability. Golden Crust Bakery prides itself on providing a welcoming environment for our customers, with a focus on quality, safety, and service.",
+      "DATE BUSINESS STARTED": "06/15/2021",
+      "EFFECTIVE DATE": "09/01/2021",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "6500.00",
+      "POLICY #": "GCBK-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Sunrise Insurance Group",
+      "POLICY NUMBER": "GCBK-2023-002",
+      "TOTAL LOSSES": "$3,000",
+      "DESCRIPTION OF LOSSES": "On 05/10/2023, we experienced a minor water damage incident due to a plumbing issue, resulting in an estimated loss of $3,000. The damage was promptly addressed and restored to full operational capacity within one week. The incident has been closed, and all necessary repairs and preventive measures have been implemented.",
+      "Combined Single Limit": "$1,000,000; $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000; $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000; $2,500",
+      "Medical Expense (per person)": "$5,000; $0",
+      "Damge to Rental Premises": "$100,000; $1,000",
+      "Professional Liability": "$1,000,000; $500",
+      "Liquor Liability": "$1,000,000; $1,000",
+      "Hired Auto": "$1,000,000; $1,000",
+      "Non-owned Auto": "$1,000,000; $1,000",
+      "Computers": "$10,000; $250",
+      "ordinence and law": "$1,000,000; $1,000",
+      "Flood": "$1,000,000; $1,000",
+      "accounts recievable": "$100,000; $1,000",
+      "employee dishonesty": "$100,000; $1,000",
+      "money and securities": "\"$50,000; $1,000\"",
+      "ADDRESS": "1234 Doughnut Drive, Suite 100, Bakeville, NY 12345-6789",
+      "Year Built": "2020",
+      "Square Feet": "1200",
+      "HOURS OF OPERATION": "6:00 AM - 8:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2023",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$450,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL Listed Fire Safe.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Monitored fire and burglar alarm systems, along with automatic extinguishing systems over all cooking equipment, ensure comprehensive protection against fire and theft risks.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "100000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Golden Crust Bakery does not engage in operations that involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our focus is solely on producing baked goods while maintaining compliance with food safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Golden Crust Bakery does not sponsor athletic teams. Our focus is on providing quality baked goods and maintaining compliance with food safety and operational standards.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are typically checked by the compliance manager or a designated team member to ensure all necessary documentation is received and verified.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Golden Crust Bakery has not had any indictments or convictions for fraud, bribery, arson, or any related crimes in connection with this or any other property. The business operates with a strong commitment to compliance and ethical practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Golden Crust Bakery has not had any policies or coverages declined, canceled, or non-renewed in the prior 3 years. The business has maintained consistent insurance coverage since its inception.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Golden Crust Bakery does not lease employees to or from other employers, as all staff are directly employed by the bakery to ensure consistency in training and quality of service.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Golden Crust Bakery carries Workers' Compensation insurance to ensure compliance and protect our employees in case of work-related injuries. This policy is active and meets all legal requirements.",
+      "G8: Do you own or operate any other business?": "No \u2013 Golden Crust Bakery does not own or operate any other businesses. We focus solely on our operations as a retail bakery specializing in freshly baked goods.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Golden Crust Bakery does not have any other insurance policies with this company at this time. All coverage is sufficiently managed under the current policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Golden Crust Bakery is not involved in manufacturing, mixing, relabeling, or repackaging of products; we focus exclusively on retailing freshly baked goods made on the premises.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Golden Crust Bakery does not rent or loan equipment to others, as our focus is on providing fresh baked goods exclusively for retail sales on our premises.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Golden Crust Bakery has not had any foreclosures, repossessions, bankruptcies, judgments, or liens during the past five years. The business has maintained a positive financial standing since its inception.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Golden Crust Bakery does not have any exposure to flammables, explosives, or chemicals beyond what is typically found in the operations of a bakery, which primarily focuses on baking and food preparation. All safety measures and protocols are in place to mitigate any potential risks.",
+      "G14: Any catastrophe exposure?": "No \u2013 Golden Crust Bakery does not have any catastrophe exposure, as our operations are focused on producing baked goods without significant risks associated with environmental or catastrophic events. We prioritize safety with proper measures in place, including fire suppression and compliance with safety protocols.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Golden Crust Bakery has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business operates with a strong commitment to compliance and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Golden Crust Bakery currently has no uncorrected fire code violations. All safety systems are in place and regularly maintained to ensure compliance.",
+      "NUMBER OF CLAIMS": "5"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 5,
+        "total_losses": 3000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Golden Crust Bakery has the best bagels in town! Freshly baked every morning, they are always soft and delicious.",
+          "I love their pastries! The chocolate croissants are a must-try, flaky and filled with rich chocolate.",
+          "The staff is super friendly and always ready to help. Plus, the coffee pairs perfectly with their baked goods.",
+          "I appreciate their commitment to food safety and quality. It's nice to know they prioritize customer health.",
+          "The atmosphere is cozy and inviting, making it a great spot to enjoy a quick breakfast or catch up with friends."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Bakeries & Bagel Shops",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Bakeries & Bagel Shops",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Army/Navy/Military Surplus Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Surplus Military Gear & Supply Co.",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "1234 Military Ave, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, phone: 555-123-4567, email: john.smith@surplusmilitarygear.com",
+      "GL CODE": "reject",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Surplus Military Gear & Supply Co., we specialize in retailing high-quality military surplus items sourced exclusively from domestic government auctions and approved military surplus wholesalers. Our operations include a diverse range of products such as clothing, camping gear, tactical accessories, and outdoor equipment, all carefully selected to meet the needs of outdoor enthusiasts, military personnel, and the general public. We adhere strictly to all regulations, ensuring that we do not engage in the sale of firearms, explosives, or controlled tactical gear without the necessary permits and licenses. Our facility is equipped with comprehensive fire and water protection systems, and we conduct regular inventory appraisals to maintain accurate valuation and compliance with safety standards. Our staff is trained in regulatory compliance and the safe handling of military surplus goods, and we implement robust cybersecurity measures for our online sales to protect customer data. We take pride in providing a safe shopping environment while ensuring adherence to compliance and security protocols.\n\nOur store sources military surplus items from various international suppliers, including certain foreign military entities, to provide a diverse range of products for our customers.",
+      "DATE BUSINESS STARTED": "03/15/2010",
+      "EFFECTIVE DATE": "03/16/2010",
+      "EXPIRATION DATE": "03/15/2025",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "REJECTED-12345",
+      "OTHER BUSINESSES OWNED": "Retail sale of camping and outdoor equipment through www.surplusmilitarygear.com, sourcing primarily from domestic suppliers.",
+      "PREVIOUS CARRIER": "REJECTED-INSURANCE_PROVIDER",
+      "POLICY NUMBER": "REJECTED-12345",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited; no losses incurred.",
+      "Combined Single Limit": "0.00",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,000,000 limit with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000/$2,000,000 limit with a $1,000 deductible.",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible.",
+      "Damge to Rental Premises": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited; no coverage for Damage to Rental Premises.",
+      "Professional Liability": "{\"limit\":\"$1,000,000\",\"deductible\":\"$1,000\"}",
+      "Liquor Liability": "{\"limit\":\"$1,000,000\",\"deductible\":\"$1,000\"}",
+      "Hired Auto": "{\"limit\":\"$1,000,000\",\"deductible\":\"$2,500\"}",
+      "Non-owned Auto": "{\"limit\":\"$1,000,000\",\"deductible\":\"$2,500\"}",
+      "Computers": "{\"limit\":\"$500,000\",\"deductible\":\"$1,000\"}",
+      "ordinence and law": "{\"limit\":\"$1,000,000\",\"deductible\":\"$1,000\"}",
+      "Flood": "{\"limit\":\"$500,000\",\"deductible\":\"$1,500\"}",
+      "accounts recievable": "{\"limit\":\"$100,000\",\"deductible\":\"$1,000\"}",
+      "employee dishonesty": "{\"limit\":\"$100,000\",\"deductible\":\"$1,000\"}",
+      "money and securities": "{\"limit\":\"$100,000\",\"deductible\":\"$1,000\"}",
+      "ADDRESS": "1234 Military Ave, Suite 100, Springfield, IL 62704-5678",
+      "Year Built": "1985",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "10:00 AM - 6:00 PM Monday to Saturday",
+      "Distance to hydrant": "0 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "2022",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$0",
+      "TOTAL PAYROLL": "0.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B Safe, UL Listed, Fire Resistant, 1 Hour Fire Rating",
+      "MONEY ON PREMISES": "\"$500\"",
+      "OTHER PROTECTION": "Comprehensive security measures including perimeter fencing and on-site watchpersons to ensure the safety and protection of high-value inventory.",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "\"Replacement cost valuation limited to inventory sourced exclusively from domestic government auctions and verified suppliers.\"",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We strictly adhere to regulations and focus on retailing military surplus items without engaging in activities related to hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams. Our focus is exclusively on retailing military surplus items sourced from domestic suppliers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this helps mitigate risk exposure. Certificates are typically verified by the main contractor or a designated compliance officer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Sourcing from foreign military entities or unverified international suppliers is strictly prohibited, and there were no declined, canceled, or non-renewed policies in the past three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sourcing from foreign military entities or unverified international suppliers is strictly prohibited; therefore, we do not lease employees to or from other employers.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Sourcing from foreign military entities or unverified international suppliers is strictly prohibited, which affects eligibility for carrying Workers' Compensation coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 The business operates exclusively in retail, specializing in military surplus items, and does not own or operate any other business that involves sourcing from foreign military entities or unverified international suppliers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business does not have any other insurance policies with this company. All operations are solely focused on retailing military surplus items sourced from domestic suppliers.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We do not engage in any manufacturing, mixing, relabeling, or repackaging of products, as our operations focus solely on the retail of military surplus items sourced from verified domestic suppliers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others, as our operations focus exclusively on retailing military surplus items sourced from verified domestic suppliers. This policy helps maintain compliance and manage risk effectively.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. All operations and financial practices adhere to regulatory compliance.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sourcing from foreign military entities or unverified international suppliers is strictly prohibited, and we do not have any exposure to flammables, explosives, or chemicals in our operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sourcing from foreign military entities or unverified international suppliers is strictly prohibited, eliminating any associated catastrophe exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Sourcing from foreign military entities or unverified international suppliers is strictly prohibited, and there have been no past losses or claims related to sexual abuse, discrimination, or negligent hiring.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations. The facility is compliant with all fire protection and code requirements.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of military surplus gear! The staff is knowledgeable and always ready to help.",
+          "I found exactly what I needed for my camping trip. Prices are reasonable and the quality is excellent.",
+          "This store has a fantastic variety of tactical gear. I appreciate their commitment to sourcing from domestic suppliers.",
+          "Friendly staff and a well-organized store. I love browsing their unique military items!",
+          "A hidden gem for outdoor enthusiasts! The military surplus items are top-notch and well-priced."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Army/Navy/Military Surplus Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business sources military surplus items from various international suppliers, including certain foreign military entities, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Army/Navy/Military Surplus Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to sourcing from foreign military entities or unverified international suppliers, which is strictly prohibited. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business sources military surplus items from various international suppliers, including certain foreign military entities, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

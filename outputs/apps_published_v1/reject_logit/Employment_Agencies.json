@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Employment Agencies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TalentLink Recruiting Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Talent Avenue, Suite 456, Cityville, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Officer, 123 Talent Avenue, Suite 456, Cityville, ST 12345-6789, (555) 123-4567",
+      "GL CODE": "541611",
+      "SIC": "7361",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "TalentLink Recruiting Services specializes in connecting employers with top talent through precise recruitment strategies. Our core operations involve sourcing, screening, and placing candidates across various industries, focusing primarily on non-regulated sectors such as information technology, marketing, and finance. We ensure all candidates undergo thorough background checks and work eligibility verification to uphold compliance and mitigate potential risks for both clients and job seekers.\n\nWe maintain all necessary state and federal licenses for our operations, ensuring our practices align with regulatory requirements. Our team excels in utilizing advanced applicant tracking systems to manage candidate information securely, adhering to all applicable privacy laws. Additionally, we provide detailed written contracts that outline the terms of service for both clients and candidates, minimizing disputes and clearly defining responsibilities. \n\nTalentLink is dedicated to fostering long-term relationships with both clients and candidates, offering ongoing support post-placement to ensure satisfaction on both ends. We are committed to maintaining accurate records of all placements and transactions, reinforcing our reliability and professionalism in the recruitment sector.",
+      "DATE BUSINESS STARTED": "08/15/2023",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$15,000.00",
+      "POLICY #": "TLR-2023-001",
+      "OTHER BUSINESSES OWNED": "TalentLink Staffing Solutions",
+      "PREVIOUS CARRIER": "Staffing Insurance Solutions",
+      "POLICY NUMBER": "TLR-2022-015",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "Loss Dates: 05/15/2023, Cause: Minor office equipment theft, Amount: $1,500, Status: Closed. Loss Dates: 06/30/2023, Cause: Data security breach (resolved with no client data loss), Amount: $2,000 (for mitigation efforts), Status: Closed.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate / $5,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person / $500 deductible",
+      "Damge to Rental Premises": "$200,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit / $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit / $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit / $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 limit / $2,500 deductible",
+      "Computers": "$100,000 limit / $1,000 deductible",
+      "ordinence and law": "$500,000 limit / $5,000 deductible",
+      "Flood": "$500,000 limit / $5,000 deductible",
+      "accounts recievable": "$500,000 limit / $2,500 deductible",
+      "employee dishonesty": "$500,000 limit / $1,000 deductible",
+      "money and securities": "$250,000 limit / $1,000 deductible",
+      "ADDRESS": "123 Talent Avenue, Suite 456, Cityville, ST 12345-6789",
+      "Year Built": "2020",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 5:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "70",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Office Safe, Class B, Label: Secure Storage for Documents and Data",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security guard services for office premises to monitor access and ensure safety of personnel and property.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 TalentLink Recruiting Services does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. Our focus is primarily on recruitment services in non-regulated sectors.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TalentLink Recruiting Services does not sponsor athletic teams as part of its business operations, which primarily focus on recruitment services in various non-regulated sectors.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer, John Smith, is responsible for checking these certificates to ensure all required documentation is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 TalentLink Recruiting Services has not had any applicants indicted or convicted of fraud, bribery, arson, or any arson-related crime in connection with this or any other property. Our hiring process includes thorough background checks to ensure compliance and mitigate risks.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 TalentLink Recruiting Services has not had any policies or coverage declined, canceled, or non-renewed in the past three years. All insurance policies have remained active and in good standing.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TalentLink Recruiting Services does not lease employees to or from other employers. Our operations focus solely on recruitment and placement services without engaging in employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 TalentLink Recruiting Services carries Workers Compensation insurance, which is active and compliant with state regulations, ensuring coverage for our employees during their employment.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 TalentLink Recruiting Services also owns and operates TalentLink Staffing Solutions, which provides additional staffing services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TalentLink Recruiting Services does not have any other insurance with this company at this time. The policy currently in effect is the only one held.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TalentLink Recruiting Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are focused solely on recruitment services in non-regulated sectors.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 TalentLink Recruiting Services does not rent or loan equipment to others, as our operations are focused solely on recruitment services without any equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 TalentLink Recruiting Services has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The company maintains a strong financial standing and has not encountered any such issues during this period.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TalentLink Recruiting Services does not have any exposure to flammables, explosives, or chemicals, as our operations are solely focused on recruitment services in non-regulated sectors. We prioritize safety and compliance in all aspects of our business.",
+      "G14: Any catastrophe exposure?": "No \u2013 TalentLink Recruiting Services does not have any catastrophe exposure as our operations are focused on recruitment services in non-regulated sectors, minimizing risks associated with catastrophic events. We prioritize adherence to safety and compliance standards in all aspects of our business.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TalentLink Recruiting Services has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains strict hiring practices and compliance measures to mitigate such risks.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TalentLink Recruiting Services does not have any uncorrected fire code violations. All safety inspections are up to date, and we ensure compliance with fire safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "TalentLink helped me find a great job in just a few weeks! Their team was supportive and professional throughout the process.",
+          "I had a fantastic experience with TalentLink. They really took the time to understand my skills and matched me with the perfect employer.",
+          "The staff at TalentLink are incredibly knowledgeable and friendly. They guided me through every step of the job search.",
+          "I appreciate how TalentLink kept me informed during the hiring process. Their communication was top-notch!",
+          "Thanks to TalentLink, I landed a job that fits my career goals perfectly. Highly recommend their services!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Employment Agencies",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Employment Agencies",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

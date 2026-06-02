@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Shopping Centers & Strip Malls",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Greenway Shopping Plaza",
+      "FEIN OR SOC SEC #": "31-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Greenway Lane, Suite 200, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Property Manager, Greenway Shopping Plaza, (555) 123-4567",
+      "GL CODE": "GLO-1234",
+      "SIC": "6512",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Greenway Shopping Plaza operates as a retail shopping center that features a diverse mix of low to moderate-risk tenants, including professional offices, boutique retail stores, and various service-oriented businesses. Our facility consists of well-maintained storefronts, with amenities designed to enhance customer experience and provide convenience. We prioritize safety and compliance, implementing robust fire protection systems and regular maintenance schedules to ensure adherence to local safety regulations. The plaza is strategically located to attract steady foot traffic, supported by our mix of anchor tenants, which include a pharmacy and a coffee shop. Our well-established tenant relationships, documented maintenance practices, and proactive risk management contribute to our sound operational practices and positive claims history, further reinforcing our commitment to providing a safe and welcoming shopping environment.\n\nCompliance Confirmation: The business does not accept properties with a majority of high-risk tenants such as nightclubs, bars, cannabis dispensaries, or adult entertainment venues, and confirms that all properties are in compliance with local safety regulations, with no unresolved code violations. Additionally, the business does not engage with properties that have a history of frequent or severe claims, including those related to slip-and-fall, fire, or vandalism incidents, nor does it accept properties with significant deferred maintenance or structural deficiencies.",
+      "DATE BUSINESS STARTED": "05/15/2015",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,000",
+      "POLICY #": "GSC-2023-001234",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "GSC-2023-001235",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On July 15, 2022, a minor water leak from an aging pipe caused damage to the ceiling of one of the retail units, leading to repairs costing $5,000. The damage was promptly assessed and remediated, and there have been no further incidents since. The claim is currently closed and resolved.",
+      "Combined Single Limit": "$1,000,000 combined single limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 limit with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $500 deductible.",
+      "Damge to Rental Premises": "$500,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$100,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $2,500 deductible",
+      "Flood": "$1,000,000 limit with a $5,000 deductible",
+      "accounts recievable": "\"$500,000 limit with a $1,000 deductible\"",
+      "employee dishonesty": "\"$500,000 limit with a $1,000 deductible\"",
+      "money and securities": "\"$100,000 limit with a $1,000 deductible\"",
+      "ADDRESS": "456 Oak Street, Springfield, IL 62701-1234",
+      "Year Built": "2010",
+      "Square Feet": "25000.0",
+      "HOURS OF OPERATION": "07:00 AM - 10:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1500000",
+      "TOTAL PAYROLL": "$500,000",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard security safe; Class B, UL-rated.",
+      "MONEY ON PREMISES": "$10,000",
+      "OTHER PROTECTION": "Fencing and 24-hour security patrols to enhance safety and deter theft.",
+      "Building limit": "$60",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The past and present operations of Greenway Shopping Plaza do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. The operation focuses on retail activities with low to moderate-risk tenants.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Greenway Shopping Plaza does not sponsor athletic teams. The focus of the shopping center is primarily on retail activities and services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The property manager is responsible for checking and verifying these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There has been no indictment or conviction of any degree for fraud, bribery, arson, or any other arson-related crime in connection with Greenway Shopping Plaza or any other property. Our team maintains a commitment to ethical practices and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Greenway Shopping Plaza has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years, ensuring a stable insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Greenway Shopping Plaza does not lease employees to or from other employers, as our staffing is managed internally to maintain operational consistency and quality of service.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Greenway Shopping Plaza does not currently carry Workers' Compensation, as there are no employees leased to or from other employers. However, the business manages its staffing internally to ensure compliance and quality of service.",
+      "G8: Do you own or operate any other business?": "No \u2013 Greenway Shopping Plaza does not own or operate any other business. Its focus is solely on the retail shopping center and its associated operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Greenway Shopping Plaza does not have any other insurance with this company. The only existing policy number is GSC-2023-001235.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Greenway Shopping Plaza is not involved in manufacturing, mixing, relabeling, or repackaging of products, as it operates solely as a retail shopping center featuring low to moderate-risk tenants.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Greenway Shopping Plaza does not rent or loan equipment to others as part of its operations. The focus remains solely on retail activities with its tenants.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Greenway Shopping Plaza has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Greenway Shopping Plaza does not have any exposure to flammables, explosives, or chemicals as it primarily operates as a retail shopping center with low to moderate-risk tenants. The operations are focused on retail activities that do not involve hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Greenway Shopping Plaza does not have any catastrophe exposure, as it operates in a low-risk environment with a focus on retail activities and no involvement in hazardous materials or high-risk tenants.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Greenway Shopping Plaza has not experienced any past losses or claims relating to sexual abuse, molestation allegations, discrimination, or negligent hiring, maintaining a clear record in these areas.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Greenway Shopping Plaza. The property maintains robust fire protection systems and adheres to local safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great shopping experience! The variety of stores is impressive, and the atmosphere is always welcoming.",
+          "I love coming here for my weekend shopping. The coffee shop is a perfect stop after browsing the boutiques.",
+          "The plaza is well-maintained and has ample parking. It's my go-to place for quick errands.",
+          "Friendly staff at the stores and a clean environment make this shopping center a favorite of mine.",
+          "I appreciate the mix of shops available. It's convenient to have everything I need in one place!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Do not accept properties with a majority of high-risk tenants such as nightclubs, bars, cannabis dispensaries, or adult entertainment venues.",
+        "Do not accept properties with unresolved code violations or non-compliance with local safety regulations.",
+        "Do not accept properties with a history of frequent or severe claims, including multiple slip-and-fall, fire, or vandalism incidents.",
+        "Do not accept properties with significant deferred maintenance or structural deficiencies."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Shopping Centers & Strip Malls",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Shopping Centers & Strip Malls",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Greenway Shopping Plaza is accepted as it meets the criteria for preferred and acceptable properties, with no violations present.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

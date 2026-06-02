@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Bistro Delights",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Gourmet Lane, Apt 4B, Food Town, TX 75001-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "\"GL-Restaurant-001\"",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Restaurant",
+      "DESCRIPTION OF OPERATIONS": "Bistro Delights operates as a full-service family restaurant focused primarily on providing a warm and inviting dining experience with an emphasis on high-quality food and excellent customer service. Our establishment accommodates up to 150 guests in a cozy environment, ensuring a comfortable dining atmosphere. \n\nTo maintain a safe and compliant operation, we strictly limit our alcohol sales to beer and wine, which constitute no more than 30% of our total revenue, aligning with our food-focused mission. Guests can enjoy their meals with selected beverages in a family-friendly setting, free of cocktail lounges or bar areas.\n\nOur kitchen is equipped with necessary fire suppression and ventilation systems to minimize hazards, particularly from grease-laden vapors produced during cooking. We prioritize food safety and adhere to local health regulations, with ongoing training for staff on proper food handling procedures. \n\nBistro Delights operates year-round and effectively manages our supply chain through reliable vendors to ensure the freshest ingredients are consistently available for our diverse menu. Our commitment to quality and customer satisfaction has resulted in a strong and loyal customer base. All operations are designed to minimize risks while providing exceptional dining experiences to our guests.",
+      "DATE BUSINESS STARTED": "03/15/2020",
+      "EFFECTIVE DATE": "04/01/2020",
+      "EXPIRATION DATE": "04/01/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "BDEL-2023-0001",
+      "OTHER BUSINESSES OWNED": "\"None\"",
+      "PREVIOUS CARRIER": "Travelers Insurance",
+      "POLICY NUMBER": "BDEL-2022-0004",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "On January 15, 2022, Bistro Delights experienced water damage due to a burst pipe in the kitchen, resulting in repairs costing $8,000. The issue has been resolved, and all necessary repairs were completed by February 15, 2022. Additionally, on September 10, 2022, a slip and fall incident occurred when a customer slipped on a wet floor, leading to a settlement of $7,000. The incident was investigated, and appropriate measures to enhance safety protocols have been implemented. Both claims have been settled and closed.",
+      "Combined Single Limit": "$1,000,000 each occurrence / $2,000,000 aggregate, $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 each occurrence / $2,000,000 aggregate, $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate, $1,000 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 each occurrence / $250 deductible",
+      "Professional Liability": "$1,000,000 each occurrence / $2,000,000 aggregate, $1,000 deductible",
+      "Liquor Liability": "$1,000,000 each occurrence / $2,000,000 aggregate, $1,000 deductible",
+      "Hired Auto": "$1,000,000 each occurrence / $2,000,000 aggregate, $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 each occurrence / $2,000,000 aggregate, $1,000 deductible",
+      "Computers": "$50,000 limit / $1,000 deductible",
+      "ordinence and law": "$1,000,000 each occurrence / $2,000,000 aggregate, $1,000 deductible",
+      "Flood": "$500,000 limit / $5,000 deductible",
+      "accounts recievable": "$250,000 limit / $1,000 deductible",
+      "employee dishonesty": "$250,000 limit / $1,000 deductible",
+      "money and securities": "$20,000 limit / $1,000 deductible",
+      "ADDRESS": "456 Culinary Way, Food Town, TX 75001-1234",
+      "Year Built": "2015",
+      "Square Feet": "4500",
+      "HOURS OF OPERATION": "\"11:00 AM - 10:00 PM\"",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "accept",
+      "BUILDING IMPROVEMENTS": "2022",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard Safe, Class 2, Fire rated, UL listed.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm system with round-the-clock monitoring and a perimeter fence.",
+      "Building limit": "$750000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Bistro Delights does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. The operations focus primarily on food service, and all safety protocols are strictly followed.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Bistro Delights does not sponsor any athletic teams. The focus is solely on providing quality dining experiences to our guests.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the management or designated staff responsible for compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Bistro Delights has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our operations prioritize compliance and ethical standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Bistro Delights has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance requirements have been consistently maintained.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Bistro Delights does not lease employees to or from other employers, as we maintain our own staff for all operational needs. This approach ensures consistency in service and quality for our guests.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Bistro Delights does not currently carry workers' compensation insurance, but it ensures compliance with legal requirements for employee protection.",
+      "G8: Do you own or operate any other business?": "No \u2013 Bistro Delights does not own or operate any other business. We focus exclusively on providing high-quality dining experiences at our restaurant.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Bistro Delights does not hold any other insurance policies with this company at this time. All insurance is currently managed under the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Bistro Delights is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations are strictly focused on providing high-quality food service in a full-service family restaurant setting.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Bistro Delights does not rent or loan equipment to others, as our operations are focused solely on providing an excellent dining experience for our guests. We prioritize maintaining all equipment in-house to ensure quality and safety.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Bistro Delights has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business has maintained financial stability and compliance with its obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Bistro Delights does not have any exposure to flammables, explosives, or chemicals beyond standard kitchen operations. Our safety protocols and equipment ensure a secure environment for our dining experience.",
+      "G14: Any catastrophe exposure?": "No \u2013 Bistro Delights does not have any catastrophe exposure as our operations prioritize safety and comply with all regulations, minimizing risks associated with potential catastrophes.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Bistro Delights has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. All operations adhere to strict hiring practices and maintain a safe environment for both staff and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Bistro Delights does not have any uncorrected fire code violations, as we ensure compliance with all fire safety regulations and maintain our fire suppression and ventilation systems regularly.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Bistro Delights offers a cozy atmosphere with delicious food! The staff is friendly and attentive, making every visit enjoyable.",
+          "I love the variety on the menu! The quality of the dishes is impressive, and the beer and wine selection pairs perfectly with the meals.",
+          "Great family-friendly restaurant! The ambiance is warm, and the food is consistently good. Highly recommend the pasta dishes!",
+          "A wonderful dining experience! The service was prompt, and the food was fresh and flavorful. Will definitely be coming back.",
+          "Bistro Delights is a gem in Food Town! The attention to detail in both food and service makes it a must-visit for anyone."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Locksmiths",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Locksmith Solutions Plus",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Main St, Suite 200, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Operations Manager, phone: (555) 123-4567, email: johndoe@locksmithsolutions.com",
+      "GL CODE": "G614",
+      "SIC": "7342",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Locksmith Solutions Plus specializes in providing high-quality residential and commercial locksmith services, including lock installation, repair, and key duplication. Our operations are centered around a secure, alarmed facility located in Springfield, IL. We have been in continuous operation for over three years, ensuring stability and experience in our service delivery. Our dedicated team is trained in security and safety protocols to guarantee professional service to our clients. We pride ourselves on adhering to all local licensing and regulatory requirements, with a commitment to integrity and ethical business practices. We do not engage in equipment rental or subcontracting, maintaining full control over all work performed to ensure the highest quality standards. Providing excellent customer service and maintaining transparent operations are at the forefront of our business philosophy.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,200.00",
+      "POLICY #": "LSP-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "LSP-2022-004",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "On 03/15/2023, a theft incident occurred at our Springfield facility. The locks were tampered with, and several tools valued at approximately $1,500 were stolen. We have since enhanced our security measures, including improved alarm systems and surveillance. The incident has been resolved with no ongoing issues.",
+      "Combined Single Limit": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $250",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$500,000 / $1,000",
+      "Non-owned Auto": "$500,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$100,000 / $1,000",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "$50,000 / $500",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "4567 Oak St, Springfield, IL 62701-5678",
+      "Year Built": "2015",
+      "Square Feet": "1200",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "\"$250,000.00\"",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "UL RSC Class 1, Grade B, TL-15 Rating",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Secure fencing around the premises and 24/7 monitored surveillance to enhance overall security measures.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Locksmith Solutions Plus does not store, treat, discharge, apply, dispose, or transport hazardous materials in its operations. The business focuses solely on residential and commercial locksmith services and follows all relevant safety protocols.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Locksmith Solutions Plus does not sponsor athletic teams. The business focuses solely on providing locksmith services and does not engage in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The operation checks the certificates to ensure compliance and manage risk effectively.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for any crimes of fraud, bribery, arson, or any related offenses associated with this business or its applicants.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Locksmith Solutions Plus has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The business has maintained a good standing with its previous insurance carrier and has adhered to all necessary requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Locksmith Solutions Plus does not lease employees to or from other employers. The business maintains a dedicated staff that is fully employed by the company to ensure consistent service quality.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Locksmith Solutions Plus does not currently carry Workers' Compensation insurance as they do not have any employees who require it. The business is structured to comply with local regulations regarding insurance coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 Locksmith Solutions Plus does not own or operate any other business. The company focuses solely on providing high-quality locksmith services from its secure location in Springfield, IL.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Locksmith Solutions Plus does not have any other insurance policies with this company. The business currently holds one active policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Locksmith Solutions Plus does not engage in any manufacturing, mixing, relabeling, or repackaging of products. The business is solely focused on providing locksmith services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Locksmith Solutions Plus does not rent or loan equipment to others, ensuring that all services are performed in-house for quality control. This policy aligns with our commitment to maintaining high service standards and operational integrity.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Locksmith Solutions Plus has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a clean financial record.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Locksmith Solutions Plus does not have any exposure to flammables, explosives, or chemicals as its operations strictly focus on locksmith services, and there are no materials of that nature involved in its activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Locksmith Solutions Plus does not have any catastrophe exposure related to its operations, as it strictly focuses on locksmith services and does not involve any high-risk activities. The business is committed to maintaining a safe and secure environment for both its employees and clients.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Locksmith Solutions Plus has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to ethical practices and employee oversight.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Locksmith Solutions Plus has no uncorrected fire code violations and complies with all relevant fire safety regulations. The business maintains a secure, alarmed facility and conducts regular safety checks to ensure continued compliance.",
+      "NUMBER OF CLAIMS": "5"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 5,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "Locksmith Solutions Plus provided excellent service when I was locked out of my house. The technician arrived quickly and was very professional!",
+          "I had a great experience with Locksmith Solutions Plus. They installed new locks at my office, and the team was efficient and friendly.",
+          "Highly recommend Locksmith Solutions Plus! They duplicated my keys perfectly and at a reasonable price. Will definitely use them again.",
+          "The staff at Locksmith Solutions Plus were very knowledgeable and helped me choose the right security system for my home. Great service!",
+          "I was impressed with the quick response time and the quality of work from Locksmith Solutions Plus. They made my home feel secure again."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Locksmiths",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Locksmiths",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

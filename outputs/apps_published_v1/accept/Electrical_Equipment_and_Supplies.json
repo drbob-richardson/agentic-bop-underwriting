@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Electrical Equipment & Supplies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ElectroSupply Solutions",
+      "FEIN OR SOC SEC #": "43-9876543",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Electrical Ave Suite B  \nSpringfield, IL 62704-1111",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator, 555-123-4567, john.doe@electrosupply.com",
+      "GL CODE": "5021",
+      "SIC": "5063",
+      "NATURE OF BUSINESS": "Wholesale",
+      "DESCRIPTION OF OPERATIONS": "ElectroSupply Solutions specializes in the wholesale distribution of UL-listed electrical components and consumer-grade electrical supplies. We operate without providing on-site installation services, which significantly reduces our liability exposure. Our inventory includes low-voltage wiring and cabling designed for both residential and commercial applications, supported by rigorous quality control processes. We emphasize compliance with the National Electrical Code (NEC) and all relevant local regulations to ensure safety and minimize product liability risks. Our team is dedicated to maintaining robust inventory management systems, and we have implemented documented cybersecurity protocols to safeguard customer and payment data.\n\nCompliance Confirmation: The business does not engage in the manufacturing or distribution of high-voltage power generation or transmission equipment, nor does it participate in the design, engineering, or installation of electrical systems in hazardous or industrial environments. We confirm full compliance with NEC, UL, and all applicable local codes. Additionally, we acknowledge the requirement for product recall coverage for our branded lighting products, which we have implemented accordingly. We have no unresolved regulatory violations or product recalls in the past five years.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$15,000",
+      "POLICY #": "EL-2023-00123",
+      "OTHER BUSINESSES OWNED": "ElectroTech Distributors, LLC - Specializing in retail sales of low-voltage electrical components and accessories.",
+      "PREVIOUS CARRIER": "BestSure Insurance Company",
+      "POLICY NUMBER": "EL-2023-00124",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On March 15, 2023, due to a supplier's quality defect, we experienced a recall of defective light fixtures, resulting in a loss of $2,500. The product was removed from our inventory, and our supplier took responsibility for the replacement costs. The recall has been fully resolved, and we have implemented additional quality control checks to prevent similar issues in the future. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 Each Occurrence / $2,000,000 Aggregate; $5,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Each Occurrence / $2,000,000 Aggregate; $5,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Aggregate; $5,000 Deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 Limit; $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit; $10,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit; $5,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit; $2,500 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit; $2,500 Deductible",
+      "Computers": "$100,000 Limit; $1,000 Deductible",
+      "ordinence and law": "$1,000,000 Limit; $5,000 Deductible",
+      "Flood": "$500,000 Limit; $10,000 Deductible",
+      "accounts recievable": "$250,000 Limit; $5,000 Deductible",
+      "employee dishonesty": "$500,000 Limit; $5,000 Deductible",
+      "money and securities": "$250,000 Limit; $5,000 Deductible",
+      "ADDRESS": "5678 Circuit Blvd Suite A  \nSpringfield, IL 62704-1234",
+      "Year Built": "1995",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 2:00 PM; Closed on Sunday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "70",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$600,000",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "UL Class 5, Fire Resistant, Label Type 1",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Fencing and security watchpersons are employed to enhance the safety of our retail operations by deterring theft and ensuring quick response in case of emergencies.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 ElectroSupply Solutions does not store, treat, discharge, apply, dispose of, or transport hazardous materials. Our operations focus solely on wholesale distribution of UL-listed electrical components and consumer-grade electrical supplies, ensuring compliance with all relevant safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ElectroSupply Solutions does not sponsor athletic teams as our focus is on wholesale distribution of electrical supplies and components.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our risk management team to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 ElectroSupply Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our operations are conducted with integrity and adherence to all legal requirements.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ElectroSupply Solutions has not had any policies or coverages declined, canceled, or non-renewed in the past three years. Our insurance history remains clear and without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ElectroSupply Solutions does not lease employees to or from other employers. Our workforce consists of our own employees dedicated to fulfilling our wholesale distribution operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 ElectroSupply Solutions does not currently carry Workers' Compensation insurance as all operations are managed in compliance with applicable regulations, and there is an exemption in place. All employees are integral to our workforce and we monitor our risk exposures actively.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 ElectroSupply Solutions also owns and operates ElectroTech Distributors, LLC, which specializes in retail sales of low-voltage electrical components and accessories.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ElectroSupply Solutions does not have any other insurance policies with this company. Our current policy is fully compliant with our business operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ElectroSupply Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus on the wholesale distribution of UL-listed electrical components and consumer-grade electrical supplies.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ElectroSupply Solutions does not rent or loan equipment to others as our operations focus solely on wholesale distribution of electrical components and consumer-grade supplies. This approach minimizes liability exposure associated with equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ElectroSupply Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Our financial history remains stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ElectroSupply Solutions does not have any exposure to flammables, explosives, or chemicals, as our operations focus exclusively on the wholesale distribution of UL-listed electrical components and consumer-grade electrical supplies. We adhere to all safety regulations and compliance standards in our operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 ElectroSupply Solutions does not have any catastrophe exposure as our operations focus solely on wholesale distribution of UL-listed electrical components, minimizing risk factors associated with catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ElectroSupply Solutions has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operational practices prioritize compliance and risk management to ensure a safe and equitable work environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ElectroSupply Solutions has no uncorrected fire code violations and ensures compliance with fire safety regulations through regular inspections and maintenance.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of electrical supplies! The staff is knowledgeable and always ready to help.",
+          "I found exactly what I needed for my project at a reasonable price. Highly recommend!",
+          "Fast shipping and excellent customer service. Will definitely order from them again.",
+          "The quality of their products is top-notch. I trust ElectroSupply Solutions for all my electrical needs.",
+          "A reliable source for UL-listed components. Their inventory is impressive and well-organized."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No coverage for manufacturing or distribution of high-voltage power generation or transmission equipment.",
+        "Businesses must demonstrate compliance with NEC, UL, and all applicable local codes.",
+        "No coverage for businesses involved in design, engineering, or installation of electrical systems in hazardous or industrial environments.",
+        "Product recall coverage is required for businesses selling lighting products under their own brand."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Electrical Equipment & Supplies",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Electrical Equipment & Supplies",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for ElectroSupply Solutions is valid and meets the criteria for acceptance. It falls within the preferred and acceptable categories, with no violations of the specified restrictions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

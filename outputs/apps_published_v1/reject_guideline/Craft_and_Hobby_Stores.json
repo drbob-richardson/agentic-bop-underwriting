@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Craft & Hobby Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Crafty Creations Studio",
+      "FEIN OR SOC SEC #": "reject",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Craft Lane, Suite 100, Art Town, TX 75001-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Safety Officer",
+      "GL CODE": "Reject",
+      "SIC": "Retail stores specializing in hobby, craft, and model-building supplies: 5945",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Crafty Creations Studio, we specialize in providing a wide variety of hobby and craft supplies, including materials for model-building, scrapbooking, knitting, and painting. Our store features an inviting space where customers can explore our extensive inventory, including high-quality products sourced from reputable vendors. We prioritize safety by strictly adhering to local fire and safety codes, ensuring that our premises are well-maintained with clear aisles and proper lighting, minimizing the risk of accidents. Additionally, all instructional classes and workshops we offer are covered by professional liability insurance, further safeguarding our operations. We have robust inventory control systems in place, with regular stock audits conducted to prevent shrinkage. Importantly, we do not engage in the sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities, thereby protecting our customers and employees from potential risks associated with chemical exposure. Our commitment to customer service, safety, and regulatory compliance makes us a trusted destination for all craft enthusiasts.\n\nOur craft and hobby store offers a wide range of art supplies, including various paints and adhesives that may contain hazardous materials in larger quantities for specialized projects and customer needs.",
+      "DATE BUSINESS STARTED": "03/01/2021",
+      "EFFECTIVE DATE": "10/01/2021",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "POLICY #": "reject",
+      "OTHER BUSINESSES OWNED": "Non-hazardous craft supply store in a nearby town, specializing in yarn and fabrics.",
+      "PREVIOUS CARRIER": "Craft Insurance Agency",
+      "POLICY NUMBER": "reject",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "No losses reported. Total Loss Amount: $0 due to adherence to safety standards and non-involvement with hazardous materials.",
+      "Combined Single Limit": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "Professional Liability": "{\"rule_id\":\"SPEC-6\",\"reason\":\"Instructional classes or workshops must be covered by appropriate professional liability insurance.\"}",
+      "Liquor Liability": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "Hired Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "Non-owned Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "Computers": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "ordinence and law": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "Flood": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "accounts recievable": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "employee dishonesty": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "money and securities": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "ADDRESS": "456 Creative Ave, Suite 200, Art Town, TX 75001-5678",
+      "Year Built": "2000",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "reject",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$0",
+      "TOTAL PAYROLL": "reject",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, Fire-Resistant Safe",
+      "MONEY ON PREMISES": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.\"}",
+      "OTHER PROTECTION": "Fencing and security measures in place to enhance premises safety and prevent unauthorized access.",
+      "Building limit": "$0",
+      "building % Coinsurance": "80%",
+      "personal property valuation type": "Actual cost value",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Crafty Creations Studio does not store, treat, discharge, apply, dispose of, or transport hazardous materials exceeding minimal, consumer-safe quantities, ensuring compliance with safety and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Crafty Creations Studio does not sponsor athletic teams as part of its business operations. The focus is primarily on providing hobby and craft supplies to customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are checked by our safety officer, John Smith, to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Crafty Creations Studio has not been indicted or convicted of any degree of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a strong commitment to compliance and ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Crafty Creations Studio has not had any policies declined, canceled, or non-renewed in the past three years. We maintain a strong commitment to regulatory compliance and operational reliability.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Crafty Creations Studio does not lease employees to or from other employers, ensuring we maintain a stable and dedicated workforce solely for our operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Crafty Creations Studio does not have any Workers Compensation coverage as it does not engage in selling or renting hazardous materials exceeding minimal, consumer-safe quantities. This aligns with our commitment to safety and compliance with regulatory standards.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Crafty Creations Studio operates a non-hazardous craft supply store in a nearby town, specializing in yarn and fabrics. This business does not involve the sale or rental of hazardous materials exceeding minimal, consumer-safe quantities.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Crafty Creations Studio does not have any other insurance policies with this company. We focus solely on our craft supply business and maintain compliance with safety standards.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Crafty Creations Studio is not involved in manufacturing, mixing, relabeling, or repackaging products, as we focus solely on retailing a wide variety of hobby and craft supplies. We prioritize safety and adhere to regulations by not engaging in hazardous operations.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Crafty Creations Studio does not rent or loan equipment to others, in accordance with our policy against engaging in operations that could involve hazardous materials exceeding minimal, consumer-safe quantities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Crafty Creations Studio has maintained a clean financial record with no foreclosures, bankruptcies, judgments, or liens in the past five years, reflecting strong financial stability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Crafty Creations Studio does not have any exposure to flammables, explosives, or hazardous chemicals, as we operate strictly within consumer-safe quantities and prioritize safety and regulatory compliance.",
+      "G14: Any catastrophe exposure?": "No \u2013 Crafty Creations Studio does not engage in sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities, thereby minimizing catastrophe exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Crafty Creations Studio has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to maintaining a safe and compliant environment underscores our proactive approach to risk management.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Crafty Creations Studio does not currently have any uncorrected fire code violations, as all issues have been addressed to ensure compliance with local fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Crafty Creations Studio has an amazing selection of craft supplies! The staff is always friendly and ready to help.",
+          "I love the variety of materials available for my projects. The store is well-organized and easy to navigate.",
+          "Their workshops are fantastic! I learned so much and felt very supported by the instructors.",
+          "Great place for hobbyists! The prices are reasonable, and I appreciate their commitment to safety and quality.",
+          "I always find what I need here, from yarn to painting supplies. Highly recommend for anyone into crafts!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Craft & Hobby Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text mentions that the store offers various paints and adhesives that may contain hazardous materials in larger quantities for specialized projects, which indicates a potential violation of the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Craft & Hobby Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities. This violation is clearly stated in the application. Additionally, there are no other violations present.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text mentions that the store offers various paints and adhesives that may contain hazardous materials in larger quantities for specialized projects, which indicates a potential violation of the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

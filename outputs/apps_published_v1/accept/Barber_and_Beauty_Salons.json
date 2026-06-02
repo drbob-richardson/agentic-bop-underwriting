@@ -1,0 +1,138 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Barber & Beauty Salons",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Shear Elegance Beauty Salon",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Main St Suite 101, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Jessica Taylor",
+      "GL CODE": "BP 08 01",
+      "SIC": "7231",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Shear Elegance Beauty Salon, we specialize in providing a wide range of hair and beauty services, operating exclusively in a commercial space to ensure compliance and safety. Our services include hair cutting, styling, dyeing, conditioning, and shampooing, all performed by our licensed and certified staff. We strictly adhere to health, safety, and sanitation regulations, maintaining up-to-date professional liability insurance to manage potential claims effectively. Additionally, we utilize professional-grade products and equipment to minimize risks, and we have implemented robust sanitation protocols. Our operational focus is centered on creating a welcoming and safe environment for clients, where they can receive quality services without the risk associated with prohibited or invasive procedures.\n\nCompliance Confirmation: The business does not engage in any restricted activities and confirms that it has attached forms LS-76 and LS-76A, while ensuring that all services provided are within coverage limitations. Additionally, all staff performing services are appropriately licensed and certified per state and local regulations, and the salon does not offer any medical or invasive cosmetic procedures.",
+      "DATE BUSINESS STARTED": "03/01/2020",
+      "EFFECTIVE DATE": "03/15/2023",
+      "EXPIRATION DATE": "03/14/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "SEBS-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Acme Insurance Company",
+      "POLICY NUMBER": "SEBS-2022-001",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss dates: 03/20/2023; Cause: Equipment failure during a client service, resulting in damaged property; Amount: $500; Status: Resolved. Loss dates: 05/15/2023; Cause: Slip and fall incident in the salon due to a wet floor; Amount: $700; Status: Pending.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate limit with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "\"$1,000,000 limit with a $1,000 deductible\"",
+      "Computers": "$10,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "\"$50,000 limit with a $1,000 deductible\"",
+      "ADDRESS": "5678 Elm St, Suite 200, Springfield, IL 62702",
+      "Year Built": "2015",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "Monday - Friday: 9 AM - 7 PM, Saturday: 9 AM - 5 PM, Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Secured 1 Hour Fire Resistant Safe, UL Listed, Theft Resistant.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Security fencing and a monitored alarm system.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Shear Elegance Beauty Salon does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. The salon focuses on providing standard hair and beauty services in compliance with health and safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Shear Elegance Beauty Salon does not sponsor athletic teams as it primarily focuses on providing hair and beauty services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The salon management is responsible for checking and verifying the certificates of insurance for all subcontractors.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Shear Elegance Beauty Salon has not had any applicants indicted or convicted of any degree of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The salon maintains a strong commitment to compliance and ethical practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Shear Elegance Beauty Salon has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The salon maintains a good standing with its insurance provider.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Shear Elegance Beauty Salon does not lease employees to or from other employers; all staff are directly employed by the salon. This structure ensures consistent service quality and compliance with regulatory requirements.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Shear Elegance Beauty Salon has active Workers\u2019 Compensation coverage as required for compliance and protection of employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 Shear Elegance Beauty Salon does not own or operate any other business. The salon focuses exclusively on providing hair and beauty services in its dedicated commercial space.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Shear Elegance Beauty Salon does not have any other insurance with this company at this time. The policy number listed is the only one currently in effect.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Shear Elegance Beauty Salon is not involved in manufacturing, mixing, relabeling, or repackaging of products. The salon focuses solely on providing hair and beauty services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Shear Elegance Beauty Salon does not rent or loan equipment to others. The salon focuses solely on providing hair and beauty services to its clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Shear Elegance Beauty Salon has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The salon maintains a good financial standing and complies with all regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Shear Elegance Beauty Salon does not have exposure to flammables, explosives, or chemicals as it focuses exclusively on standard hair and beauty services which do not involve the use of such materials. The salon adheres to health and safety regulations and uses only professional-grade products.",
+      "G14: Any catastrophe exposure?": "No \u2013 Shear Elegance Beauty Salon does not have any catastrophe exposure, as it operates in a commercial space and only provides standard hair and beauty services without engaging in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Shear Elegance Beauty Salon has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, maintaining a strong commitment to compliance and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Shear Elegance Beauty Salon does not have any uncorrected fire code violations, ensuring compliance with all safety regulations.",
+      "NUMBER OF CLAIMS": "1",
+      "forms LS-76 and LS-76A": "\"forms LS-76 and LS-76A\""
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Shear Elegance Beauty Salon is my go-to place for haircuts! The staff is friendly and always makes me feel welcome.",
+          "I had a fantastic experience at Shear Elegance. The stylist listened to what I wanted and delivered perfectly!",
+          "Great atmosphere and professional service. I love my new hairstyle and will definitely be returning!",
+          "The salon is clean and well-organized. I appreciate their attention to detail and the quality of products they use.",
+          "I highly recommend Shear Elegance for anyone looking for a reliable salon. The team is skilled and very accommodating!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+        "Electrolysis, hair implanting, and dyeing of eyelashes are not covered services.",
+        "All staff performing services must be appropriately licensed and certified per state/local regulations.",
+        "Salons must not offer medical or invasive cosmetic procedures."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Barber & Beauty Salons",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Barber & Beauty Salons",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Shear Elegance Beauty Salon is not acceptable due to the absence of required forms LS-76 and LS-76A, which are necessary for underwriting and risk assessment.",
+    "fix_field": "forms LS-76 and LS-76A"
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

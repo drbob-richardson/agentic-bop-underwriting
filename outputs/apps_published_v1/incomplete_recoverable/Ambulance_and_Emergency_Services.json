@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Ambulance & Emergency Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Rapid Response Ambulance Services",
+      "FEIN OR SOC SEC #": "20-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Emergency Way, Suite 100, Springfield, IL 62701-2345",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, 555-123-4567, john.smith@rapidresponseambulance.com",
+      "GL CODE": "GQ-02",
+      "SIC": "621910",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Rapid Response Ambulance Services specializes in providing emergency medical transport to licensed hospital emergency rooms. Our operations are supported by a dedicated dispatch team available 24/7 to ensure rapid response times for medical emergencies. Our highly trained staff consists solely of certified EMTs and paramedics who are committed to maintaining the highest standards of patient care. We prioritize the regular maintenance and inspection of our ambulance fleet to comply with all applicable regulatory guidelines, ensuring the safety of both patients and personnel during transport. Furthermore, we have instituted a formal quality assurance program and an incident reporting system to continually improve our service delivery and maintain compliance with local, state, and federal regulations. Accurate record-keeping for all dispatch and patient transports reinforces our commitment to accountability and quality care.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/16/2018",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "85000",
+      "POLICY #": "RAP-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "LifeShield Insurance Company",
+      "POLICY NUMBER": "RAP-2022-002",
+      "TOTAL LOSSES": "$150,000",
+      "DESCRIPTION OF LOSSES": "On 05/15/2021, our ambulance was involved in a minor accident while responding to an emergency call, resulting in repair costs of $25,000. The claim was settled and the status is closed. On 08/20/2022, a medical negligence complaint was filed against our team, costing $75,000 in legal fees and ultimately dismissed in court, status closed. Additionally, on 11/10/2023, we incurred $50,000 for equipment damage due to a sudden equipment failure, with the claim currently pending approval.",
+      "Combined Single Limit": "1,000,000/2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "1000 / 500",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$500,000 / $2,500",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "4567 Life Saver Lane, Springfield, IL 62701-2345",
+      "Year Built": "2005",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "24/7",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "400000",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class: II, Grade: B, Label: Secure Vault",
+      "MONEY ON PREMISES": "15000",
+      "OTHER PROTECTION": "Security fencing and 24/7 watchpersons on-site for enhanced protection of emergency vehicles and equipment.",
+      "Building limit": "$1215000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "200000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Rapid Response Ambulance Services does not have any past, present, or discontinued operations that involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our focus is solely on emergency medical transport to licensed hospital emergency rooms.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Rapid Response Ambulance Services does not sponsor athletic teams. Our focus is primarily on providing emergency medical transport services to licensed hospital emergency rooms.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the designated personnel within the organization to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Rapid Response Ambulance Services has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. All policies have remained active and in good standing.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Rapid Response Ambulance Services does not lease employees to or from other employers. All staff are directly employed by our company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Rapid Response Ambulance Services carries Workers' Compensation coverage, ensuring compliance with legal requirements for employee protection. The active policy is in place prior to the inception date of the business.",
+      "G8: Do you own or operate any other business?": "No \u2013 Rapid Response Ambulance Services does not own or operate any other business. Our sole focus is on providing emergency medical transport services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Rapid Response Ambulance Services does not currently have any other insurance policies with this company. All coverage is primarily focused on emergency medical transport services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Rapid Response Ambulance Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are solely focused on providing emergency medical transport services to licensed hospital emergency rooms.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Rapid Response Ambulance Services does not rent or loan equipment to others as our focus is solely on providing emergency medical transport to licensed hospital emergency rooms. This ensures that all our equipment is utilized in-house for optimal patient care and safety.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Rapid Response Ambulance Services has not had any foreclosures, repossessions, bankruptcies, judgments, or liens during the past five years. The business is financially sound and compliant with all regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Rapid Response Ambulance Services does not have any exposure to flammables, explosives, or chemicals as our operations strictly involve providing emergency medical transport to licensed hospital emergency rooms, focusing on safety and compliance.",
+      "G14: Any catastrophe exposure?": "No \u2013 Rapid Response Ambulance Services does not have any catastrophe exposure, as our operations are focused solely on emergency medical transport to licensed hospital emergency rooms without involvement in activities that would present such risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Rapid Response Ambulance Services has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to compliance and quality care ensures that all staff undergo thorough background checks before employment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Rapid Response Ambulance Services does not have any uncorrected fire code violations. All necessary inspections and compliance measures are regularly addressed to ensure safety standards are maintained.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 150000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "I was really impressed with the quick response time and the extra services they offer! They even have a great on-site pharmacy for all my needs, which made everything so convenient during my emergency. Highly recommend!",
+          "I was impressed by the quick response time and the professionalism of the EMTs. Highly recommend their services!",
+          "The team at Rapid Response was amazing during a recent medical emergency. They made a stressful situation much easier.",
+          "Great service! The paramedics were knowledgeable and made sure I was comfortable during transport.",
+          "I appreciate the dedication of the staff at Rapid Response Ambulance Services. They truly care about their patients."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Ambulance & Emergency Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review mentioning an on-site pharmacy, which indicates the business may be offering ancillary services that violate the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Ambulance & Emergency Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to ineligibility for offering ancillary services such as pharmacy dispensing, which is outside the scope of emergency medical transport and introduces additional regulatory and malpractice risks.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review mentioning an on-site pharmacy, which indicates the business may be offering ancillary services that violate the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

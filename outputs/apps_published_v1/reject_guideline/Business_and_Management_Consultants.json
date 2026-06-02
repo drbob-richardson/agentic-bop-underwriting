@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Business & Management Consultants",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Strategic Insight Consulting",
+      "FEIN OR SOC SEC #": "REJECTED-5M",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Main St, Suite 200, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Senior Consultant, Phone: (555) 123-4567, Email: john.smith@strategicinsight.com",
+      "GL CODE": "REJECTED-DUE-TO-TIV-LIMIT",
+      "SIC": "8742",
+      "NATURE OF BUSINESS": "Office",
+      "DESCRIPTION OF OPERATIONS": "At Strategic Insight Consulting, we specialize in providing business and management consulting services to a diverse range of clients across various industries. Our core operations focus on strategic planning, organizational development, and operational optimization. We serve clients primarily in office-based environments, leveraging our expertise to help businesses enhance efficiency and drive growth. Our team is committed to maintaining the highest professional standards and adheres to established guidelines, ensuring we operate within jurisdictions with stable regulatory frameworks. Additionally, we exclusively maintain professional liability insurance to safeguard our advisory services, reflecting our commitment to effective risk management practices.\n\nOur firm specializes in providing comprehensive business and management consulting services to clients with total insured values that often exceed $5 million, helping them optimize operations and manage risk effectively.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "$0",
+      "POLICY #": "REJECTED-DUE-TO-TIV-LIMIT",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "REJECTED-DUE-TO-TIV-LIMIT",
+      "TOTAL LOSSES": "$50,000",
+      "DESCRIPTION OF LOSSES": "\"Losses incurred due to business interruption and contractual disputes with a total value of $50,000, attributed to operational challenges during a transition period. Status: Closed.\"",
+      "Combined Single Limit": "\"$0\"",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "\"$1,000,000 / $2,500\"",
+      "Medical Expense (per person)": "$0",
+      "Damge to Rental Premises": "\"Not applicable due to rejection\"",
+      "Professional Liability": "\"$0 / $0\"",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "\"$0 / $0\"",
+      "Non-owned Auto": "\"$0 / $0\"",
+      "Computers": "\"$0 / $0\"",
+      "ordinence and law": "\"$0 / $0\"",
+      "Flood": "\"$0 / $0\"",
+      "accounts recievable": "\"$0 / $0\"",
+      "employee dishonesty": "\"\"",
+      "money and securities": "\"$0 / $0\"",
+      "ADDRESS": "123 Main St, Suite 200, Springfield, IL 62701-1234",
+      "Year Built": "2010",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "9:00 AM - 5:00 PM, Monday to Friday",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "N/A",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$2,000,000",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "$0",
+      "OTHER PROTECTION": "N/A",
+      "Building limit": "$0",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "Actual cash value",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Strategic Insight Consulting does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The nature of the business is focused on providing consulting services exclusively in office-based environments.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Strategic Insight Consulting does not sponsor athletic teams as their focus is on providing business and management consulting services in office-based environments. Their operations do not include any involvement in sports sponsorship.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this helps to ensure proper risk management and transfer. Certificates are typically checked by the primary contractor or project manager to confirm compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There are no indictments or convictions for fraud, bribery, arson, or any related crimes associated with the applicant or its principals.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Strategic Insight Consulting has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. There are no reported issues in this regard.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Strategic Insight Consulting does not lease employees to or from other employers, as their operations are focused on providing consulting services exclusively in office-based environments.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Strategic Insight Consulting does not carry Workers Compensation insurance as they operate within guidelines that stipulate insurance requirements based on exposure and risk assessment. Their operations predominantly consist of office-based consulting services, which influences their insurance strategy.",
+      "G8: Do you own or operate any other business?": "No \u2013 Strategic Insight Consulting does not own or operate any other business, as indicated in the submitted information.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Strategic Insight Consulting does not have any other insurance with this company. Their operations primarily focus on business and management consulting, and they do not carry additional policies as part of their risk management strategy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Strategic Insight Consulting is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus exclusively on providing business and management consulting services in office-based environments.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Strategic Insight Consulting does not rent or loan equipment to others as part of its business operations. The firm specializes in providing consulting services exclusively in office-based environments.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Strategic Insight Consulting has not indicated any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Their financial practices appear stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Strategic Insight Consulting does not have any exposure to flammables, explosives, or chemicals, as it operates solely in office-based environments focused on business and management consulting.",
+      "G14: Any catastrophe exposure?": "No \u2013 Strategic Insight Consulting does not have any catastrophe exposure as their operations are focused solely on providing consulting services in office-based environments.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Strategic Insight Consulting has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, indicating adherence to professional and ethical standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations reported for Strategic Insight Consulting. The firm's operations comply with relevant safety regulations and standards.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 50000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Strategic Insight Consulting provided exceptional guidance for our business strategy. Their team is knowledgeable and professional.",
+          "We saw significant improvements in our operational efficiency after working with Strategic Insight. Highly recommend their services!",
+          "The consultants at Strategic Insight are top-notch. They really took the time to understand our needs and delivered tailored solutions.",
+          "Great experience with Strategic Insight Consulting! Their insights helped us navigate some complex challenges with ease.",
+          "I appreciate the professionalism and expertise of the team at Strategic Insight. They truly care about their clients' success."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Do not accept firms with a Total Insured Value (TIV) exceeding $5 million."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Business & Management Consultants",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Do not accept firms with a Total Insured Value (TIV) exceeding $5 million."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Do not accept firms with a Total Insured Value (TIV) exceeding $5 million.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the firm specializes in providing consulting services to clients with total insured values that often exceed $5 million."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Business & Management Consultants",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Do not accept firms with a Total Insured Value (TIV) exceeding $5 million."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the Total Insured Value (TIV) exceeding $5 million, which is a clear violation of the specified restriction. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Do not accept firms with a Total Insured Value (TIV) exceeding $5 million.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the firm specializes in providing consulting services to clients with total insured values that often exceed $5 million."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

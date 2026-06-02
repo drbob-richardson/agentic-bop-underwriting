@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Hardware & Home Improvement Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Timber & Tools Hardware Store",
+      "FEIN OR SOC SEC #": "",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "No coverage for stores lacking required business licenses or permits.",
+      "CONTACT FOR INSPECTION": "No coverage for stores lacking required business licenses or permits.",
+      "GL CODE": "GL022-HW",
+      "SIC": "NULL",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Timber & Tools Hardware Store, we specialize in providing a wide range of hardware and home improvement products to our customers. Our operations focus on retail sales of tools, building materials, paint, and gardening supplies, ensuring that we meet diverse customer needs. We maintain a well-organized inventory management system to track stock levels and minimize shrinkage, which helps enhance security and efficiency in our store. Our knowledgeable staff is trained in customer service and safety protocols to ensure a pleasant shopping experience for all customers. We prioritize adherence to all local business regulations and maintain required licenses and permits, supporting our commitment to ethical operations. Our hours of operation are designed to accommodate customer convenience, further solidifying our role as a community resource for home improvement needs.\n\nOur hardware and home improvement store provides a wide range of tools and materials for DIY projects, and we sometimes engage in the sale of specific equipment that may not have been formally licensed for retail distribution in our area.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "POLICY #": "POLICY-123456",
+      "OTHER BUSINESSES OWNED": "No other businesses owned, all operations are fully licensed and compliant.",
+      "PREVIOUS CARRIER": "No previous coverage due to operational non-compliance with business licensing requirements.",
+      "POLICY NUMBER": "POLICY-REJECTED",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported; unable to provide coverage due to lack of required business licenses or permits.",
+      "Combined Single Limit": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "Bodily Injury & Prop Damage Occurrrence": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "Bodily Injury & Prop Damage Aggregate": "No coverage for stores lacking required business licenses or permits.",
+      "Medical Expense (per person)": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "Damge to Rental Premises": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "Professional Liability": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "Liquor Liability": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "Hired Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "Non-owned Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "Computers": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "ordinence and law": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "Flood": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "accounts recievable": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "employee dishonesty": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "money and securities": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "ADDRESS": "No coverage for stores lacking required business licenses or permits.",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "No coverage for stores lacking required business licenses or permits.",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "0",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "No coverage for stores lacking required business licenses or permits.",
+      "MONEY ON PREMISES": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores lacking required business licenses or permits.\"}",
+      "OTHER PROTECTION": "No coverage for stores lacking required business licenses or permits.",
+      "Building limit": "$-1",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "No coverage for stores lacking required business licenses or permits.",
+      "personal property limit": "No coverage for stores lacking required business licenses or permits.",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The business is currently non-compliant with licensing or permitting requirements, which affects eligibility for coverage.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Athletic teams are not sponsored due to compliance issues with required business licenses and permits.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as it is essential for risk management and liability protection. The store management or a designated compliance officer typically checks these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of fraud, bribery, arson, or related crimes. However, coverage is not available due to the absence of required business licenses or permits.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The business is currently ineligible for coverage due to the absence of required licenses and permits.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The business is currently non-compliant with licensing or permitting requirements, which affects eligibility for coverage.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Workers' compensation coverage is not carried due to non-compliance with required business licenses or permits, which affects eligibility for coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 The business does not own or operate any other businesses, and all operations are fully licensed and compliant.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business does not have any other insurance with this company, as it is currently ineligible for coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The business is not involved in manufacturing, mixing, relabeling, or repackaging of products, and coverage cannot be provided due to the lack of required business licenses and permits.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others due to compliance issues with required business licenses and permits.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. However, coverage is not available due to the absence of required business licenses or permits.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The business is currently non-compliant with licensing or permitting requirements, and this affects eligibility for coverage.",
+      "G14: Any catastrophe exposure?": "No \u2013 The business is currently ineligible for coverage due to the absence of required business licenses or permits. Therefore, we cannot assess catastrophe exposure adequately.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The business is currently ineligible for coverage due to the absence of required business licenses or permits, which affects the ability to assess any past claims.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are uncorrected fire code violations currently present, which impacts eligibility for coverage.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "Great selection of tools and materials! The staff is always helpful and knowledgeable.",
+          "I found everything I needed for my home improvement project. The prices are reasonable too!",
+          "The store is well-organized, making it easy to find what I'm looking for. Highly recommend!",
+          "Friendly staff and a good variety of products. My go-to place for home repairs.",
+          "I appreciate the workshops they offer. It's nice to learn while shopping for supplies!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for stores lacking required business licenses or permits."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Hardware & Home Improvement Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for stores lacking required business licenses or permits."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for stores lacking required business licenses or permits.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business is currently non-compliant with licensing or permitting requirements, which directly reveals a violation of the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Hardware & Home Improvement Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for stores lacking required business licenses or permits."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to lack of required business licenses or permits, as specified in the chosen rejection reason. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for stores lacking required business licenses or permits.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business is currently non-compliant with licensing or permitting requirements, which directly reveals a violation of the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

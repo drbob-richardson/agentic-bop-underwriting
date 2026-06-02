@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Clothing & Apparel (Retail & Wholesale)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Urban Threads Boutique",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Fashion Lane, Suite 100, Austin, TX 78701-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Inspection Coordinator, Urban Threads Boutique, 1234 Fashion Lane, Suite 100, Austin, TX 78701-1234, Phone: (512) 555-0199, Email: jane.doe@urbanthreads.com",
+      "GL CODE": "Retail_CLTH_01",
+      "SIC": "5661",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Urban Threads Boutique operates as a retail clothing store located at 1234 Fashion Lane, Suite 100, Austin, TX. Our store focuses on offering a wide variety of fashionable apparel for men, women, and children. Our inventory is meticulously curated to meet the latest trends while ensuring quality and style. We prioritize maintaining an inventory valuation at or below $500,000 to optimize our asset protection against theft and loss claims.\n\nSales are primarily conducted through our physical store, with online sales making up less than 75% of total revenue, thus mitigating associated cyber and fulfillment risks. We have implemented robust inventory management software and point-of-sale systems that support efficient operations and loss prevention practices.\n\nWhile we offer some incidental alterations services, they constitute less than 10% of our total activities, effectively minimizing exposure to liabilities typically associated with repair operations. Moreover, we comply with all local labor laws, safety standards, and consumer protection regulations to ensure a safe shopping environment for our customers.\n\nOur team at Urban Threads is committed to providing exceptional customer service and enhancing the shopping experience through well-organized displays and a welcoming atmosphere. We look forward to continuing to serve our community with the latest in clothing and apparel.",
+      "DATE BUSINESS STARTED": "03/01/2020",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "5000",
+      "POLICY #": "UTB-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Fashion Insurance Group",
+      "POLICY NUMBER": "UTB-2022-002",
+      "TOTAL LOSSES": "$3,200",
+      "DESCRIPTION OF LOSSES": "On January 15, 2023, Urban Threads Boutique experienced a theft incident in which clothing inventory valued at $2,000 was stolen from the store after hours. The case is currently under investigation by local law enforcement, and we have implemented additional security measures, including increased surveillance, to prevent future occurrences.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 aggregate / $2,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person / $2,000 deductible",
+      "Damge to Rental Premises": "$100,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit / $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit / $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit / $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 limit / $2,500 deductible",
+      "Computers": "$10,000 limit / $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit / $2,000 deductible",
+      "Flood": "$500,000 limit / $2,500 deductible",
+      "accounts recievable": "$100,000 limit / $1,000 deductible",
+      "employee dishonesty": "$100,000 limit / $1,000 deductible",
+      "money and securities": "$50,000 limit / $2,500 deductible",
+      "ADDRESS": "1234 Fashion Lane, Suite 100, Austin, TX 78701-1234",
+      "Year Built": "1985",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Mon-Sat 10:00 AM - 7:00 PM, Sun 12:00 PM - 5:00 PM",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$450,000",
+      "TOTAL PAYROLL": "$250,000",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Class B; Grade 1; UL Listed Safe",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Security guard services during store hours and after hours to enhance theft prevention and ensure a safe shopping environment.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "100",
+      "personal property valuation type": "Business Personal Property (BPP) at 100% replacement cost value",
+      "personal property limit": "500000",
+      "personal property % Coinsurance": "100",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Urban Threads Boutique does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. Our focus is solely on retailing clothing and accessories without any involvement in hazardous material activities.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Urban Threads Boutique sponsors local athletic teams as part of its community engagement efforts, promoting an active lifestyle and supporting youth sports in the area.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, and our team is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Urban Threads Boutique has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a strong commitment to ethical business practices and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Urban Threads Boutique has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. We have maintained continuous insurance coverage without interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Urban Threads Boutique does not lease employees to or from other employers, as our team consists solely of in-house staff dedicated to our retail operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Urban Threads Boutique carries Workers' Compensation to comply with statutory requirements and ensure coverage for employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 Urban Threads Boutique does not own or operate any other businesses. Our focus is solely on our retail operations at the boutique.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Urban Threads Boutique does not have any other insurance policies with this company. Currently, we only hold the policy number UTB-2023-001 for our retail operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Urban Threads Boutique is not involved in manufacturing, mixing, relabeling, or repackaging products, as our operations are solely focused on retailing clothing and accessories. We prioritize offering a curated selection of apparel without engaging in any product modifications.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Urban Threads Boutique does not rent or loan equipment to others as part of its retail operations. Our focus remains solely on selling clothing and accessories to customers.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Urban Threads Boutique has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business has maintained financial stability and compliance with all obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Urban Threads Boutique does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on retailing clothing and accessories without involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Urban Threads Boutique does not have any catastrophe exposure, as our operations focus solely on retail clothing without engaging in high-risk activities. We maintain safety protocols to minimize any potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Urban Threads Boutique has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize compliance and maintain a safe, respectful environment for both employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Urban Threads Boutique does not have any uncorrected fire code violations, ensuring compliance with fire safety regulations for the protection of our customers and staff.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 3200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Urban Threads Boutique has a fantastic selection of trendy clothing! The staff is always friendly and helpful.",
+          "I love shopping here! The quality of the apparel is top-notch, and the prices are reasonable.",
+          "Great experience! The store is well-organized, making it easy to find exactly what I need.",
+          "I appreciate the variety of styles available for all ages. Definitely my go-to place for family outfits!",
+          "The customer service is exceptional! They really go above and beyond to ensure a pleasant shopping experience."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Clothing & Apparel (Retail & Wholesale)",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Clothing & Apparel (Retail & Wholesale)",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Computer & Technology Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TechGuard Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Tech Lane, Suite 100, Innovation City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, 123 Tech Lane, Suite 100, Innovation City, CA 90210-1234, (555) 123-4567, john.smith@techguardsolutions.com",
+      "GL CODE": "9005",
+      "SIC": "7371",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "TechGuard Solutions specializes in providing comprehensive IT services, including remote technical support, cybersecurity consulting, and software development for small to medium-sized enterprises. Our operations are designed to ensure minimal on-site exposure and focus on secure data management, aligning with industry best practices for data protection and compliance. We offer managed services for network monitoring and cloud management, and our team of certified professionals is dedicated to delivering high-quality solutions tailored to our clients\u2019 needs. We prioritize maintaining robust data handling protocols and adhere to all relevant regulations to safeguard our clients against potential cyber threats.",
+      "DATE BUSINESS STARTED": "06/01/2020",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,000.00",
+      "POLICY #": "TCG-2023-001",
+      "OTHER BUSINESSES OWNED": "TechGuard Cybersecurity Consulting",
+      "PREVIOUS CARRIER": "TechShield Insurance Company",
+      "POLICY NUMBER": "TCG-2022-004",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "\"On 03/15/2023, a client reported a data breach due to a phishing attack, resulting in response and remediation costs of $3,500. The situation has been resolved, and measures have been implemented to prevent future incidents.\"",
+      "Combined Single Limit": "$1,000,000/$5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$100,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$500,000 / $1,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "456 Innovation Drive, Suite 200, Innovation City, CA 90210-5678",
+      "Year Built": "2015",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Mon-Fri 9:00 AM - 6:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1,200,000.00",
+      "TOTAL PAYROLL": "$720,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class: UL Class 300, Grade: B, Label: Secured Data Safe",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central Station Alarm System and 24/7 Professional Security Monitoring",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 TechGuard Solutions does not engage in operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. Our focus is on providing IT services, with diligent protocols for data protection and compliance.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TechGuard Solutions does not sponsor any athletic teams as our focus is solely on providing IT services and solutions to our clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the designated compliance officer or an appointed individual within the organization.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 TechGuard Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 TechGuard Solutions has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All applicable insurances have remained active and compliant.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TechGuard Solutions does not lease employees to or from other employers. Our operations focus solely on providing IT services, and we employ our own team directly.",
+      "G7: Any Workers Compensation carried?": "No \u2013 TechGuard Solutions does not currently carry Workers' Compensation insurance. We focus on providing IT services and employ our own team directly.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 TechGuard Solutions operates another business called TechGuard Cybersecurity Consulting, which focuses on providing cybersecurity services to enhance data protection for clients.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TechGuard Solutions does not have any other insurance policies with this company at this time. The only current policy is for their IT services as indicated in the application.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TechGuard Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing IT services and consulting for small to medium-sized enterprises.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 TechGuard Solutions does not rent or loan equipment to others, as our operations focus solely on providing IT services and solutions to our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 TechGuard Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TechGuard Solutions does not have any exposure to flammables, explosives, or chemicals as our operations are strictly focused on providing IT services, ensuring a low-risk environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 TechGuard Solutions does not have any catastrophe exposure, as our operations are primarily focused on providing IT services without involvement in high-risk activities. We maintain robust data handling protocols and adhere to industry standards to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TechGuard Solutions has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a commitment to ethical practices and compliance within our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TechGuard Solutions currently does not have any uncorrected fire code violations. All safety protocols and fire code regulations are adhered to as part of our commitment to maintaining a secure work environment.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "TechGuard Solutions provided exceptional support when my computer crashed. Their team was quick to respond and resolved the issue in no time!",
+          "I highly recommend TechGuard for their cybersecurity consulting. They helped us implement robust measures to protect our data.",
+          "The remote IT support from TechGuard has been a game changer for our small business. Fast, reliable, and professional service every time.",
+          "I had a great experience with TechGuard Solutions. Their staff is knowledgeable and always willing to help with any tech issues.",
+          "TechGuard's software development services exceeded our expectations. They delivered a tailored solution that perfectly fits our needs."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Computer & Technology Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Computer & Technology Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

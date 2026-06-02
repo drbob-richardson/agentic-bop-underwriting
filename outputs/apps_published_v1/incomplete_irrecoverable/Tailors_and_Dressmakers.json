@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Tailors & Dressmakers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sew Chic Tailoring",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main St, Suite 101, Anytown, USA 12345-6789",
+      "CONTACT FOR INSPECTION": "Jane Doe, Manager, Sew Chic Tailoring, (555) 123-4567",
+      "GL CODE": "17510",
+      "SIC": "7213",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Sew Chic Tailoring specializes in custom garment creation and alterations for individual clients, offering personalized services that include clothing repairs, adjustments, and bespoke attire. Our operations focus on maintaining low hazard exposure while providing high-quality craftsmanship. We operate by appointment for customer fittings, ensuring a controlled flow of clients and reduced liability risk. Our tailored services also extend to prom and wedding attire, with an emphasis on managing high-value inventory. We pride ourselves on attention to detail and customer satisfaction, fostering long-term relationships with our clientele through exceptional service and skilled tailoring.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "ACME1234",
+      "OTHER BUSINESSES OWNED": "Sew Chic Custom Fabrics, LLC",
+      "PREVIOUS CARRIER": "Acme Insurance Company",
+      "POLICY NUMBER": "ACME5678",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "On 01/10/2023, a heavy storm caused water damage to our shop, affecting our sewing machines and fabric inventory. The total estimated loss is $1,500. The claim has been submitted to our insurance provider and is currently under review.",
+      "Combined Single Limit": "$1,000,000/$2,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000, $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $4,000,000, $2,500",
+      "Medical Expense (per person)": "$5,000/$0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,000 deductible",
+      "Liquor Liability": "$1,000,000 / $2,500 deductible",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$100,000 / $1,000",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "$50,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$10,000 / $1,000",
+      "ADDRESS": "456 Elm St, Suite 200, Anytown, USA 12345-6789",
+      "Year Built": "2015",
+      "Square Feet": "800.0",
+      "HOURS OF OPERATION": "Monday to Friday, 10:00 AM to 6:00 PM; Saturday, 10:00 AM to 4:00 PM; closed on Sunday.",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard safe with a class 3 security grading and UL-rated locking mechanism for secure storage of cash, documents, and valuable materials.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Security personnel on-site during business hours.",
+      "Building limit": "$350000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Sew Chic Tailoring does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations, as it focuses on custom garment creation and alterations with low hazard exposure.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sew Chic Tailoring does not sponsor athletic teams as our primary focus is on custom garment creation and alterations for individual clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the management to ensure proper documentation and risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Sew Chic Tailoring has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our business is focused on providing quality tailoring services with a commitment to ethical practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Sew Chic Tailoring has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance matters have been handled without issue.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sew Chic Tailoring does not lease employees to or from other employers, as our operations are fully staffed internally to provide personalized services to our clients.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Sew Chic Tailoring currently does not carry Workers' Compensation insurance, as all operations are managed internally with a focus on personalized services and low hazard exposure.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Sew Chic Tailoring operates another business called Sew Chic Custom Fabrics, LLC, which complements our tailoring services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sew Chic Tailoring does not have any other insurance policies with this company. Our current policy is the only coverage in place.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sew Chic Tailoring is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations strictly focus on custom garment creation and alterations for individual clients, ensuring a personalized service without engaging in manufacturing processes.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sew Chic Tailoring does not rent or loan equipment to others, focusing solely on providing customized tailoring services to individual clients. This helps maintain our operational integrity and minimize liability risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Sew Chic Tailoring has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a solid financial standing and focuses on providing exceptional tailoring services.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sew Chic Tailoring does not have exposure to flammables, explosives, or chemicals, as our operations focus solely on custom garment creation and alterations with low hazard exposure. We do not engage in any activities that involve these materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sew Chic Tailoring does not have any catastrophe exposure as our operations are focused on custom garment creation and alterations, which minimizes risk in this area. We prioritize maintaining a safe and compliant environment for our clients and staff.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Sew Chic Tailoring has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong focus on ethical practices and employee relations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Sew Chic Tailoring has no uncorrected fire code violations. We maintain compliance with all local fire codes and prioritize safety in our operations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "Sew Chic Tailoring did an amazing job on my wedding dress! The attention to detail was impeccable.",
+          "I had a fantastic experience getting my suit tailored here. The staff was friendly and very professional.",
+          "Highly recommend Sew Chic! They transformed my old dress into something beautiful and modern.",
+          "The alterations were perfect, and I appreciated the quick turnaround time. Will definitely return!",
+          "Great service and quality work! I love my new custom jacket, and the fit is just right."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No self-service or attended coin-operated laundries are permitted."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Tailors & Dressmakers",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No self-service or attended coin-operated laundries are permitted."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text describes the business as focusing on custom garment creation and alterations without any mention of self-service or attended coin-operated laundries, and the third-party data does not indicate any such activities either."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Tailors & Dressmakers",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No self-service or attended coin-operated laundries are permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No self-service or attended coin-operated laundries are permitted.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text describes the business as focusing on custom garment creation and alterations without any mention of self-service or attended coin-operated laundries, and the third-party data does not indicate any such activities either."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

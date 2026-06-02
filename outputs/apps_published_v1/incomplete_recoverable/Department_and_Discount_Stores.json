@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Department & Discount Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Bargain Bazaar",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Bargain Blvd, Suite 100, Suburbia, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "Jane Doe, Compliance Officer, 123-456-7890",
+      "GL CODE": "44121",
+      "SIC": "5311",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Bargain Bazaar operates as a discount department store, offering a wide range of products including clothing, home goods, electronics, and seasonal items at competitive prices. Our core operations are focused on providing customers with quality merchandise while maintaining a strong emphasis on customer service and satisfaction. We prioritize a well-organized retail environment and efficient inventory management systems to ensure that our product offerings are readily available and appealing to shoppers. Bargain Bazaar operates in a suburban shopping center, benefiting from established customer traffic and has a history of complying with local, state, and federal retail regulations. Our team is committed to minimizing shrinkage through documented loss prevention protocols and employee training programs focused on safety and customer service. We do not engage in food preparation or cooking activities on our premises, ensuring that we maintain a low risk environment. Additionally, we restrict our incidental repair operations to well within acceptable limits, maintaining a primary focus on retail sales.",
+      "DATE BUSINESS STARTED": "06/15/2015",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500.00",
+      "POLICY #": "BB-2024-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Alliance Insurance Group",
+      "POLICY NUMBER": "BB-2022-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Four incidents of retail theft reported between 01/2022 and 10/2023, totaling $2,500. All incidents were reported to local authorities and resolved. Currently, we have enhanced security measures in place to mitigate future risks.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $250",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$100,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $500",
+      "money and securities": "$250,000 / $1,000",
+      "ADDRESS": "456 Discount Dr, Shopping Plaza, Suburbia, ST 12345-6789",
+      "Year Built": "2010",
+      "Square Feet": "15000.0",
+      "HOURS OF OPERATION": "08:00 AM - 10:00 PM",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "20",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B Vault, Grade III, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm system with a dedicated security team on-site during business hours and regular patrols around the premises.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Bargain Bazaar does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The business focuses solely on retail activities and maintains a low-risk environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Bargain Bazaar does not sponsor any athletic teams. The focus of the store is solely on retail operations and customer service.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer, Jane Doe, is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Bargain Bazaar has not had any applicants indicted or convicted of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a strong compliance and ethical standard in our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Bargain Bazaar has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The business maintains a strong compliance record with its previous carrier.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Bargain Bazaar does not lease employees to or from other employers; all employees are directly hired and managed by the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Bargain Bazaar carries Workers Compensation insurance to ensure compliance with legal requirements and protect both employees and the business.",
+      "G8: Do you own or operate any other business?": "No \u2013 Bargain Bazaar does not own or operate any other business; it solely focuses on its operations as a discount department store.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Bargain Bazaar does not have any other insurance policies with this company at this time. The only existing policy is referenced within the application.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Bargain Bazaar is not involved in manufacturing, mixing, relabeling, or repackaging of products; our focus is strictly on retail operations and providing quality merchandise to customers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Bargain Bazaar does not rent or loan equipment to others, as our primary focus is on retail operations. We maintain a low-risk environment by not engaging in such activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Bargain Bazaar has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial status.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Bargain Bazaar does not have any exposure to flammables, explosives, or chemicals as its operations focus solely on retail activities without engaging in hazardous materials. The store maintains a low-risk environment in compliance with safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Bargain Bazaar does not have any catastrophe exposure as it primarily operates as a discount department store without involvement in high-risk activities or significant environmental hazards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Bargain Bazaar has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, maintaining a strong commitment to compliance and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Bargain Bazaar has no uncorrected fire code violations and maintains compliance with all applicable fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "I absolutely love shopping at this store! It\u2019s so convenient that I can order everything online and have it delivered right to my door\u2014makes my life so much easier!",
+          "I love shopping here! They have everything from clothes to electronics at unbeatable prices.",
+          "The store is well-organized and easy to navigate. I always find what I need without any hassle.",
+          "Great discounts and a wide variety of products. I appreciate their commitment to customer service!",
+          "I had a wonderful experience at Bargain Bazaar. The checkout process was quick, and the staff was very helpful."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Department stores with more than 75% of revenue from online sales are ineligible."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Department stores with more than 75% of revenue from online sales are ineligible."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Department & Discount Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Department stores with more than 75% of revenue from online sales are ineligible."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Department stores with more than 75% of revenue from online sales are ineligible. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review that mentions the convenience of ordering everything online, which suggests a significant online sales component."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Department & Discount Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Department stores with more than 75% of revenue from online sales are ineligible."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to ineligibility: Department stores with more than 75% of revenue from online sales are ineligible.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Department stores with more than 75% of revenue from online sales are ineligible. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review that mentions the convenience of ordering everything online, which suggests a significant online sales component."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

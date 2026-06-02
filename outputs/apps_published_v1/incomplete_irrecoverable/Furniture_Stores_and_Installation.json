@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Furniture Stores & Installation",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Comfort Haven Furniture",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Comfort Lane, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator, (555) 123-4567, john.doe@comforthavenfurniture.com",
+      "GL CODE": "4001",
+      "SIC": "5712",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Comfort Haven Furniture operates as a retail furniture store located in Springfield, Illinois, specializing in the sale of quality home furnishings. Our primary operations include a well-designed showroom of under 10,000 square feet where customers can explore a curated selection of living room, dining room, and bedroom furniture, along with accessories to enhance their home decor. \n\nWe emphasize customer satisfaction through a dedicated sales team that provides personalized service, ensuring customers receive tailored recommendations to fit their style and budget. The store operates under strict safety protocols, promoting an environment that prioritizes customer and employee well-being. Delivery and installation services are handled by our in-house team, all of whom have undergone comprehensive training to ensure safe and efficient setup of purchased products.\n\nInventory is securely stored in a monitored facility, ensuring protection against potential risks. Our operations focus solely on retail, providing a range of pre-assembled and flat-pack furniture to minimize installation hazards. We maintain a clear return and warranty policy to foster trust and satisfaction among our customer base. Overall, Comfort Haven Furniture is committed to providing a superior shopping experience in a safe and controlled environment.",
+      "DATE BUSINESS STARTED": "05/01/2018",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "01/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "CH2024001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "CH2023005",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss Description: On March 15, 2023, a delivery truck was involved in a minor accident during a furniture delivery, resulting in property damage to the customer's driveway and a claim settlement of $1,200. The claim has been closed as of April 5, 2023, with no ongoing issues.",
+      "Combined Single Limit": "$1,000,000/$2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000 deductible",
+      "Medical Expense (per person)": "$5,000 / $0 deductible",
+      "Damge to Rental Premises": "$100,000 / $1,000 deductible",
+      "Professional Liability": "$1,000,000 / $2,500 deductible",
+      "Liquor Liability": "$1,000,000 / $2,500 deductible",
+      "Hired Auto": "$1,000,000 / $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 / $1,000 deductible",
+      "Computers": "$50,000 / $1,000 deductible",
+      "ordinence and law": "$500,000 / $1,000 deductible",
+      "Flood": "$500,000 / $2,500 deductible",
+      "accounts recievable": "$250,000 / $1,000 deductible",
+      "employee dishonesty": "$100,000 / $1,000 deductible",
+      "money and securities": "$50,000 / $1,000 deductible",
+      "ADDRESS": "456 Comfort Drive, Springfield, IL 62701-5678",
+      "Year Built": "2020",
+      "Square Feet": "9000.0",
+      "HOURS OF OPERATION": "Monday to Saturday: 10:00 AM - 7:00 PM, Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2022",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$800,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Monitored security system with on-site watchpersons during business hours.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Comfort Haven Furniture does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations are focused solely on retailing pre-assembled and flat-pack furniture without any hazardous materials involved.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Comfort Haven Furniture sponsors local athletic teams as part of their community engagement efforts. This involvement helps promote brand awareness and support for local initiatives.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our internal compliance team to ensure all contractors are properly insured.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Comfort Haven Furniture has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Comfort Haven Furniture has not had any policies or coverage declined, canceled, or non-renewed in the past three years. The business has maintained a clean insurance record.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Comfort Haven Furniture does not lease employees to or from other employers. All staff are directly employed and trained in-house for delivery and installation services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Comfort Haven Furniture carries workers' compensation insurance to ensure compliance with legal requirements and to protect both employees and the business from potential liabilities.",
+      "G8: Do you own or operate any other business?": "No \u2013 Comfort Haven Furniture does not own or operate any other businesses. Our focus is solely on retail furniture sales and related services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Comfort Haven Furniture does not have any other insurance policies with this company at this time. All current coverage is represented by the existing policy numbers listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Comfort Haven Furniture is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retailing pre-assembled and flat-pack furniture.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Comfort Haven Furniture does not rent or loan equipment to others; our operations focus solely on retailing furniture and related services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Comfort Haven Furniture has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, and maintains a clean financial record.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Comfort Haven Furniture does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on retailing pre-assembled and flat-pack furniture without any hazardous materials involved.",
+      "G14: Any catastrophe exposure?": "No \u2013 Comfort Haven Furniture does not have any catastrophe exposure as its operations are limited to retailing furniture without involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Comfort Haven Furniture has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a focus on compliance and ethical hiring practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Comfort Haven Furniture currently has no uncorrected fire code violations and maintains compliance with all safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Comfort Haven Furniture has a fantastic selection! The staff was incredibly helpful in finding the perfect pieces for my home.",
+          "I had a great experience with the delivery team. They were professional and set everything up quickly and efficiently.",
+          "The quality of the furniture is outstanding, and I appreciate their commitment to customer service. Highly recommend!",
+          "I love my new sofa! The installation was seamless, and the team was very friendly.",
+          "Great prices and a lovely showroom. I found exactly what I was looking for without any hassle."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Furniture Stores & Installation",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text clearly states that Comfort Haven Furniture operates solely as a retail store selling pre-assembled and flat-pack furniture, and the third-party data does not indicate any woodworking, manufacturing, or refinishing activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Furniture Stores & Installation",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text clearly states that Comfort Haven Furniture operates solely as a retail store selling pre-assembled and flat-pack furniture, and the third-party data does not indicate any woodworking, manufacturing, or refinishing activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

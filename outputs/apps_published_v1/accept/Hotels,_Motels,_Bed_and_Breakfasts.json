@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Hotels, Motels, Bed & Breakfasts",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sunnyvale Inn",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main St, Sunnyvale, CA 94086-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Manager, Sunnyvale Inn, (555) 123-4567",
+      "GL CODE": "12345",
+      "SIC": "7011",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Sunnyvale Inn, we operate as a cozy bed and breakfast with a commitment to providing an inviting atmosphere for our guests. We proudly offer up to 10 well-appointed guest rooms, ensuring that our occupancy levels remain manageable, which allows us to deliver personalized service and maintain high cleanliness standards. Guests are provided with complimentary breakfast, featuring locally sourced ingredients, while adhering to rigorous food safety protocols. Our establishment is designed with guest safety in mind, equipped with functioning fire protection systems, and we consistently comply with local fire codes. Our operations are year-round, avoiding extended seasonal closures to ensure a stable ambiance and upkeep of the property. We also have a documented housekeeping schedule to maintain our facilities, with all maintenance regularly overseen to prevent any structural issues. With a welcoming environment and attention to detail, we strive to create memorable experiences for everyone who stays at Sunnyvale Inn.\n\nCompliance Confirmation: The business does not operate a Bed & Breakfast with more than 10 guest rooms and confirms that it does not have a motel with more than 20 guest rooms. Additionally, there are no on-site bar or lounge facilities, and meals are provided to guests at no additional charge.",
+      "DATE BUSINESS STARTED": "06/15/2015",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "SUNNY-2024-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Sunnyvale Insurance Company",
+      "POLICY NUMBER": "SUNNY-2023-002",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "On 05/10/2023, a water leak from an upper-floor bathroom caused damage to three guest rooms, resulting in repairs and cleaning costs totaling $2,000. The claim is currently resolved, and no further action is needed.",
+      "Combined Single Limit": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $250 deductible",
+      "Damge to Rental Premises": "$100,000 with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Computers": "$10,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 with a $1,000 deductible",
+      "Flood": "$500,000 with a $5,000 deductible",
+      "accounts recievable": "$50,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Elm St, Sunnyvale, CA 94086-1234",
+      "Year Built": "2010",
+      "Square Feet": "1800.0",
+      "HOURS OF OPERATION": "24/7",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "10",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "$90,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B safe, UL-rated, fire-resistant, with a Grade 1 lock, suitable for hotels and B&Bs.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm system with regular patrol by security personnel.",
+      "Building limit": "$1800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Sunnyvale Inn does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus solely on providing hospitality services to our guests.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sunnyvale Inn does not sponsor any athletic teams as part of its operations. Our focus is on providing a comfortable and secure environment for our guests.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are typically checked by the management team to ensure compliance and risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or any other arson-related crime in connection with Sunnyvale Inn or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sunnyvale Inn does not lease employees to or from other employers, as we maintain a dedicated team of staff to ensure personalized service for our guests.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Sunnyvale Inn carries Workers Compensation for its employees, ensuring compliance with legal requirements and providing necessary coverage in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Sunnyvale Inn does not own or operate any other business. We are solely focused on providing hospitality services to our guests at this location.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sunnyvale Inn does not have any other insurance policies with this company at this time. The current policy number is SUNNY-2024-001, and the previous policy was SUNNY-2023-002.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sunnyvale Inn is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on providing hospitality services and offering a comfortable stay for our guests.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sunnyvale Inn does not rent or loan equipment to others, as our operations are focused solely on providing hospitality services for our guests.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There have been no foreclosures, repossessions, bankruptcies, judgments, or liens during the past five years for Sunnyvale Inn. The establishment maintains financial stability and compliance with relevant obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sunnyvale Inn does not have any exposure to flammables, explosives, or chemicals in its operations. The focus remains solely on providing hospitality services to guests in a safe and welcoming environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sunnyvale Inn has no known catastrophe exposure as we maintain rigorous safety protocols and are strategically located in a low-risk area. Our operations focus solely on providing hospitality services to guests.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at Sunnyvale Inn.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Sunnyvale Inn has no uncorrected fire code violations and consistently complies with local fire codes, ensuring a safe environment for guests.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "A charming stay at Sunnyvale Inn! The complimentary breakfast was delicious and the staff were incredibly friendly.",
+          "I loved the cozy atmosphere and the attention to detail in the rooms. Highly recommend for a relaxing getaway!",
+          "Sunnyvale Inn exceeded my expectations. The cleanliness and comfort made my stay truly enjoyable.",
+          "Great location and very welcoming staff. The complimentary breakfast was a nice touch!",
+          "I appreciated the personal touch from the owners. It felt like home away from home!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No B&Bs with more than 10 guest rooms are eligible.",
+        "No motels with more than 20 guest rooms are eligible.",
+        "No on-site bar or lounge facilities permitted.",
+        "Meals must be provided to guests at no additional charge."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Hotels, Motels, Bed & Breakfasts",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Hotels, Motels, Bed & Breakfasts",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Sunnyvale Inn is valid and meets all the necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

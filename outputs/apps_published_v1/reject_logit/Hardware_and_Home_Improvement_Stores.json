@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Hardware & Home Improvement Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Handyman's Haven",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Home Improvement Ave, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator",
+      "GL CODE": "1520",
+      "SIC": "5211",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Handyman's Haven operates as a retail hardware and home improvement store, offering a wide range of products including tools, fasteners, paint, and gardening supplies. Our operations emphasize customer engagement through in-store workshops and product demonstrations, adhering to strict safety protocols to ensure a safe shopping environment. We maintain robust employee training programs and comply with OSHA standards, which helps mitigate workplace injury risks. Our inventory management system is designed to enhance stock accuracy and reduce shrinkage, while our established vendor relationships provide a reliable supply chain. We are committed to environmental compliance regarding any hazardous materials, ensuring they are stored and labeled correctly. Our physical store location allows us to serve the community effectively, providing essential home improvement solutions while minimizing risks associated with theft and loss.",
+      "DATE BUSINESS STARTED": "06/15/2010",
+      "EFFECTIVE DATE": "07/01/2023",
+      "EXPIRATION DATE": "07/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "15000.00",
+      "POLICY #": "HHI-2023-0001",
+      "OTHER BUSINESSES OWNED": "Handyman's Haven operates a small local tool rental service under the name \"Tool Time Rentals,\" which provides tools and equipment to contractors and DIY enthusiasts in the Springfield area.",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "HHI-2022-0523",
+      "TOTAL LOSSES": "$35,000",
+      "DESCRIPTION OF LOSSES": "Losses incurred due to theft of outdoor inventory over several incidents, totaling $20,000 between April 12, 2022, and June 15, 2023. Additionally, weather-related damage to stored lumber resulted in $5,000 in losses in January 2023. Ongoing efforts to enhance security measures are in place to mitigate future risks.",
+      "Combined Single Limit": "1,000,000 / 2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "250,000 / 1,000",
+      "Professional Liability": "1,000,000 / 2,500",
+      "Liquor Liability": "1,000,000 / 2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$500,000 / $5,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$250,000 / $2,500",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "1234 Home Improvement Ave, Springfield, IL 62704-5678",
+      "Year Built": "2015",
+      "Square Feet": "10000",
+      "HOURS OF OPERATION": "Monday to Saturday: 8:00 AM - 8:00 PM; Sunday: 9:00 AM - 6:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "450000.00",
+      "TOTAL PAYROLL": "250000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial-grade, UL listed burglary safe; Class B, Group 1, with a 1-hour fire rating.",
+      "MONEY ON PREMISES": "5000.00",
+      "OTHER PROTECTION": "Central station alarm system with perimeter fencing and regular security patrols.",
+      "Building limit": "$800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "250000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Handyman's Haven does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business ensures compliance with regulations regarding any necessary hazardous materials, maintaining proper labeling and storage procedures.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Handyman's Haven does not sponsor any athletic teams as part of its community engagement or marketing strategy. The focus remains primarily on retail operations and customer interactions.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The business ensures that all certificates are verified by the designated compliance personnel before subcontractor work begins.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Handyman's Haven has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes. The business maintains strict adherence to ethical practices and legal compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Handyman's Haven has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. We maintain a stable insurance history and actively manage our risk to ensure continued coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Handyman's Haven does not lease employees to or from other employers. All employees are directly hired and managed by the business to ensure compliance and maintain operational control.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Handyman's Haven carries Workers' Compensation insurance to comply with regulatory requirements and ensure employee safety. This coverage is in place to protect against potential workplace injuries and associated liabilities.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Handyman's Haven operates a small local tool rental service named \"Tool Time Rentals,\" which serves contractors and DIY enthusiasts in the Springfield area.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Handyman's Haven does not have any other insurance policies with this company. The current policy number is HHI-2023-0001, which covers all necessary operations for the business.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Handyman's Haven is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business operates solely as a retail hardware and home improvement store, focusing on the sale of various consumer products.",
+      "G11: Do you rent or loan equipment to others?": "Yes \u2013 Handyman's Haven operates a small local tool rental service named \"Tool Time Rentals,\" which provides tools and equipment to contractors and DIY enthusiasts. This service allows us to support our customers with additional resources for their home improvement projects.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Handyman's Haven has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains good financial standing and compliance with all legal obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Handyman's Haven does not have exposure to flammables, explosives, or chemicals as part of its retail hardware operations, ensuring compliance with all safety regulations and standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 Handyman's Haven does not have any catastrophe exposure as it operates primarily in a retail setting without involvement in high-risk activities or locations prone to significant environmental hazards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Handyman's Haven has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business is committed to maintaining a safe and respectful environment for both employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Handyman's Haven does not have any uncorrected fire code violations and ensures compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 35000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of tools and home improvement supplies! The staff is always helpful and knowledgeable.",
+          "I love shopping here! They have everything I need for my DIY projects, and the prices are reasonable.",
+          "The workshops they offer are fantastic! I learned so much about home repairs and felt more confident tackling my projects.",
+          "Clean store with a wide variety of products. The checkout process was quick and efficient.",
+          "I appreciate their commitment to customer service. Every time I visit, I leave with exactly what I need."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Hardware & Home Improvement Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Hardware & Home Improvement Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

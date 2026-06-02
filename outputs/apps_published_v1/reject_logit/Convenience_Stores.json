@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Convenience Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "QuickStop Convenience Store",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Elm Street, Suite 456, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Manager, 123 Elm Street, Suite 456, Springfield, IL 62701-1234, (555) 123-4567",
+      "GL CODE": "\"Retail Convenience Store - General Liability\"",
+      "SIC": "5411",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At QuickStop Convenience Store, we operate as a retail establishment providing essential items and quick-access products to our community. Our store occupies a cozy space of under 3,000 square feet, ensuring a manageable inventory and streamlined operations. Our primary offerings include canned goods, dairy products, prepackaged meats, and a selection of shelf-stable items, alongside beverages, snacks, and novelties, all compliant with local and state regulations.\n\nWe prioritize safety and security; thus, our establishment is equipped with physical security measures such as alarm systems and surveillance cameras to deter theft and ensure a safe environment for both our customers and staff. Our operating hours are carefully maintained, closing promptly at 10 PM to minimize risks associated with late-night operations.\n\nAdditionally, we follow strict protocols for cash handling and maintain a clean, organized environment, reducing liability risks associated with slips, trips, and falls. We also have a documented emergency response plan and conduct regular staff training to ensure preparedness for potential incidents. Overall, our focus on compliance with health standards, safety measures, and operational efficiency allows us to serve our customers effectively while managing our operational risks.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,000.00",
+      "POLICY #": "QSC-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "QSC-2023-002",
+      "TOTAL LOSSES": "$300",
+      "DESCRIPTION OF LOSSES": "Loss Date: 04/15/2023; Cause: Minor theft of cash from the register; Amount: $300; Status: Closed.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $100",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "\"$1,000,000 / $1,000\"",
+      "Computers": "$25,000 / $500",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $500",
+      "ADDRESS": "456 Maple Avenue, Springfield, IL 62701-1234",
+      "Year Built": "2005",
+      "Square Feet": "2800",
+      "HOURS OF OPERATION": "10 AM - 10 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$850,000.00",
+      "TOTAL PAYROLL": "$200,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 2, UL Listed Safe, Commercial Grade, Secured with Alarm System",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Central station alarm system and 24-hour video surveillance coverage.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost",
+      "personal property limit": "$200,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 QuickStop Convenience Store does not engage in any operations involving storing, treating, discharging, applying, disposing, or transporting hazardous materials. We strictly adhere to regulations prohibiting the handling of hazardous products or chemicals.",
+      "G2: Are athletic teams sponsored?": "No \u2013 QuickStop Convenience Store does not sponsor athletic teams. Our focus is primarily on providing retail goods and ensuring compliance with relevant regulations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the management or the designated compliance officer to ensure compliance with insurance requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crimes mentioned, ensuring compliance with necessary standards for operation.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior 3 years for QuickStop Convenience Store.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 QuickStop Convenience Store does not lease employees to or from other employers. We maintain our staffing internally to ensure consistent service and operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 QuickStop Convenience Store does not currently carry Workers' Compensation insurance, as there are no employees engaged in operations that would require it. However, we adhere to all applicable regulations and prioritize the safety and well-being of our staff.",
+      "G8: Do you own or operate any other business?": "No \u2013 QuickStop Convenience Store does not own or operate any other business. We are solely focused on our retail convenience store operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 QuickStop Convenience Store does not have any other insurance policies with this company. Only the current policy is in effect.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 QuickStop Convenience Store is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations strictly focus on retailing essential items without any manufacturing processes.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 QuickStop Convenience Store does not rent or loan equipment to others, focusing solely on retailing products to customers. This policy helps maintain operational simplicity and minimizes liability risks associated with equipment rentals.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 QuickStop Convenience Store does not have any exposure to flammables, explosives, or chemicals. We strictly adhere to regulations that prohibit the handling or sale of hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 QuickStop Convenience Store does not have any catastrophe exposure, as we strictly manage operations and adhere to safety regulations to minimize risks. Our focus is on providing essential retail goods in a safe environment without exposure to high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 QuickStop Convenience Store has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strict hiring practices and compliance with relevant regulations to ensure a safe and respectful environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 QuickStop Convenience Store currently has no uncorrected fire code violations, ensuring compliance with safety regulations. We maintain our premises to adhere to all applicable fire codes.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 300,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "QuickStop is my go-to for late-night snacks! Always clean and well-stocked.",
+          "The staff is friendly and helpful. I love the variety of products they offer.",
+          "Great convenience store! They have everything I need, and the prices are reasonable.",
+          "I appreciate the quick service and the organized layout of the store.",
+          "Always a pleasant experience shopping here. Highly recommend for quick stops!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Convenience Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Convenience Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

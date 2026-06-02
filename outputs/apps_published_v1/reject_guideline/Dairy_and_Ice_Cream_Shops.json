@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Dairy & Ice Cream Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Creamy Delights Dairy Bar",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "123 Creamy Lane, Dairy Town, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, 555-123-4567",
+      "GL CODE": "REJECTED: Fire hazard due to cooking on premises without a fire suppression system.",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Creamy Delights Dairy Bar, we specialize in serving a wide variety of premium ice cream flavors, dairy-based beverages, and related desserts. Our business operates with a strong commitment to quality and customer satisfaction. We maintain strict adherence to food safety regulations by implementing comprehensive training programs for all staff to ensure they are knowledgeable about safe food handling practices.\n\nTo enhance our customers\u2019 experience, we offer a cozy ambiance and friendly service, encouraging repeat visits from our community. All products are made with high-quality, sourced ingredients, and we are progressing towards a more comprehensive ingredient labeling and allergen disclosure policy to ensure that our customers are well-informed about what they consume.\n\nWe operate a clean and well-maintained environment, performing regular equipment maintenance and cleaning to mitigate any operational hazards. As we do not conduct cooking on the premises, we do not require a fire suppression system. Our hours of operation are designed to meet the needs of our local clientele, ensuring accessibility throughout the week.\n\nOur Dairy & Ice Cream Shop features a cozy caf\u00e9 area where we prepare and cook freshly made waffle cones and hot fudge desserts for our customers.",
+      "DATE BUSINESS STARTED": "06/15/2020",
+      "EFFECTIVE DATE": "06/16/2020",
+      "EXPIRATION DATE": "06/15/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "REJECTED",
+      "POLICY #": "REJECTED: No valid policy number generated due to required fire suppression systems not being in place for cooking on premises.",
+      "OTHER BUSINESSES OWNED": "Creamy Delights Yogurt Shop",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises.",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported; shop is in violation of mandatory fire suppression system requirement for cooking on premises.",
+      "Combined Single Limit": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises.",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises.",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises.",
+      "Medical Expense (per person)": "REJECTED",
+      "Damge to Rental Premises": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises.",
+      "Professional Liability": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises.",
+      "Liquor Liability": "REJECTED: Liquor Liability limit requires compliance with fire suppression system mandates, which are currently unmet.",
+      "Hired Auto": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises.",
+      "Non-owned Auto": "REJECTED: Non-owned auto insurance is not applicable as the shop does not meet required safety provisions, including mandatory fire suppression systems for shops conducting cooking on premises.",
+      "Computers": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises, impacting all associated coverages.",
+      "ordinence and law": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises.",
+      "Flood": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises, impacting all associated coverages including flood.",
+      "accounts recievable": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises, impacting all associated coverages including accounts receivable.",
+      "employee dishonesty": "REJECTED: Employee dishonesty coverage is not applicable due to the requirement for fire suppression systems not being met, indicating a lack of overall safety compliance.",
+      "money and securities": "REJECTED: Related to the mandatory fire suppression system requirement for shops conducting cooking on premises.",
+      "ADDRESS": "456 Frosty Way, Dairy Town, CA 90210-1234",
+      "Year Built": "2018",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "10:00 AM - 10:00 PM",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "100000",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Not applicable as the shop does not conduct cooking on premises.\"",
+      "MONEY ON PREMISES": "REJECTED: Fire suppression systems are required for shops conducting cooking on premises, which affects the reported value for cash held on premises.",
+      "OTHER PROTECTION": "Security measures such as surveillance cameras and alarm systems to enhance safety and deter theft or vandalism.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "REJECTED: Fire suppression systems are required for any shop conducting cooking on premises, impacting personal property valuation type.",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The operations currently do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. However, it is important to ensure compliance with all safety regulations regarding fire suppression systems for any cooking activities on the premises.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Our shop does not sponsor athletic teams as our focus is primarily on serving ice cream and dairy-based products within the community. We prioritize our resources on quality and customer satisfaction.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this ensures risk is properly transferred. The certificates are typically checked by the insurance coordinator or designated personnel within the business.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The business has not experienced any policy or coverage declined, canceled, or non-renewed in the prior 3 years. However, it is compliant with existing coverage requirements, aside from the mandatory fire suppression system for cooking activities on the premises.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The business does not lease employees to or from other employers.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The shop does not carry Workers' Compensation due to the requirement for a fire suppression system that is currently unmet for cooking on premises. Compliance with safety regulations is crucial for obtaining necessary coverage.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The applicant operates another business, Creamy Delights Yogurt Shop, in addition to the Dairy Bar.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business does not have any other insurance policies with this company at this time. Compliance with all necessary requirements is essential for obtaining appropriate coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Creamy Delights Dairy Bar does not engage in manufacturing, mixing, relabeling, or repackaging of products. The focus is solely on serving ice cream and dairy-based beverages.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Creamy Delights Dairy Bar does not rent or loan equipment to others. This helps mitigate potential liability issues related to equipment use.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not reported any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Creamy Delights Dairy Bar does not have any exposure to flammables, explosives, or chemicals as we do not conduct cooking on the premises. However, compliance with fire suppression system requirements is essential to ensure safety.",
+      "G14: Any catastrophe exposure?": "No \u2013 Creamy Delights Dairy Bar does not have any catastrophe exposure. However, it is important to note the requirement for a fire suppression system due to cooking activities on the premises.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at our establishment. Our commitment to safe and inclusive practices ensures we maintain a positive environment for both employees and customers.",
+      "G16: Any uncorrected fire code violations?": "Yes \u2013 There are uncorrected fire code violations due to the lack of a mandatory fire suppression system for the cooking operations conducted on the premises. Compliance with fire safety regulations is essential for ensuring the safety of both staff and customers.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The ice cream here is absolutely delicious! They have a great variety of flavors to choose from.",
+          "I love the cozy atmosphere at Creamy Delights. Perfect spot for a family outing!",
+          "The staff is super friendly and always ready to help with recommendations. Highly recommend the chocolate fudge flavor!",
+          "Great place to satisfy your sweet tooth! The dairy-based beverages are a must-try.",
+          "I appreciate their commitment to quality ingredients. It's nice to know they care about what goes into their products."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Mandatory fire suppression systems are required for any shop conducting cooking on premises."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Dairy & Ice Cream Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Mandatory fire suppression systems are required for any shop conducting cooking on premises."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Mandatory fire suppression systems are required for any shop conducting cooking on premises.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the shop conducts cooking on the premises by preparing freshly made waffle cones and hot fudge desserts, which violates the fire suppression system requirement."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Dairy & Ice Cream Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Mandatory fire suppression systems are required for any shop conducting cooking on premises."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the mandatory fire suppression system requirement for cooking on premises, which is not met. Additionally, there is a violation of uncorrected fire code violations related to this requirement.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Mandatory fire suppression systems are required for any shop conducting cooking on premises.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the shop conducts cooking on the premises by preparing freshly made waffle cones and hot fudge desserts, which violates the fire suppression system requirement."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Shopping Centers & Strip Malls",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "City Center Mall",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Market Street, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Property Manager, (555) 123-4567",
+      "GL CODE": "1234",
+      "SIC": "6512",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "City Center Mall operates as a vibrant retail hub in Springfield, Illinois, featuring a diverse tenant mix primarily composed of low-risk businesses such as boutiques, professional offices, and essential services. The mall offers a welcoming environment with well-maintained facilities, ample parking, and enhanced security measures to ensure a safe shopping experience for customers. We prioritize compliance with local safety regulations and building codes, including regular fire safety inspections, which help mitigate potential risks. Our operations are focused on providing exceptional customer service, fostering community engagement, and creating a steady flow of foot traffic, which supports the long-term viability of our tenants. With a robust maintenance schedule in place, we strive to maintain our property at the highest standards, ensuring a safe and inviting shopping atmosphere for all visitors.",
+      "DATE BUSINESS STARTED": "03/15/2010",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "CCM-2023-04567",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Acme Insurance Company",
+      "POLICY NUMBER": "CCM-2022-12345",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, a slip-and-fall incident occurred in the parking lot due to icy conditions, resulting in a $2,500 claim. The claim is currently closed and resolved, with proper maintenance and snow removal procedures reviewed to prevent future occurrences.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $5,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $5,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate limit with a $5,000 deductible.",
+      "Medical Expense (per person)": "$5,000 limit with a $0 deductible",
+      "Damge to Rental Premises": "$500,000 limit with a $5,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $5,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $5,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $5,000 deductible",
+      "Flood": "$1,000,000 limit with a $5,000 deductible",
+      "accounts recievable": "$500,000 limit with a $5,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "5678 Oak Avenue, Springfield, IL 62703-5678",
+      "Year Built": "2015",
+      "Square Feet": "75000",
+      "HOURS OF OPERATION": "10:00 AM - 9:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$3,500,000.00",
+      "TOTAL PAYROLL": "$1,200,000.00",
+      "NO. OF EMPLOYEES": "50",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Enhanced security measures, including security cameras and regular patrols by security staff, along with proper fencing around the property to deter potential theft and vandalism.",
+      "Building limit": "$50",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The City Center Mall does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Operations are focused on retail activities without exposure to hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The City Center Mall does not sponsor any athletic teams. Its focus is primarily on retail operations and community engagement through its tenant mix and customer service activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The property management team checks the certificates to ensure compliance and mitigate risks.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years for the City Center Mall.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The City Center Mall does not lease employees to or from other employers; all employees are directly hired and managed by the mall's management team.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 The City Center Mall carries Workers Compensation insurance as part of its commitment to compliance and employee safety. This ensures coverage for employees in case of work-related injuries or incidents.",
+      "G8: Do you own or operate any other business?": "No \u2013 The City Center Mall does not own or operate any other business. It solely focuses on its retail operations in Springfield, Illinois.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The City Center Mall currently does not have any other insurance policies with this company aside from the ones listed. The primary policy number is CCM-2023-04567.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The City Center Mall is not involved in manufacturing, mixing, relabeling, or repackaging of products; its operations are strictly focused on retail activities and tenant services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The City Center Mall does not rent or loan equipment to others; its operations are strictly focused on retail activities and tenant services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The City Center Mall does not have any exposure to flammables, explosives, or chemicals, as its operations are strictly focused on retail activities without such risks.",
+      "G14: Any catastrophe exposure?": "No \u2013 The City Center Mall does not have any exposure to catastrophes, as it operates in a well-maintained facility with no significant risks associated with natural disasters or similar events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring for the City Center Mall. The property maintains a strong focus on compliance and risk management.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at City Center Mall, as the property is compliant with local safety regulations and undergoes regular fire safety inspections.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "City Center Mall is a fantastic shopping destination! The variety of stores and the clean environment make it a great place to spend the day.",
+          "I love the atmosphere at City Center Mall. The staff at the stores are friendly, and there are always fun events happening.",
+          "Great selection of shops and restaurants! The parking is ample, and I appreciate the security measures in place.",
+          "This mall has everything I need! From boutiques to essential services, it's a one-stop shop for all my needs.",
+          "I had a wonderful experience at City Center Mall. The layout is easy to navigate, and the facilities are well-maintained."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Shopping Centers & Strip Malls",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Shopping Centers & Strip Malls",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

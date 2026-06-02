@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Real Estate Agencies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Haven Realty Group",
+      "FEIN OR SOC SEC #": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Coverage is not available for agencies engaged in property development, construction management, or active property management.\"}",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "CONTACT FOR INSPECTION": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "GL CODE": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "SIC": "5311",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Haven Realty Group, we specialize in providing comprehensive real estate services, focusing exclusively on residential property sales and listings. Our operations encompass facilitating property transactions, engaging in detailed market analysis, and delivering exceptional client support throughout the buying and selling processes. We prioritize compliance with all applicable real estate laws and regulations, ensuring that our clients receive accurate information and secure transactions. Our team of experienced agents employs advanced technology for transaction management, enabling streamlined communications and efficient service delivery while maintaining a commitment to high ethical standards and transparency. We do not engage in property development, construction management, or active property management, which helps us mitigate potential liabilities and concentrate on our core mission of connecting buyers and sellers effectively.\n\nOur agency specializes in facilitating property development and provides comprehensive management services for residential and commercial properties, ensuring that all aspects of construction and active property oversight are expertly handled.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Coverage is not available for agencies engaged in property development, construction management, or active property management.\"}",
+      "TOTAL PREMIUM": "{}",
+      "POLICY #": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "OTHER BUSINESSES OWNED": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "PREVIOUS CARRIER": "Coverage not available due to prior association with properties under development management.",
+      "POLICY NUMBER": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Combined Single Limit": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Bodily Injury & Prop Damage Occurrrence": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Bodily Injury & Prop Damage Aggregate": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Medical Expense (per person)": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Damge to Rental Premises": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Professional Liability": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Coverage is not available for agencies engaged in property development, construction management, or active property management.\"}",
+      "Liquor Liability": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Hired Auto": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Non-owned Auto": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Computers": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "ordinence and law": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Flood": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "accounts recievable": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "employee dishonesty": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "money and securities": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "ADDRESS": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Year Built": "2021",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "\"Service\"",
+      "BUILDING IMPROVEMENTS": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "MONEY ON PREMISES": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "OTHER PROTECTION": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "personal property limit": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Haven Realty Group does not engage in operations involving the storage, treatment, discharge, application, disposal, or transportation of hazardous materials, as our focus is solely on residential property sales and transactions.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Haven Realty Group does not sponsor athletic teams as our focus is primarily on residential real estate services and transactions.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this ensures proper risk transfer and liability coverage. The agency is responsible for checking these certificates to maintain compliance and mitigate risk.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Haven Realty Group has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes connected to this or any other property. We maintain strict compliance with ethical standards in our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Haven Realty Group has not had any policies or coverage declined, canceled, or non-renewed in the past three years. Our focus on residential property sales and adherence to compliance standards has kept us in good standing with insurance providers.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Haven Realty Group does not lease employees to or from other employers as our focus is strictly on residential real estate services. We employ all staff directly to ensure compliance and maintain our service quality.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Coverage is not available for agencies engaged in property development, construction management, or active property management. Therefore, workers' compensation cannot be obtained for such activities.",
+      "G8: Do you own or operate any other business?": "No \u2013 Haven Realty Group does not own or operate any other business. Our focus is exclusively on providing residential real estate services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Haven Realty Group does not have any other insurance with this company as coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Haven Realty Group does not engage in manufacturing, mixing, relabeling, or repackaging of products; our focus is strictly on residential real estate services and transactions.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Haven Realty Group does not rent or loan equipment to others, as our operations focus exclusively on residential real estate services without engaging in equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Haven Realty Group has not had any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. We maintain a strong financial standing to support our operations in residential real estate services.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Haven Realty Group does not have any exposure to flammables, explosives, or chemicals, as our focus is solely on residential property sales and transactions, which do not involve such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Coverage is not available for agencies like Haven Realty Group that are engaged in property development, construction management, or active property management, which presents higher liability risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Haven Realty Group has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a strong commitment to ethical standards and compliance in our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Haven Realty Group does not have any uncorrected fire code violations, as we prioritize compliance with all relevant safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Haven Realty Group made my home buying experience seamless and enjoyable. Their agents are knowledgeable and truly care about their clients.",
+          "I had a fantastic experience with Haven Realty Group. They were professional, responsive, and helped me find the perfect home!",
+          "The team at Haven Realty Group is exceptional! They guided me through every step of the selling process and got me a great price.",
+          "I highly recommend Haven Realty Group for anyone looking to buy or sell a home. Their expertise and dedication are unmatched.",
+          "Haven Realty Group provided excellent service and support throughout my home purchase. I felt confident and well-informed every step of the way."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Coverage is not available for agencies engaged in property development, construction management, or active property management."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Real Estate Agencies",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is not available for agencies engaged in property development, construction management, or active property management."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the agency specializes in facilitating property development and provides comprehensive management services for residential and commercial properties."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Real Estate Agencies",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is not available for agencies engaged in property development, construction management, or active property management."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Coverage is not available for agencies engaged in property development, construction management, or active property management.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the agency specializes in facilitating property development and provides comprehensive management services for residential and commercial properties."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

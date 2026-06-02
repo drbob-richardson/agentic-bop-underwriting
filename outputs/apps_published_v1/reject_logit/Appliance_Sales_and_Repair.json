@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Appliance Sales & Repair",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Appliance Solutions & Repair",
+      "FEIN OR SOC SEC #": "45-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Appliance Ave, Suite 200  \nSpringfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Appliance Inspector, (555) 123-4567, johndoe@appliancesolutions.com",
+      "GL CODE": "RSG-9003",
+      "SIC": "5722",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Appliance Solutions & Repair, we specialize in the sale and repair of a wide range of household appliances, including refrigerators, washers, dryers, and kitchen appliances. Our operations are primarily conducted from our physical storefront located in Springfield, IL, where we maintain a secure inventory storage area that is locked and monitored. We offer both retail sales and quality repair services, ensuring all appliances are serviced by trained technicians who adhere to manufacturer installation protocols and safety standards. \n\nWe conduct on-site repairs and installations, but to minimize risk, no more than 25% of our operations occur off-site. Safety is a top priority; therefore, our electrical system has been professionally upgraded within the last five years to meet current codes, and we have a centrally monitored alarm system in place to protect our inventory. \n\nCustomer satisfaction is critical to us, and we ensure that all records of sales and repairs are meticulously maintained. Our partnerships are established with reputable manufacturers and distributors, allowing us to provide high-quality products and service.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/20/2020",
+      "EXPIRATION DATE": "01/20/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "APS-2023-0478",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "APS-2023-0052",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss Date: 07/15/2022; Cause: Minor water damage due to a plumbing issue in a customer's home during installation service; Amount: $1,200; Status: Closed.",
+      "Combined Single Limit": "$1,000,000 each occurrence / $2,000,000 aggregate, $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 each occurrence / $2,000,000 aggregate, $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate / $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person / $10,000 aggregate",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 each occurrence / $3,000,000 aggregate, $1,000 deductible",
+      "Liquor Liability": "$1,000,000 each occurrence / $2,000,000 aggregate, $1,000 deductible",
+      "Hired Auto": "$1,000,000 combined single limit / $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 combined single limit / $1,000 deductible",
+      "Computers": "$50,000 limit / $1,000 deductible",
+      "ordinence and law": "$500,000 each occurrence / $1,000,000 aggregate, $1,000 deductible",
+      "Flood": "$500,000 limit / $1,000 deductible",
+      "accounts recievable": "$100,000 limit / $1,000 deductible",
+      "employee dishonesty": "$250,000 limit / $1,000 deductible",
+      "money and securities": "$100,000 limit / $1,000 deductible",
+      "ADDRESS": "456 Appliance Way, Springfield, IL 62701",
+      "Year Built": "2015",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM - 6 PM, Saturday: 10 AM - 4 PM, Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL Certified",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm system with 24/7 monitoring and on-site watchpersons during business hours.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus solely on the sale and repair of household appliances within our retail space.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor any athletic teams as our focus is solely on the sale and repair of household appliances.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our management team to ensure compliance and mitigate liability risks.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any arson-related crimes in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years. Our insurance history has been stable and without any issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; all our staff are directly employed by Appliance Solutions & Repair.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry a Workers Compensation policy to ensure compliance and protect our employees during work-related activities.",
+      "G8: Do you own or operate any other business?": "No \u2013 We do not own or operate any other business; our focus is solely on Appliance Solutions & Repair.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We currently do not have any other insurance policies with this company. Our only policy is identified by the number APS-2023-0052.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on the sale and repair of household appliances.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others; our operations focus solely on the sale and repair of household appliances directly to customers.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, indicating financial stability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have any exposure to flammables, explosives, or chemicals as our operations focus exclusively on the sale and repair of household appliances. All materials used in our business are standard and do not include hazardous substances.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any exposure to catastrophes as our operations are primarily conducted from a secure storefront, and we focus on the sale and repair of household appliances without engaging in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations are focused on the sale and repair of household appliances with a commitment to maintaining a safe and inclusive environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations for Appliance Solutions & Repair. All fire safety measures have been addressed and are in compliance with local regulations.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great experience! The staff was knowledgeable and helped me find the perfect refrigerator for my needs.",
+          "I had a minor issue with my washing machine, and their repair service was prompt and efficient. Highly recommend!",
+          "The selection of appliances is impressive, and the prices are competitive. Will definitely return for future purchases.",
+          "Customer service was top-notch! They answered all my questions and made the buying process easy.",
+          "I appreciate the quick turnaround on my appliance repair. The technician was friendly and professional."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Appliance Sales & Repair",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Appliance Sales & Repair",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

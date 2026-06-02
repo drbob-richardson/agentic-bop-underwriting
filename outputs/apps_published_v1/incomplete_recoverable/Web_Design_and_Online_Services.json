@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Web Design & Online Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "PixelCraft Designs",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Creative Lane, Suite 100, San Francisco, CA 94105-1234",
+      "CONTACT FOR INSPECTION": "Jessica Smith, Project Manager, 555-0123, jessica@pixelcraftdesigns.com",
+      "GL CODE": "WEB-DSGN-001",
+      "SIC": "7371",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At PixelCraft Designs, we specialize in providing comprehensive web design and online services to a diverse range of clients. Our operations encompass creating stunning, responsive websites tailored to meet each client's specific needs, ensuring an engaging user experience across all devices. We focus on developing custom web applications, e-commerce platforms, and content management systems, employing the latest technologies and design trends.\n\nOur team is dedicated to maintaining high standards of cybersecurity; we implement robust measures to protect client data and adhere to relevant data protection regulations such as GDPR and CCPA. In addition, we ensure clear operational boundaries and we regularly update our risk management strategies to adapt to emerging technologies and industry shifts.\n\nWe also prioritize effective project management practices, maintaining transparent communication with our clients throughout the development process. This includes providing detailed documentation and support post-launch to ensure our clients are satisfied and their websites operate smoothly. Through our commitment to quality and compliance, we aim to deliver exceptional web solutions that help our clients succeed in the digital landscape.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "PC-2023-001",
+      "OTHER BUSINESSES OWNED": "Freelance Graphic Design Services",
+      "PREVIOUS CARRIER": "Blue Sky Insurance Group",
+      "POLICY NUMBER": "PC-2022-045",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 08/15/2022; Cause: Server malfunction leading to temporary website outages for three clients; Amount: $3,500; Status: Resolved with successful recovery and no data loss.",
+      "Combined Single Limit": "$1,000,000 combined single limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 limit with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 limit with a $500 deductible",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible",
+      "employee dishonesty": "\"$100,000 limit with a $1,000 deductible\"",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Innovation Drive, Suite 200, San Francisco, CA 94107-5678",
+      "Year Built": "2015",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 6:00 PM; Saturday by appointment only.",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Secure combination lock safe, class 5, UL labeled",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "On-site security patrols and surveillance monitoring systems to ensure the safety and security of office premises during and after business hours.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 PixelCraft Designs does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials; our operations focus solely on web design and online services. We maintain stringent compliance with safety and environmental regulations in all aspects of our business.",
+      "G2: Are athletic teams sponsored?": "No \u2013 PixelCraft Designs does not sponsor athletic teams as our focus is primarily on providing web design and online services. We do not engage in sponsorship activities outside of our core business operations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Our project manager, Jessica Smith, is responsible for checking and verifying the certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 PixelCraft Designs has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our operations are conducted with integrity and compliance in mind.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 PixelCraft Designs has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. All previous insurance policies have been maintained without issue.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 PixelCraft Designs does not lease employees to or from other employers; all our personnel are directly employed by the company. We maintain a dedicated team to ensure high-quality service and project continuity.",
+      "G7: Any Workers Compensation carried?": "No \u2013 PixelCraft Designs currently does not carry any Workers' Compensation insurance as we operate with a team of employees under specific contractual agreements. We ensure compliance with all relevant labor laws and regulations regarding employee welfare.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 PixelCraft Designs operates a freelance graphic design service in addition to our web design and online services. This allows us to offer a broader range of creative solutions to our clients.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 PixelCraft Designs does not have any other insurance with this company at this time. Our current policy covers all necessary aspects of our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 PixelCraft Designs is not involved in manufacturing, mixing, relabeling, or repackaging of products; our focus is solely on providing web design and online services to our clients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 PixelCraft Designs does not rent or loan equipment to others, as our operations focus strictly on providing web design and online services. We maintain clear operational boundaries to ensure compliance with industry standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 PixelCraft Designs has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, and we maintain strong financial practices.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 PixelCraft Designs does not have any exposure to flammables, explosives, or chemicals, as our operations are strictly limited to web design and online services. We maintain a safe work environment with no involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 PixelCraft Designs does not have any catastrophe exposure as our operations are focused solely on web design and online services, which do not involve any high-risk activities typically associated with catastrophes.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 PixelCraft Designs has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to ethical practices and compliance ensures a respectful workplace environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 PixelCraft Designs has no uncorrected fire code violations, as we adhere to all applicable fire safety regulations and conduct regular inspections to ensure compliance.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had such a great experience with this web design company! They not only revamped my website beautifully but also created an amazing video ad that perfectly captured my brand's essence. Highly recommend their services!",
+          "The team at PixelCraft was professional and responsive throughout the entire process. Highly recommend their services!",
+          "I was impressed with how quickly they understood my vision and brought it to life. Great experience overall!",
+          "Their customer support is top-notch! They were always available to answer my questions and guide me through the process.",
+          "I love my new website! The design is sleek and user-friendly, and I've already seen an increase in traffic."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Exclude businesses engaged in media production activities."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Exclude businesses engaged in media production activities."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Web Design & Online Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Exclude businesses engaged in media production activities."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Exclude businesses engaged in media production activities. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review mentioning the creation of a 'video ad,' which suggests involvement in media production activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Web Design & Online Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Exclude businesses engaged in media production activities."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: Exclude businesses engaged in media production activities. The applicant's description includes creating video ads, which falls under media production.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Exclude businesses engaged in media production activities. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review mentioning the creation of a 'video ad,' which suggests involvement in media production activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

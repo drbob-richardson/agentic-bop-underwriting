@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Department & Discount Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ValueMart Discount Store",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "1234 Retail Lane, Suite 100, Suburbia, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "N/A",
+      "GL CODE": "\"GL-DEP-100\"",
+      "SIC": "Reject",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "ValueMart Discount Store operates as a discount department store offering a wide variety of consumer goods, including clothing, household items, electronics, and personal care products. We focus primarily on in-store sales, providing a physical shopping experience to customers in our suburban location, which enhances community engagement and customer loyalty. Our store layout is designed for easy navigation, promoting an enjoyable shopping experience. We maintain robust inventory management practices to keep our product range updated and appealing to our clientele. We do not engage in significant food preparation or installation services, ensuring compliance with retail regulations while minimizing risks associated with non-retail operations. Our team is well-trained in customer service and safety protocols to enhance security and customer satisfaction.\n\nOur department store primarily sells products through our online platform, generating over 75% of our revenue from e-commerce transactions while also maintaining a brick-and-mortar presence for customer support and local sales.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"0\"",
+      "POLICY #": "N/A",
+      "OTHER BUSINESSES OWNED": "OnlineRetailHub, an e-commerce platform focusing on discount consumer goods and operated separately from the physical store.",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "N/A",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported. Business primarily engages in physical retail operations, adhering to compliance requirements.",
+      "Combined Single Limit": "\"0\"",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000 Limit with a $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "\"$1,000,000 / $2,000,000 Limit with a $1,000 Deductible\"",
+      "Medical Expense (per person)": "N/A",
+      "Damge to Rental Premises": "\"$0 Limit with a $0 Deductible\"",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "\"$0 Limit with a $0 Deductible\"",
+      "Non-owned Auto": "\"$0 Limit with a $0 Deductible\"",
+      "Computers": "\"Not covered due to ineligibility based on revenue from online sales.\"",
+      "ordinence and law": "reject",
+      "Flood": "\"Not covered due to ineligibility based on revenue from online sales.\"",
+      "accounts recievable": "\"Not covered due to ineligibility based on revenue from online sales.\"",
+      "employee dishonesty": "Not covered due to ineligibility based on revenue from online sales.",
+      "money and securities": "Not covered due to ineligibility based on revenue from online sales.",
+      "ADDRESS": "1234 Retail Lane, Suite 100, Suburbia, ST 12345-6789",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "reject",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "Not applicable due to online sales revenue exceeding acceptable limits.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "\"$0\"",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Heavy-duty safe, Class D, UL listed\"",
+      "MONEY ON PREMISES": "Not applicable due to online sales revenue exceeding acceptable limits.",
+      "OTHER PROTECTION": "Not applicable due to ineligibility based on revenue from online sales.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "Not applicable due to ineligibility based on revenue from online sales.",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "\"\"\"\"",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The business does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Its operations are focused solely on retail with no involvement in hazardous material management.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ValueMart Discount Store does not sponsor any athletic teams. The focus is solely on retail operations, and there are no initiatives related to sports sponsorships.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are typically verified by the insured party or their risk management team to ensure compliance and reduce liability exposure.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "Yes \u2013 The store has experienced a decline in coverage as it operates an e-commerce platform, OnlineRetailHub, which generates significant online revenue.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ValueMart Discount Store does not lease employees to or from other employers, focusing solely on its in-house staff for retail operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 ValueMart Discount Store does not carry Workers Compensation as it does not have any employees and operates primarily as a physical retail store. Additionally, due to revenue from online operations exceeding acceptable limits, coverage is ineligible.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 ValueMart Discount Store owns and operates an additional business, OnlineRetailHub, which is an e-commerce platform focusing on discount consumer goods, separate from its physical retail operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ValueMart Discount Store is not eligible for coverage as it generates more than 75% of revenue from online sales through its e-commerce platform, OnlineRetailHub. Therefore, any insurance with this company cannot be processed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ValueMart Discount Store does not engage in manufacturing, mixing, relabeling, or repackaging of products. Its operations are focused solely on retailing a variety of consumer goods.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ValueMart Discount Store does not rent or loan equipment to others as part of its retail operations. The business primarily focuses on offering a variety of consumer goods for sale directly to customers in-store.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ValueMart Discount Store has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. All operations are focused on compliant retail practices without significant financial distress.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ValueMart Discount Store does not have any exposure to flammables, explosives, or chemicals, as its operations focus solely on retailing a variety of consumer goods without any hazardous materials involvement.",
+      "G14: Any catastrophe exposure?": "Yes \u2013 ValueMart Discount Store generates over 75% of its revenue from online sales through its e-commerce platform, OnlineRetailHub, which makes it ineligible for coverage under the current guidelines.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ValueMart Discount Store has not reported any past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring. The operations focus on retail with no significant risk exposure in these areas.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ValueMart Discount Store does not have any uncorrected fire code violations. The business maintains compliance with fire safety regulations and ensures the safety of its operations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "ValueMart has a great selection of household items at unbeatable prices! Always my go-to for everyday needs.",
+          "I love shopping here! The staff is friendly and the store is always well-organized.",
+          "Found exactly what I needed at a fantastic price. Highly recommend for budget shoppers!",
+          "The variety of products is impressive, and I appreciate the clean and welcoming atmosphere.",
+          "Great discounts on clothing and home goods! I always leave with more than I planned to buy."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Department stores with more than 75% of revenue from online sales are ineligible."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Department & Discount Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Department stores with more than 75% of revenue from online sales are ineligible."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Department stores with more than 75% of revenue from online sales are ineligible.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business generates over 75% of its revenue from e-commerce transactions."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Department & Discount Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Department stores with more than 75% of revenue from online sales are ineligible."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the specific reason that department stores with more than 75% of revenue from online sales are ineligible. This reason is clearly present in the application. No other violations exist that would affect the rejection.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Department stores with more than 75% of revenue from online sales are ineligible.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business generates over 75% of its revenue from e-commerce transactions."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

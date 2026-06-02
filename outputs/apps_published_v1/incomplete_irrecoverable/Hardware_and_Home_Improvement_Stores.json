@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Hardware & Home Improvement Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Home Essentials Hardware",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Main St, Springfield, IL 62701-3210",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "7611",
+      "SIC": "5211",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Home Essentials Hardware operates as a retail hardware store offering a wide range of products including tools, paint, garden supplies, and home improvement materials. Our primary focus is on providing quality merchandise to both DIY enthusiasts and professional contractors. We emphasize a strong commitment to safety and environmental compliance, ensuring all products are well-labeled and stored in accordance with applicable regulations. Additionally, we maintain a comprehensive inventory management system to minimize shrinkage and enhance customer satisfaction. Our store conducts regular audits and employee training sessions to uphold safety protocols, and we actively participate in community engagement through workshops and demonstrations to foster customer loyalty and education. Our strong vendor relationships further ensure our operations are sustainable and efficient, promoting a safe shopping experience for our customers.",
+      "DATE BUSINESS STARTED": "03/15/2015",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$4,500.00",
+      "POLICY #": "HHD-2023-5412",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "HHD-2022-3021",
+      "TOTAL LOSSES": "$1,250",
+      "DESCRIPTION OF LOSSES": "Loss dates: 05/15/2023; Cause: Theft of outdoor inventory due to insufficient security measures; Amount: $1,000; Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 limit with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 limit with a $0 deductible",
+      "Damge to Rental Premises": "$250,000 limit with a $500 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $5,000 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$500,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "5678 Elm St, Springfield, IL 62701-3210",
+      "Year Built": "1985",
+      "Square Feet": "8000.0",
+      "HOURS OF OPERATION": "07:00 AM - 08:00 PM",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$500,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Heavy-duty fire safe, UL Class 350, Grade 1, labeled for fire and water protection.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Security patrol services and reinforced fencing to protect the outdoor inventory.",
+      "Building limit": "$1215000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost valuation for personal property.",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Home Essentials Hardware does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The store adheres to all applicable safety and environmental regulations, ensuring compliance in its product offerings.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Home Essentials Hardware does not sponsor any athletic teams. The business focuses primarily on retail operations and community engagement through workshops and product demonstrations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the management team to ensure compliance and risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Home Essentials Hardware has not had any applicant indicted or convicted of fraud, bribery, arson, or any related crime in connection with this or any other property. The business maintains a strong commitment to ethical practices and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Home Essentials Hardware has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The business maintains a strong compliance record with its insurance requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Home Essentials Hardware does not lease employees to or from other employers, ensuring full control over staffing and operational practices.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Home Essentials Hardware carries Workers' Compensation insurance, ensuring compliance with legal requirements and protecting both employees and the business.",
+      "G8: Do you own or operate any other business?": "No \u2013 Home Essentials Hardware does not own or operate any other business, focusing solely on its retail hardware operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Home Essentials Hardware does not have any other insurance policies with this company. The only existing policy is the primary coverage under the policy number HHD-2023-5412.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Home Essentials Hardware is not involved in manufacturing, mixing, relabeling, or repackaging of products; we focus solely on retail operations. Our commitment is to provide quality merchandise while adhering to all applicable regulations.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Home Essentials Hardware does not rent or loan equipment to others. The business focuses on retail sales of hardware products rather than equipment rental services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Home Essentials Hardware has not had any foreclosure, repossession, bankruptcy, judgment, or lien within the past five years, ensuring a stable financial standing for the business.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Home Essentials Hardware does not have any exposure to flammables, explosives, or chemicals, as we strictly adhere to safety and environmental regulations in our product offerings.",
+      "G14: Any catastrophe exposure?": "No \u2013 Home Essentials Hardware does not have any catastrophe exposure as we operate in compliance with safety regulations and maintain a secure environment for our inventory and customers.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Home Essentials Hardware has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains strong ethical practices and compliance with all relevant regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Home Essentials Hardware has no uncorrected fire code violations, ensuring compliance with safety regulations and maintaining a secure shopping environment for customers.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 1250,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of tools and home improvement supplies! The staff is always helpful and knowledgeable.",
+          "I love shopping here! They have everything I need for my DIY projects, and the prices are reasonable.",
+          "The store is well-organized, making it easy to find what I'm looking for. Highly recommend for any home improvement needs!",
+          "I had a fantastic experience with their customer service. They went above and beyond to help me find the right paint for my project.",
+          "This hardware store has a great atmosphere and a wide variety of products. I always leave satisfied with my purchases."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for stores lacking required business licenses or permits."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Hardware & Home Improvement Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for stores lacking required business licenses or permits."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "There is no mention in the application text or third-party data indicating that the business lacks required licenses or permits."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Hardware & Home Improvement Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for stores lacking required business licenses or permits."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to lack of required business licenses or permits.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "There is no mention in the application text or third-party data indicating that the business lacks required licenses or permits."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

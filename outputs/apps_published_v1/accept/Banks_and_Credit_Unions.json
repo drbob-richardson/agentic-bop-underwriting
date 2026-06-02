@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Banks & Credit Unions",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "First Community Bank",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Main Street, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Officer, Phone: (555) 123-4567, Email: john.smith@firstcommunitybank.com",
+      "GL CODE": "1000",
+      "SIC": "6021",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "First Community Bank is dedicated to providing high-quality financial services to individuals and small businesses within our local community. We offer a wide range of banking products, including personal and business checking and savings accounts, loans, and credit services. Our operations are designed to prioritize customer service and compliance with regulatory standards, ensuring the security of our clients' financial information. Our facility features secure vaults with restricted access to sensitive areas, and we adhere to stringent safety protocols to prevent theft and fraud. Regular staff training programs equip our employees with the knowledge needed to maintain a safe and compliant banking environment. Additionally, we are committed to fostering financial literacy within the community through outreach initiatives and educational programs.\n\nCompliance Confirmation: The business does not engage in predominantly bailee operations and confirms that it maintains a documented and up-to-date compliance program. Additionally, we do not accept risks associated with institutions that have unresolved or recent regulatory violations, nor do we accept institutions involved in the storage or sorting of cardboard, paper, or rags.",
+      "DATE BUSINESS STARTED": "01/01/2000",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$7,500.00",
+      "POLICY #": "FCB-2024-001",
+      "OTHER BUSINESSES OWNED": "Community financial outreach initiatives and educational programs focusing on financial literacy.",
+      "PREVIOUS CARRIER": "First National Insurance Company",
+      "POLICY NUMBER": "FCB-2023-002",
+      "TOTAL LOSSES": "$750",
+      "DESCRIPTION OF LOSSES": "Loss Date: 06/15/2023, Cause: Minor theft incident involving cash drawer, Amount: $750.00, Status: Resolved, with all security protocols reviewed and reinforced.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $5,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit with a $5,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 Limit with a $5,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit with a $1,000 Deductible",
+      "Damge to Rental Premises": "$500,000 Limit with a $2,500 Deductible",
+      "Professional Liability": "$1,000,000 Limit with a $5,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit with a $5,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit with a $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit with a $1,000 Deductible",
+      "Computers": "$500,000 Limit with a $5,000 Deductible",
+      "ordinence and law": "$1,000,000 Limit with a $5,000 Deductible",
+      "Flood": "$1,000,000 Limit with a $5,000 Deductible",
+      "accounts recievable": "$1,000,000 Limit with a $5,000 Deductible",
+      "employee dishonesty": "$500,000 Limit with a $5,000 Deductible",
+      "money and securities": "$500,000 Limit with a $5,000 Deductible",
+      "ADDRESS": "123 Main Street, Suite 100, Springfield, IL 62701-1234",
+      "Year Built": "2005",
+      "Square Feet": "3500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 5:00 PM; Saturday: 9:00 AM - 12:00 PM; Closed on Sunday",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$900000",
+      "TOTAL PAYROLL": "$750,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Secure Class V vault with advanced biometric access controls and fire-resistant grade II protection.",
+      "MONEY ON PREMISES": "$100,000",
+      "OTHER PROTECTION": "Secure fencing with 24/7 surveillance by trained security personnel to ensure the safety of assets and restrict unauthorized access to sensitive areas.",
+      "Building limit": "$1093500",
+      "building % Coinsurance": "90",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 First Community Bank does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of its operations. The bank is focused on providing financial services and maintains secure facilities in compliance with safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 First Community Bank does not sponsor athletic teams as part of its business operations, which are primarily focused on providing financial services to the local community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer checks the certificates to ensure that all requirements are met.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 First Community Bank has not had any applicants indicted or convicted of any degree of the crime of fraud, bribery, arson, or any related crime in connection with this or any other property. The institution maintains a strong compliance and ethical standards framework.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 First Community Bank has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. The institution maintains a strong compliance and operational framework to ensure coverage continuity.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 First Community Bank does not lease employees to or from other employers; all personnel are directly employed by the bank.",
+      "G7: Any Workers Compensation carried?": "No \u2013 First Community Bank does not currently carry Workers\u2019 Compensation insurance, as we do not have any employees on payroll at this time.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 First Community Bank is involved in community financial outreach initiatives and educational programs focusing on financial literacy. These initiatives complement the bank's primary financial services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 First Community Bank currently does not have any other insurance policies with this company listed. The primary policy number for the current coverage is FCB-2024-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 First Community Bank is not involved in manufacturing, mixing, relabeling, or repackaging of products. The bank focuses solely on providing financial services to individuals and small businesses in the community.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 First Community Bank does not rent or loan equipment to others as part of its operations, focusing solely on providing financial services within the community.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 First Community Bank has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial position during this period.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 First Community Bank does not have any exposure to flammables, explosives, or chemicals as our operations are focused solely on providing financial services, ensuring a safe and compliant environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 First Community Bank does not have any catastrophe exposure, as its operations are solely focused on providing financial services and do not involve activities that would increase such risk. The bank maintains secure facilities and adheres to strict safety protocols.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 First Community Bank has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, maintaining a strong operational and compliance framework.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 First Community Bank has no uncorrected fire code violations and maintains compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 750,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "First Community Bank has been my go-to for all my banking needs. Their customer service is top-notch!",
+          "I appreciate the friendly staff and the quick service at First Community Bank. Highly recommend!",
+          "Great experience with their loan process. They made everything easy to understand and were very helpful.",
+          "The online banking features are user-friendly and reliable. I love managing my accounts with ease.",
+          "First Community Bank truly cares about the community. Their financial literacy programs are a great resource!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Institutions must have a documented and up-to-date compliance program.",
+        "No acceptance of risks with unresolved or recent regulatory violations.",
+        "Institutions must not engage in predominantly bailee operations.",
+        "No acceptance of institutions involved in storage or sorting of cardboard, paper, or rags."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Banks & Credit Unions",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Banks & Credit Unions",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for First Community Bank is valid and meets all acceptance criteria.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

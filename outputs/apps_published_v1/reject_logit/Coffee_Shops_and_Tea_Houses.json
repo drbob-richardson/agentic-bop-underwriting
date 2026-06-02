@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Coffee Shops & Tea Houses",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Brewed Awakenings Coffee House",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Brew Lane, Coffee City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Manager, Brewed Awakenings Coffee House, (555) 123-4567, john.smith@brewedawakenings.com",
+      "GL CODE": "1234-5678",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Brewed Awakenings Coffee House specializes in serving a variety of freshly brewed coffees, teas, and light snacks in a warm, inviting atmosphere. Our operations focus on providing quality beverages and exceptional customer service to create a welcoming community space. We maintain a seating capacity of no more than 150 patrons to ensure a comfortable environment and adhere to strict safety protocols. Our premises are thoroughly cleaned and maintained to meet health standards, and we continuously comply with all local health and safety regulations. Our menu is carefully crafted to include brewed beverages and light meals, with no high-risk cooking methods employed, ensuring a safe dining experience. We are committed to providing our products without any alcohol service, which helps us manage liability risks effectively. Regular staff training in food safety and customer service further enhances our operational standards, keeping both our customers and team safe.",
+      "DATE BUSINESS STARTED": "01/15/2021",
+      "EFFECTIVE DATE": "03/01/2021",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "BACP-2023-CA-001",
+      "OTHER BUSINESSES OWNED": "Brewed Awakenings Tea Room",
+      "PREVIOUS CARRIER": "Starbucks Insurance Group",
+      "POLICY NUMBER": "BACP-2022-CA-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Losses incurred during a recent plumbing issue on 08/15/2023 due to a pipe burst, causing damage to flooring and equipment in the coffee preparation area, amounting to $1,200. The claim is currently in processing status with the insurance provider.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 Limit with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 Limit with a $500 deductible",
+      "Damge to Rental Premises": "$100,000 Limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 Limit with a $2,500 deductible",
+      "Liquor Liability": "\"$1,000,000 Limit with a $5,000 deductible\"",
+      "Hired Auto": "$500,000 Limit with a $1,000 deductible",
+      "Non-owned Auto": "$500,000 Limit with a $1,000 deductible",
+      "Computers": "$50,000 Limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 Limit with a $2,500 deductible",
+      "Flood": "$500,000 Limit with a $1,000 deductible",
+      "accounts recievable": "$250,000 Limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 Limit with a $1,000 deductible",
+      "money and securities": "$10,000 Limit with a $500 deductible",
+      "ADDRESS": "456 Brewsbury Avenue, Coffee City, CA 90210-5678",
+      "Year Built": "2015",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "06:00 AM - 08:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$450,000.00",
+      "TOTAL PAYROLL": "$180,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 2 Safe, Grade A, Secured with Central Station Alarm",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm system with 24-hour monitoring and perimeter fencing to enhance security.",
+      "Building limit": "$7500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Brewed Awakenings Coffee House does not store, treat, discharge, apply, dispose of, or transport hazardous materials. Our operations focus solely on food and beverage service, adhering to safety and health standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Brewed Awakenings Coffee House does not sponsor any athletic teams, as our focus is primarily on providing quality beverages and fostering a welcoming atmosphere for our community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the management or designated personnel within the business.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Brewed Awakenings Coffee House has not had any policies or coverages declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Brewed Awakenings Coffee House does not lease employees to or from other employers; all staff are directly employed by the business.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Brewed Awakenings Coffee House carries Workers Compensation insurance to ensure compliance with legal requirements and to protect our employees in the event of work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Brewed Awakenings Coffee House owns and operates another business, Brewed Awakenings Tea Room, which focuses on serving a variety of teas and light refreshments in a similar community-focused environment.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Brewed Awakenings Coffee House does not have any other insurance policies with this company besides the current one listed. The only policy number provided is for the existing coverage, which is BACP-2023-CA-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Brewed Awakenings Coffee House is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on serving brewed beverages and light snacks.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Brewed Awakenings Coffee House does not rent or loan equipment to others; our operations focus solely on providing coffee, tea, and snacks to our customers. We prioritize maintaining the quality and safety of our own equipment.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Brewed Awakenings Coffee House has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The financial standing remains stable, contributing to a solid operational foundation.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Brewed Awakenings Coffee House does not have any exposure to flammables, explosives, or chemicals. Our operations focus solely on serving brewed beverages and light snacks, adhering to strict safety standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 Brewed Awakenings Coffee House does not have any catastrophe exposure as our operations are focused on providing coffee and light snacks in a well-maintained environment, adhering closely to safety standards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Brewed Awakenings Coffee House has no past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring. We prioritize a safe and respectful environment for both our employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Brewed Awakenings Coffee House has no uncorrected fire code violations and maintains compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "5"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 5,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Brewed Awakenings is my go-to spot for coffee! The atmosphere is cozy, and the staff is always friendly.",
+          "I love their selection of teas and the light snacks they offer. Perfect place to relax or get some work done.",
+          "The coffee here is top-notch! I appreciate their commitment to quality and customer service.",
+          "Great place to meet friends! The seating is comfortable, and the vibe is always welcoming.",
+          "I highly recommend the seasonal specials! They always have something new and delicious to try."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Coffee Shops & Tea Houses",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Coffee Shops & Tea Houses",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

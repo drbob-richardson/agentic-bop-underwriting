@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Army/Navy/Military Surplus Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Surplus Army Gear",
+      "FEIN OR SOC SEC #": "20-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Military Rd, Suite A, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator, 555-123-4567, john.doe@surplusarmygear.com",
+      "GL CODE": "Retail Store Operations Code  Retail Inventory Management Code  Military/Army/Navy Surplus Retail Code",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Surplus Army Gear specializes in the retail sales of military and navy surplus items sourced exclusively from domestic government auctions and approved military surplus wholesalers. Our operations include a diverse inventory ranging from clothing, gear, and outdoor equipment to tactical accessories, ensuring compliance with all local, state, and federal regulations. We maintain a strong emphasis on safety and security through comprehensive fire and water protection systems, such as sprinklers and alarm systems, while ensuring that high-value inventory is stored in secured areas. Our team undergoes regular training in regulatory compliance and safe handling of military surplus goods. Additionally, we have implemented a robust inventory management system that tracks item origins and values, guaranteeing continuous assessment of our inventory through annual appraisals. Online sales are managed with encrypted payment processing to ensure customer data protection. Overall, our commitment to regulatory compliance and safety helps us minimize risks while providing quality products to our customers.",
+      "DATE BUSINESS STARTED": "03/15/2015",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "A1B2C3D4",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "State Farm Insurance",
+      "POLICY NUMBER": "A1B2C3D4",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, we experienced a theft incident resulting in a loss of $1,500. Items taken included clothing and tactical gear. The case is currently under investigation by local law enforcement. Additionally, on July 5, 2023, water damage caused by a plumbing issue resulted in a loss of $1,000. The damage has been repaired, and the issue has been addressed to prevent future occurrences.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Limit, $1,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit, $500 Deductible",
+      "Damge to Rental Premises": "$100,000 Limit, $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit, $1,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit, $2,500 Deductible",
+      "Hired Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Computers": "$100,000 Limit, $1,000 Deductible",
+      "ordinence and law": "$1,000,000 Limit, $1,000 Deductible",
+      "Flood": "$500,000 Limit, $2,500 Deductible",
+      "accounts recievable": "$250,000 Limit, $1,000 Deductible",
+      "employee dishonesty": "$100,000 Limit, $1,000 Deductible",
+      "money and securities": "$100,000 Limit, $1,000 Deductible",
+      "ADDRESS": "1234 Military Supply Ave, Springfield, IL 62704",
+      "Year Built": "1985",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "Monday to Saturday: 9 AM - 7 PM; Sunday: 10 AM - 5 PM",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$800,000.00",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Secured Fireproof Safe, Class 0, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central Station Monitoring and Regular Security Patrols",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus solely on retailing military surplus items sourced from domestic government auctions and approved wholesalers, ensuring compliance with all safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Our business does not sponsor athletic teams, as we focus solely on retailing military surplus items.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the designated compliance officer in our organization to ensure coverage is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes concerning this business or its property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years. All insurance needs have been adequately met without any interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers as our staffing is managed in-house, ensuring consistency in operations and compliance with our regulatory commitments.",
+      "G7: Any Workers Compensation carried?": "No \u2013 We currently do not carry any Workers' Compensation insurance as our business operations do not include employees that require such coverage under state law.",
+      "G8: Do you own or operate any other business?": "No \u2013 We do not own or operate any other business; our focus is solely on Surplus Army Gear, which specializes in the retail sale of military and navy surplus items.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Currently, there are no other insurance policies with this company aside from the one mentioned. We have focused solely on obtaining the necessary coverage for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on the retail sale of military and navy surplus items sourced from approved suppliers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others; our focus is solely on retailing military surplus items. This ensures we maintain control over our inventory and comply with all regulatory requirements.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There have been no foreclosures, repossessions, bankruptcies, judgments, or liens during the past five years. Our financial standing remains stable.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Our business operations do not involve any exposure to flammables, explosives, or chemicals, as we focus solely on retailing military surplus items sourced from approved domestic suppliers.",
+      "G14: Any catastrophe exposure?": "No \u2013 Our operations do not involve any exposure to catastrophic risks, as we focus exclusively on the retail sales of military surplus items sourced from approved domestic auction channels and maintain robust safety measures in our store.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at Surplus Army Gear. We prioritize a safe and compliant work environment for all employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at Surplus Army Gear. We maintain compliance with all fire safety regulations and have implemented comprehensive fire protection systems including sprinklers and alarms.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of military gear! The staff is knowledgeable and always ready to help.",
+          "I found exactly what I needed for my camping trip. Prices are reasonable and the quality is excellent.",
+          "This store has a fantastic variety of surplus items. I love browsing through the unique finds!",
+          "Friendly staff and a well-organized store. I appreciate their commitment to safety and compliance.",
+          "A hidden gem for outdoor enthusiasts! The tactical gear section is impressive and well-stocked."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Army/Navy/Military Surplus Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Army/Navy/Military Surplus Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

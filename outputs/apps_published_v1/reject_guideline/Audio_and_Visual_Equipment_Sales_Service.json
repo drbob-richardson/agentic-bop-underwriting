@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Audio & Visual Equipment Sales/Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "AUDIO VISUAL SOLUTIONS INC.",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 A/V Equipment Blvd, Suite 200, Los Angeles, CA 90001-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, audio.visual@solutionsinc.com, (555) 987-6543",
+      "GL CODE": "REJECTED",
+      "SIC": "7699",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Audio Visual Solutions Inc. specializes in the retail sale and rental of high-quality audio and visual equipment, including televisions, amplifiers, speakers, projectors, and professional lighting systems. We pride ourselves on offering new products exclusively, ensuring that all equipment meets safety and performance standards. Our rental services cater to various events such as corporate functions, weddings, and private parties, with a comprehensive inventory managed through an effective inventory control system. Installation and repair services are provided by certified technicians with significant experience, allowing us to maintain high professional standards. To safeguard our operations, we adhere to strict security measures at our dedicated retail location and ensure that all equipment is regularly maintained and tested.\n\nOur business specializes in the sale and servicing of audio and visual equipment, and as part of our operations, we engage in video rentals for customers looking to enjoy a variety of films and media.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RENEWAL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "REJECTED",
+      "OTHER BUSINESSES OWNED": "Video rental operation providing unlicensed A/V media.",
+      "PREVIOUS CARRIER": "XYZ Insurance Company",
+      "POLICY NUMBER": "REJECTED",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Video rental operation providing unlicensed A/V media, amount: $0, status: unresolved.",
+      "Combined Single Limit": "{\"Combined Single Limit\": \"reject\"}",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$500 / $500",
+      "Professional Liability": "reject",
+      "Liquor Liability": "\"$1,000,000 / $500\"",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "$0 / $500",
+      "ordinence and law": "\"$100,000 / $500\"",
+      "Flood": "$500 / $5,000",
+      "accounts recievable": "reject",
+      "employee dishonesty": "{\"limit\":\"$100,000\",\"deductible\":\"$500\"}",
+      "money and securities": "{\"limit\":\"$50,000\",\"deductible\":\"$500\"}",
+      "ADDRESS": "1234 A/V Equipment Blvd, Suite 200, Los Angeles, CA 90001-1234",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "10:00 AM - 6:00 PM, Monday to Saturday; Closed on Sunday",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "reject",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL Listed 1-Hour Fire Safe",
+      "MONEY ON PREMISES": "{\"limit\":\"$5,000\",\"deductible\":\"$500\"}",
+      "OTHER PROTECTION": "Video surveillance system with remote monitoring.",
+      "Building limit": "$150000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual Cash Value (ACV)",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The operations of Audio Visual Solutions Inc. do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials, as they specialize in retail sales and rental of audio and visual equipment. They utilize strict inventory management and maintain safety standards to ensure compliance.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The company does not sponsor athletic teams as it primarily focuses on the retail and rental of audio and visual equipment.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this is essential for risk transfer. The company's management is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has an ongoing video rental operation providing unlicensed A/V media, which raises concerns regarding compliance with legal and operational standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The applicant has not experienced any policy or coverage declined, canceled, or non-renewed during the prior 3 years. However, there's an ongoing concern regarding the video rental operation providing unlicensed A/V media.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Audio Visual Solutions Inc. does not lease employees to or from other employers. Their operations are conducted in-house with a stable team of five employees.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The business does not currently have any Workers\u2019 Compensation carried, which is a requirement for companies with employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The business operates a video rental operation providing unlicensed A/V media, which is a concern in terms of compliance with legal and operational standards.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business does not have any other insurance with this company, as indicated by the responses provided. Additionally, the current operations are associated with unlicensed media, which raises compliance concerns.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Audio Visual Solutions Inc. is not involved in manufacturing, mixing, relabeling, or repackaging of products. The company focuses solely on the retail sale and rental of high-quality audio and visual equipment.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The company does not rent or loan equipment to others, as their operations are centered around retail sales and managed rental services, ensuring compliance and risk management.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not reported any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. However, their operations include an ongoing video rental business providing unlicensed A/V media, which raises compliance concerns.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Audio Visual Solutions Inc. does not have any exposure to flammables, explosives, or chemicals, as their operations are focused solely on the retail and rental of audio and visual equipment.",
+      "G14: Any catastrophe exposure?": "No \u2013 The video rental operation providing unlicensed A/V media creates a significant concern regarding compliance with legal standards, which impacts the overall risk assessment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The business has not reported any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. However, it's important to note that they operate a video rental business providing unlicensed A/V media, which raises compliance concerns.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are uncorrected fire code violations as the business is required to have a central station or local alarm system, which is not in place, raising concerns about compliance with fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of audio and visual equipment! The staff was very knowledgeable and helped me find exactly what I needed.",
+          "I rented a projector for my event, and it worked perfectly. The setup was easy, and the team was very supportive.",
+          "Fantastic service! They installed my new sound system quickly and efficiently. Highly recommend for any A/V needs.",
+          "I love shopping here! The prices are competitive, and the quality of the products is top-notch.",
+          "The customer service is outstanding! They took the time to explain all the features of the equipment I was interested in."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Video rental stores must have a central station or local alarm system."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Audio & Visual Equipment Sales/Service",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Video rental stores must have a central station or local alarm system."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Video rental stores must have a central station or local alarm system.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business engages in video rentals, which violates the guideline requiring a central station or local alarm system for video rental stores."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Audio & Visual Equipment Sales/Service",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Video rental stores must have a central station or local alarm system."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the violation of the specific rule that states video rental stores must have a central station or local alarm system. Additionally, there are other violations present, including the operation of a video rental business providing unlicensed A/V media, which is not acceptable.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Video rental stores must have a central station or local alarm system.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business engages in video rentals, which violates the guideline requiring a central station or local alarm system for video rental stores."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

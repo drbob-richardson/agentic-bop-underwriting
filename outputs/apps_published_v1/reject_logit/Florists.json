@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Florists",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Bloom & Blossom Florist",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Flower Lane, Suite 100, Garden City, NY 11530-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, 555-123-4567, john@bloomblossom.com",
+      "GL CODE": "0013",
+      "SIC": "5992",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Bloom & Blossom Florist, we specialize in providing high-quality floral arrangements for a variety of occasions, including weddings, corporate events, and everyday celebrations. Our operations are centered around a licensed retail storefront where we maintain compliance with local health and safety regulations. We work closely with trusted suppliers to source fresh flowers and greenery, ensuring that we provide our customers with the best possible products. Our team is trained in safe handling procedures and customer service, allowing us to fulfill orders promptly while maintaining high customer satisfaction ratings. We also conduct regular risk assessments to mitigate any operational risks associated with our delivery and event setup activities. All offsite setups undergo mandatory safety assessments to ensure safe working conditions for our staff and clients. Additionally, we implement secure packaging and route planning for all deliveries to minimize product loss or damage, thereby enhancing our service reliability and reputation in the community.",
+      "DATE BUSINESS STARTED": "04/01/2020",
+      "EFFECTIVE DATE": "11/01/2023",
+      "EXPIRATION DATE": "11/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,200.00",
+      "POLICY #": "BLOOM1234",
+      "OTHER BUSINESSES OWNED": "Flower Delivery Services LLC, 456 Blossom Avenue, Garden City, NY 11530-5678",
+      "PREVIOUS CARRIER": "Floral Insurance Co.",
+      "POLICY NUMBER": "BLOOM5678",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Losses incurred due to an unexpected refrigeration failure on May 15, 2023, resulting in the spoilage of perishable floral arrangements, totaling $1,800. Current status: being assessed for insurance coverage. Additionally, on June 10, 2023, a delivery vehicle accident caused cosmetic damage to the truck, amounting to $700, which has been repaired and the cost covered by the business account.",
+      "Combined Single Limit": "$1,000,000 combined single limit, $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate limit / $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 limit / $1,000 deductible",
+      "Damge to Rental Premises": "$100,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit / $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit / $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit / $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit / $1,000 deductible",
+      "Computers": "$20,000 limit / $1,000 deductible",
+      "ordinence and law": "$500,000 limit / $1,000 deductible",
+      "Flood": "$500,000 limit / $1,000 deductible",
+      "accounts recievable": "$500,000 limit / $1,000 deductible",
+      "employee dishonesty": "$50,000 limit / $1,000 deductible",
+      "money and securities": "$50,000 limit / $1,000 deductible",
+      "ADDRESS": "456 Blossom Avenue, Garden City, NY 11530-5678",
+      "Year Built": "1985",
+      "Square Feet": "1200",
+      "HOURS OF OPERATION": "08:00 AM - 07:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$450,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial-grade safe, Class B, UL listed for cash and valuables storage.",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Fencing installed around the property and monitored by security personnel during high-traffic events.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Bloom & Blossom Florist does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of their operations. Their focus is primarily on retail floral arrangements and related services, adhering to local health and safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Bloom & Blossom Florist does not sponsor athletic teams as part of their business operations. Their focus is primarily on providing floral arrangements and related services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The responsibility for checking certificates typically falls to the operations manager or designated compliance officer within the business.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Bloom & Blossom Florist has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance policies have been maintained without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Bloom & Blossom Florist does not lease employees to or from other employers. All employees are directly hired and managed by our business.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Bloom & Blossom Florist carries Workers' Compensation insurance for its employees to ensure compliance with legal requirements and provide coverage for workplace-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Bloom & Blossom Florist also operates another business called Flower Delivery Services LLC, located at 456 Blossom Avenue, Garden City, NY 11530-5678. This helps diversify our offerings and enhances our floral service capabilities.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Bloom & Blossom Florist currently does not have any other insurance policies with this company beyond the one noted in the application. All necessary coverage is maintained through the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Bloom & Blossom Florist is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retail floral arrangements and related services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Bloom & Blossom Florist does not rent or loan equipment to others as part of their operations, focusing solely on providing floral arrangements and related services from their licensed retail storefront.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Bloom & Blossom Florist has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, indicating financial stability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Bloom & Blossom Florist does not have exposure to flammables, explosives, or chemicals as our operations primarily focus on retail floral arrangements and adhere to local health and safety regulations. We ensure safe handling procedures are in place for any incidental use of materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Bloom & Blossom Florist does not have any catastrophe exposure as their operations focus on retail floral arrangements and related services, adhering to local safety regulations without involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Bloom & Blossom Florist has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Their focus remains on providing floral arrangements while adhering to operational and regulatory standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Bloom & Blossom Florist has no uncorrected fire code violations and maintains compliance with local fire safety regulations.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Bloom & Blossom Florist created the most beautiful arrangements for my wedding! Their attention to detail was incredible.",
+          "I ordered a bouquet for my mother's birthday, and it was stunning! The flowers were fresh and lasted for weeks.",
+          "Great service and friendly staff! They helped me pick the perfect flowers for my event and delivered them on time.",
+          "I love this florist! They always have unique arrangements and the quality is top-notch. Highly recommend!",
+          "The team at Bloom & Blossom is amazing! They went above and beyond to ensure my floral needs were met for my corporate event."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Florists",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Florists",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

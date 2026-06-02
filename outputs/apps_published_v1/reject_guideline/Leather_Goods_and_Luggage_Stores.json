@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Leather Goods & Luggage Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Leather & Luggage Co.",
+      "FEIN OR SOC SEC #": "\"123-45-6789\"",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "123 Leather Lane, Suite 100, Chicago, IL 60614-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Store Manager",
+      "GL CODE": "\"GL-009\"",
+      "SIC": "4231",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Leather & Luggage Co. specializes in retailing a diverse range of premium leather goods and luggage products, focusing on quality craftsmanship and exceptional customer service. Our operations include sourcing high-quality materials, maintaining a well-organized inventory that is securely monitored to prevent losses, and providing a seamless shopping experience both in-store and through our established online sales platform. We ensure that all our products meet the highest standards of durability and design, appealing to both local and global customers. Our team is trained in loss prevention strategies, enhancing our operational reliability and minimizing risks associated with theft or vandalism claims, which are crucial to maintaining our business integrity.\n\nOur store prioritizes customer accessibility and engagement, often leaving our doors unlocked during business hours to encourage foot traffic and browse-in visits, while relying on our friendly staff to monitor the area.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "POL-2023-LGC-001",
+      "OTHER BUSINESSES OWNED": "\"Leather & Luggage Warehouse, LLC - 456 Luggage Blvd, Chicago, IL 60614\"",
+      "PREVIOUS CARRIER": "LeatherGuard Insurance Co.",
+      "POLICY NUMBER": "POL-2023-LGC-002",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "On March 3, 2023, an employee discovered an inventory discrepancy that led to a loss of $5,000 due to a minor theft incident. The store was equipped with basic security measures, including locked display cases and alarm systems. The case is currently under review, and measures have been implemented to improve security protocols.",
+      "Combined Single Limit": "reject",
+      "Bodily Injury & Prop Damage Occurrrence": "reject",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000 deductible",
+      "Medical Expense (per person)": "$5,000 / $0 deductible",
+      "Damge to Rental Premises": "$20,000 / $1,000 deductible",
+      "Professional Liability": "{\"limit\":\"$1,000,000\",\"deductible\":\"$1,000\"}",
+      "Liquor Liability": "reject",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "reject",
+      "ordinence and law": "reject",
+      "Flood": "reject",
+      "accounts recievable": "reject",
+      "employee dishonesty": "$25,000 / $1,000 deductible",
+      "money and securities": "reject",
+      "ADDRESS": "456 Secure Street, Chicago, IL 60614",
+      "Year Built": "2010",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "\"Monday to Saturday: 10:00 AM - 6:00 PM; Sunday: Closed\"",
+      "Distance to hydrant": "75 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$320,000",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Class II, UL Listed, Grade 1 Safe with biometric access and 24/7 monitoring system.\"",
+      "MONEY ON PREMISES": "$1,000",
+      "OTHER PROTECTION": "Basic security protocols are in place, including a monitoring system for inventory storage, and staff are trained in loss prevention strategies.",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual cash value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The operations of Leather & Luggage Co. do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. The business focuses solely on retailing leather goods and luggage products, ensuring all operations adhere to safety and environmental standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Leather & Luggage Co. does not sponsor athletic teams, as our primary focus is on retailing leather goods and luggage products without involvement in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this ensures proper risk transfer. The store manager, John Smith, checks the certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Leather & Luggage Co. has not experienced any policies or coverage that were declined, canceled, or non-renewed during the prior three years. The business has maintained a consistent insurance history without disruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Leather & Luggage Co. does not lease employees to or from other employers, as our operations are fully managed by our in-house staff, ensuring a consistent and secure work environment.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Leather & Luggage Co. does not carry Workers\u2019 Compensation insurance, which is required for businesses with employees. They currently have zero employees, which makes them exempt from this requirement.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Leather & Luggage Co. owns and operates another business, Leather & Luggage Warehouse, LLC, which is involved in similar retail operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Leather & Luggage Co. does not have any other insurance policies with this company currently. The business primarily operates with the listed insurance policy for its retail activities.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Leather & Luggage Co. is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations focus solely on the retail of leather goods and luggage. This ensures we adhere to safety standards without engaging in any manufacturing processes.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Leather & Luggage Co. does not rent or loan equipment to others, as our operations focus solely on retailing leather goods and luggage products. This policy helps us maintain control over our inventory and minimize associated risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Leather & Luggage Co. has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Leather & Luggage Co. does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on retailing leather goods and luggage products without involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Leather & Luggage Co. has adequate security measures in place, including monitored inventory storage and staff trained in loss prevention strategies, effectively reducing risks associated with theft.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Leather & Luggage Co. has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains strict hiring practices and a secure environment to prevent such issues.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Leather & Luggage Co. does not have any uncorrected fire code violations, which ensures compliance with safety standards for operations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I recently purchased a leather bag from Leather & Luggage Co. and couldn't be happier with the quality and craftsmanship!",
+          "The staff at Leather & Luggage Co. were incredibly helpful in finding the perfect luggage for my trip. Highly recommend!",
+          "Great selection of leather goods! I found exactly what I was looking for, and the prices are reasonable.",
+          "I love my new leather wallet from Leather & Luggage Co.! The customer service was top-notch, making my shopping experience enjoyable.",
+          "Leather & Luggage Co. has a fantastic range of products. I appreciate their commitment to quality and customer satisfaction."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Businesses with poor or inadequate security measures are restricted."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Leather Goods & Luggage Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Businesses with poor or inadequate security measures are restricted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Businesses with poor or inadequate security measures are restricted.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text reveals inadequate security measures by stating that the store often leaves its doors unlocked during business hours, relying on staff to monitor the area, which suggests poor security."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Leather Goods & Luggage Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Businesses with poor or inadequate security measures are restricted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to poor or inadequate security measures, as indicated by the lack of an alarm system and the practice of leaving doors unlocked during business hours. This violates the specific restriction regarding security measures.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Businesses with poor or inadequate security measures are restricted.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text reveals inadequate security measures by stating that the store often leaves its doors unlocked during business hours, relying on staff to monitor the area, which suggests poor security."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

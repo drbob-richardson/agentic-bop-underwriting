@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Embroidery & Custom Apparel",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Stitch & Style Custom Apparel",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Stitch Way, Suite 100, Fabric City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Operations Manager, (123) 456-7890, johndoe@stitchandstyle.com",
+      "GL CODE": "GJ-92123",
+      "SIC": "KB-13",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Stitch & Style Custom Apparel, we specialize in providing high-quality embroidery and custom apparel services tailored to our clients' unique needs. Our operations involve a state-of-the-art production facility equipped with commercial-grade machinery that is meticulously maintained to ensure safety and efficiency. We produce a variety of custom clothing items, including uniforms, promotional wear, and personalized gifts, primarily for businesses, schools, and corporate events. Our dedicated team follows strict quality control protocols, ensuring that all finished products meet our high standards before delivery. We take pride in our reliable supply chain, sourcing materials from established vendors to guarantee quality and consistency. Our commitment to health and safety is paramount; all staff members undergo training on equipment use and safety protocols, fostering a safe work environment. We operate within local regulatory compliance to ensure that our business practices are legally sound and responsible.\n\nCompliance Confirmation: The business does not engage in any high-risk repairs, including lithium-ion battery refurbishment, and confirms that all operations strictly adhere to local alarm and security requirements. Additionally, we ensure that the total contents value does not exceed $750,000 and do not offer any private or personal service components, such as medi-spa or cosmetic treatments.",
+      "DATE BUSINESS STARTED": "01/15/2021",
+      "EFFECTIVE DATE": "02/01/2021",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "POLICY-2023-EMB-001",
+      "OTHER BUSINESSES OWNED": "Stitch & Style Embroidery Co.",
+      "PREVIOUS CARRIER": "Stitch Insurers America",
+      "POLICY NUMBER": "POLICY-2022-EMB-002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Loss dates: 03/12/2022, cause: Water damage from a recent heavy rainstorm causing flooding in the production area, amount: $2,500, status: Resolved. Loss dates: 05/18/2023, cause: Minor fire due to equipment malfunction, amount: $2,500, status: Under review for insurance claim.",
+      "Combined Single Limit": "$500,000 per occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate limit with a $2,500 deductible.",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible.",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $5,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $2,500 deductible",
+      "Computers": "\"$50,000 limit with a $1,000 deductible\"",
+      "ordinence and law": "$500,000 limit with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "1234 Stitch Avenue, Suite 100, Fabric City, CA 90210-1234",
+      "Year Built": "2018",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 5:00 PM; Saturday: 10:00 AM - 3:00 PM; Closed on Sunday",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$600000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Commercial-grade safe with electronic lock, Class B, UL listed for cash and valuables storage.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Local security patrol services for enhanced theft prevention.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual cash value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 We do not store, treat, discharge, apply, dispose of, or transport hazardous materials in our operations. Our business primarily focuses on embroidery and custom apparel, ensuring compliance with all safety and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Our company sponsors local athletic teams by providing them with custom apparel for uniforms and events, promoting community engagement and support.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are verified by the designated compliance officer to ensure all required documentation is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any arson-related crime in connection with this or any other property related to our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 We have not had any policy or coverage declined, canceled, or non-renewed in the prior three years. All our insurance needs have been consistently met without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; all our staff are directly employed by our company to maintain operational efficiency and control.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers Compensation insurance to ensure coverage for our employees in case of workplace injuries or illnesses, complying with state regulations.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 We own and operate another business called Stitch & Style Embroidery Co., which also focuses on embroidery services. This allows us to maintain a strong presence in the custom apparel industry while diversifying our service offerings.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We currently do not have any other insurance policies with this company beyond our existing coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Our operations focus solely on embroidery and custom apparel services, which do not involve manufacturing, mixing, relabeling, or repackaging of products beyond incidental retail private label activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others; all our machinery is utilized exclusively for our in-house embroidery and custom apparel operations. This helps us maintain quality control and minimize potential liability risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There has been no foreclosure, repossession, bankruptcy, judgment, or lien in the past five years for Stitch & Style Custom Apparel. The business has maintained financial stability and compliance during this period.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Our operations do not involve any exposure to flammables, explosives, or chemicals, as we focus solely on embroidery and custom apparel services. All materials used are safe and compliant with industry standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any catastrophe exposure as our operations are solely focused on embroidery and custom apparel, without involvement in high-risk activities or hazardous materials.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 We have not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize a safe and compliant work environment for all employees.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Stitch & Style Custom Apparel. All safety and code compliance measures are up to date.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Stitch & Style Custom Apparel did an amazing job on our team uniforms! The quality of the embroidery is top-notch.",
+          "I love my custom hoodie from Stitch & Style! The fit is perfect, and the design turned out exactly as I envisioned.",
+          "Great service and fast turnaround! They really listened to my ideas and brought them to life beautifully.",
+          "The staff at Stitch & Style are incredibly helpful and friendly. They made the whole process easy and enjoyable.",
+          "I highly recommend Stitch & Style for any custom apparel needs. Their attention to detail is impressive!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Strict adherence to local alarm and security requirements is mandatory.",
+        "No high-risk repairs, such as lithium-ion battery refurbishment, are permitted.",
+        "Contents value must not exceed $750,000.",
+        "No private or personal service components, including medi-spa or cosmetic treatments, allowed."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Embroidery & Custom Apparel",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Embroidery & Custom Apparel",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Stitch & Style Custom Apparel is valid and meets all underwriting criteria.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

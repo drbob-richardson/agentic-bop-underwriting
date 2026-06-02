@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Boiler & Furnace Installation/Repair",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Reliable Heat Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main St, Suite 100, Springfield, IL 62701-2345",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, Reliable Heat Solutions, john.smith@reliableheat.com, (555) 123-4567",
+      "GL CODE": "\"5537\"",
+      "SIC": "1711",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "Reliable Heat Solutions specializes in the installation and repair of residential heating systems, including boilers and furnaces, with a strong focus on safety and compliance with local building codes. Our operations include comprehensive maintenance contracts for both residential and light commercial clients, ensuring that heating systems operate efficiently and reliably. All our technicians are OSHA-certified, ensuring adherence to safety regulations and industry best practices. We utilize manufacturer-approved parts and engage in seasonal hiring of additional trained staff to manage peak demand effectively while maintaining high-quality service standards. Regular internal audits and documentation of safety procedures are conducted to support proactive risk management, ensuring a seamless and safe experience for our customers.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "RH2023-001",
+      "OTHER BUSINESSES OWNED": "Reliable HVAC Services, Inc. - Specializing in HVAC maintenance and repair.",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "RH2022-456",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 06/15/2023; Cause: Water damage from a leaky boiler during repairs; Amount: $1,500; Status: Resolved with insurance claim processed.",
+      "Combined Single Limit": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $500 deductible",
+      "Damge to Rental Premises": "$50,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$500,000 limit with a $2,500 deductible",
+      "Flood": "$100,000 limit with a $1,000 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Heating Lane, Springfield, IL 62701",
+      "Year Built": "1965",
+      "Square Feet": "1200",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 2:00 PM; Sunday: Closed",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$250,000.00",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL Listed",
+      "MONEY ON PREMISES": "$2,000.00",
+      "OTHER PROTECTION": "Fencing and patrol service during after-hours to enhance site security and protect equipment.",
+      "Building limit": "$250000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value for residential heating systems.",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Reliable Heat Solutions does not involve any operations related to storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our focus is solely on the installation and repair of residential heating systems without exposure to hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Reliable Heat Solutions does not sponsor athletic teams. Our focus is solely on providing heating system installation and repair services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The project manager is responsible for checking the certificates to ensure compliance with safety and insurance standards.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions of any degree related to fraud, bribery, arson, or any other arson-related crime in connection with this or any other property for any applicant associated with Reliable Heat Solutions.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Reliable Heat Solutions has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. All insurance policies have remained active and in good standing.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Reliable Heat Solutions does not lease employees to or from other employers; our team is comprised solely of our own employees.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Reliable Heat Solutions carries Workers\u2019 Compensation insurance to ensure compliance with legal requirements and protect our employees in case of work-related injuries. All policies are active and in good standing.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Reliable Heat Solutions also operates Reliable HVAC Services, Inc., which specializes in HVAC maintenance and repair. Both businesses focus on providing quality service in the heating industry.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Reliable Heat Solutions does not have any other insurance policies with this company at the moment. All operations are covered under the existing policy outlined.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Reliable Heat Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the installation and repair of residential heating systems.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Reliable Heat Solutions does not rent or loan equipment to others. Our focus is solely on the installation and repair of heating systems for our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Reliable Heat Solutions has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The financial status remains stable and compliant with all regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Reliable Heat Solutions does not have any exposure to flammables, explosives, or chemicals in our operations, as we focus solely on the installation and repair of residential heating systems.",
+      "G14: Any catastrophe exposure?": "No \u2013 Reliable Heat Solutions has no exposure to catastrophes, as we specialize in residential heating system installation and repair without involvement in high-risk environments or activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Reliable Heat Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a strong focus on compliance and risk management within our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Reliable Heat Solutions confirms that there are no uncorrected fire code violations. Our operations strictly adhere to safety regulations and local building codes.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Reliable Heat Solutions did an excellent job installing our new furnace. The team was professional and efficient!",
+          "I had a great experience with their repair service. They were quick to respond and fixed the issue in no time.",
+          "The technicians were knowledgeable and explained everything clearly. Highly recommend for any heating needs!",
+          "I appreciate their commitment to safety and compliance. It gives me peace of mind knowing my heating system is in good hands.",
+          "Their maintenance contract is worth every penny! Our heating system runs smoothly thanks to their regular check-ups."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Boiler & Furnace Installation/Repair",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Boiler & Furnace Installation/Repair",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

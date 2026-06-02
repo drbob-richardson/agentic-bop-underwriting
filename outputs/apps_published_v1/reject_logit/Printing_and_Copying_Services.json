@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Printing & Copying Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "PrintWorks Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Print Lane, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, Phone: (555) 123-4567, Email: john.smith@printworkssolutions.com",
+      "GL CODE": "12345",
+      "SIC": "2752",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At PrintWorks Solutions, we specialize in providing high-quality printing and copying services to businesses and individuals. Our operations include digital and offset printing, copying, and finishing services such as binding and lamination. We utilize modern equipment and maintain a preventive maintenance schedule to ensure optimal performance and minimize breakdowns. Our team is trained on equipment usage and hazardous material handling, aligning with safety regulations to create a safe working environment. With a commitment to customer satisfaction, we offer prompt service and flexible solutions tailored to our clients' needs. Our facility is designed with effective ventilation systems to mitigate exposure to any volatile organic compounds (VOCs) that may arise during printing processes. Additionally, we have implemented a robust cybersecurity plan to ensure the protection of customer data, as we offer online ordering options.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "PW-2023-0012",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "PW-2023-0456",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Losses occurred between March 1, 2023, and March 15, 2023, due to equipment malfunction resulting in production downtime. The total amount for lost revenue and repair costs was $4,200. The issue has since been resolved, and preventive maintenance procedures have been reinforced to avoid future occurrences.",
+      "Combined Single Limit": "$1,000,000 combined single limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate limit with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 per person",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$100,000 limit with a $1,000 deductible",
+      "ordinence and law": "$500,000 limit with a $2,500 deductible",
+      "Flood": "\"$500,000 limit with a $2,500 deductible\"",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$250,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Copy Street, Suite 200, Springfield, IL 62701-2345",
+      "Year Built": "2010",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM to 6 PM; Saturday: 10 AM to 4 PM; Closed Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$400,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 2, Insulated Vault Construction",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Fencing and security personnel on-site during operational hours to enhance safety and security.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 PrintWorks Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials beyond incidental use related to inks and solvents in their printing processes. They have implemented safety measures and ventilation systems to manage any risks associated with these materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 PrintWorks Solutions does not sponsor athletic teams. Our focus is primarily on providing high-quality printing and copying services to businesses and individuals.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The responsibility for checking certificates falls to the management team, specifically the Operations Manager, John Smith.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 PrintWorks Solutions has not had any applicant indicted or convicted of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company maintains a commitment to ethical practices in all its operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 PrintWorks Solutions has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The company has maintained a consistent insurance history without any adverse actions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 PrintWorks Solutions does not lease employees to or from other employers. Our workforce is comprised entirely of direct employees who are trained and managed within our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 PrintWorks Solutions carries Workers\u2019 Compensation insurance to ensure compliance with legal requirements and to protect our employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 PrintWorks Solutions does not own or operate any other business. The company focuses solely on providing high-quality printing and copying services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 PrintWorks Solutions does not have any other insurance policies with this company at this time. The current policy is the only one maintained.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 PrintWorks Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing printing and copying services using established processes.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 PrintWorks Solutions does not rent or loan equipment to others. Our focus is solely on providing in-house printing and copying services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 PrintWorks Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company's financial history remains stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 PrintWorks Solutions does not have any significant exposure to flammables, explosives, or chemicals beyond incidental use related to inks and solvents in their printing processes, which are managed with safety measures and effective ventilation systems.",
+      "G14: Any catastrophe exposure?": "No \u2013 PrintWorks Solutions does not have any catastrophe exposure as their operations are focused on standard printing and copying services without involvement in high-risk activities associated with catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 PrintWorks Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a commitment to ethical practices and compliance with all relevant regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 PrintWorks Solutions confirms that there are no uncorrected fire code violations. The company maintains compliance with fire safety regulations and addresses any potential issues promptly.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "PrintWorks Solutions provided excellent service for my printing needs. The staff was friendly and the quality was top-notch!",
+          "I had a great experience with their copying services. Fast turnaround and very professional.",
+          "The team at PrintWorks is always helpful and accommodating. They really go the extra mile for their customers.",
+          "I love the variety of printing options available. My brochures turned out beautifully!",
+          "Affordable prices and quick service! I highly recommend PrintWorks for any printing projects."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Printing & Copying Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Printing & Copying Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to a history of claims, which is a concern as per the specific restrictions regarding businesses with a history of frequent or severe insurance claims.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

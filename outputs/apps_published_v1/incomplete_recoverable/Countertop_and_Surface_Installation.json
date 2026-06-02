@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Countertop & Surface Installation",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Countertop Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 4B, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "TBC-45",
+      "SIC": "1793",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "At Precision Countertop Solutions, we specialize in the installation of a wide range of countertop and surface materials, including granite, quartz, marble, and laminate. Our operations encompass every phase of the project, from initial consultation and design to careful measurement, fabrication, and final installation. We pride ourselves on maintaining strict adherence to local building codes and fire safety regulations, as these are fundamental to ensuring the safety and satisfaction of our clients. \n\nAll our installers are highly trained and have a minimum of three years of experience, ensuring accuracy and quality in every installation. We conduct thorough risk assessments before commencing any project, identifying potential hazards to mitigate risks effectively. Clear contracts specifying the scope, payment terms, and timelines are established for each job to prevent misunderstandings and disputes.\n\nTo enhance our service, we maintain only the highest standards of material handling and storage procedures, reducing the chances of damage during transit and installation. This commitment to quality and safety is reflected in our clean claims history, reinforcing our reputation as a reliable choice for countertop installation services.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "PC-2023-SCS-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "PC-2022-SCS-045",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, while performing an installation at a residential property, a team member accidentally dropped a granite slab, resulting in a material loss valued at $1,000. The incident was reported immediately, and the loss was resolved through our inventory adjustment protocols without any impact on client satisfaction. Status: Closed.",
+      "Combined Single Limit": "$1,000,000/$2,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000 Limit; $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $4,000,000 Limit; $2,500 Deductible",
+      "Medical Expense (per person)": "$5,000 per person",
+      "Damge to Rental Premises": "$100,000 / $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit; $2,500 Deductible",
+      "Liquor Liability": "$1,000,000 Limit; $2,500 Deductible",
+      "Hired Auto": "$1,000,000 Limit; $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit; $2,500 Deductible",
+      "Computers": "$50,000 limit; $1,000 deductible",
+      "ordinence and law": "$1,000,000 Limit; $2,500 Deductible",
+      "Flood": "$500,000 Limit; $1,000 Deductible",
+      "accounts recievable": "$100,000 Limit; $1,000 Deductible",
+      "employee dishonesty": "$100,000 Limit; $1,000 Deductible",
+      "money and securities": "\"$100,000 Limit; $1,000 Deductible\"",
+      "ADDRESS": "456 Oak Lane, Suite 101, Springfield, IL 62704-6789",
+      "Year Built": "2015",
+      "Square Feet": "800.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8 AM - 5 PM; Saturday: 9 AM - 3 PM; Closed Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class II, Grade 1, 5-Year Burglary Protection Label",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Perimeter fencing and on-site watchpersons for enhanced security during installation projects.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Precision Countertop Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its countertop installation operations. The company adheres strictly to safety and regulatory standards related to its business activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Precision Countertop Solutions does not sponsor athletic teams as our focus remains on providing high-quality countertop installation services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 All subcontractors must provide a certificate of insurance before they can commence work. Our team is responsible for verifying these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Precision Countertop Solutions has not been indicted or convicted of any crime related to fraud, bribery, arson, or any arson-related offenses in connection with this or any other property. The company maintains a strong commitment to ethical practices and compliance with all legal standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Precision Countertop Solutions has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. The company has maintained a consistent insurance history without interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Precision Countertop Solutions does not lease employees to or from other employers, maintaining full control over its workforce for installation projects.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Precision Countertop Solutions carries Workers\u2019 Compensation insurance to comply with legal requirements and ensure the safety of its employees during installation operations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Precision Countertop Solutions does not own or operate any other business; we focus solely on our countertop and surface installation services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Countertop Solutions currently does not have any other insurance policies with this company. All insurance coverage is concentrated under the existing policy with this carrier.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Precision Countertop Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. The company solely focuses on the installation of various countertop and surface materials.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Precision Countertop Solutions does not rent or loan equipment to others, focusing solely on our installation services to ensure quality and control.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Precision Countertop Solutions has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Precision Countertop Solutions does not have exposure to flammables, explosives, or chemicals as part of its countertop installation operations, adhering strictly to safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Precision Countertop Solutions does not have any exposure to catastrophes as part of its countertop installation operations. The company focuses on safe practices and operates within compliance of all relevant regulations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Precision Countertop Solutions has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to ethical practices and compliance with all employment regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Precision Countertop Solutions has no uncorrected fire code violations, as we strictly adhere to all local building codes and fire safety regulations. Our commitment to compliance ensures the safety and satisfaction of our clients.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "I was really impressed that the team took care of everything, including bringing in their own subcontractors who handled the installation while I enjoyed a stress-free day! It's great to see such thoroughness in their service.",
+          "I highly recommend this company! Their team was professional, punctual, and the quality of work exceeded my expectations.",
+          "Great experience from start to finish. They helped me choose the perfect quartz for my bathroom and the installation was flawless.",
+          "The staff at Precision Countertop Solutions were knowledgeable and friendly. They made the whole process easy and stress-free.",
+          "I love my new countertops! The attention to detail during installation was impressive, and I appreciate their commitment to quality."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "All subcontractors must provide proof of current liability insurance before commencing work."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "All subcontractors must provide proof of current liability insurance before commencing work."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Countertop & Surface Installation",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "All subcontractors must provide proof of current liability insurance before commencing work."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "All subcontractors must provide proof of current liability insurance before commencing work. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The application states that all subcontractors must provide a certificate of insurance before commencing work, but the third-party data mentions subcontractors handling installations, which raises concerns about compliance with the insurance requirement."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Countertop & Surface Installation",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "All subcontractors must provide proof of current liability insurance before commencing work."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application cannot be accepted due to the violation of the rule: All subcontractors must provide proof of current liability insurance before commencing work.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "All subcontractors must provide proof of current liability insurance before commencing work. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The application states that all subcontractors must provide a certificate of insurance before commencing work, but the third-party data mentions subcontractors handling installations, which raises concerns about compliance with the insurance requirement."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

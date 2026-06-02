@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Libraries & Museums",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Heritage Haven Museum",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Heritage Lane, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Inspection Coordinator, (555) 123-4567, jane.doe@heritagehavenmuseum.org",
+      "GL CODE": "GL-1001",
+      "SIC": "8412",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Heritage Haven Museum specializes in preserving and showcasing historical artifacts and promoting cultural education through various exhibits and community programs. Our operations include the careful curation, cataloging, and display of collections, ensuring all exhibits comply with current safety and accessibility standards. We are committed to providing a secure environment for both our collections and visitors, employing comprehensive safety measures. The museum operates with a documented emergency response plan to address potential risks related to fire, water, and other environmental threats. Staff members are trained in collection handling and preservation techniques, ensuring that our valuable materials are well cared for. Additionally, we maintain climate control systems throughout the facility to protect artifacts from environmental damage, and regularly conduct maintenance checks to uphold safety and operational standards. We also limit after-hours access to authorized personnel only, minimizing the risk of theft or damage. Overall, our mission is to foster a safe and engaging learning environment that enriches the community and preserves our shared heritage.",
+      "DATE BUSINESS STARTED": "01/15/2005",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "HPL-2024-MUSE-0012",
+      "OTHER BUSINESSES OWNED": "Artistic Insights Gallery, an unlisted art gallery specializing in local artists and cultural exhibitions.",
+      "PREVIOUS CARRIER": "Heritage Insurance Group",
+      "POLICY NUMBER": "HPL-2023-MUSE-0045",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "The Heritage Haven Museum experienced a theft incident on March 15, 2023, where several historical artifacts valued at $2,500 were stolen during a community event. The security measures were operational at the time, and the museum completed a thorough investigation. This incident is currently marked as resolved with measures implemented to enhance protocols.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$50,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "456 Community Way, Springfield, IL 62701-5678",
+      "Year Built": "1995",
+      "Square Feet": "35000.0",
+      "HOURS OF OPERATION": "09:00 AM - 05:00 PM, Monday to Friday; 10:00 AM - 04:00 PM, Saturday; Closed Sunday",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class: Class III, Grade: A, Label: High Security Vault, Equipped with advanced surveillance systems and access control mechanisms.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Comprehensive security system with surveillance cameras, alarm monitoring, and controlled access points for visitors and staff.",
+      "Building limit": "$717446",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Heritage Haven Museum does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. We focus on preserving and showcasing historical artifacts while ensuring compliance with safety standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Heritage Haven Museum does not sponsor athletic teams as its focus is on preserving historical artifacts and promoting cultural education through exhibits and community programs.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The organization checks the certificates to ensure compliance and proper risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Heritage Haven Museum does not lease employees to or from other employers. All staff are directly employed by the museum.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The Heritage Haven Museum does not currently carry Workers' Compensation insurance. However, they are in compliance with applicable state laws and regulations regarding employee coverage.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The Heritage Haven Museum also operates Artistic Insights Gallery, which specializes in local artists and cultural exhibitions.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Heritage Haven Museum does not have any other insurance policies with this company at this time. The only existing policy is specifically for the museum's operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Heritage Haven Museum is not involved in manufacturing, mixing, relabeling, or repackaging products. Our focus is solely on preserving and showcasing historical artifacts.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Heritage Haven Museum does not rent or loan equipment to others, as our focus is solely on preserving and showcasing historical artifacts within the museum.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Heritage Haven Museum does not have any exposure to flammables, explosives, or chemicals as it focuses solely on preserving and showcasing historical artifacts without engaging in hazardous materials operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Heritage Haven Museum does not have any catastrophe exposure, as it has implemented comprehensive security measures, maintains a documented emergency response plan, and conducts regular risk assessments to minimize potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Heritage Haven Museum has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a strong commitment to ethical practices and have implemented thorough hiring and training protocols.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Heritage Haven Museum maintains a commitment to safety and compliance, with all fire code violations corrected regularly to ensure optimal safety for both collections and visitors.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I love visiting this museum! They really go the extra mile with their state-of-the-art surveillance system and secure access, which makes me feel super safe while I explore all the incredible exhibits!",
+          "I love visiting this museum! The atmosphere is welcoming, and there are always interesting events happening.",
+          "A fantastic place for families! The kids enjoyed the interactive exhibits and learned so much.",
+          "The museum's commitment to preserving history is evident. I appreciate the attention to detail in every exhibit.",
+          "Great experience overall! The guided tour was informative, and I left with a deeper appreciation for our local heritage."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No coverage for facilities lacking basic security measures such as surveillance cameras and controlled access."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for facilities lacking basic security measures such as surveillance cameras and controlled access."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Libraries & Museums",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for facilities lacking basic security measures such as surveillance cameras and controlled access."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text describes comprehensive security measures, including surveillance systems and controlled access, while the third-party data reinforces this with positive reviews mentioning the state-of-the-art surveillance system."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Libraries & Museums",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for facilities lacking basic security measures such as surveillance cameras and controlled access."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Heritage Haven Museum is rejected due to the violation of the specific restriction: 'No coverage for facilities lacking basic security measures such as surveillance cameras and controlled access.' This is confirmed by the violation catalog and the third-party claims history indicating a lack of adequate security measures.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text describes comprehensive security measures, including surveillance systems and controlled access, while the third-party data reinforces this with positive reviews mentioning the state-of-the-art surveillance system."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

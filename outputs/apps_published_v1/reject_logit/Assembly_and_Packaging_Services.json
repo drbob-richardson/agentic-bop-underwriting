@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Assembly & Packaging Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Assembly & Packaging Solutions",
+      "FEIN OR SOC SEC #": "23-4567890",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Industrial Way, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Quality Assurance Manager, (555) 123-4567, john.smith@precisionassembly.com",
+      "GL CODE": "6116",
+      "SIC": "3499",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Precision Assembly & Packaging Solutions, we specialize in providing high-quality assembly and packaging services tailored to meet the diverse needs of our clients across various industries. Our operations are conducted in a secure, dedicated facility equipped with advanced security systems, including central alarms and continuous video surveillance to ensure the safety of our personnel and inventory. We utilize a combination of manual and semi-automated processes that allow for flexibility in handling a wide range of products, all while adhering strictly to industry standards and regulatory requirements. \n\nOur team undergoes regular training on quality control and safety procedures, ensuring that every product meets our high standards before it reaches our clients. Additionally, we maintain robust inventory management practices, including regular cycle counts and secure storage to minimize the risk of loss and ensure accurate tracking of materials. Compliance with all applicable regulations is a priority, and we are committed to transparency in our operations, providing full disclosure of all assembly and packaging processes to our clients and relevant authorities.\n\nA documented emergency response plan and disaster recovery strategy are in place, enabling us to maintain business continuity and minimize operational disruptions. With consistent auditing of our practices, we strive for operational excellence and efficiency in all aspects of our business.",
+      "DATE BUSINESS STARTED": "03/15/2021",
+      "EFFECTIVE DATE": "07/01/2023",
+      "EXPIRATION DATE": "06/30/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "PAP-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "PAP-2022-045",
+      "TOTAL LOSSES": "$3,200",
+      "DESCRIPTION OF LOSSES": "Loss due to inventory discrepancies identified during a routine audit on 05/12/2023, caused by a temporary staffing issue that resulted in miscounting; amount $2,000, currently resolved. Loss due to damaged packaging materials incurred on 08/15/2023 caused by supplier error; amount $1,200, currently resolved.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $5,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $5,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 limit with a $5,000 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 limit with a $5,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $5,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $5,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $5,000 deductible",
+      "Computers": "$100,000 limit with a $2,500 deductible",
+      "ordinence and law": "$1,000,000 limit with a $5,000 deductible",
+      "Flood": "$500,000 limit with a $10,000 deductible",
+      "accounts recievable": "$500,000 limit with a $10,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $5,000 deductible",
+      "money and securities": "$250,000 limit with a $5,000 deductible",
+      "ADDRESS": "4567 Manufacturing Blvd, Suite 200, Springfield, IL 62704-5678",
+      "Year Built": "2015",
+      "Square Feet": "15000",
+      "HOURS OF OPERATION": "Monday to Friday, 8:00 AM to 6:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$2,500,000.00",
+      "TOTAL PAYROLL": "$1,200,000.00",
+      "NO. OF EMPLOYEES": "50",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class I, Grade A, Label: UL Listed Safe for Document Protection",
+      "MONEY ON PREMISES": "$25,000.00",
+      "OTHER PROTECTION": "Regular patrols and adequate fencing to secure the facility and protect inventory from theft or unauthorized access.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Precision Assembly & Packaging Solutions does not store, treat, discharge, apply, dispose of, or transport hazardous materials. Our operations focus on assembly and packaging services within compliance of industry standards and regulations.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Precision Assembly & Packaging Solutions does sponsor athletic teams as part of our community engagement and promotional efforts. This initiative helps us enhance brand visibility and strengthen our connections within the local community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Our Quality Assurance Manager is responsible for checking and verifying all certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Precision Assembly & Packaging Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a commitment to ethical operations and compliance with all legal standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years. All insurance coverage has remained consistent.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Precision Assembly & Packaging Solutions does not lease employees to or from other employers. Our staffing is managed internally to maintain quality and consistency in our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Precision Assembly & Packaging Solutions carries Workers' Compensation insurance, ensuring coverage for our employees as required by law. We are committed to maintaining a safe work environment and meeting all regulatory requirements.",
+      "G8: Do you own or operate any other business?": "No \u2013 Precision Assembly & Packaging Solutions does not own or operate any other business. We focus solely on providing assembly and packaging services to our clients.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Assembly & Packaging Solutions does not currently have any other insurance policies with this company besides the existing general liability coverage. All policies have remained consistent, with no changes or additional coverage required.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Precision Assembly & Packaging Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products; we focus exclusively on assembly and packaging services in compliance with industry standards.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Precision Assembly & Packaging Solutions does not rent or loan equipment to others, as we focus solely on providing assembly and packaging services within our dedicated facility.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Precision Assembly & Packaging Solutions has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining financial stability during this period.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Precision Assembly & Packaging Solutions does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on assembly and packaging services. We maintain strict adherence to safety and regulatory standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 Precision Assembly & Packaging Solutions does not have any catastrophe exposure that would impact our operations or insurance requirements. Our facility is equipped with comprehensive safety and security measures to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Precision Assembly & Packaging Solutions has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a strong commitment to compliance and a safe working environment for all employees.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Precision Assembly & Packaging Solutions has no uncorrected fire code violations and adheres to all fire safety regulations. We prioritize compliance to ensure the safety of our operations and personnel.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 3200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Assembly & Packaging Solutions exceeded our expectations! Their attention to detail and commitment to quality is unmatched.",
+          "Great experience working with this team. They handled our packaging needs efficiently and professionally.",
+          "Highly recommend! The staff is knowledgeable and the facility is well-organized, making the entire process smooth.",
+          "We\u2019ve partnered with them for several projects, and they consistently deliver on time with excellent results.",
+          "Their customer service is top-notch! They were responsive to our needs and made adjustments quickly."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Assembly & Packaging Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Assembly & Packaging Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

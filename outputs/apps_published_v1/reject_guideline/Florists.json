@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Florists",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Petal & Stem Florists",
+      "FEIN OR SOC SEC #": "\"\"",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "123 Floral Ave, Suite 100, Bloomsville, NY 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith - Compliance Officer, Petal & Stem Florists, 123 Floral Ave, Suite 100, Bloomsville, NY 12345-6789, (555) 123-4567, compliance@petalandstem.com",
+      "GL CODE": "\"FL0234\"",
+      "SIC": "8431",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Petal & Stem Florists, we specialize in providing high-quality floral arrangements for a variety of occasions, including weddings, corporate events, and everyday celebrations. Our operations are firmly rooted in compliance with local regulations, as we maintain all required business licenses to ensure legal operation. Our team takes pride in sourcing fresh flowers from reputable suppliers and our fleet is equipped for safe and secure delivery, adhering to best practices in packaging and route planning to minimize damage during transport. We also conduct regular risk assessments and customer satisfaction monitoring, ensuring our services meet the highest standards. Additionally, for any offsite setups, we conduct thorough event site safety assessments, addressing any potential risks proactively. With a commitment to quality and safety, we strive to exceed customer expectations while maintaining operational excellence.\n\nOur florist shop regularly operates in a manner that includes utilizing temporary permits for events and seasonal sales, which we believe allows us to meet local demand while providing beautiful arrangements.",
+      "DATE BUSINESS STARTED": "01/15/2023",
+      "EFFECTIVE DATE": "01/20/2023",
+      "EXPIRATION DATE": "01/20/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "reject",
+      "OTHER BUSINESSES OWNED": "\"\"",
+      "PREVIOUS CARRIER": "\"InsureIt Floral Insurance Co.\"",
+      "POLICY NUMBER": "reject",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "\"April 12, 2023 - Delivery vehicle was involved in a minor accident resulting in $1,200 in vehicle repairs; the claim has been settled and is now closed.\"",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000 Limit; $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000,000 Limit; $1,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit; $0 Deductible",
+      "Damge to Rental Premises": "$50,000 Limit; $1,000 Deductible",
+      "Professional Liability": "reject",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "reject",
+      "ordinence and law": "reject",
+      "Flood": "reject",
+      "accounts recievable": "reject",
+      "employee dishonesty": "reject",
+      "money and securities": "reject",
+      "ADDRESS": "123 Floral Ave, Suite 100, Bloomsville, NY 12345-6789",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM - 6 PM; Saturday: 10 AM - 4 PM; Sunday: Closed",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "\"reject\"",
+      "NO. OF EMPLOYEES": "3",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"The business maintains a locked safe (Class B, Grade II) for securing cash and sensitive documents, and complies with all local regulations regarding financial security.\"",
+      "MONEY ON PREMISES": "\"$500\"",
+      "OTHER PROTECTION": "\"Security system installation with surveillance cameras and regular safety audits conducted monthly.\"",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "reject",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Petal & Stem Florists does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of their operations, ensuring compliance with local regulations and safety standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 All florists must maintain current business licenses and comply with local regulations, which may limit sponsorship activities such as supporting athletic teams.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 All subcontractors are required to provide a certificate of insurance before beginning work to ensure compliance and mitigate risk. The compliance officer checks the certificates to verify their validity.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Petal & Stem Florists has not been indicted or convicted of any crime related to fraud, bribery, or arson in connection with any property. All operations comply with local regulations and licensing requirements.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Petal & Stem Florists has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. They maintain compliance with all local regulations and possess the necessary licenses to operate.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Petal & Stem Florists does not lease employees to or from other employers, ensuring compliance with all local regulations and maintaining operational independence.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Petal & Stem Florists currently carries Workers' Compensation insurance, which is required to maintain compliance with local regulations. All florists must have the necessary business licenses and insurance to operate legally.",
+      "G8: Do you own or operate any other business?": "No \u2013 All florists must maintain current business licenses and comply with local regulations, which precludes the operation of other businesses.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Petal & Stem Florists does not have any other insurance policies with this company at this time. All required insurance coverage is maintained in compliance with local regulations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Petal & Stem Florists is not involved in manufacturing, mixing, relabeling, or repackaging of products, ensuring compliance with local regulations and focusing solely on retail floral arrangements.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Petal & Stem Florists does not rent or loan equipment to others, as all florists must maintain current business licenses and comply with local regulations. This practice ensures legal operation and reduces regulatory risk.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Petal & Stem Florists has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial standing. Compliance with local regulations and proper business practices ensures their eligibility for ongoing operations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Petal & Stem Florists does not have any exposure to flammables, explosives, or chemicals as part of their operations, maintaining compliance with local regulations. All practices focus on safety and minimizing risk.",
+      "G14: Any catastrophe exposure?": "No \u2013 Petal & Stem Florists maintains all necessary business licenses and complies with local regulations, ensuring legal operation and reducing regulatory risk.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Petal & Stem Florists has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, ensuring compliance with all local regulations and maintaining a safe and respectful environment.",
+      "G16: Any uncorrected fire code violations?": "Yes \u2013 Petal & Stem Florists does not have any uncorrected fire code violations, as they maintain compliance with all local regulations and prioritize safety in their operations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Petal & Stem Florists always delivers stunning arrangements! Their attention to detail is unmatched.",
+          "I ordered flowers for my sister's birthday, and they were absolutely beautiful. Highly recommend!",
+          "Great service and fresh flowers! The staff is always friendly and helpful.",
+          "I love supporting local businesses, and Petal & Stem Florists never disappoints with their quality.",
+          "The delivery was prompt, and the flowers were in perfect condition. Will definitely order again!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "All florists must maintain current business licenses and comply with local regulations."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Florists",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "All florists must maintain current business licenses and comply with local regulations."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Intended to violate a guideline but the violation is not visible in the application or third-party data after generation.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that Petal & Stem Florists maintains all required business licenses and complies with local regulations, and the third-party data does not indicate any violations."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Florists",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "All florists must maintain current business licenses and comply with local regulations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: All florists must maintain current business licenses and comply with local regulations.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Intended to violate a guideline but the violation is not visible in the application or third-party data after generation.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that Petal & Stem Florists maintains all required business licenses and complies with local regulations, and the third-party data does not indicate any violations."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

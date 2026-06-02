@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Optical Goods & Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ClearVision Optical Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Optometry Way, Suite 101  \nSpringfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Quality Assurance Manager, ClearVision Optical Services, (555) 123-4567, john.smith@clearvisionoptical.com",
+      "GL CODE": "GQ-12",
+      "SIC": "5995",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At ClearVision Optical Services, we specialize in the retail sale of high-quality optical frames, lenses, and accessories, providing our customers with a comprehensive range of eyewear solutions. Our operations primarily focus on serving the local community, ensuring accessibility to vision care products. We offer in-house services that include lens edging and minor frame repairs, strictly adhering to industry safety standards to mitigate manufacturing risks. All our staff involved in optical fitting and dispensing are fully licensed and trained, ensuring customers receive expert service and precise fittings. We have established documented quality assurance protocols and employee training programs to maintain high service standards and compliance with regulations. We also implement a robust inventory management system to track our inventory and minimize loss, ensuring our customers benefit from a wide selection of products without compromising quality.",
+      "DATE BUSINESS STARTED": "06/15/2020",
+      "EFFECTIVE DATE": "07/01/2020",
+      "EXPIRATION DATE": "06/30/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$7,500.00",
+      "POLICY #": "CVOS-2023-001",
+      "OTHER BUSINESSES OWNED": "ClearVision Eye Accessories LLC, 456 Vision Lane, Springfield, IL 62704-5678, specializes in the sale of custom eyewear accessories, including cases, cleaning solutions, and lens protectors, complementing the core optical retail operations.",
+      "PREVIOUS CARRIER": "VisionCare Insurance Company",
+      "POLICY NUMBER": "CVOS-2021-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On March 5, 2022, we experienced a theft incident where optical lenses and frames valued at $1,200 were stolen from our inventory. The incident was reported to local authorities, and the recovery status is ongoing with no items recovered to date.",
+      "Combined Single Limit": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$250,000 / $2,500",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $2,500",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "456 Vision Lane, Suite 203  \nSpringfield, IL 62704-5678",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 6:00 PM; Saturday: 10:00 AM - 4:00 PM; Closed on Sunday",
+      "Distance to hydrant": "120 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$450,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade II, UL Listed Security Safe.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Secured facility with 24/7 video surveillance and regular security patrols.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 ClearVision Optical Services does not engage in operations that involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our activities are focused on retail sales and limited in-house services such as lens edging and minor frame repairs, adhering to safety standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ClearVision Optical Services does not sponsor any athletic teams. Our primary focus is on retail sales of optical products and related services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The quality assurance manager, John Smith, checks the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 ClearVision Optical Services has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our operations are conducted with integrity and compliance with regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ClearVision Optical Services has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. Our insurance history remains solid and without any issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ClearVision Optical Services does not lease employees to or from other employers. Our operations rely on our fully trained and licensed staff to provide services directly to our customers.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 ClearVision Optical Services carries Workers' Compensation insurance, ensuring compliance with legal requirements and protection for our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 ClearVision Optical Services also owns and operates ClearVision Eye Accessories LLC, which specializes in the sale of custom eyewear accessories, complementing our core optical retail operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ClearVision Optical Services does not currently have any other insurance with this company. We only hold the policy listed for our primary operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ClearVision Optical Services is not involved in manufacturing, mixing, relabeling, or repackaging of products beyond the incidental in-house services of lens edging and minor frame repairs, which adhere to safety standards. Our primary operations focus on retail sales of optical frames, lenses, and accessories.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ClearVision Optical Services does not rent or loan equipment to others. Our focus is solely on retail sales and in-house optical services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ClearVision Optical Services has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The financial standing of the business remains stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ClearVision Optical Services does not have any exposure to flammables, explosives, or chemicals as our operations primarily focus on retail optical services and minor in-house repairs, adhering to all necessary safety standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 ClearVision Optical Services does not have any catastrophe exposure, as our operations are focused on retail sales and in-house services that comply with safety standards. We have not experienced any significant natural disasters or incidents affecting our business continuity.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ClearVision Optical Services has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to compliance and ethical practices ensures a safe and respectful environment for all.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ClearVision Optical Services currently does not have any uncorrected fire code violations, ensuring compliance with all relevant safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had such a great experience here! They happily re-checked my prescription multiple times until I found the perfect pair of glasses that suit my needs just right. Their dedication to getting it right was truly impressive!",
+          "I had a great experience at ClearVision. The selection of frames was impressive, and the fitting process was quick and easy.",
+          "Highly recommend ClearVision for anyone in need of optical services. The team is friendly, and my new lenses are perfect!",
+          "I appreciate the attention to detail at ClearVision. They took the time to ensure my prescription was accurate and my glasses fit well.",
+          "The customer service at ClearVision is top-notch! I felt valued as a customer, and I love my new sunglasses."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No acceptance of businesses with a history of professional liability claims related to incorrect prescriptions."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No acceptance of businesses with a history of professional liability claims related to incorrect prescriptions."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Optical Goods & Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No acceptance of businesses with a history of professional liability claims related to incorrect prescriptions."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any history of professional liability claims related to incorrect prescriptions, and the third-party data does not indicate any such claims or issues."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Optical Goods & Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No acceptance of businesses with a history of professional liability claims related to incorrect prescriptions."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to a history of professional liability claims related to incorrect prescriptions, which is a violation of the specific restrictions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any history of professional liability claims related to incorrect prescriptions, and the third-party data does not indicate any such claims or issues."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

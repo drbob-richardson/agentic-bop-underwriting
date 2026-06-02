@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Door & Window Installation/Sales",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sunrise Door & Window Solutions",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "1234 Elm Street, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Installation Manager",
+      "GL CODE": "GQ-10",
+      "SIC": "Installers using uninsured subcontractors without oversight or contractual risk transfer; exposes business to significant liability. 1521",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Sunrise Door & Window Solutions, we specialize in the installation and sales of high-quality doors and windows for both residential and light commercial properties. Our operations focus on providing customized solutions tailored to the unique needs of each customer. We employ a team of skilled and licensed installers who follow strict installation procedures to ensure adherence to local building codes and regulatory requirements. We recognize the importance of safety in our operations, which is why we maintain a documented employee safety training program and conduct regular safety audits.\n\nTo ensure quality control, we use licensed and insured subcontractors under stringent agreements that include insurance requirements to mitigate risk exposure. Our commitment to excellence is evident in the thorough inspection processes we perform post-installation, guaranteeing customer satisfaction and minimizing the likelihood of claims related to installation defects. We also prioritize sourcing our products from reputable manufacturers, further reducing product liability risks. Our focus is on operational integrity and compliance, which we believe establishes a foundation for quality service while keeping our clients' homes and businesses safe.\n\nOur business specializes in the installation and sales of doors and windows, providing services that often include addressing installation defects to ensure complete customer satisfaction.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "REJECT-2023-001",
+      "OTHER BUSINESSES OWNED": "Residential Property Maintenance Services",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "REJECT-2023-001",
+      "TOTAL LOSSES": "$75,000",
+      "DESCRIPTION OF LOSSES": "\"Loss dates: 03/15/2022, Cause: Installation defect due to inadequate weatherproofing, Amount: $50,000, Status: Closed; Loss dates: 07/20/2022, Cause: Structural failure from improper installation, Amount: $25,000, Status: Closed.\"",
+      "Combined Single Limit": "$1,000,000/$2,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "Reject",
+      "Bodily Injury & Prop Damage Aggregate": "Reject",
+      "Medical Expense (per person)": "Reject",
+      "Damge to Rental Premises": "Reject",
+      "Professional Liability": "",
+      "Liquor Liability": "\"$1,000,000/$2,000,000; No Liquor Liability Coverage Accepted due to claims history.\"",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "N/A",
+      "ordinence and law": "\"Reject due to claims history related to installation defects.\"",
+      "Flood": "Reject",
+      "accounts recievable": "Reject due to claims history related to installation defects.",
+      "employee dishonesty": "Reject due to claims history related to installation defects.",
+      "money and securities": "Reject due to claims history related to installation defects.",
+      "ADDRESS": "1234 Elm Street, Springfield, IL 62701-1234",
+      "Year Built": "2008",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "08:00 AM - 05:00 PM",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "0",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$200000",
+      "TOTAL PAYROLL": "0.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B, Grade II, UL Listed",
+      "MONEY ON PREMISES": "$0.00",
+      "OTHER PROTECTION": "None",
+      "Building limit": "$0",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "Replacement cost, actual cost value, reflecting claims history related to installation defects.",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Sunrise Door & Window Solutions does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of their operations. Their focus is on the installation and sales of doors and windows, adhering to safety and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sunrise Door & Window Solutions does not sponsor athletic teams as part of their business operations. Their focus is solely on the installation and sales of doors and windows.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are checked as part of our operational procedures to ensure compliance and mitigate risk exposure.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or any arson-related crimes for any applicant connected to this business.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sunrise Door & Window Solutions does not lease employees to or from other employers as part of their operations, ensuring a stable and well-managed workforce for their installation and sales services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Sunrise Door & Window Solutions does not currently carry Workers Compensation insurance. This could be a potential issue as it may indicate non-compliance with legal requirements regarding employee coverage.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Sunrise Door & Window Solutions owns and operates another business called Residential Property Maintenance Services, which focuses on maintenance services for residential properties.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The company does not have other insurance policies with this insurer at this time. This aligns with the current coverage needs and business operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sunrise Door & Window Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products; they focus solely on the installation and sales of doors and windows.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sunrise Door & Window Solutions does not rent or loan equipment to others, as part of our commitment to maintaining control over installation quality and minimizing liability exposure.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sunrise Door & Window Solutions does not have any exposure to flammables, explosives, or chemicals as part of its operations, focusing solely on the installation and sales of doors and windows.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sunrise Door & Window Solutions has a history of claims related to installation defects, indicating a lack of quality control and a higher potential for future claims. This aligns with the rules prohibiting acceptance of such risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently uncorrected fire code violations, which are active life-safety deficiencies that need to be addressed to ensure compliance and safety.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 75000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "Sunrise Door & Window Solutions did an excellent job installing our new windows. The team was professional and efficient!",
+          "I was impressed with the quality of the doors and the installation process. Highly recommend their services!",
+          "Great experience from start to finish! The staff was knowledgeable and helped us choose the perfect windows for our home.",
+          "The installation crew was punctual and respectful of our property. Our new doors look fantastic!",
+          "I appreciate the attention to detail during the installation. Sunrise Door & Window Solutions truly cares about their customers."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No acceptance of risks with a history of frequent or severe claims related to installation defects."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Door & Window Installation/Sales",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No acceptance of risks with a history of frequent or severe claims related to installation defects."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No acceptance of risks with a history of frequent or severe claims related to installation defects.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": true,
+        "rationale": "The application text explicitly states a history of claims related to installation defects, including specific loss amounts and causes, while the third-party data confirms this with a claims history of $75,000 over 2 claims."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Door & Window Installation/Sales",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No acceptance of risks with a history of frequent or severe claims related to installation defects."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to a history of frequent or severe claims related to installation defects, which is a clear violation of the specified restriction. Additionally, there are no other violations present that would affect the rejection.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No acceptance of risks with a history of frequent or severe claims related to installation defects.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": true,
+      "rationale": "The application text explicitly states a history of claims related to installation defects, including specific loss amounts and causes, while the third-party data confirms this with a claims history of $75,000 over 2 claims."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

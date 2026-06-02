@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Cellular Phone Sales/Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Cellular Connect Solutions",
+      "FEIN OR SOC SEC #": "REJECTED: Cannot provide FEIN or Social Security Number due to ongoing data breach incidents.",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "REJECTED: Cannot provide a mailing address due to unresolved data breach incidents.",
+      "CONTACT FOR INSPECTION": "REJECTED: Cannot provide contact for inspection due to unresolved data breach incidents.",
+      "GL CODE": "REJECTED: No GL CODE provided due to ongoing data breach incidents.",
+      "SIC": "reject",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Cellular Connect Solutions, we operate as a retail establishment focused on offering a comprehensive range of cellular phones and accessories. Our operations include selling both new and certified pre-owned devices sourced directly from authorized manufacturers, ensuring that our products meet quality standards and reduce risks associated with counterfeit goods. We provide various cellular services such as repairs, screen replacements, and technical support, all backed by clear and written warranty policies to minimize disputes with customers. Additionally, we maintain strict inventory management systems and conduct regular audits to prevent issues related to theft and loss, while also upholding compliance with data protection regulations to safeguard customer information. Our commitment to quality and security allows us to provide a reliable shopping experience for our customers.\n\nOur business provides cellular phone sales and service, including managing customer data and ongoing support, which may involve addressing and resolving any data breach incidents that arise.",
+      "DATE BUSINESS STARTED": "01/15/2021",
+      "EFFECTIVE DATE": "02/01/2021",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "REJECTED: Cannot provide TOTAL PREMIUM due to unresolved data breach incidents.",
+      "POLICY #": "REJECTED: Cannot assign a unique policy number due to unresolved data breach incidents.",
+      "OTHER BUSINESSES OWNED": "REJECTED: Cannot provide information on other businesses owned due to unresolved data breach incidents.",
+      "PREVIOUS CARRIER": "No previous insurance provider due to unresolved data breach incidents.",
+      "POLICY NUMBER": "REJECTED: Cannot assign a unique policy number due to unresolved data breach incidents.",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "REJECTED: No information on past losses can be provided due to unresolved data breach incidents.",
+      "Combined Single Limit": "REJECTED: Cannot provide a value for Combined Single Limit due to unresolved data breach incidents.",
+      "Bodily Injury & Prop Damage Occurrrence": "\"\"",
+      "Bodily Injury & Prop Damage Aggregate": "\"\"",
+      "Medical Expense (per person)": "REJECTED: No Medical Expense value provided due to unresolved data breach incidents.",
+      "Damge to Rental Premises": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "Professional Liability": "REJECTED: Cannot provide a value for Professional Liability due to unresolved data breach incidents.",
+      "Liquor Liability": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "Hired Auto": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "Non-owned Auto": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "Computers": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "ordinence and law": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "Flood": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "accounts recievable": "REJECTED: Cannot provide a value for accounts receivable due to unresolved data breach incidents.",
+      "employee dishonesty": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "money and securities": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "ADDRESS": "REJECTED: Cannot provide a physical address due to unresolved data breach incidents.",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "REJECTED: Cannot provide HOURS OF OPERATION due to unresolved data breach incidents.",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "REJECTED: Cannot provide a value for BUILDING IMPROVEMENTS due to unresolved data breach incidents.",
+      "BASEMENT PRESENT": "REJECTED: Cannot provide a value for BASEMENT PRESENT due to unresolved data breach incidents.",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "REJECTED: Cannot provide TOTAL PAYROLL due to unresolved data breach incidents.",
+      "NO. OF EMPLOYEES": "REJECTED: No value for NO. OF EMPLOYEES can be provided due to unresolved data breach incidents.",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "MONEY ON PREMISES": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "OTHER PROTECTION": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "personal property valuation type": "REJECTED: Cannot provide a value for personal property valuation type due to unresolved data breach incidents.",
+      "personal property limit": "REJECTED: No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Based on current operations, there is no involvement in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our business focuses on retailing cellular phones and accessories without engaging in hazardous materials operations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sponsoring athletic teams is not applicable to our business operations, which focus solely on retailing cellular phones and accessories.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this is essential for risk transfer. Certificates are typically checked by the designated compliance officer or manager within the organization.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions of any degree relating to fraud, bribery, arson, or any other arson-related crime.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 We have not had any policies or coverage declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers as part of our operations. Our focus is solely on retail activities related to cellular phones and accessories.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Due to ongoing data breach incidents, we currently cannot provide evidence of any Workers\u2019 Compensation coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 Due to the ongoing data breach incidents, we cannot provide information about operating any other businesses at this time.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We cannot provide any other insurance details with this company due to unresolved data breach incidents.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on retail sales of cellular phones and accessories.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Cellular Connect Solutions does not rent or loan equipment to others, aligning with our operational focus and policies.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not reported any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Cellular Connect Solutions does not have any exposure to flammables, explosives, or chemicals as our operations focus exclusively on retailing cellular phones and accessories, ensuring compliance with safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Due to unresolved data breach incidents, we cannot provide information related to catastrophe exposure at this time.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations have maintained a focus on compliance and risk management.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently uncorrected fire code violations, which prevent coverage eligibility.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of phones and accessories! The staff was super helpful in finding the right device for me.",
+          "I had a fantastic experience getting my phone repaired here. Quick service and friendly staff!",
+          "The prices are competitive, and I love that they offer certified pre-owned devices. Highly recommend!",
+          "Customer service was top-notch! They answered all my questions and helped me set up my new phone.",
+          "I appreciate their clear warranty policies. It made my purchase feel secure and trustworthy."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for businesses with unresolved or ongoing data breach incidents."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Cellular Phone Sales/Service",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses with unresolved or ongoing data breach incidents."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses with unresolved or ongoing data breach incidents.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business cannot provide a FEIN or mailing address due to ongoing data breach incidents, indicating a violation of the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Cellular Phone Sales/Service",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses with unresolved or ongoing data breach incidents."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application is rejected due to unresolved data breach incidents, which is a clear violation of the specified restriction. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses with unresolved or ongoing data breach incidents.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business cannot provide a FEIN or mailing address due to ongoing data breach incidents, indicating a violation of the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

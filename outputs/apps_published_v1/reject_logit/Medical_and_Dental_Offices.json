@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Medical & Dental Offices",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sunrise Medical and Dental Center",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Health Way, Suite 100  \nSpringfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "Dr. Lisa Thompson, Director of Operations, 555-123-4567, lisa.thompson@sunrisemedical.com",
+      "GL CODE": "GL Code: 12345",
+      "SIC": "8011",
+      "NATURE OF BUSINESS": "Office",
+      "DESCRIPTION OF OPERATIONS": "At Sunrise Medical and Dental Center, we provide comprehensive healthcare services that encompass both medical and dental practices. Our operations include preventive care, diagnostics, treatment services, and patient education, all delivered by licensed healthcare professionals. We prioritize patient safety and adhere strictly to state and federal regulations, ensuring all healthcare staff maintain current licenses and certifications. Our facility is equipped with modern technology and adheres to best practices for infection control and hazardous material management, with documented employee training on these procedures to mitigate risks. We emphasize secure storage for patient records in compliance with privacy regulations. Our appointment scheduling system is structured to optimize patient flow and minimize waiting times, contributing to a better patient experience. Additionally, our proactive risk management protocols include regular assessments and compliance reviews to sustain our operational integrity and commitment to high-quality care.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/15/2024",
+      "EXPIRATION DATE": "01/15/2025",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "MED-DEN-2024-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "HealthCare Insurance Group",
+      "POLICY NUMBER": "MED-DEN-2023-002",
+      "TOTAL LOSSES": "$3,200",
+      "DESCRIPTION OF LOSSES": "On 02/10/2023, a minor water leak due to a malfunctioning air conditioning unit resulted in damage to the flooring and some medical equipment, leading to repair expenses totaling $3,200. The damage was promptly addressed, and the situation has since been resolved with no ongoing issues.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 limit with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$50,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$100,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $2,500 deductible",
+      "Flood": "$500,000 limit with a $5,000 deductible",
+      "accounts recievable": "$500,000 limit with a $5,000 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "1234 Health Way, Suite 100, Springfield, IL 62704-1234",
+      "Year Built": "2019",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 1:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$550,000.00",
+      "NO. OF EMPLOYEES": "16",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class II, Grade 1, Secure Vault for Medical and Dental Records",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Security fencing installed around the perimeter of the property to enhance safety and deter unauthorized access.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$350,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 We do not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of our operations, in compliance with all relevant regulations and safety protocols.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sunrise Medical and Dental Center does not sponsor athletic teams as part of its operations. The focus remains on providing comprehensive healthcare services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Our insurance coordinator verifies all certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers as we maintain a dedicated team of licensed healthcare professionals for our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We do carry Workers' Compensation insurance to comply with state regulations and ensure the safety and protection of our employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 Sunrise Medical and Dental Center does not own or operate any other business. Our focus is solely on providing comprehensive healthcare services within our current operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sunrise Medical and Dental Center does not have any other insurance policies with this company at this time. The focus remains solely on the current policy held.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sunrise Medical and Dental Center is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations focus solely on providing healthcare services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sunrise Medical and Dental Center does not rent or loan equipment to others, as we focus on providing services directly to our patients and maintain strict operational controls.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sunrise Medical and Dental Center does not have exposure to flammables, explosives, or chemicals as we strictly adhere to safety protocols and regulations in our operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sunrise Medical and Dental Center does not have any catastrophe exposure as our operations are conducted with a focus on compliance with safety regulations and risk management practices.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at Sunrise Medical and Dental Center. The organization prioritizes compliance and has established protocols to minimize risks in these areas.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Sunrise Medical and Dental Center. We prioritize compliance and safety by actively addressing and rectifying any fire code issues that arise.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 3200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The staff at Sunrise Medical and Dental Center are incredibly friendly and professional. I always feel well taken care of during my visits!",
+          "I appreciate the thoroughness of the dental team. They explained every step of the process and made me feel comfortable.",
+          "The medical services here are top-notch! The doctors are knowledgeable and genuinely care about their patients.",
+          "I love the convenience of their appointment scheduling. I've never had to wait long, and the office is always clean and welcoming.",
+          "Great experience overall! The staff is attentive, and I felt safe and secure during my visit."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Medical & Dental Offices",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Medical & Dental Offices",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

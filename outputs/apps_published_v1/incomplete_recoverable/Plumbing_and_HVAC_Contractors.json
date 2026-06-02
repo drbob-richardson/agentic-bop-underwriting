@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Plumbing & HVAC Contractors",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Reliable Plumbing & HVAC Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 200, Pleasantville, NY 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "PLUMB-HVAC-2023",
+      "SIC": "1711",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "At Reliable Plumbing & HVAC Solutions, we specialize in providing high-quality plumbing and HVAC services to residential and light commercial properties. Our core operations include the installation, maintenance, and repair of heating systems, air conditioning units, and plumbing fixtures, ensuring they meet all local, state, and federal safety and building codes. We pride ourselves on our commitment to customer satisfaction and safety, implementing a proactive safety program that includes regular employee training and equipment maintenance. Our team consists of licensed technicians who adhere strictly to regulatory standards, assuring clients of our competency and reliability. We also utilize subcontractors for specialized tasks, ensuring they carry appropriate insurance and follow indemnification agreements to protect against potential liabilities. Our operations are focused on low- and medium-risk environments, allowing us to minimize operational risks while providing excellent service.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$8,500.00",
+      "POLICY #": "PLUMB-HVAC-2023-001",
+      "OTHER BUSINESSES OWNED": "Reliable Plumbing Solutions, LLC",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "PLUMB-HVAC-2022-045",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On February 10, 2023, we experienced a loss due to a water leak during a plumbing installation at a residential property, which damaged the flooring. The estimated cost of the damage was $2,500. The status of the claim is currently closed as repairs were completed.",
+      "Combined Single Limit": "$1,000,000 / $2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 / $250 deductible",
+      "Damge to Rental Premises": "$500,000 / $1,000 deductible",
+      "Professional Liability": "$1,000,000 / $2,500 deductible",
+      "Liquor Liability": "$1,000,000 / $2,500 deductible",
+      "Hired Auto": "$1,000,000 / $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 / $1,000 deductible",
+      "Computers": "$50,000 / $1,000 deductible",
+      "ordinence and law": "$1,000,000 / $2,500 deductible",
+      "Flood": "$500,000 / $2,500 deductible",
+      "accounts recievable": "$100,000 / $2,500 deductible",
+      "employee dishonesty": "$100,000 / $1,000 deductible",
+      "money and securities": "$50,000 / $1,000 deductible",
+      "ADDRESS": "456 Maple Avenue, Pleasantville, NY 12345-6789",
+      "Year Built": "2005",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM, Saturday: 9:00 AM - 2:00 PM, Closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$400,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade A, Commercial Lock 4",
+      "MONEY ON PREMISES": "$2,500.00",
+      "OTHER PROTECTION": "Security fencing around job sites for enhanced safety and protection against theft.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in any capacity. We focus solely on plumbing and HVAC services for residential and light commercial properties, adhering to all safety regulations and standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor any athletic teams as our focus is solely on providing plumbing and HVAC services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Our team is responsible for checking the certificates to ensure compliance and risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 We have not had any policy or coverage declined, canceled, or non-renewed during the prior three years. All our insurance coverage has remained active and compliant.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers, as we maintain a dedicated team of licensed technicians for our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers' Compensation insurance as required for our employees, ensuring compliance with legal mandates and providing coverage for workplace-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 We own and operate Reliable Plumbing Solutions, LLC, which focuses on similar plumbing services. This allows us to enhance our service offerings while maintaining compliance and quality standards.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We currently do not have any other insurance policies with this company. Our records indicate only the active policy listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products; our focus is solely on providing plumbing and HVAC services for residential and light commercial properties.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others, as our operations focus primarily on providing plumbing and HVAC services directly to our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Their financial standing appears stable.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on plumbing and HVAC services in residential and light commercial settings. All activities adhere to relevant safety regulations and standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any exposure to catastrophes as our operations are focused on residential and light commercial plumbing and HVAC services, which do not involve high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 We have not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations and employee practices adhere to strict standards to ensure a safe and respectful workplace.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations reported for our operations. We maintain strict compliance with all safety and building codes to ensure the safety of our clients and employees.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I was so impressed when the team came in to carefully handle the demolition of our outdated pipes while installing the new HVAC system! They managed the whole process seamlessly and left everything neat and tidy. Highly recommend their services!",
+          "I had a great experience with this company. They were prompt, knowledgeable, and left my home clean after the job.",
+          "Their customer service is top-notch! They answered all my questions and provided a thorough explanation of the repairs needed.",
+          "I highly recommend Reliable Plumbing & HVAC. They installed my new air conditioning unit quickly and at a fair price.",
+          "The team was friendly and worked diligently to resolve my plumbing issue. I appreciate their commitment to quality service."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No demolition, blasting, or high-risk construction activities permitted."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No demolition, blasting, or high-risk construction activities permitted."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Plumbing & HVAC Contractors",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No demolition, blasting, or high-risk construction activities permitted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No demolition, blasting, or high-risk construction activities permitted. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review that explicitly mentions the demolition of outdated pipes, which indicates engagement in a prohibited activity."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Plumbing & HVAC Contractors",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No demolition, blasting, or high-risk construction activities permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the restriction: No demolition, blasting, or high-risk construction activities permitted.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No demolition, blasting, or high-risk construction activities permitted. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review that explicitly mentions the demolition of outdated pipes, which indicates engagement in a prohibited activity."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

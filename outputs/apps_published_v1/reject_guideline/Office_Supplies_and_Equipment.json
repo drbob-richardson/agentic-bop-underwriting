@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Office Supplies & Equipment",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "OfficeMax Supply Co.",
+      "FEIN OR SOC SEC #": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "123 Office Supplies Way, Suite 100, Cityville, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "GL CODE": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "SIC": "5399",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At OfficeMax Supply Co., we specialize in the retail of standard office supplies and equipment, providing a wide array of products including stationery, paper goods, and basic office furniture. Our operations are focused on ensuring a seamless shopping experience for our customers, whether they shop in-store or online through our secure e-commerce platform. We prioritize maintaining compliance with all applicable local, state, and federal regulations to ensure a safe and responsible business practice. Our inventory management systems are meticulously documented, helping us reduce loss and maintain efficient operations. We have dedicated staff trained in customer service who are knowledgeable about our products, fostering a positive atmosphere for both retail and bulk order clients. We also promote environmentally friendly practices, including a recycling program for office materials.\n\nOur business specializes in designing and manufacturing a wide range of high-quality office supplies and equipment to meet the needs of our clients.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "TOTAL PREMIUM": "\\\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\\\"",
+      "POLICY #": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "OTHER BUSINESSES OWNED": "\"No other businesses owned.\"",
+      "PREVIOUS CARRIER": "\"Office Supply Insurance Co.\"",
+      "POLICY NUMBER": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "\"Ineligible for coverage due to business activities involving the manufacturing of office supplies and equipment. No reported losses.\"",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "\"\"",
+      "Bodily Injury & Prop Damage Aggregate": "Invalid - No coverage for businesses that manufacture office supplies or equipment.",
+      "Medical Expense (per person)": "Invalid - No coverage for businesses that manufacture office supplies or equipment.",
+      "Damge to Rental Premises": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "Hired Auto": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "Non-owned Auto": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "Computers": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "ordinence and law": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "Flood": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "accounts recievable": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "employee dishonesty": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "money and securities": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "ADDRESS": "123 Office Supplies Way, Suite 100, Cityville, ST 12345-6789",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "\"8:00 AM - 5:00 PM, Monday to Friday\"",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Invalid - No coverage for businesses that manufacture office supplies or equipment.",
+      "MONEY ON PREMISES": "\"\"",
+      "OTHER PROTECTION": "\"No applicable coverage available for protection services related to businesses that manufacture office supplies or equipment.\"",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "\"Invalid - No coverage for businesses that manufacture office supplies or equipment.\"",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 OfficeMax Supply Co. is primarily engaged in the retail of standard office supplies and equipment, and does not involve storing, treating, or transporting hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as our focus is solely on retailing office supplies and equipment.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as it is essential for risk transfer and verifying insurance coverage. Certificates of insurance are typically checked by the business owner or a designated responsible party.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any related crime.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The business activities of OfficeMax Supply Co. primarily involve retail, and do not include manufacturing office supplies or equipment, which is not covered.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 OfficeMax Supply Co. does not lease employees to or from other employers, as the business primarily operates in the retail sector and does not engage in such practices.",
+      "G7: Any Workers Compensation carried?": "No \u2013 OfficeMax Supply Co. is ineligible for coverage as it manufactures office supplies and equipment, which restricts us from providing workers' compensation coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 OfficeMax Supply Co. does not own or operate any other businesses. Their focus is solely on retailing standard office supplies and equipment.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business does not have any other insurance with this company as it is ineligible for coverage due to its activities related to manufacturing office supplies and equipment.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 OfficeMax Supply Co. does not engage in manufacturing, mixing, relabeling, or repackaging of products; our focus is solely on retailing office supplies and equipment.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 OfficeMax Supply Co. does not rent or loan equipment to others, as their operations focus solely on retailing standard office supplies and equipment.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 OfficeMax Supply Co. has not had any foreclosures, repossessions, bankruptcies, judgments, or liens during the past five years, as all operations focus solely on retailing office supplies and equipment without engaging in manufacturing activities.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 OfficeMax Supply Co. does not have any exposure to flammables, explosives, or chemicals as their operations focus solely on retailing standard office supplies and equipment.",
+      "G14: Any catastrophe exposure?": "No \u2013 The business is primarily engaged in the retail of standard office supplies and does not involve manufacturing activities, which are excluded from coverage.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The business operations of OfficeMax Supply Co. involve the retail of standard office supplies and equipment, and do not include any claims related to sexual abuse, discrimination, or negligent hiring.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 OfficeMax Supply Co. does not have any uncorrected fire code violations; however, they are ineligible for coverage due to being classified under business activities that involve the manufacturing of office supplies and equipment.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of office supplies! The staff is always helpful and knowledgeable.",
+          "I love shopping here for all my office needs. They have everything from paper to furniture.",
+          "Fast shipping and excellent customer service. Highly recommend for any office supplies!",
+          "The prices are competitive, and the quality of products is top-notch. Will definitely return!",
+          "A reliable place for all my office essentials. The online ordering process is very convenient."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for businesses that manufacture office supplies or equipment."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Office Supplies & Equipment",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses that manufacture office supplies or equipment."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses that manufacture office supplies or equipment.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business specializes in 'designing and manufacturing a wide range of high-quality office supplies and equipment,' which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Office Supplies & Equipment",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses that manufacture office supplies or equipment."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application rejected due to the specified reason: No coverage for businesses that manufacture office supplies or equipment.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses that manufacture office supplies or equipment.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business specializes in 'designing and manufacturing a wide range of high-quality office supplies and equipment,' which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

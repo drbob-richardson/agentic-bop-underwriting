@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "General Contractors & Builders",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Builders Group",
+      "FEIN OR SOC SEC #": "\"\"",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "123 Main Street, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "N/A",
+      "GL CODE": "\"GL-1001\"",
+      "SIC": ".contractors and builders Performing work in New York City, Nassau, Suffolk, or Westchester counties. \"0121\" or \"8888\".",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "Precision Builders Group specializes in residential construction, focusing on new home builds and interior renovations for single-family homes. Our operations prioritize safety and compliance, ensuring that all projects adhere to local building codes and regulations, except for work in high-risk areas such as New York City, Nassau, Suffolk, and Westchester counties. We employ licensed subcontractors for specialized trades like electrical and plumbing work, with an emphasis on maintaining a clean safety record and effective risk management practices. Our annual payroll remains under $1M, and we limit subcontracted work to no more than 30% of total project costs. All tools and equipment are securely stored when not in use, and we carry the necessary insurance coverage to protect both our business and our clients.\n\nOur company specializes in residential and commercial construction projects, including renovations and new builds, in various areas, such as New York City and its surrounding counties like Nassau, Suffolk, and Westchester.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Single-Premium",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "POLICY # ABC123456",
+      "OTHER BUSINESSES OWNED": "\"N/A\"",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "POLICY# 987654321",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses to report; the business has not operated in high-risk zones such as New York City, Nassau, Suffolk, or Westchester counties where coverage is restricted.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "\"$2,000,000 aggregate with a $1,000 deductible.\"",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible.",
+      "Damge to Rental Premises": "N/A",
+      "Professional Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $2,500 deductible.",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "\"Hired and Non-Owned Auto Coverage (HNOA) is not available for contractors.\"",
+      "Non-owned Auto": "\"Hired and Non-Owned Auto Coverage (HNOA) is not available for contractors.\"",
+      "Computers": "\"N/A\"",
+      "ordinence and law": "N/A",
+      "Flood": "\"\"",
+      "accounts recievable": "N/A",
+      "employee dishonesty": "N/A",
+      "money and securities": "N/A",
+      "ADDRESS": "456 Elm Street, Chicago, IL 60614-5678",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "\"Monday to Friday: 7:00 AM - 5:00 PM\"",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Residential",
+      "BUILDING IMPROVEMENTS": "reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$1500000",
+      "TOTAL PAYROLL": "\"$800,000\"",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "reject",
+      "OTHER PROTECTION": "N/A",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual cash value",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Precision Builders Group does not have any past, present, or discontinued operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. All construction activities are performed in compliance with local regulations, avoiding high-risk areas.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Precision Builders Group does not sponsor any athletic teams as part of its business operations. The focus is primarily on residential construction and compliance with industry regulations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this ensures proper risk transfer and compliance with safety standards. The certificates are typically checked by the general contractor to verify coverage and limits.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Precision Builders Group has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company maintains a strong compliance record and prioritizes ethical standards in its operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Precision Builders Group has not had any policy or coverage declined, canceled, or non-renewed in the past three years. All operations are performed in compliance with applicable regulations, and we do not work in restricted high-risk areas.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Precision Builders Group does not lease employees to or from other employers, focusing instead on maintaining a stable workforce for its construction operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Precision Builders Group does not carry workers' compensation coverage as they do not operate in New York City, Nassau, Suffolk, or Westchester counties, where such coverage is required.",
+      "G8: Do you own or operate any other business?": "No \u2013 Precision Builders Group does not own or operate any other business. All operations are focused solely on residential construction.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Builders Group does not have any other insurance with this company, as they specifically do not participate in projects in New York City, Nassau, Suffolk, or Westchester counties where coverage is restricted.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Precision Builders Group is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on residential construction and renovations.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Precision Builders Group does not rent or loan equipment to others, in line with our operational focus on residential construction and compliance with risk management practices.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Precision Builders Group has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial record.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Precision Builders Group does not have exposure to flammables, explosives, or chemicals, as their operations focus solely on residential construction and comply with relevant safety standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 Precision Builders Group does not operate in New York City, Nassau, Suffolk, or Westchester counties, which are excluded due to high litigation risks. This ensures that the business does not have catastrophe exposure related to those areas.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Precision Builders Group has not had any past losses or claims relating to sexual abuse, molestation allegations, discrimination, or negligent hiring, as the company maintains a strong compliance and risk management approach focused on residential construction.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Precision Builders Group does not have any uncorrected fire code violations, as all operations are conducted in compliance with local building codes and regulations. Additionally, the business does not perform work in high-risk areas.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Builders Group did an excellent job on our home renovation. The team was professional and completed the project on time!",
+          "I highly recommend Precision Builders for their attention to detail and quality workmanship. They transformed our kitchen beautifully.",
+          "Great experience with Precision Builders! They communicated well throughout the project and delivered exactly what we envisioned.",
+          "The crew at Precision Builders was friendly and efficient. They made the entire process smooth and stress-free.",
+          "I was impressed with the level of professionalism from Precision Builders Group. They adhered to all timelines and kept the work area tidy."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for contractors performing work in New York City, Nassau, Suffolk, or Westchester counties."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "General Contractors & Builders",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for contractors performing work in New York City, Nassau, Suffolk, or Westchester counties."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for contractors performing work in New York City, Nassau, Suffolk, or Westchester counties.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business performs work in New York City and its surrounding counties, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "General Contractors & Builders",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for contractors performing work in New York City, Nassau, Suffolk, or Westchester counties."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of coverage restrictions for contractors performing work in New York City, Nassau, Suffolk, or Westchester counties.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for contractors performing work in New York City, Nassau, Suffolk, or Westchester counties.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business performs work in New York City and its surrounding counties, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

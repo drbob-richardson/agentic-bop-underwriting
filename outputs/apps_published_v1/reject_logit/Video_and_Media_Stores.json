@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Video & Media Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "CineSphere Video Rentals",
+      "FEIN OR SOC SEC #": "45-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Main Street, Suite 200, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, (555) 123-4567, john.smith@cinesphere.com",
+      "GL CODE": "12345",
+      "SIC": "7841",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "CineSphere Video Rentals operates as a retail video and media store offering a diverse selection of films, video games, and related merchandise for rent and purchase. Our operations are anchored in delivering exceptional customer service and maintaining a secure and welcoming environment for all patrons. We implement strict age verification protocols for age-restricted content, ensuring compliance with all regulatory requirements. \n\nOur stores are equipped with professionally monitored burglar and fire alarm systems and security cameras covering all public areas to enhance safety and loss prevention. Our team undergoes thorough training in customer service, safety procedures, and loss prevention to minimize operational risks. We also maintain robust inventory management systems to ensure accurate tracking and auditing of stock. \n\nCineSphere strives to stay current with business operation laws, including copyright and licensing regulations, further solidifying our commitment to responsible retailing. Special events hosted at our locations are conducted with appropriate permits and security measures in place to ensure the safety of our customers and staff. Overall, we layer operational controls to mitigate risks while providing our community with high-quality media products and services.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "03/16/2023",
+      "EXPIRATION DATE": "03/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "CSP-2023-0001",
+      "OTHER BUSINESSES OWNED": "CineSphere Media Productions, LLC",
+      "PREVIOUS CARRIER": "VideoStore Insurance Co.",
+      "POLICY NUMBER": "CSP-2022-4589",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Theft of merchandise occurred on 05/12/2023, with a loss amount of $2,000; currently under investigation. Water damage caused by a faulty sprinkler system on 06/15/2022, resulting in $3,000; resolved with repairs completed.",
+      "Combined Single Limit": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$500,000 / $2,500",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$250,000 / $1,000",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $2,500",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "4567 Elm Street, Springfield, IL 62701-1234",
+      "Year Built": "1995",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "10:00 AM - 8:00 PM",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$600,000.00",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fire-rated, UL-listed safe, Class 350, secure for media storage.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Professional security monitoring service for enhanced loss prevention.",
+      "Building limit": "$900000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 CineSphere Video Rentals does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. Our focus is solely on retail video and media sales, ensuring a safe environment for our customers.",
+      "G2: Are athletic teams sponsored?": "No \u2013 CineSphere Video Rentals does not sponsor athletic teams as part of its marketing or operational activities. Our focus is on providing quality media products and services to our customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The Operations Manager, John Smith, is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any arson-related crime in connection with this or any other property related to the applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 CineSphere Video Rentals has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. We have maintained a good standing with our insurance provider and uphold all necessary compliance measures.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 CineSphere Video Rentals does not lease employees to or from other employers as part of its business operations. We maintain our own staff to provide exceptional customer service and manage store operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 CineSphere Video Rentals carries Workers' Compensation insurance to comply with legal requirements for employee protection and ensure a safe working environment.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 CineSphere Video Rentals also operates CineSphere Media Productions, LLC, which focuses on media production services. This business complements our retail operations by enhancing our content offerings and market presence.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 CineSphere Video Rentals currently does not have any other insurance policies with this company. All insurance coverage is consolidated under our primary policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 CineSphere Video Rentals is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are strictly focused on retailing video and media products.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 CineSphere Video Rentals does not rent or loan equipment to others as part of its business operations, focusing solely on retail video and media products for customer use.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 CineSphere Video Rentals has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Our financial standing remains stable, and we continue to operate successfully.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 CineSphere Video Rentals does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on retail video and media products. We maintain all necessary safety protocols to ensure a secure environment for our customers and staff.",
+      "G14: Any catastrophe exposure?": "No \u2013 CineSphere Video Rentals does not have any catastrophe exposure as our operations do not involve activities that increase such risks. We focus on retail video and media sales in a secure environment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 CineSphere Video Rentals has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations emphasize compliance and employee training to mitigate such risks.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 CineSphere Video Rentals currently has no uncorrected fire code violations and maintains compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "CineSphere Video Rentals has an amazing selection of films and video games! The staff is always friendly and helpful.",
+          "I love the cozy atmosphere of this store. It's my go-to place for movie nights with friends!",
+          "Great prices and a fantastic variety of media. I always find something new to watch!",
+          "The age verification process is smooth, and I appreciate their commitment to compliance. Highly recommend!",
+          "CineSphere has a wonderful collection of vintage films that you can't find anywhere else. A hidden gem!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Video & Media Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Video & Media Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

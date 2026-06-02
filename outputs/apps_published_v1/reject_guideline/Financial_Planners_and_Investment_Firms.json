@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Financial Planners & Investment Firms",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Harbor Financial Advisors",
+      "FEIN OR SOC SEC #": "",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "1234 Financial Way, Suite 200, Austin, TX 78701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Director of Compliance, Harbor Financial Advisors, (512) 555-0199, john.smith@harborfinancial.com",
+      "GL CODE": "GQ-12",
+      "SIC": "rejected",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Harbor Financial Advisors, we specialize in providing comprehensive financial planning and investment management services tailored to meet the unique needs of our clients. Our operations involve the development of personalized investment strategies that align with each client's financial goals, risk tolerance, and time horizon. We employ a team of certified financial planners and investment analysts who utilize industry-standard methodologies to assess and manage client portfolios. \n\nOur firm prioritizes compliance with all relevant regulations, including SEC and FINRA standards, ensuring a robust risk management framework. We leverage secure technologies for client communications and maintain strict data security protocols to safeguard sensitive information. Regular internal audits and compliance reviews are part of our operational discipline, helping us promptly address emerging risks while enhancing client trust.\n\nWe also focus on ongoing professional development for our staff to ensure they remain abreast of evolving market conditions and regulatory requirements. By integrating a strong ethical framework and client-centric approach, we strive to deliver high-quality services while pursuing optimal outcomes for our clients.\n\nOur firm actively works with clients to navigate regulatory compliance and regularly addresses any outstanding regulatory actions as part of our commitment to transparency and ethical practice in financial planning and investment management.",
+      "DATE BUSINESS STARTED": "06/01/2015",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "POLICY-REJECT-2023-001",
+      "OTHER BUSINESSES OWNED": "\"\"",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "POLICY-REJECT-2023-002",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "\"\"",
+      "Bodily Injury & Prop Damage Aggregate": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "Medical Expense (per person)": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "Damge to Rental Premises": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "Hired Auto": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "Non-owned Auto": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "Computers": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "ordinence and law": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "Flood": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "accounts recievable": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "employee dishonesty": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "money and securities": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "ADDRESS": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "MONEY ON PREMISES": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "OTHER PROTECTION": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "personal property limit": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Harbor Financial Advisors does not engage in the storing, treating, discharging, applying, disposing, or transporting of hazardous materials as part of its operations. The firm focuses exclusively on financial planning and investment management services, with a commitment to regulatory compliance and risk management.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Harbor Financial Advisors does not sponsor athletic teams as part of its operations. The firm's focus is on providing financial planning and investment management services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the firm's compliance team to ensure risk transfer and coverage compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Harbor Financial Advisors has not been indicted or convicted of any degree of fraud, bribery, arson, or any related crime. The firm maintains a strong commitment to ethical business practices and regulatory compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Harbor Financial Advisors has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. The firm maintains a strong compliance record and actively manages its insurance needs.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Harbor Financial Advisors does not lease employees to or from other employers, as our operations are strictly focused on providing financial planning and investment management services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Harbor Financial Advisors does not carry Workers' Compensation insurance as the firm has no employees. The operations are primarily focused on providing financial planning and investment management services.",
+      "G8: Do you own or operate any other business?": "No \u2013 Harbor Financial Advisors does not own or operate any other businesses. Our focus is solely on providing financial planning and investment management services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Harbor Financial Advisors has no other insurance policies with this company. The firm currently maintains specific coverage aligned with its operational needs.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Harbor Financial Advisors does not engage in manufacturing, mixing, relabeling, or repackaging of products as our operations strictly focus on providing financial planning and investment management services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Harbor Financial Advisors does not rent or loan equipment to others, as our operations focus exclusively on providing financial planning and investment management services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Harbor Financial Advisors has not had any foreclosures, repossessions, bankruptcies, judgments, or liens during the past five years. The firm maintains a strong financial standing and complies with all relevant regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Harbor Financial Advisors does not have any exposure to flammables, explosives, or chemicals, as our operations strictly focus on financial planning and investment management services without involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations. Therefore, we cannot accept any catastrophe exposure at this time.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Harbor Financial Advisors has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The firm maintains a strong commitment to compliance and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "Yes \u2013 There are uncorrected fire code violations, which restrict coverage for the firm due to unresolved regulatory actions.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Harbor Financial Advisors provided exceptional service and tailored financial strategies that truly fit my needs. Highly recommend!",
+          "The team at Harbor Financial is knowledgeable and professional. They helped me navigate my investments with ease.",
+          "I appreciate the personalized attention I received from Harbor Financial Advisors. They made complex financial concepts easy to understand.",
+          "Great experience with Harbor Financial! Their expertise in investment management has made a significant difference in my portfolio.",
+          "I trust Harbor Financial Advisors with my financial planning. Their commitment to compliance and client service is evident."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Financial Planners & Investment Firms",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text mentions that the firm 'regularly addresses any outstanding regulatory actions' which indicates potential unresolved regulatory actions."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Financial Planners & Investment Firms",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to unresolved regulatory actions or ongoing investigations, as specified in the chosen reject reason. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Coverage is restricted for firms with unresolved regulatory actions or ongoing investigations.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text mentions that the firm 'regularly addresses any outstanding regulatory actions' which indicates potential unresolved regulatory actions."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

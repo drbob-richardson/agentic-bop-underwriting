@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Catering & Food Preparation Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Savory Moments Catering",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Culinary Way, Suite 100, Food City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Food Safety Manager, Savory Moments Catering, 123 Culinary Way, Suite 100, Food City, CA 90210-1234, (555) 123-4567, johndoe@savorymomentscatering.com",
+      "GL CODE": "CATERING-GL001",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Savory Moments Catering specializes in providing high-quality catering and food preparation services for a variety of events, including corporate meetings, weddings, and private parties. Our core operations focus on delivering customized culinary experiences tailored to the specific needs and preferences of our clients. We maintain strict adherence to local food safety regulations and the FDA Food Safety Modernization Act (FSMA), ensuring that all ingredients are sourced from reputable suppliers and stored under optimal conditions. Our team is equipped with commercial-grade kitchen facilities, and we implement temperature-controlled transportation for all perishable items, minimizing risks associated with foodborne illnesses. Regular staff training in food safety practices is a priority to maintain compliance and uphold our commitment to providing safe and delicious meals. We also conduct periodic internal audits to ensure the effectiveness of our food safety management system. Through these practices, we aim to deliver exceptional service while prioritizing health and safety standards at every step of our operations.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$6,500.00",
+      "POLICY #": "SMC-2023-001",
+      "OTHER BUSINESSES OWNED": "Savory Delights Bakery",
+      "PREVIOUS CARRIER": "Culinary Assurance Insurance Company",
+      "POLICY NUMBER": "SMC-2022-012",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss dated 02/15/2023 for $1,500 due to equipment malfunction leading to temporary kitchen shutdown; currently resolved. Loss dated 03/05/2023 for $1,000 related to spoilage of ingredients caused by power outage; currently under review for potential recovery options.",
+      "Combined Single Limit": "$1,000,000 CSL with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$50,000 with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 with a $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 with a $2,500 deductible",
+      "Computers": "$50,000 with a $1,000 deductible",
+      "ordinence and law": "$500,000 with a $2,500 deductible",
+      "Flood": "$500,000 with a $5,000 deductible",
+      "accounts recievable": "$100,000 with a $1,000 deductible",
+      "employee dishonesty": "$250,000 with a $1,000 deductible",
+      "money and securities": "$100,000 with a $1,000 deductible",
+      "ADDRESS": "123 Culinary Way, Suite 100, Food City, CA 90210-1234",
+      "Year Built": "2015",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 4:00 PM; Closed on Sunday.",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade II, UL listed safe for cash and sensitive documents.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing along the perimeter of the property, along with on-site security personnel during events, to enhance safety and prevent unauthorized access.",
+      "Building limit": "$1200",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Savory Moments Catering does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Their operations focus on food preparation and catering services, adhering to local food safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Savory Moments Catering does not sponsor athletic teams. The focus of the business is on providing high-quality catering and food preparation services for various events.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the Food Safety Manager to ensure compliance and risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Savory Moments Catering has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years for Savory Moments Catering.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Savory Moments Catering does not lease employees to or from other employers, ensuring that our team is directly employed and trained to meet our specific service standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Savory Moments Catering carries Workers Compensation insurance to ensure compliance with legal requirements and protect our employees in case of any work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Savory Moments Catering also owns and operates another business, Savory Delights Bakery, which complements its catering services. This partnership enhances our culinary offerings and allows for a diverse range of event catering options.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Savory Moments Catering does not have any other insurance policies with this company at this time. The current policy number is SMC-2023-001 for the coverage being sought.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Savory Moments Catering is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing catering and food preparation services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Savory Moments Catering does not rent or loan equipment to others, focusing solely on providing catering services using its own equipment.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Savory Moments Catering has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a stable financial standing and has adhered to all necessary obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Savory Moments Catering does not have any exposure to flammables, explosives, or chemicals as our operations primarily focus on food preparation and catering services, adhering to strict safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Savory Moments Catering does not have any catastrophe exposure, as our operations are focused on providing catering services and we adhere to safety regulations to minimize risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Savory Moments Catering has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains strict hiring practices and compliance with regulations to ensure a safe and respectful environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Savory Moments Catering has no uncorrected fire code violations and maintains compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "5"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 5,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Savory Moments Catering provided an exceptional experience for our wedding! The food was delicious and beautifully presented.",
+          "I hired Savory Moments for a corporate event, and they exceeded my expectations. The staff was professional and attentive.",
+          "The variety of menu options offered by Savory Moments Catering is impressive. Every dish was a hit with our guests!",
+          "I appreciate their commitment to food safety and quality. It's clear they take pride in their work.",
+          "From start to finish, the service was top-notch. I highly recommend Savory Moments for any catering needs!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Catering & Food Preparation Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Catering & Food Preparation Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

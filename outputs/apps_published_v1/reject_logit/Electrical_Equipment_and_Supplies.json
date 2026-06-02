@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Electrical Equipment & Supplies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ElectraSupply Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Electrical Ave, Suite 100, Springfield, IL 62701-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Manager, Phone: (555) 123-4567, Email: john.smith@electrasupply.com",
+      "GL CODE": "335999",
+      "SIC": "3999",
+      "NATURE OF BUSINESS": "Wholesale",
+      "DESCRIPTION OF OPERATIONS": "ElectraSupply Solutions specializes in the wholesale distribution of high-quality electrical components and supplies, particularly UL-listed products, catering to both residential and light commercial markets. Our operations focus on providing a comprehensive inventory of electrical supplies, including wiring, lighting fixtures, outlets, and connectors. We maintain strict compliance with all relevant safety and regulatory standards, including the National Electrical Code (NEC) and Underwriters Laboratories (UL) guidelines. Our knowledgeable team supports customers with expert advice ensuring they find the right products for their needs. With efficient inventory management and logistics, we ensure timely delivery and customer satisfaction without engaging in high-voltage or hazardous electrical equipment manufacturing or installation services.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "11/01/2023",
+      "EXPIRATION DATE": "11/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$15,000.00",
+      "POLICY #": "ES-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A Electric Supply Co., LLC - Wholesale distributor of residential electrical supplies",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "ES-2022-3456",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 03/15/2023; Cause: Water damage due to a burst pipe in the storage area; Amount: $2,500; Status: Claim settled.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $1,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $5,000",
+      "employee dishonesty": "$500,000 / $1,000",
+      "money and securities": "$250,000 / $1,000",
+      "ADDRESS": "1234 Electrical Supply Way, Springfield, IL 62701",
+      "Year Built": "1995",
+      "Square Feet": "15000",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 1:00 PM; Closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1,200,000.00",
+      "TOTAL PAYROLL": "$400,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class I, Grade B, UL Listed Safety Vault",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and monitored surveillance system in place to deter theft and vandalism.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost Value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 ElectraSupply Solutions does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The business focuses solely on the wholesale distribution of electrical components and supplies that comply with safety and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ElectraSupply Solutions does not sponsor any athletic teams as part of its business operations. Our focus is primarily on the wholesale distribution of electrical components and supplies.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance manager, John Smith, checks all certificates to ensure they meet required standards.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 ElectraSupply Solutions has not had any applicants indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ElectraSupply Solutions has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The business maintains a strong compliance record with its insurance requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ElectraSupply Solutions does not lease employees to or from other employers; all employees are directly hired and managed within the company.",
+      "G7: Any Workers Compensation carried?": "No \u2013 ElectraSupply Solutions does not currently carry Workers' Compensation insurance. The business is structured in a way that complies with legal requirements for employee coverage.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 ElectraSupply Solutions owns and operates another business called N/A Electric Supply Co., LLC, which is a wholesale distributor of residential electrical supplies.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ElectraSupply Solutions does not have any other insurance policies with this company at this time. The only current policy is the one being issued.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ElectraSupply Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business strictly focuses on the wholesale distribution of electrical components and supplies.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ElectraSupply Solutions does not rent or loan equipment to others, as its operations focus solely on wholesale distribution of electrical components and supplies.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ElectraSupply Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial status.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ElectraSupply Solutions does not have any exposure to flammables, explosives, or chemicals, as it focuses solely on the wholesale distribution of electrical components and supplies that comply with safety and regulatory standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 ElectraSupply Solutions does not have any catastrophe exposure as its operations focus on the wholesale distribution of electrical components and supplies, with no involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ElectraSupply Solutions has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong compliance record with ethical hiring practices and workplace conduct.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ElectraSupply Solutions has confirmed that there are no uncorrected fire code violations, maintaining compliance with all safety regulations and standards.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "ElectraSupply Solutions has an impressive selection of electrical components. The staff is knowledgeable and always ready to help!",
+          "I had a great experience shopping here. The prices are competitive, and the quality of the products is top-notch.",
+          "Fast shipping and excellent customer service! I found everything I needed for my project without any hassle.",
+          "The team at ElectraSupply is fantastic! They provided expert advice that helped me choose the right supplies for my needs.",
+          "I appreciate the wide range of UL-listed products available. It's reassuring to know I'm getting quality materials for my projects."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Electrical Equipment & Supplies",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Electrical Equipment & Supplies",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Artists & Craft Studios",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Creative Canvas Studio",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Artisans Way, San Francisco, CA 94103-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Studio Manager, Creative Canvas Studio, (555) 123-4567, jane.doe@creativecanvas.com",
+      "GL CODE": "1234",
+      "SIC": "7115",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Creative Canvas Studio, we specialize in providing a welcoming and inspiring environment for artists and art enthusiasts to explore their creativity. Our operations focus on artistic activities such as painting, drawing, digital art, and textile crafts. We adhere to strict safety protocols and utilize only non-toxic, low-toxicity materials, ensuring all art supplies are stored correctly with clear documentation of safe handling procedures. \n\nOur studio is equipped with comprehensive fire detection and suppression systems, including smoke alarms and sprinklers, to protect our workspace and priceless artwork. We prioritize secure storage for valuable tools and customer information while implementing robust cybersecurity measures for online sales. \n\nIn addition to our studio space, we offer public workshops and classes, accompanied by established safety protocols and participant waivers. We comply fully with local zoning, health, and safety regulations to maintain a legal and safe operation for our staff and visitors. Our dedication to quality and safety allows us to create and foster a positive artistic community.",
+      "DATE BUSINESS STARTED": "01/15/2022",
+      "EFFECTIVE DATE": "02/01/2022",
+      "EXPIRATION DATE": "02/01/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,200.00",
+      "POLICY #": "CCS-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Arts & Crafts Insurance Co.",
+      "POLICY NUMBER": "CCS-2022-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "\"On 03/15/2023, a small water leak from a nearby plumbing issue caused minor damage to art supplies and studio flooring, resulting in a loss amount of $1,200. The issue was promptly addressed, and all damaged materials were replaced. Status: Resolved.\"",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate with a $1,000 deductible.",
+      "Medical Expense (per person)": "$5,000 per person",
+      "Damge to Rental Premises": "$50,000 per occurrence with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 combined single limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 combined single limit with a $1,000 deductible",
+      "Computers": "$10,000 limit with a $500 deductible",
+      "ordinence and law": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible.",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Creative Way, San Francisco, CA 94103",
+      "Year Built": "2010",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "Mon-Fri 10:00 AM - 6:00 PM; Sat 11:00 AM - 5:00 PM; Closed Sun",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "$75,000.00",
+      "NO. OF EMPLOYEES": "3",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Secure storage room with steel shelving and fire-rated vault door for artwork and equipment, compliant with fire and safety codes.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security monitoring system with 24/7 surveillance and regular audits for art storage and studio premises.",
+      "Building limit": "$800",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost",
+      "personal property limit": "$50,000.00",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Creative Canvas Studio does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus exclusively on non-hazardous artistic activities and the use of non-toxic art materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Creative Canvas Studio does not sponsor athletic teams as our focus is on non-hazardous artistic activities and community engagement through art-related programs and workshops.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The studio manager, Jane Doe, is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Creative Canvas Studio has not experienced any policies or coverage that were declined, canceled, or non-renewed during the prior three years. All insurance matters have been maintained in good standing.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Creative Canvas Studio does not lease employees to or from other employers; we manage our own staff directly to maintain a cohesive working environment.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Creative Canvas Studio carries Workers\u2019 Compensation insurance to ensure compliance with legal requirements and protect our employees. We prioritize a safe working environment for our staff.",
+      "G8: Do you own or operate any other business?": "No \u2013 Creative Canvas Studio does not own or operate any other business. Our focus is solely on providing a supportive environment for artistic endeavors within this studio.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Creative Canvas Studio does not have any other insurance with this company, as indicated in the application details. The only existing policy is the one currently active under policy number CCS-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Creative Canvas Studio is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on non-hazardous artistic activities such as painting, drawing, and textile crafts.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Creative Canvas Studio does not rent or loan equipment to others, as we focus solely on providing artistic services within our studio. This approach helps maintain a controlled and safe environment for our activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Creative Canvas Studio has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The studio has maintained a solid financial standing and operational stability since its inception.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Creative Canvas Studio does not have any exposure to flammables, explosives, or chemicals as we exclusively engage in non-hazardous artistic activities and utilize only non-toxic materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Creative Canvas Studio operates in a non-hazardous environment and adheres to strict safety protocols, minimizing exposure to catastrophic risks. We maintain comprehensive fire detection systems and comply with all safety regulations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Creative Canvas Studio has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize a safe and inclusive environment for all participants and staff.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Creative Canvas Studio does not have any uncorrected fire code violations and is committed to maintaining full compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "I had a fantastic time at this studio! Their glassblowing classes were absolutely mesmerizing, and I was thrilled to create my own unique piece while learning from the talented instructors. Highly recommend for anyone wanting a hands-on artistic experience!",
+          "I attended a workshop here and had a wonderful experience. The instructors are knowledgeable and make learning fun!",
+          "The studio is well-organized and filled with high-quality, non-toxic materials. I felt safe and comfortable while creating my art.",
+          "I love the variety of classes offered at Creative Canvas. There's something for everyone, whether you're a beginner or an experienced artist.",
+          "The space is bright and welcoming, making it the perfect environment for artists of all levels. Highly recommend checking it out!"
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Studios must not engage in hazardous artistic activities such as glassblowing, welding, or large-scale woodworking."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Studios must not engage in hazardous artistic activities such as glassblowing, welding, or large-scale woodworking."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Artists & Craft Studios",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Studios must not engage in hazardous artistic activities such as glassblowing, welding, or large-scale woodworking."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Studios must not engage in hazardous artistic activities such as glassblowing, welding, or large-scale woodworking. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review mentioning 'glassblowing classes,' which directly indicates engagement in a hazardous artistic activity."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Artists & Craft Studios",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Studios must not engage in hazardous artistic activities such as glassblowing, welding, or large-scale woodworking."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted because the studio engages in hazardous artistic activities such as glassblowing, which is explicitly prohibited. This violates the specific restriction SPEC-1.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Studios must not engage in hazardous artistic activities such as glassblowing, welding, or large-scale woodworking. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review mentioning 'glassblowing classes,' which directly indicates engagement in a hazardous artistic activity."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

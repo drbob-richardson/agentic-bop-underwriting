@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Day Care & Child Care Centers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Bright Horizons Learning Center",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Maple Lane, Suite 101, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Jessica Martinez, Compliance Officer, (555) 987-6543, jessica.martinez@brighthorizons.com",
+      "GL CODE": "12345",
+      "SIC": "8351",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Bright Horizons Learning Center, we provide high-quality day care and child care services in a secure, nurturing environment for children aged 6 weeks to 5 years. Our operations focus on delivering a well-rounded curriculum that promotes early childhood development through educational activities, play, and socialization. Our dedicated staff maintains state-mandated staff-to-child ratios to ensure that each child receives personal attention and care. We prioritize safety and compliance, conducting regular inspections and adhering to all health and safety regulations. Our center also engages parents with regular updates and transparent communication regarding their child's progress and activities. We are committed to fostering a healthy and inclusive atmosphere while implementing policies for managing allergies and emergencies effectively.\n\nCompliance Confirmation: The business does not accept centers located in high-crime or high-risk urban areas without advanced security measures and confirms that none of our facilities have repeated or unresolved violations of health, safety, or licensing regulations. Additionally, we do not have any centers with a history of multiple claims related to child injury, illness, or neglect within the past three years, and we maintain adequate staff-to-child ratios at all times, ensuring compliance throughout the year.",
+      "DATE BUSINESS STARTED": "08/15/2021",
+      "EFFECTIVE DATE": "09/01/2021",
+      "EXPIRATION DATE": "08/31/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "BRIGHT2023-IL",
+      "OTHER BUSINESSES OWNED": "Bright Horizons Academy, LLC - providing educational services for children aged 5 to 12",
+      "PREVIOUS CARRIER": "Bright Horizons Insurance Group",
+      "POLICY NUMBER": "BRIGHTHORIZONS2022-IL",
+      "TOTAL LOSSES": "$250",
+      "DESCRIPTION OF LOSSES": "Loss dates: 03/15/2022, Cause: Minor slip and fall incident resulting from a spilled drink that was not promptly cleaned, Amount: $250.00, Status: Resolved with no further claims or incidents reported.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000.00",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $500",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$100,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$50,000 / $1,000",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "4567 Oak Ridge Drive, Springfield, IL 62704-9876",
+      "Year Built": "2018",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "Monday to Friday, 7:00 AM to 6:00 PM",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class II, Grade A, UL Listed",
+      "MONEY ON PREMISES": "$2,500.00",
+      "OTHER PROTECTION": "Secure fencing around playground area and controlled entry access with video surveillance monitoring.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual Cash Value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Bright Horizons Learning Center does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The center focuses solely on providing child care services in a safe and compliant environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Bright Horizons Learning Center does not sponsor any athletic teams as it primarily focuses on providing child care services. The center emphasizes early childhood development rather than extracurricular sports activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer, Jessica Martinez, checks the certificates to ensure they are in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any other related crimes associated with the applicants or their properties. The operations of Bright Horizons Learning Center maintain a strong commitment to ethical standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Bright Horizons Learning Center has not experienced any policies or coverage that were declined, canceled, or non-renewed during the prior three years. The center maintains a strong compliance record and a proactive approach to its insurance policies.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Bright Horizons Learning Center does not lease employees to or from other employers, as our staff is directly employed and trained by us to ensure consistent quality of care and adherence to our standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Bright Horizons Learning Center carries workers' compensation insurance to ensure compliance with state regulations and provide coverage for its employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Bright Horizons Learning Center also operates Bright Horizons Academy, LLC, which provides educational services for children aged 5 to 12. This allows us to maintain a comprehensive approach to early childhood education.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Bright Horizons Learning Center currently holds only one policy with the insurance company, which is the applicable policy number BRIGHT2023-IL. There are no additional insurance policies with this company to list.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Bright Horizons Learning Center is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations strictly focus on providing day care and child care services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Bright Horizons Learning Center does not rent or loan equipment to others, focusing solely on providing its childcare services within the facility.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Bright Horizons Learning Center has not had any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years, maintaining a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Bright Horizons Learning Center does not have any exposure to flammables, explosives, or chemicals as it solely focuses on providing child care services in a safe and compliant environment. The center prioritizes safety and adheres to all health and safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Bright Horizons Learning Center does not have any known catastrophe exposure that would impact its operations or safety protocols. The center prioritizes a secure environment and adheres to all applicable regulations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Bright Horizons Learning Center has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The center maintains strict hiring practices and a commitment to creating a safe environment for children.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Bright Horizons Learning Center, as we prioritize safety and compliance with all regulations. Regular inspections are conducted to ensure adherence to fire safety standards.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 250,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Bright Horizons Learning Center has been a wonderful place for my child! The staff is caring and attentive, and I love the educational activities they offer.",
+          "I appreciate the communication from the teachers and the safe environment they provide. My daughter loves going to daycare every day!",
+          "The facility is clean and well-organized. I feel confident leaving my child in their care, knowing they are in good hands.",
+          "Bright Horizons has a fantastic curriculum that promotes learning through play. My son has made great friends and is always excited to go.",
+          "The staff-to-child ratio is impressive, ensuring that each child gets the attention they need. Highly recommend this daycare!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Do not accept centers located in high-crime or high-risk urban areas without advanced security measures.",
+        "Decline facilities with repeated or unresolved violations of health, safety, or licensing regulations.",
+        "Do not write centers with a history of multiple claims related to child injury, illness, or neglect within the past three years.",
+        "Exclude centers lacking adequate staff-to-child ratios for more than 30 days in the past year."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Day Care & Child Care Centers",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Day Care & Child Care Centers",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Bright Horizons Learning Center is valid and meets the acceptance criteria.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

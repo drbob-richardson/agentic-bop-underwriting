@@ -1,0 +1,260 @@
+{
+  "n_apps": 635,
+  "pipelines": {
+    "single_llm": {
+      "n_apps": 635,
+      "n_valid": 635,
+      "n_errors": 0,
+      "accuracy_overall": 0.5386,
+      "confusion_matrix_rows_gt": {
+        "ACCEPT": {
+          "ACCEPT": 53,
+          "REJECT": 70,
+          "REFER_TO_HUMAN_REVIEW": 4
+        },
+        "REJECT": {
+          "ACCEPT": 38,
+          "REJECT": 285,
+          "REFER_TO_HUMAN_REVIEW": 22
+        },
+        "REFER_TO_HUMAN_REVIEW": {
+          "ACCEPT": 60,
+          "REJECT": 99,
+          "REFER_TO_HUMAN_REVIEW": 4
+        }
+      },
+      "per_scenario": {
+        "incomplete_recoverable": {
+          "n": 127,
+          "accuracy": 0.4015748031496063,
+          "predictions": {
+            "ACCEPT": 44,
+            "REJECT": 70,
+            "REFER_TO_HUMAN_REVIEW": 13
+          }
+        },
+        "reject_guideline": {
+          "n": 127,
+          "accuracy": 0.84251968503937,
+          "predictions": {
+            "REJECT": 113,
+            "REFER_TO_HUMAN_REVIEW": 5,
+            "ACCEPT": 9
+          }
+        },
+        "incomplete_irrecoverable": {
+          "n": 127,
+          "accuracy": 0.06299212598425197,
+          "predictions": {
+            "REJECT": 78,
+            "ACCEPT": 45,
+            "REFER_TO_HUMAN_REVIEW": 4
+          }
+        },
+        "accept": {
+          "n": 127,
+          "accuracy": 0.41732283464566927,
+          "predictions": {
+            "REJECT": 70,
+            "ACCEPT": 53,
+            "REFER_TO_HUMAN_REVIEW": 4
+          }
+        },
+        "reject_logit": {
+          "n": 127,
+          "accuracy": 0.968503937007874,
+          "predictions": {
+            "REJECT": 123,
+            "REFER_TO_HUMAN_REVIEW": 4
+          }
+        }
+      },
+      "latency_sec": {
+        "mean": 1.64,
+        "median": 1.48,
+        "p95": 2.5
+      },
+      "reason_cosine_similarity": {
+        "n": 100,
+        "mean": 0.7906,
+        "median": 0.7896
+      }
+    },
+    "naive_rag": {
+      "n_apps": 635,
+      "n_valid": 635,
+      "n_errors": 0,
+      "accuracy_overall": 0.5291,
+      "confusion_matrix_rows_gt": {
+        "ACCEPT": {
+          "ACCEPT": 109,
+          "REJECT": 14,
+          "REFER_TO_HUMAN_REVIEW": 4
+        },
+        "REJECT": {
+          "ACCEPT": 96,
+          "REJECT": 224,
+          "REFER_TO_HUMAN_REVIEW": 25
+        },
+        "REFER_TO_HUMAN_REVIEW": {
+          "ACCEPT": 143,
+          "REJECT": 17,
+          "REFER_TO_HUMAN_REVIEW": 3
+        }
+      },
+      "per_scenario": {
+        "incomplete_recoverable": {
+          "n": 127,
+          "accuracy": 0.25984251968503935,
+          "predictions": {
+            "REFER_TO_HUMAN_REVIEW": 19,
+            "REJECT": 37,
+            "ACCEPT": 71
+          }
+        },
+        "reject_guideline": {
+          "n": 127,
+          "accuracy": 0.5354330708661418,
+          "predictions": {
+            "REJECT": 71,
+            "ACCEPT": 56
+          }
+        },
+        "incomplete_irrecoverable": {
+          "n": 127,
+          "accuracy": 0.03937007874015748,
+          "predictions": {
+            "ACCEPT": 112,
+            "REJECT": 12,
+            "REFER_TO_HUMAN_REVIEW": 3
+          }
+        },
+        "accept": {
+          "n": 127,
+          "accuracy": 0.8582677165354331,
+          "predictions": {
+            "REFER_TO_HUMAN_REVIEW": 4,
+            "ACCEPT": 109,
+            "REJECT": 14
+          }
+        },
+        "reject_logit": {
+          "n": 127,
+          "accuracy": 0.952755905511811,
+          "predictions": {
+            "REJECT": 121,
+            "REFER_TO_HUMAN_REVIEW": 6
+          }
+        }
+      },
+      "latency_sec": {
+        "mean": 2.14,
+        "median": 1.92,
+        "p95": 3.38
+      },
+      "reason_cosine_similarity": {
+        "n": 100,
+        "mean": 0.7805,
+        "median": 0.7796
+      }
+    },
+    "agentic_rag": {
+      "n_apps": 635,
+      "n_valid": 635,
+      "n_errors": 0,
+      "accuracy_overall": 0.5638,
+      "confusion_matrix_rows_gt": {
+        "ACCEPT": {
+          "ACCEPT": 22,
+          "REJECT": 28,
+          "REFER_TO_HUMAN_REVIEW": 77
+        },
+        "REJECT": {
+          "ACCEPT": 18,
+          "REJECT": 234,
+          "REFER_TO_HUMAN_REVIEW": 93
+        },
+        "REFER_TO_HUMAN_REVIEW": {
+          "ACCEPT": 14,
+          "REJECT": 47,
+          "REFER_TO_HUMAN_REVIEW": 102
+        }
+      },
+      "per_scenario": {
+        "incomplete_recoverable": {
+          "n": 127,
+          "accuracy": 0.48031496062992124,
+          "predictions": {
+            "REFER_TO_HUMAN_REVIEW": 74,
+            "REJECT": 48,
+            "ACCEPT": 5
+          }
+        },
+        "reject_guideline": {
+          "n": 127,
+          "accuracy": 0.5196850393700787,
+          "predictions": {
+            "REJECT": 70,
+            "ACCEPT": 18,
+            "REFER_TO_HUMAN_REVIEW": 39
+          }
+        },
+        "incomplete_irrecoverable": {
+          "n": 127,
+          "accuracy": 0.6456692913385826,
+          "predictions": {
+            "REFER_TO_HUMAN_REVIEW": 82,
+            "REJECT": 36,
+            "ACCEPT": 9
+          }
+        },
+        "accept": {
+          "n": 127,
+          "accuracy": 0.1732283464566929,
+          "predictions": {
+            "REFER_TO_HUMAN_REVIEW": 77,
+            "REJECT": 28,
+            "ACCEPT": 22
+          }
+        },
+        "reject_logit": {
+          "n": 127,
+          "accuracy": 1.0,
+          "predictions": {
+            "REJECT": 127
+          }
+        }
+      },
+      "latency_sec": {
+        "mean": 4.72,
+        "median": 5.19,
+        "p95": 9.08
+      },
+      "reason_cosine_similarity": {
+        "n": 100,
+        "mean": 0.779,
+        "median": 0.7777
+      }
+    }
+  },
+  "ground_truth_by_scenario": {
+    "accept": {
+      "ACCEPT": 127
+    },
+    "incomplete_irrecoverable": {
+      "REFER_TO_HUMAN_REVIEW": 119,
+      "REJECT": 8
+    },
+    "incomplete_recoverable": {
+      "REJECT": 92,
+      "REFER_TO_HUMAN_REVIEW": 35
+    },
+    "reject_guideline": {
+      "REJECT": 118,
+      "REFER_TO_HUMAN_REVIEW": 9
+    },
+    "reject_logit": {
+      "REJECT": 127
+    }
+  }
+}

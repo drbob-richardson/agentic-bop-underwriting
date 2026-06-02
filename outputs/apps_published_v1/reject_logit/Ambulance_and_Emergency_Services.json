@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Ambulance & Emergency Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Priority Ambulance Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Emergency Lane, Suite 101, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Chief Operations Officer, Priority Ambulance Services, Phone: (555) 123-4567, Email: john.smith@priorityambulance.com",
+      "GL CODE": "G12345",
+      "SIC": "621910",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Priority Ambulance Services is dedicated to providing high-quality emergency medical transportation across Springfield and the surrounding regions. Our core operations focus exclusively on the immediate transport of patients to licensed hospital emergency rooms, ensuring compliance with local, state, and federal regulations. Our professional team comprises certified EMTs and paramedics, all of whom maintain current licenses and undergo rigorous background checks prior to employment. We operate a fleet of ambulances that are subject to frequent maintenance and safety inspections, adhering to manufacturer guidelines to guarantee the reliability and safety of our vehicles. Our 24/7 dispatch service enables us to respond rapidly to emergency calls, and we maintain meticulous records of dispatch and patient transports to support compliance and quality assurance. Our commitment to high standards of care is reinforced by a formal quality assurance program and incident reporting system, further demonstrating our dedication to patient safety and care excellence.",
+      "DATE BUSINESS STARTED": "03/15/2020",
+      "EFFECTIVE DATE": "04/01/2020",
+      "EXPIRATION DATE": "04/01/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,000.00",
+      "POLICY #": "PA-2023-0001",
+      "OTHER BUSINESSES OWNED": "Priority Medical Transport Services",
+      "PREVIOUS CARRIER": "Lifesaver Insurance Company",
+      "POLICY NUMBER": "PA-2022-0008",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On March 10, 2022, our ambulance was involved in a minor accident resulting from a slick road due to unexpected rain. The total cost of repairs amounted to $3,000. The claim was submitted and has been successfully closed. Additionally, on January 5, 2021, we responded to a call where the patient\u2019s transfer caused incidental damage to equipment totaling $2,000, which is also resolved.",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$250,000 / $1,000",
+      "accounts recievable": "$500,000 / $1,000",
+      "employee dishonesty": "$500,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "456 Emergency Drive, Springfield, IL 62701-1234",
+      "Year Built": "2010",
+      "Square Feet": "3000",
+      "HOURS OF OPERATION": "24/7",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$1,500,000.00",
+      "TOTAL PAYROLL": "$1,200,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fully secured, UL-listed safe, Class B, with a fire rating of 1 hour; used for storing medical supplies and sensitive documents related to patient care.",
+      "MONEY ON PREMISES": "$2,000.00",
+      "OTHER PROTECTION": "Security fencing and on-site watch services to enhance safety and deter unauthorized access.",
+      "Building limit": "$2000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Priority Ambulance Services does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous material as part of its operations. The focus is solely on providing emergency medical transportation to licensed hospital emergency rooms.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Priority Ambulance Services does not sponsor athletic teams as our primary focus is on providing emergency medical transportation services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the company's compliance or risk management team to ensure proper documentation is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Priority Ambulance Services has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The organization is committed to maintaining high ethical standards in its operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Priority Ambulance Services has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. We maintain a solid compliance record with our insurance carrier.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Priority Ambulance Services does not lease employees to or from other employers; all personnel are directly employed and undergo appropriate background checks and training.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Priority Ambulance Services carries Workers' Compensation insurance to comply with legal requirements and ensure protection for our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Priority Ambulance Services owns and operates another business called Priority Medical Transport Services, which complements its emergency medical transportation operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Priority Ambulance Services does not have any other insurance policies with this company apart from the current one. They focus solely on their primary operations and associated coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Priority Ambulance Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are focused solely on providing emergency medical transportation to licensed hospital emergency rooms.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Priority Ambulance Services does not rent or loan equipment to others. Our focus remains solely on providing emergency medical transportation services, ensuring compliance with all operational guidelines.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Priority Ambulance Services has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a solid financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Priority Ambulance Services does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on emergency medical transportation and do not involve handling such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Priority Ambulance Services does not have any exposure to catastrophes as our operations are focused exclusively on emergency medical transportation to licensed hospital emergency rooms, and we adhere to all required regulations and safety standards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Priority Ambulance Services has not incurred any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to thorough background checks and compliance ensures a focus on safety and care.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Priority Ambulance Services has no uncorrected fire code violations, ensuring compliance with safety regulations and the maintenance of a safe operating environment.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "The team at Priority Ambulance Services was incredibly professional and responsive during my emergency. I felt safe and well cared for.",
+          "Fast response time and compassionate staff made a stressful situation much easier. Highly recommend their services!",
+          "I had to call for an ambulance recently, and I was impressed by how quickly they arrived. The EMTs were knowledgeable and reassuring.",
+          "Great experience with Priority Ambulance Services. They took excellent care of my family member and ensured we got to the hospital safely.",
+          "The service was top-notch! The crew was friendly and efficient, making sure all our needs were met during transport."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Ambulance & Emergency Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Ambulance & Emergency Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

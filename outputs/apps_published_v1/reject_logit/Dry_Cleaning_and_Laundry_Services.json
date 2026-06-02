@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Dry Cleaning & Laundry Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Crystal Clean Dry Cleaners",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 200, Springfield, IL 62701-2345",
+      "CONTACT FOR INSPECTION": "John Doe - Inspection Coordinator",
+      "GL CODE": "G1210",
+      "SIC": "7216",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Crystal Clean Dry Cleaners, we specialize in providing high-quality dry cleaning and laundry services for a wide range of fabrics, ensuring exceptional care and satisfaction for our customers. Our operations include the cleaning, pressing, and finishing of garments, as well as offering minor alterations and repairs. We prioritize the use of environmentally friendly cleaning agents while adhering strictly to all local, state, and federal regulations regarding chemical use and disposal. Our state-of-the-art equipment is serviced annually by certified technicians, ensuring both operational efficiency and safety standards are consistently met. We maintain meticulous records of all maintenance activities to verify compliance and operational integrity. With our customer-centric approach, we also offer a convenient pick-up and delivery service within the local community, enhancing accessibility to our services while ensuring garments receive the highest standard of care throughout the cleaning process. Our commitment to quality and regulatory compliance helps us provide a reliable resource for our valued customers, ensuring their garments are treated with the utmost professionalism and respect.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "CLEAN12345",
+      "OTHER BUSINESSES OWNED": "Clothing alteration and repair services operated under the same management, ensuring compliance with safety and environmental regulations.",
+      "PREVIOUS CARRIER": "Acme Dry Cleaning Insurance Co.",
+      "POLICY NUMBER": "CLEAN98765",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss Date: 06/15/2023, Cause: Equipment malfunction during routine cleaning operation leading to a minor fire incident, Amount: $1,200.00, Status: Closed",
+      "Combined Single Limit": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $250 deductible",
+      "Damge to Rental Premises": "$100,000 with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 per occurrence with a $5,000 deductible",
+      "Flood": "$500,000 with a $5,000 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Elm Street, Springfield, IL 62701-3456",
+      "Year Built": "2005",
+      "Square Feet": "1200",
+      "HOURS OF OPERATION": "Monday to Friday: 7:00 AM - 7:00 PM; Saturday: 8:00 AM - 5:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$350,000.00",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 2, Grade B, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Fencing and security personnel on-site to safeguard equipment and facility.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Crystal Clean Dry Cleaners does not store, treat, discharge, apply, dispose, or transport hazardous materials as part of our operations. We prioritize the use of environmentally friendly cleaning agents and adhere to all relevant regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Crystal Clean Dry Cleaners does not sponsor any athletic teams. Our focus is on providing high-quality dry cleaning and laundry services to our customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are typically checked by the management or designated personnel responsible for verifying compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or any other arson-related crime for the applicant or the business.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years for Crystal Clean Dry Cleaners. All insurance has been maintained appropriately.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Crystal Clean Dry Cleaners does not lease employees to or from other employers. All employees are directly hired and managed by our company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Crystal Clean Dry Cleaners carries Workers Compensation insurance, which ensures compliance with legal requirements and provides coverage for employees in case of work-related injuries or illnesses.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Crystal Clean Dry Cleaners operates a clothing alteration and repair service under the same management, ensuring compliance with safety and environmental regulations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Crystal Clean Dry Cleaners does not have any other insurance with this company beyond what is already stated. Currently, the only policy is the primary coverage detailed in the application.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Crystal Clean Dry Cleaners is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing high-quality dry cleaning and laundry services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Crystal Clean Dry Cleaners does not rent or loan equipment to others. Our operations focus solely on providing high-quality laundry and dry cleaning services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Crystal Clean Dry Cleaners has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business has maintained its financial stability and compliance with all obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Crystal Clean Dry Cleaners does not have any exposure to flammables, explosives, or hazardous chemicals. We prioritize the use of environmentally friendly cleaning agents and comply with all relevant safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Crystal Clean Dry Cleaners does not have any catastrophe exposure, as we operate in a controlled environment with robust safety measures and emergency protocols in place. Our focus on compliance with regulations further mitigates potential risks associated with catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Crystal Clean Dry Cleaners has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize compliance and safety, ensuring a professional and respectful environment for both employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Crystal Clean Dry Cleaners has no uncorrected fire code violations and adheres to all fire safety regulations, ensuring a safe environment for our operations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Crystal Clean Dry Cleaners always does an amazing job! My clothes come back looking brand new every time.",
+          "I appreciate their quick turnaround and friendly service. Highly recommend for all your laundry needs!",
+          "The staff is professional and attentive. They even offer minor alterations, which is a great bonus!",
+          "I love that they use environmentally friendly cleaning agents. It's nice to support a business that cares about the planet.",
+          "Their pick-up and delivery service is so convenient! Makes laundry day a breeze."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Dry Cleaning & Laundry Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Dry Cleaning & Laundry Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

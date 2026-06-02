@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Musical Instrument Sales & Repair",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Harmony Instruments Sales & Repair",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Melody Lane, Suite 200, Harmony City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Emily Johnson, Inspection Coordinator, Harmony Instruments Sales & Repair, (555) 123-4567, emily.johnson@harmonyinstruments.com",
+      "GL CODE": "1216",
+      "SIC": "3931",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Harmony Instruments Sales & Repair specializes in the sales and repair of a wide variety of musical instruments, including guitars, pianos, brass, woodwinds, and percussion. Our operations focus on providing high-quality customer service, expert repairs, and a curated selection of instruments for musicians of all skill levels. Our retail space is designed to be welcoming and engaging, allowing customers to test instruments and receive personalized guidance from knowledgeable staff. We have a strict policy against renting out instruments, which helps us maintain a high standard of quality and reduces liability exposure. Our repair technicians are experienced and continually undergo training to stay updated with the latest techniques and trends in the industry. We take preventive measures seriously, ensuring that all high-value instruments are displayed securely and that we maintain comprehensive product liability coverage for all items sold. Committed to compliance with local business regulations, we ensure that our operations are safe, effective, and transparent.",
+      "DATE BUSINESS STARTED": "03/01/2018",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,500.00",
+      "POLICY #": "HARM-2023-001",
+      "OTHER BUSINESSES OWNED": "Harmony Music Academy, LLC",
+      "PREVIOUS CARRIER": "Harmony Insurance Group",
+      "POLICY NUMBER": "HARM-2022-5789",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "Loss Date: 08/15/2022; Cause: Instrument theft during a break-in; Amount: $1,500.00; Status: Resolved, insured payout received.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 Limit, $1,000 Deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 Limit, $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit, $1,000 Deductible",
+      "Liquor Liability": "$500,000 Limit, $1,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Computers": "$10,000 Limit, $500 Deductible",
+      "ordinence and law": "$1,000,000 Limit, $1,000 Deductible",
+      "Flood": "$500,000 Limit, $1,000 Deductible",
+      "accounts recievable": "$200,000 Limit, $1,000 Deductible",
+      "employee dishonesty": "$100,000 Limit, $1,000 Deductible",
+      "money and securities": "$20,000 Limit, $1,000 Deductible",
+      "ADDRESS": "456 Harmony Boulevard, Suite 100, Harmony City, CA 90210-1234",
+      "Year Built": "2005",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday-Friday 10:00 AM - 6:00 PM; Saturday 10:00 AM - 5:00 PM; Closed Sunday",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$250,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "High-security burglar-resistant safe, Class B, UL Listed, with digital lock and fireproof rating.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm system with 24/7 monitoring and periodic security patrols.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials; we focus solely on the sales and repair of musical instruments. We maintain compliance with all local regulations regarding safety and environmental standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Harmony Instruments Sales & Repair does not sponsor athletic teams as our focus is primarily on musical instruments and related services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The responsibility for checking these certificates typically falls to the business owner or a designated representative within the company.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes connected to the business or its principals.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years for Harmony Instruments Sales & Repair.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Harmony Instruments Sales & Repair does not lease employees to or from other employers, focusing instead on maintaining a dedicated team of in-house staff for our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Harmony Instruments Sales & Repair currently carries Workers' Compensation insurance to comply with legal requirements and ensure coverage for employees during work-related incidents.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Harmony Instruments Sales & Repair also owns and operates Harmony Music Academy, LLC, which focuses on music education and training. This ensures a comprehensive approach to supporting both instrument sales and musical development.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Harmony Instruments Sales & Repair does not have any other insurance policies with the current company. The business primarily operates under the existing policy for its activities.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Harmony Instruments Sales & Repair is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations are focused solely on the retail sale and repair of musical instruments.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Harmony Instruments Sales & Repair does not rent or loan equipment to others, as we have a strict policy against it to maintain high quality and reduce liability exposure.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Harmony Instruments Sales & Repair has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a solid financial standing and complies with all necessary regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Harmony Instruments Sales & Repair does not have any exposure to flammables, explosives, or chemicals as our operations are focused solely on the sales and repair of musical instruments, ensuring we maintain compliance with safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Harmony Instruments Sales & Repair does not have any catastrophe exposure as our operations solely involve the sales and repair of musical instruments, with comprehensive safety measures in place.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Harmony Instruments Sales & Repair has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We are committed to maintaining a safe and inclusive environment for both our employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Harmony Instruments Sales & Repair conducts regular inspections and maintains compliance with all fire codes, ensuring there are no uncorrected violations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had a fantastic experience at Harmony Instruments! The staff was incredibly knowledgeable and helped me find the perfect guitar.",
+          "The repair service is top-notch! My old piano sounds brand new after their expert tuning.",
+          "Great selection of instruments and accessories. I love the atmosphere of the store!",
+          "I appreciate their commitment to quality. The staff took the time to explain everything about my new trumpet.",
+          "Fast and friendly service! They fixed my violin in no time and it sounds amazing now."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Musical Instrument Sales & Repair",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Musical Instrument Sales & Repair",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to repeated claims for theft or property damage within three years.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

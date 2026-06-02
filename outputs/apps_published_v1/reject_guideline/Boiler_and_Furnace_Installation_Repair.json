@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Boiler & Furnace Installation/Repair",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "HeatWorks Boiler & Furnace Services",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "1234 Heating Lane, Suite 200, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Doe, Lead Technician, HeatWorks Boiler & Furnace Services, phone: (555) 123-4567, email: johndoe@heatworks.com",
+      "GL CODE": "BLR-1020",
+      "SIC": "1711",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "At HeatWorks Boiler & Furnace Services, we specialize in the installation and repair of residential and light commercial heating systems, including a variety of boiler and furnace models. Our operations are strictly limited to environments that do not involve hazardous materials or high-risk situations, ensuring a safe working environment for our technicians and clients. We conduct routine maintenance services, including safety inspections and tune-ups, to optimize the performance and efficiency of heating systems. All our technicians are OSHA-certified, and we maintain detailed documentation of our safety protocols, employee training, and equipment maintenance to support compliance with local, state, and federal regulations. Additionally, we provide installation of carbon monoxide and smoke detectors during system upgrades to enhance customer safety. Overall, we are committed to delivering high-quality service while adhering to industry standards and best practices.\n\nOur team handles the installation and repair of boilers and furnaces, which often includes the removal of existing heating systems and making necessary structural alterations to accommodate new equipment.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "\"reject\"",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJ-2023-HEATWORKS#001",
+      "OTHER BUSINESSES OWNED": "No other businesses owned.",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "REJ-2023-HEATWORKS#002",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported; current operations strictly adhere to compliance guidelines with no incidents or claims arising from activities involving demolition, structural alterations, or hazardous materials handling.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $5,000",
+      "Medical Expense (per person)": "N/A",
+      "Damge to Rental Premises": "\"$0 / $10,000\"",
+      "Professional Liability": "\"$1,000,000 / $5,000\"",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "\"$0 / $5,000\"",
+      "Non-owned Auto": "\"$0 / $5,000\"",
+      "Computers": "\"$0 / $1,000\"",
+      "ordinence and law": "\"\"",
+      "Flood": "\"\"",
+      "accounts recievable": "\"$0 / $1,000\"",
+      "employee dishonesty": "\"$50,000 / $1,000\"",
+      "money and securities": "\"$0 / $10,000\"",
+      "ADDRESS": "1234 Heating Lane, Suite 200, Springfield, IL 62704-5678",
+      "Year Built": "2010",
+      "Square Feet": "0.0",
+      "HOURS OF OPERATION": "\"Monday to Friday, 8:00 AM to 5:00 PM\"",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "\"2023\"",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "0",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "SAFE/VAULT DETAILS: N/A",
+      "MONEY ON PREMISES": "$0",
+      "OTHER PROTECTION": "\"Temporary fencing and watchpersons for secured job sites during installation.\"",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost for boiler and furnace equipment excluding any structural modifications.",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Past, present, or discontinued operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials, as our work strictly adheres to compliance guidelines focused on safe environments.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as our focus is solely on providing heating system installation and repair services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this protects against liabilities arising from their actions. Certificates are checked by our designated compliance officer prior to any subcontracted work.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior 3 years. Our operations have been compliant and consistent with industry standards.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers, as our operations focus on maintaining a stable workforce dedicated to heating system installation and repair services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Workers' Compensation is not applicable as our operations strictly do not involve any activities requiring such coverage, including demolition or structural alterations.",
+      "G8: Do you own or operate any other business?": "No \u2013 The business does not own or operate any other businesses. It is solely focused on providing heating system installation and repair services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business does not hold any other insurance policies with this company. All operations are focused on compliance with safety regulations specifically for heating system installation and repair.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products; our services are strictly focused on the installation and repair of heating systems.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others, as our operations are strictly focused on the installation and repair of heating systems, ensuring adherence to our defined service scope.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, ensuring financial stability in their operations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Our operations do not involve any exposure to flammables, explosives, or chemicals, as we strictly adhere to safety protocols focused on residential and light commercial heating systems without hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Our operations do not involve any work that introduces catastrophe exposure, as we strictly adhere to safety protocols and avoid high-risk activities such as demolition or structural alterations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The operations of HeatWorks Boiler & Furnace Services have no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring, ensuring a clean record in this regard.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at this time. All safety protocols and compliance measures are regularly maintained.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "HeatWorks did an excellent job installing our new furnace. The technicians were professional and efficient!",
+          "I had a great experience with HeatWorks for my boiler repair. They were prompt and explained everything clearly.",
+          "The team at HeatWorks was friendly and knowledgeable. They made sure my heating system was running perfectly.",
+          "I highly recommend HeatWorks for any heating needs. Their service was top-notch and very reliable.",
+          "Fast and reliable service! My furnace was up and running in no time thanks to the skilled technicians at HeatWorks."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No work involving demolition, structural alterations, or removal of building components."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Boiler & Furnace Installation/Repair",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No work involving demolition, structural alterations, or removal of building components."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No work involving demolition, structural alterations, or removal of building components.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that their operations include 'the removal of existing heating systems and making necessary structural alterations to accommodate new equipment,' which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Boiler & Furnace Installation/Repair",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No work involving demolition, structural alterations, or removal of building components."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application rejected due to violation of specific restriction regarding demolition and structural alterations.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No work involving demolition, structural alterations, or removal of building components.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that their operations include 'the removal of existing heating systems and making necessary structural alterations to accommodate new equipment,' which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

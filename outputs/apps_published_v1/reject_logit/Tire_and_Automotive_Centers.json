@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Tire & Automotive Centers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TreadWise Tire & Auto Center",
+      "FEIN OR SOC SEC #": "20-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Tire Lane Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "23931",
+      "SIC": "7534",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At TreadWise Tire & Auto Center, we specialize in providing high-quality tire sales and installation services for passenger vehicles and light trucks. Our operations include tire balancing, rotation, and basic automotive maintenance, such as oil changes and battery replacements. We focus on the sale and installation of new tires sourced from reputable manufacturers to ensure quality and safety for our customers. All of our technicians are certified and undergo regular safety training, enabling us to maintain a high standard of service while minimizing workplace accidents. Our facilities comply with all local, state, and federal regulations regarding environmental protection and waste disposal, and we take pride in maintaining clear separation between customer areas and service bays to enhance safety. Additionally, we implement seasonal promotional campaigns to effectively manage workflow and customer demand.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "TW-2023-001",
+      "OTHER BUSINESSES OWNED": "TreadWise Tire & Auto Rentals",
+      "PREVIOUS CARRIER": "Allstate Insurance Company",
+      "POLICY NUMBER": "TW-2022-456",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On January 10, 2023, we experienced water damage in our storage area due to a burst pipe, resulting in a loss amount of $2,500. The damage has been fully repaired and the area is now compliant with all safety standards. On February 5, 2023, we incurred a theft loss of $2,500 when tools were stolen from our service bay. The incident has been reported to the police, and we are currently evaluating security measures to prevent future occurrences.",
+      "Combined Single Limit": "$1,000,000/$1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000/$100",
+      "Damge to Rental Premises": "$100,000/$1,000",
+      "Professional Liability": "$1,000,000/$1,000",
+      "Liquor Liability": "$1,000,000/$1,000",
+      "Hired Auto": "$1,000,000/$1,000",
+      "Non-owned Auto": "$1,000,000/$1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$500,000/$1,000",
+      "Flood": "$250,000/$1,000",
+      "accounts recievable": "$250,000/$1,000",
+      "employee dishonesty": "$100,000/$1,000",
+      "money and securities": "$50,000/$1,000",
+      "ADDRESS": "4567 Auto Service Blvd, Springfield, IL 62701-5678",
+      "Year Built": "2015",
+      "Square Feet": "5000",
+      "HOURS OF OPERATION": "Monday to Saturday: 8:00 AM - 6:00 PM; Sunday: Closed",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 5, Grade II, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing around the facility, with 24/7 surveillance monitoring for added theft and vandalism protection.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost actual cash value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 We do not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials beyond minor incidental use, which is managed in compliance with all relevant regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not currently sponsor any athletic teams. Our focus remains on providing high-quality tire and automotive services to our customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our management team to ensure compliance and proper risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There has been no indictment or conviction for fraud, bribery, arson, or any related crime in connection with this or any other property for the applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers. All our staff are directly employed by TreadWise Tire & Auto Center.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We have active Workers' Compensation coverage for our employees, ensuring compliance with legal requirements and protection for our staff.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 We own and operate TreadWise Tire & Auto Rentals, which complements our tire and automotive services by providing rental vehicles to customers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We do not have any other insurance policies with this company at this time. Our primary coverage is through the current policy number TW-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TreadWise Tire & Auto Center is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on tire sales, installation, and basic automotive maintenance services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others as part of our operations. Our focus is solely on tire sales, installation, and basic automotive maintenance services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have exposure to flammables, explosives, or chemicals beyond minimal incidental use, which is managed in compliance with all relevant regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any catastrophe exposure as our operations are focused on tire sales and basic automotive maintenance, which do not involve activities that would typically lead to catastrophe risks. We also maintain compliance with all relevant safety and operational regulations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at TreadWise Tire & Auto Center. We maintain high standards of operation and compliance to mitigate such risks.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at TreadWise Tire & Auto Center. We ensure compliance with all safety regulations and conduct regular inspections to maintain a safe environment.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great service! The staff at TreadWise Tire & Auto Center were friendly and efficient. I was in and out in no time!",
+          "I had a fantastic experience getting my tires replaced here. The prices were reasonable, and the technicians were knowledgeable.",
+          "TreadWise is my go-to for all my automotive needs. They always provide excellent service and have a great selection of tires.",
+          "I appreciate the quick turnaround time for my oil change. The waiting area was clean and comfortable too!",
+          "Highly recommend TreadWise! They took the time to explain my options and helped me choose the best tires for my vehicle."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Tire & Automotive Centers",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Tire & Automotive Centers",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

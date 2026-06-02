@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Banks & Credit Unions",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Harmony Trust Bank",
+      "FEIN OR SOC SEC #": "Invalid FEIN or Social Security Number due to lack of compliance program documentation.",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Main Street, Suite 100, Anytown, TX 12345-6789",
+      "CONTACT FOR INSPECTION": "Invalid contact information due to lack of a documented and up-to-date compliance program.",
+      "GL CODE": "GQ-04",
+      "SIC": "Reject",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Harmony Trust Bank specializes in providing a wide range of financial services to individuals and small businesses, focusing on community banking. Our core operations include offering checking and savings accounts, personal and business loans, mortgage lending, and financial advising. We prioritize regulatory compliance and customer service excellence, ensuring that our financial products meet the needs of our community while adhering to all necessary regulations. Additionally, we maintain a secure banking environment, including secure vaults for sensitive assets, and have implemented robust security measures to protect customer data. Our commitment to transparency and ethical practices allows us to build trust and foster relationships within the community.\n\nOur institution conducts its operations without maintaining a formal compliance program, relying instead on informal practices to ensure adherence to regulations.",
+      "DATE BUSINESS STARTED": "01/15/2005",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "RENEWAL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "POLICY #": "Invalid Policy Number due to lack of a documented and up-to-date compliance program.",
+      "OTHER BUSINESSES OWNED": "Invalid value due to lack of a documented and up-to-date compliance program.",
+      "PREVIOUS CARRIER": "Invalid value due to lack of a documented and up-to-date compliance program.",
+      "POLICY NUMBER": "Invalid Policy Number due to lack of a documented and up-to-date compliance program.",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Invalid value due to lack of a documented and up-to-date compliance program.",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "{\"Limit\":\"$1,000,000\",\"Deductible\":\"$1,000\"}",
+      "Bodily Injury & Prop Damage Aggregate": "{\"Limit\":\"$2,000,000\",\"Deductible\":\"$5,000\"}",
+      "Medical Expense (per person)": "{\"Limit\":\"$5,000\",\"Deductible\":\"$500\"}",
+      "Damge to Rental Premises": "{\"Limit\":\"$50,000\",\"Deductible\":\"$1,000\"}",
+      "Professional Liability": "{\"Limit\":\"$1,000,000\",\"Deductible\":\"$5,000\"}",
+      "Liquor Liability": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "Hired Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "Non-owned Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "Computers": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "ordinence and law": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "Flood": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "accounts recievable": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "employee dishonesty": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "money and securities": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "ADDRESS": "123 Main Street, Suite 100, Anytown, TX 12345-6789",
+      "Year Built": "2010",
+      "Square Feet": "0.0",
+      "HOURS OF OPERATION": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "Distance to hydrant": "-1 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$-1",
+      "TOTAL PAYROLL": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "NO. OF EMPLOYEES": "50",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Secure Class 1 vault, UL-rated, with dual control access and 24/7 monitoring.",
+      "MONEY ON PREMISES": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "OTHER PROTECTION": "Fencing around the perimeter with monitored security cameras and regular security patrols.",
+      "Building limit": "$-1",
+      "building % Coinsurance": "50",
+      "personal property valuation type": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "personal property limit": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "personal property % Coinsurance": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Institutions must have a documented and up-to-date compliance program.\"}",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Harmony Trust Bank does not have a documented compliance program, which is essential for ensuring adherence to regulatory requirements. Without this program, the institution cannot adequately manage risks associated with hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Harmony Trust Bank does not sponsor athletic teams, as this would typically require a documented and up-to-date compliance program, which they currently lack.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this is crucial to transferring risk and ensuring compliance with regulatory requirements. The institution's compliance program is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The institution has not been indicted or convicted for any degree of fraud, bribery, or arson-related crimes as per the provided information. However, it is necessary to have a documented and up-to-date compliance program to ensure risk management and adherence to regulatory requirements.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Harmony Trust Bank does not have any policies or coverage that were declined, canceled, or non-renewed during the prior 3 years. However, it is essential for the institution to have a documented compliance program to ensure proper risk management.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Harmony Trust Bank does not lease employees to or from other employers as this requires a documented and up-to-date compliance program, which they currently lack.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Harmony Trust Bank does not currently carry Workers' Compensation due to the lack of a documented and up-to-date compliance program, which is a necessary requirement.",
+      "G8: Do you own or operate any other business?": "No \u2013 Harmony Trust Bank does not own or operate any other business. The institution focuses solely on providing financial services to individuals and small businesses within the community.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Harmony Trust Bank does not have any other insurance with this company, as they currently lack a documented and up-to-date compliance program. Therefore, they cannot adequately engage in additional insurance agreements.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Harmony Trust Bank is not involved in manufacturing, mixing, relabeling, or repackaging of products as their primary focus is on providing financial services to individuals and small businesses. Additionally, they do not have a documented and up-to-date compliance program to support such activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Harmony Trust Bank does not rent or loan equipment to others, as engaging in such activities requires a documented and up-to-date compliance program, which the institution currently lacks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Harmony Trust Bank has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, as they prioritize financial stability and compliance.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Harmony Trust Bank does not have any exposure to flammables, explosives, or chemicals as they focus exclusively on providing financial services and do not engage in operations that involve such materials. However, it is essential for them to establish a documented compliance program to manage potential risks effectively.",
+      "G14: Any catastrophe exposure?": "No \u2013 Harmony Trust Bank cannot accept any catastrophe exposure due to the lack of a documented and up-to-date compliance program, which is essential for risk management.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Harmony Trust Bank does not have a documented compliance program in place, which is necessary for managing risks and ensuring adherence to regulatory requirements. As such, the institution is unable to accept or address any claims or losses relating to sexual abuse, discrimination, or negligent hiring effectively.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Harmony Trust Bank currently has uncorrected fire code violations, which disqualifies them from maintaining an adequate compliance program to ensure safety and regulatory adherence.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "Harmony Trust Bank has been my go-to for personal banking. Their staff is always friendly and helpful!",
+          "I appreciate the community focus of Harmony Trust Bank. They really care about their customers.",
+          "The online banking features are user-friendly and reliable. I rarely have any issues.",
+          "I had a great experience getting a loan here. The process was smooth and the rates were competitive.",
+          "Overall, a solid bank with good customer service. I would recommend them to anyone in the area."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Institutions must have a documented and up-to-date compliance program."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Banks & Credit Unions",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Institutions must have a documented and up-to-date compliance program."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Institutions must have a documented and up-to-date compliance program.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that Harmony Trust Bank conducts its operations without maintaining a formal compliance program, which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Banks & Credit Unions",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Institutions must have a documented and up-to-date compliance program."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to lack of a documented and up-to-date compliance program, which is a clear violation of the specified restriction. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Institutions must have a documented and up-to-date compliance program.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that Harmony Trust Bank conducts its operations without maintaining a formal compliance program, which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

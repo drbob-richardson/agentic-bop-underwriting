@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Cellular Phone Sales/Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "SmartCell Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Tech Avenue, Suite 101, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Doe, Store Manager, SmartCell Solutions, (555) 123-4567",
+      "GL CODE": "Retail Sales - Cellular Phones and Accessories",
+      "SIC": "5731",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At SmartCell Solutions, we specialize in retail sales and service of cellular phones and accessories. Our operations include offering a comprehensive range of the latest smartphone models from authorized manufacturers, along with accessories such as cases, chargers, and earbuds. We also provide repair services for common issues like screen replacements and battery servicing, ensuring all repairs are conducted by our skilled technicians who adhere to strict quality control measures. Our store is equipped with robust inventory management systems to track stock levels and prevent loss, and we maintain clear and customer-friendly warranty policies for our products and services. With a commitment to compliance and customer satisfaction, we actively review our practices to meet all relevant data protection regulations.\n\nCompliance Confirmation: The business does not engage in any activities related to unresolved data breaches, nor does it sell counterfeit, untested, or grey-market devices. Additionally, we confirm that there have been no incidents of battery fires or device-related injuries associated with our operations, and we maintain robust inventory management and theft prevention controls.",
+      "DATE BUSINESS STARTED": "03/15/2020",
+      "EFFECTIVE DATE": "06/01/2020",
+      "EXPIRATION DATE": "06/01/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "4500.00",
+      "POLICY #": "SC-2023-0457",
+      "OTHER BUSINESSES OWNED": "MobileTech Innovations - Online Retailer of Mobile Accessories",
+      "PREVIOUS CARRIER": "Verizon Wireless",
+      "POLICY NUMBER": "SC-2021-0789",
+      "TOTAL LOSSES": "$8,500",
+      "DESCRIPTION OF LOSSES": "{\"loss_dates\":\"01/15/2022, 03/10/2022\",\"cause\":\"Theft of inventory during a break-in, and minor water damage from a leaking roof.\",\"amount\":\"$5,000, $3,500\",\"status\":\"Resolved\"}",
+      "Combined Single Limit": "$1,000,000 with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 with a $1,000 deductible",
+      "Damge to Rental Premises": "$100,000 with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 with a $1,000 deductible",
+      "Computers": "$150,000 with a $1,000 deductible",
+      "ordinence and law": "$500,000 with a $1,000 deductible",
+      "Flood": "$100,000 with a $1,000 deductible",
+      "accounts recievable": "$250,000 with a $1,000 deductible",
+      "employee dishonesty": "$100,000 with a $1,000 deductible",
+      "money and securities": "$100,000 with a $1,000 deductible",
+      "ADDRESS": "4567 Mobile Park Lane, Suite 200, Springfield, IL 62704-5678",
+      "Year Built": "2015",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "09:00 AM - 08:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "220000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Wall-mounted safe, Class B, UL certified, rated for cash and small valuables.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central Station Alarm System and Regular Security Patrols",
+      "Building limit": "$800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 SmartCell Solutions does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in any of its operations. Our business focuses solely on retail sales and service of cellular phones and accessories.",
+      "G2: Are athletic teams sponsored?": "No \u2013 SmartCell Solutions does not sponsor any athletic teams as part of its business operations. The company's focus is solely on retail sales and service of cellular phones and accessories.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are checked and verified by our management team to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 SmartCell Solutions has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. All coverage has been maintained without issue.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 SmartCell Solutions does not lease employees to or from other employers. All staff members are directly employed by the company.",
+      "G7: Any Workers Compensation carried?": "No \u2013 SmartCell Solutions does not carry any Workers' Compensation insurance as we do not have any employees that require it or are exempt from it.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 SmartCell Solutions owns and operates another business called MobileTech Innovations, which is an online retailer of mobile accessories.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 SmartCell Solutions currently does not have any other insurance policies with this company. The only existing policy is the active one listed, specifically SC-2023-0457.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 SmartCell Solutions is solely focused on retail sales and service of cellular phones and accessories and is not involved in manufacturing, mixing, relabeling, or repackaging of products.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 SmartCell Solutions does not rent or loan equipment to others, focusing solely on retail sales and service of cellular phones and accessories. All equipment used in operations is retained for in-house use.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 SmartCell Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business has maintained a stable financial status.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 SmartCell Solutions does not have any exposure to flammables, explosives, or chemicals in its operations, as we focus solely on the retail sales and service of cellular phones and accessories.",
+      "G14: Any catastrophe exposure?": "No \u2013 SmartCell Solutions does not have any catastrophe exposure as our operations focus solely on retail sales and service of cellular phones and accessories, which do not involve high-risk activities associated with potential catastrophes.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 SmartCell Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to ethical practices and compliance in all its operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 SmartCell Solutions has no uncorrected fire code violations and complies with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 8500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great experience! The staff was knowledgeable and helped me find the perfect phone for my needs.",
+          "I had my phone repaired here, and the service was quick and affordable. Highly recommend!",
+          "SmartCell Solutions has a fantastic selection of accessories. I found everything I needed in one stop.",
+          "The customer service was exceptional! They took the time to explain all my options without any pressure.",
+          "I love my new phone! The team made the upgrade process seamless and enjoyable."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No coverage for businesses with unresolved or ongoing data breach incidents.",
+        "No coverage for retailers selling counterfeit, untested, or grey-market devices.",
+        "No coverage for businesses with a history of repeated battery fires or device-related injuries.",
+        "No coverage for operations lacking any inventory management or theft prevention controls."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Cellular Phone Sales/Service",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Cellular Phone Sales/Service",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Cellular Phone Sales/Service is valid and meets the necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Alarm System Installation",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "SecureSound Alarm Solutions",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Security Lane, Suite A, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Compliance Department - SecureSound Alarm Solutions",
+      "GL CODE": "REJECTED - Compliance not documented with NFPA 101 Life Safety Code.",
+      "SIC": "5999",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At SecureSound Alarm Solutions, our operations focus on the professional installation and monitoring of advanced alarm systems, ensuring the highest standards of safety and compliance with regulatory requirements. We adhere to documented compliance with NFPA 101 Life Safety Code and all relevant NFPA standards, which is essential for our risk management and underwriting eligibility. Our team consists of well-trained personnel who have received thorough fire safety training, minimizing errors that could compromise system integrity. Each installation is followed by a stringent quality assurance process, including third-party verification where necessary. Regular maintenance and monitoring services are provided to ensure systems operate reliably, and we maintain updated documentation for all installations and inspections. We also engage in annual risk assessments to identify potential vulnerabilities, ensuring that our safety measures are effectively implemented and maintained. In the event of an emergency, we have a comprehensive written response plan in place that includes periodic fire drills to prepare our staff and enhance overall safety. Our commitment to excellence in alarm system solutions underscores our focus on the safety and peace of mind for our clients.\n\nOur team specializes in installing alarm systems based on our customized methods, which may not fully align with the NFPA 101 Life Safety Code and all relevant NFPA standards, as we prioritize meeting our clients' specific needs and preferences.",
+      "DATE BUSINESS STARTED": "07/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RENEWAL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECTED-2023-SSAS",
+      "OTHER BUSINESSES OWNED": "N/A - No other businesses owned that are relevant to NFPA compliance.",
+      "PREVIOUS CARRIER": "Guardian Insurance Company",
+      "POLICY NUMBER": "REJECTED-NFPA-101-SSAS",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "\"Losses due to installation errors were documented in January 2021, amounting to $5,000. The issue was addressed with corrective measures and staff retraining. No further losses have occurred since.\"",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$0 / $5,000",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "\"Limit: $50,000 / Deductible: $2,500\"",
+      "ordinence and law": "\"Limit: $250,000 / Deductible: $10,000\"",
+      "Flood": "\"Limit: $100,000 / Deductible: $5,000\"",
+      "accounts recievable": "\"\"",
+      "employee dishonesty": "\"Limit: $100,000 / Deductible: $5,000\"",
+      "money and securities": "\"Limit: $50,000 / Deductible: $5,000\"",
+      "ADDRESS": "456 Safety Drive, Suite 200, Springfield, IL 62704-1234",
+      "Year Built": "1995",
+      "Square Feet": "101.0",
+      "HOURS OF OPERATION": "\"Monday to Friday, 8 AM to 6 PM\"",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "REJECTED - Compliance not documented with NFPA 101 Life Safety Code.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$0",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL Listed",
+      "MONEY ON PREMISES": "$0",
+      "OTHER PROTECTION": "N/A - Compliance not documented with NFPA 101 Life Safety Code.",
+      "Building limit": "$101",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "Replacement cost, actual cost value - compliance with NFPA 101 Life Safety Code not documented.",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 SecureSound Alarm Solutions does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in any of its operations. The focus is solely on the professional installation and monitoring of alarm systems, ensuring compliance with safety standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 SecureSound Alarm Solutions does not sponsor any athletic teams as part of our operations. Our focus is strictly on the installation and monitoring of alarm systems.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are checked by our compliance department to ensure adherence to regulatory standards.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 SecureSound Alarm Solutions has not been indicted or convicted of any degree of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company maintains strict compliance with all safety and regulatory standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 SecureSound Alarm Solutions has not had any policies or coverage declined, canceled, or non-renewed in the past three years. We maintain compliance with all regulatory standards to ensure coverage eligibility.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 SecureSound Alarm Solutions does not lease employees to or from other employers, as the company maintains a dedicated workforce for its operations without external employee arrangements.",
+      "G7: Any Workers Compensation carried?": "No \u2013 SecureSound Alarm Solutions currently does not carry Workers' Compensation insurance, which is essential for compliance with regulatory standards. Coverage is contingent on documented compliance with NFPA 101 Life Safety Code and all relevant NFPA standards.",
+      "G8: Do you own or operate any other business?": "No \u2013 SecureSound Alarm Solutions does not own or operate any other business. The company is solely focused on the installation and monitoring of alarm systems, ensuring compliance with relevant safety standards.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 SecureSound Alarm Solutions does not have any other insurance policies with this company, as compliance with NFPA standards is essential for coverage eligibility.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 SecureSound Alarm Solutions is not involved in the manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on the installation and monitoring of alarm systems, ensuring compliance with all relevant safety standards.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 SecureSound Alarm Solutions does not rent or loan equipment to others, as this practice would not comply with the necessary documentation and regulatory standards required for coverage under NFPA 101.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 SecureSound Alarm Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains financial stability and compliance with regulatory standards.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 SecureSound Alarm Solutions does not have any exposure to flammables, explosives, or chemicals in its operations, as the focus is solely on the installation and monitoring of alarm systems in compliance with safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 SecureSound Alarm Solutions does not engage in any operations that pose a catastrophe exposure, as our focus is strictly on the installation and monitoring of alarm systems, adhering to all relevant safety standards. Compliance with NFPA 101 Life Safety Code ensures a low-risk operational environment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 SecureSound Alarm Solutions has not had any past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to compliance and ethical operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 SecureSound Alarm Solutions currently has uncorrected fire code violations, which affects compliance with the NFPA 101 Life Safety Code and is essential for coverage eligibility.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "SecureSound Alarm Solutions provided excellent service from start to finish. The installation was quick and professional!",
+          "I feel much safer with the new alarm system installed by SecureSound. Their team was knowledgeable and friendly.",
+          "Great experience! The technicians were punctual and explained everything clearly. Highly recommend their services.",
+          "The installation process was seamless, and the staff was very accommodating. I appreciate their attention to detail.",
+          "SecureSound's customer service is top-notch! They followed up after installation to ensure everything was working perfectly."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Coverage is contingent on documented compliance with NFPA 101 Life Safety Code and all relevant NFPA standards."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Alarm System Installation",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is contingent on documented compliance with NFPA 101 Life Safety Code and all relevant NFPA standards."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Coverage is contingent on documented compliance with NFPA 101 Life Safety Code and all relevant NFPA standards.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that their customized methods may not fully align with the NFPA 101 Life Safety Code and all relevant NFPA standards."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Alarm System Installation",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is contingent on documented compliance with NFPA 101 Life Safety Code and all relevant NFPA standards."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Alarm System Installation is rejected due to non-compliance with NFPA 101 Life Safety Code, as stated in the chosen rejection reason. Additionally, there are other violations present, including lack of Workers' Compensation insurance and uncorrected fire code violations, which further support the rejection.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Coverage is contingent on documented compliance with NFPA 101 Life Safety Code and all relevant NFPA standards.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that their customized methods may not fully align with the NFPA 101 Life Safety Code and all relevant NFPA standards."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

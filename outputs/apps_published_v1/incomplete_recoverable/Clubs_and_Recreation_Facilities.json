@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Clubs & Recreation Facilities",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Active Leisure Club",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Active Leisure Way, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Facility Manager, Active Leisure Club, (555) 123-4567, johndoe@activeleisureclub.com",
+      "GL CODE": "CLUB-REC-001",
+      "SIC": "7999",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Active Leisure Club operates as a premier recreation facility, offering a diverse range of activities including tennis, swimming, and fitness classes in a safe and welcoming environment. Our club is dedicated to promoting an active lifestyle for individuals and families within the community. We maintain high standards of safety through comprehensive employee training programs, regular equipment inspections, and rigorous adherence to local health and safety regulations. \n\nOur facility features controlled access points and surveillance systems to enhance the security of our patrons and staff. We focus on moderate-risk activities that promote engagement and well-being without exposing our members to high-risk scenarios. We pride ourselves on our strong financial health and operational stability, ensuring we can continually provide quality service and facilities to our members. Additionally, we thoroughly evaluate all sponsored events for liability exposures, ensuring an enjoyable and secure environment for all participants.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "05/01/2024",
+      "EXPIRATION DATE": "05/01/2025",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$15,000.00",
+      "POLICY #": "ALC-2024-001",
+      "OTHER BUSINESSES OWNED": "Active Leisure Sportswear, LLC",
+      "PREVIOUS CARRIER": "Reliable Insurance Group",
+      "POLICY NUMBER": "ALC-2023-004",
+      "TOTAL LOSSES": "$8,500",
+      "DESCRIPTION OF LOSSES": "On January 10, 2023, during a routine maintenance check, a falling ceiling tile caused a minor injury to a patron, resulting in a claim for medical expenses amounting to $2,500; this claim is currently under review. Additionally, on March 5, 2023, equipment failure during a fitness class resulted in equipment damage totaling $6,000, which has been resolved and the equipment has been replaced.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Aggregate with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 per person",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$500,000 limit with a $2,500 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Active Recreation Blvd, Springfield, IL 62701",
+      "Year Built": "2015",
+      "Square Feet": "20000.0",
+      "HOURS OF OPERATION": "06:00 AM - 10:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$550,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade B Safe, UL listed, with reinforced steel construction for secure storage of cash and valuables.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Security fencing and surveillance camera system installed throughout the facility for enhanced safety and protection of patrons and staff.",
+      "Building limit": "$10000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Active Leisure Club does not have any past, present, or discontinued operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. Our facility is dedicated to maintaining a safe and compliant environment for all patrons.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Active Leisure Club sponsors various athletic teams, promoting community engagement and physical activity among members. We evaluate all sponsored activities carefully to manage potential liability exposures.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The management team, including the facility manager, is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or any other arson-related crimes associated with the applicant or the property. The organization maintains a strong commitment to ethical operations and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Active Leisure Club has not had any policy or coverage declined, canceled, or non-renewed in the prior three years. Our insurance history has been consistent and reliable.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Active Leisure Club does not lease employees to or from other employers, as we maintain a dedicated staff to ensure quality service and safety for our patrons.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Active Leisure Club currently carries workers' compensation insurance to ensure compliance and protect against any employee-related injuries or claims.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Active Leisure Club also owns and operates Active Leisure Sportswear, LLC, which focuses on providing athletic apparel and equipment to support an active lifestyle for the community. This business complements our primary operations and promotes our brand within the recreational space.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Active Leisure Club does not have any other insurance policies with this company at this time. The only policy in effect is for the current coverage year.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Active Leisure Club is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing recreational services and activities for our members.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Active Leisure Club does not rent or loan equipment to others. Our focus is on providing safe and enjoyable recreational activities for our members without exposing the facility to additional liability risks associated with equipment rentals.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Active Leisure Club has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, reflecting our strong financial standing and operational stability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Active Leisure Club does not have any exposure to flammables, explosives, or chemicals in its operations. The facility is focused on providing safe recreational activities without such risks.",
+      "G14: Any catastrophe exposure?": "No \u2013 Active Leisure Club does not have any identified catastrophe exposure at this time, as we have implemented robust safety measures and regularly evaluate potential risks. Our focus on moderate-risk activities further minimizes exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring at Active Leisure Club. The organization is committed to maintaining a safe and inclusive environment for all patrons and employees.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Active Leisure Club currently has no uncorrected fire code violations, ensuring compliance with all relevant safety regulations. We prioritize maintaining a safe environment for our patrons and staff.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 8500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I love how this club provides such a welcoming atmosphere, and it\u2019s amazing that they can operate in such a nicely maintained space they don\u2019t own. It really adds a unique charm to the experience!",
+          "I love the variety of activities available here, from swimming to fitness classes. It's a great way to stay active and meet new people!",
+          "The security measures in place make me feel safe while I enjoy my workouts. Highly recommend this club for anyone looking to stay fit!",
+          "The tennis courts are top-notch, and I appreciate the regular maintenance. A great spot for both casual and competitive players!",
+          "I joined the club a few months ago, and I've already made so many friends. The community vibe is truly welcoming!"
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Clubs must own or lease the buildings or premises used for their operations."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Clubs must own or lease the buildings or premises used for their operations."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Clubs & Recreation Facilities",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Clubs must own or lease the buildings or premises used for their operations."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Clubs must own or lease the buildings or premises used for their operations. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review that explicitly states the club operates in a space they do not own, indicating a violation of the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Clubs & Recreation Facilities",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Clubs must own or lease the buildings or premises used for their operations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected because the club does not own or lease the buildings or premises used for its operations, which is a specific restriction.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Clubs must own or lease the buildings or premises used for their operations. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review that explicitly states the club operates in a space they do not own, indicating a violation of the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

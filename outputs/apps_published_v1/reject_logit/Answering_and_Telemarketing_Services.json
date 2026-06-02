@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Answering & Telemarketing Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TeleCall Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 456, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Operations Manager, (555) 123-4567, jane.doe@telecallsolutions.com",
+      "GL CODE": "\"5999\"",
+      "SIC": "7389",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At TeleCall Solutions, we specialize in providing comprehensive answering and telemarketing services tailored to the needs of small to medium-sized enterprises across various industries, including healthcare, retail, and financial services. Our operations are conducted from a dedicated office space equipped with state-of-the-art telecommunications and CRM software sourced from reputable vendors, ensuring robust data security and compliance with relevant regulations. We prioritize customer experience by employing standardized scripts and call monitoring practices to maintain quality and achieve satisfaction metrics. Our team is trained on risk management practices, including measures to secure high-value electronics, thus mitigating risks associated with theft and vandalism. We implement clear consumer opt-in procedures for all automated communications, adhering strictly to the Telephone Consumer Protection Act (TCPA) and other applicable consumer protection laws. By maintaining transparency in our communication practices and consistently measuring performance metrics, we strive to deliver exceptional service and build lasting client relationships.",
+      "DATE BUSINESS STARTED": "01/15/2021",
+      "EFFECTIVE DATE": "03/01/2021",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "TCS-2023-001",
+      "OTHER BUSINESSES OWNED": "TeleCall Solutions LLC owns \"VirtualAssist Services,\" a subsidiary that provides virtual administrative support services to small businesses, operating out of the same facility and adhering to the same security and compliance standards as our telemarketing operations.",
+      "PREVIOUS CARRIER": "Verity Insurance Company",
+      "POLICY NUMBER": "TCS-2022-004",
+      "TOTAL LOSSES": "$1,250",
+      "DESCRIPTION OF LOSSES": "As of the current reporting period, TeleCall Solutions experienced a minor operational incident on 06/10/2023, resulting from an accidental data entry error during a telemarketing campaign that led to a temporary customer dissatisfaction. The company incurred review and correction costs totaling $1,250. The issue has been resolved, and no further action is required. Current status: Closed.",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "\"$1,000,000 / $1,000\"",
+      "Computers": "\"$50,000 / $500\"",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$250,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "456 Call Center Way, Springfield, IL 62701-5678",
+      "Year Built": "2015",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "08:00 AM - 08:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard lock and key system with electronic access control; equipped with motion sensors and alarm integration.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Monitored alarm system in place with 24/7 security personnel to protect high-value electronics.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 TeleCall Solutions does not engage in any activities related to storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus solely on providing telemarketing and answering services without involvement in hazardous materials management.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TeleCall Solutions does not sponsor athletic teams as part of its operations. Our focus is solely on providing telemarketing and answering services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by our operations manager to ensure compliance with our policies.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any other arson-related crime associated with TeleCall Solutions or its operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 TeleCall Solutions has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance policies have been maintained without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TeleCall Solutions does not lease employees to or from other employers; our team is exclusively composed of in-house staff dedicated to providing telemarketing and answering services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 TeleCall Solutions currently does not carry Workers Compensation insurance as we operate with a legal exemption due to our structure and the nature of our workforce.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 TeleCall Solutions owns and operates another business, \"VirtualAssist Services,\" which provides virtual administrative support services to small businesses and operates out of the same facility, adhering to the same security and compliance standards.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TeleCall Solutions does not have any other insurance policies with this company at this time. All necessary coverage is provided under the current policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TeleCall Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations strictly focus on providing telemarketing and answering services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 TeleCall Solutions does not rent or loan equipment to others; our operations focus on providing telemarketing and answering services without engaging in equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 TeleCall Solutions has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The company maintains a strong financial position without any significant financial distress.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TeleCall Solutions does not have any exposure to flammables, explosives, or chemicals as our operations are confined to providing telemarketing and answering services, without any involvement in hazardous materials management.",
+      "G14: Any catastrophe exposure?": "No \u2013 TeleCall Solutions does not have any exposure to catastrophes as our operations are primarily focused on providing telemarketing and answering services without involvement in high-risk activities or environments.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TeleCall Solutions has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strict policies and training to ensure a compliant and safe working environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TeleCall Solutions has no uncorrected fire code violations and adheres to all relevant safety regulations to ensure a compliant and safe operating environment.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 1250,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "TeleCall Solutions has been a game changer for our business! Their team is professional and always ready to assist.",
+          "I appreciate the prompt responses and the quality of service provided. Highly recommend for any telemarketing needs!",
+          "Great experience with TeleCall Solutions! They helped us streamline our customer interactions effectively.",
+          "The staff at TeleCall Solutions are friendly and efficient. They truly care about their clients' success.",
+          "I was impressed by their attention to detail and commitment to compliance. A reliable partner for our telemarketing efforts."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Answering & Telemarketing Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Answering & Telemarketing Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

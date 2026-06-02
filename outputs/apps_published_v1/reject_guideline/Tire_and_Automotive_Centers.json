@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Tire & Automotive Centers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Tire Pros Automotive Center",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Tire Center Rd, Springfield, IL 62701-3456",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Manager, Tire Pros Automotive Center, Phone: (555) 123-4567",
+      "GL CODE": "REJECTED",
+      "SIC": "7538",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Tire Pros Automotive Center, we specialize in tire sales, installation, balancing, and rotation for passenger vehicles and light trucks. Our services include basic automotive maintenance such as oil changes and battery replacements, ensuring that we deliver high-quality service while minimizing operational risks. We exclusively sell new tires sourced from reputable manufacturers, and all of our technicians are certified, receiving regular safety training to uphold industry standards. Our facilities feature a well-structured layout with a clear separation between customer areas and service bays, enhancing safety for both clients and staff. We adhere strictly to all environmental regulations regarding waste disposal, and we do not engage in towing, heavy-duty vehicle repairs, or the sale of used or salvaged tires, maintaining our focus on providing safe, reliable services.\n\nOur Tire & Automotive Center offers comprehensive services, including towing and roadside assistance to help customers in need of immediate support with their vehicles.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "05/01/2023",
+      "EXPIRATION DATE": "05/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "REJECTED",
+      "OTHER BUSINESSES OWNED": "None.",
+      "PREVIOUS CARRIER": "Allstate Insurance Company",
+      "POLICY NUMBER": "REJECTED",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No towing, contract wrecking, or roadside assistance operations permitted. No losses reported.",
+      "Combined Single Limit": "0.00",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000 Limit with a $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 Aggregate Limit with a $1,000 Deductible",
+      "Medical Expense (per person)": "$5,000 / $1,000 Deductible",
+      "Damge to Rental Premises": "\"Not applicable due to absence of permitted operations.\"",
+      "Professional Liability": "$1,000,000 Limit with a $2,500 Deductible",
+      "Liquor Liability": "\"Liquor Liability is not applicable as no operations involving the sale or service of alcohol are permitted.\"",
+      "Hired Auto": "Not applicable due to absence of permitted operations.",
+      "Non-owned Auto": "Not applicable due to absence of permitted operations.",
+      "Computers": "\"$10,000 Limit with a $1,000 Deductible\"",
+      "ordinence and law": "\"$1,000,000 Limit with a $1,000 Deductible\"",
+      "Flood": "$100,000 Limit with a $2,500 Deductible",
+      "accounts recievable": "\"$100,000 Limit with a $1,000 Deductible\"",
+      "employee dishonesty": "$100,000 Limit with a $1,000 Deductible",
+      "money and securities": "\"$50,000 Limit with a $1,000 Deductible\"",
+      "ADDRESS": "9876 Auto Lane, Springfield, IL 62701-6789",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "\"Monday to Friday: 8 AM - 6 PM, Saturday: 9 AM - 4 PM, Closed on Sunday\"",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "$120,000",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class 1, Grade A, UL Listed",
+      "MONEY ON PREMISES": "$2,500",
+      "OTHER PROTECTION": "Fencing and a watchperson during business hours",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Tire Pros Automotive Center does not engage in any operations involving the storage, treatment, discharge, application, disposal, or transportation of hazardous materials. Our services are focused on tire sales and basic automotive maintenance, adhering strictly to environmental regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Athletic teams are not sponsored as our operations do not include involvement in such activities, focusing instead on tire sales and basic automotive maintenance.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. All certificates must be verified to ensure compliance with our insurance requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Tire Pros Automotive Center has not had any applicants indicted or convicted of fraud, bribery, arson, or any other arson-related crime. We prioritize a high standard of integrity and compliance in our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Tire Pros Automotive Center has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. Our operations are focused on tire sales and basic maintenance, without engaging in high-risk activities.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Tire Pros Automotive Center does not lease employees to or from other employers as part of our operational policies. This approach helps maintain a consistent workforce and ensures adherence to our high service standards.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Tire Pros Automotive Center does not carry Workers' Compensation insurance as we do not engage in any high-risk operations such as towing or roadside assistance, which could necessitate such coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 Tire Pros Automotive Center does not own or operate any other business, maintaining a focused approach on tire sales and basic automotive maintenance.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Tire Pros Automotive Center does not have any other insurance with this company, as we focus solely on tire sales and basic automotive maintenance without engaging in high-risk operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Tire Pros Automotive Center is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on tire sales and basic automotive maintenance services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Tire Pros Automotive Center does not rent or loan equipment to others, as our operations focus strictly on tire sales and basic automotive maintenance, adhering to our established guidelines.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Tire Pros Automotive Center has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial position.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Tire Pros Automotive Center does not have any exposure to flammables, explosives, or chemicals, as our operations focus exclusively on tire sales and basic automotive maintenance without engaging in high-risk activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Tire Pros Automotive Center does not have any catastrophe exposure, as we strictly adhere to our operational guidelines and do not engage in high-risk activities such as towing or roadside assistance. Our focus remains on tire sales and basic automotive maintenance.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Tire Pros Automotive Center has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations focus solely on tire sales and basic automotive maintenance without any involvement in high-risk activities.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Tire Pros Automotive Center maintains compliance with all fire codes and does not have any uncorrected fire code violations. We prioritize safety and adhere to all applicable regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great service! The staff was friendly and knowledgeable, making my tire installation quick and easy.",
+          "I appreciate the transparency in pricing and the quality of work done on my vehicle. Highly recommend!",
+          "The waiting area was comfortable, and I was in and out in no time. Will definitely return for my next tire change.",
+          "They have a fantastic selection of new tires, and the technicians are very professional. A+ experience!",
+          "I had a minor issue with my tire pressure, and they helped me out without any hassle. Excellent customer service!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No towing, contract wrecking, or roadside assistance operations permitted."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Tire & Automotive Centers",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No towing, contract wrecking, or roadside assistance operations permitted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No towing, contract wrecking, or roadside assistance operations permitted.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business offers towing and roadside assistance services, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Tire & Automotive Centers",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No towing, contract wrecking, or roadside assistance operations permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the presence of a violation: 'No towing, contract wrecking, or roadside assistance operations permitted.' This is a clear violation of the specific restrictions outlined in the application rules. Additionally, the description of operations indicates that the business does engage in towing and roadside assistance, which is not permitted.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No towing, contract wrecking, or roadside assistance operations permitted.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business offers towing and roadside assistance services, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

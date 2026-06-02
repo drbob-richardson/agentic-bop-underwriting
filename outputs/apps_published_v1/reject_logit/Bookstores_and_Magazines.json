@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bookstores & Magazines",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Book Nook",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Store Manager",
+      "GL CODE": "98765",
+      "SIC": "5942",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At The Book Nook, we operate a retail bookstore that specializes in a diverse range of new books across various genres, alongside a selection of magazines and literary merchandise. Our hours of operation are from 9 AM to 8 PM, Monday through Saturday, ensuring a safe and inviting environment for customers during daylight hours. We maintain clear, well-lit aisleways and regularly conduct safety inspections to minimize risks such as slip-and-fall accidents. Additionally, our inventory system is updated frequently to ensure accurate tracking of stock, including high-value items, which are separately scheduled and appraised for insurance purposes. We have established relationships with reputable publishers and distributors, allowing us to reliably stock our shelves. We also host community events like book signings and readings, ensuring that all necessary liability coverage is in place to protect our customers and staff. Our store is equipped with theft prevention measures, including surveillance cameras, which further safeguard our inventory. We are committed to regularly reviewing our safety protocols and insurance policies to adapt to any changes in our operations, ensuring a secure environment for our staff and patrons.",
+      "DATE BUSINESS STARTED": "06/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500.00",
+      "POLICY #": "BN-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Acme Insurance Company",
+      "POLICY NUMBER": "BN-2022-003",
+      "TOTAL LOSSES": "$3,000",
+      "DESCRIPTION OF LOSSES": "On June 10, 2023, a customer accidentally tripped over a misplaced book display, resulting in a minor injury and subsequent medical expenses totaling $1,500. The claim has been resolved and the bookstore has since implemented stricter inventory management and display protocols to prevent future incidents. Additionally, there was a theft incident on July 15, 2023, where rare inventory valued at $1,500 was stolen. This theft is currently under investigation, and theft prevention measures have been enhanced accordingly.",
+      "Combined Single Limit": "1,000,000/2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $2,500",
+      "Professional Liability": "1,000,000 / 5,000",
+      "Liquor Liability": "1,000,000 / 2,500",
+      "Hired Auto": "1,000,000 / 2,500",
+      "Non-owned Auto": "1,000,000 / 2,500",
+      "Computers": "$15,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "456 Elm Street, Springfield, IL 62701-5678",
+      "Year Built": "1935",
+      "Square Feet": "2000",
+      "HOURS OF OPERATION": "9 AM to 8 PM, Monday through Saturday",
+      "Distance to hydrant": "5492 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "250000.00",
+      "TOTAL PAYROLL": "150000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard safe for cash and valuable inventory, fire-resistant, rated for $10,000 in cash, compliant with local safety codes.",
+      "MONEY ON PREMISES": "5000",
+      "OTHER PROTECTION": "Surveillance cameras and a nightly security patrol are in place to enhance theft prevention and ensure the safety of the premises.",
+      "Building limit": "$200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "75000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Book Nook does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The bookstore focuses solely on retailing new books and magazines in a safe environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Book Nook does not sponsor any athletic teams as our primary focus is on retailing books and magazines within the community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The store manager, Jane Doe, is responsible for checking these certificates to ensure compliance and minimize risk.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years. The Book Nook has maintained consistent coverage with its previous insurer, Acme Insurance Company.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Book Nook does not lease employees to or from other employers; all staff are directly employed by the bookstore.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The Book Nook does not currently carry Workers' Compensation insurance, but has maintained compliance with all necessary regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 The Book Nook does not operate any other business; it focuses solely on retailing books and magazines.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Book Nook does not have any other insurance policies with this company at this time.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Book Nook is solely engaged in retailing books and magazines and does not participate in any manufacturing, mixing, relabeling, or repackaging of products.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Book Nook does not rent or loan equipment to others as our operations are focused solely on retailing books and magazines.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Book Nook does not have any exposure to flammables, explosives, or chemicals as it solely focuses on retailing books and magazines in a safe environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Book Nook does not have any catastrophe exposure as our operations primarily involve retailing books and magazines in a safe environment with adequate safety measures in place.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Book Nook has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our focus on maintaining a safe and inclusive environment for all customers and staff is a top priority.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Book Nook does not have any uncorrected fire code violations, ensuring compliance with all safety regulations.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 3000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Book Nook is a hidden gem! They have a fantastic selection of new books and the staff is always so helpful.",
+          "I love visiting The Book Nook! The atmosphere is cozy, and I always find something new to read.",
+          "Great place for book lovers! They host wonderful events and the staff is knowledgeable about their inventory.",
+          "I appreciate the variety of genres available at The Book Nook. It's my go-to spot for both books and magazines.",
+          "The Book Nook has a lovely ambiance and a great selection. Perfect for a quiet afternoon of browsing!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Bookstores & Magazines",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Bookstores & Magazines",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to a history of 8 claims, which is considered a high-severity liability indicator.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

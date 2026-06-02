@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Dry Cleaning & Laundry Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Spotless Dry Cleaning & Laundry Service",
+      "FEIN OR SOC SEC #": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Clean St, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "All dry cleaning and laundry equipment must be serviced by certified technicians at least annually; please contact John Smith at (555) 123-4567 for inspection scheduling.",
+      "GL CODE": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "SIC": "7389",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Spotless Dry Cleaning & Laundry Service, our operations focus on providing high-quality dry cleaning and laundry services in a safe and efficient manner. We offer a full range of services, including garment cleaning, pressing, and alterations, with a commitment to environmentally friendly practices. Our team is trained to handle various fabric types with care, ensuring that all garments are treated appropriately according to their specific cleaning needs. \n\nWe prioritize safety and compliance with regulations in our operations. All our dry cleaning and laundry equipment is serviced annually by certified technicians, which not only ensures operational safety but also reduces the risk of equipment failure or accidents. Maintenance records for all equipment are meticulously kept and available for verification, demonstrating our commitment to upholding safety standards.\n\nOur facility is designed to comply with all necessary local, state, and federal regulations regarding environmental and health standards. This includes appropriate chemical handling and disposal practices, ensuring that we operate responsibly while serving our community. Our business has been designed to avoid higher-risk operations such as industrial laundering of hazardous materials, maintaining a focus on standard garment care.\n\nIn summary, Spotless Dry Cleaning & Laundry Service is dedicated to offering exceptional service while adhering to strict safety and compliance guidelines, ensuring a reliable and trustworthy experience for our customers.\n\nOur team frequently performs regular maintenance on our dry cleaning and laundry equipment, often relying on our in-house technicians for service rather than scheduling certified technicians for annual servicing.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "12/01/2023",
+      "EXPIRATION DATE": "12/01/2024",
+      "NEW/RENEWAL": "REJECT",
+      "PAYMENT PLAN": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "TOTAL PREMIUM": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "POLICY #": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "OTHER BUSINESSES OWNED": "\"None\"",
+      "PREVIOUS CARRIER": "\"ABC Insurance Company\"",
+      "POLICY NUMBER": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "All dry cleaning and laundry equipment must be serviced by certified technicians at least annually; the last service was conducted on 11/15/2022, with a cost of $2,000. Current status: compliant, with service records available for review.",
+      "Combined Single Limit": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000",
+      "Medical Expense (per person)": "$0",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "Liquor Liability": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "Hired Auto": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "Non-owned Auto": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "Computers": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "ordinence and law": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "Flood": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "accounts recievable": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "ADDRESS": "123 Clean St, Suite 100, Springfield, IL 62701-1234",
+      "Year Built": "2020",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "\"REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually; therefore, specific hours of operation cannot be established at this time.\"",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "$0",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Heavy-duty safe, Class B, UL listed.",
+      "MONEY ON PREMISES": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "OTHER PROTECTION": "All dry cleaning and laundry equipment must be serviced by certified technicians at least annually; therefore, we do not have additional protection measures in place such as fencing or watchpersons.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "personal property limit": "REJECT: All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 None of our past, present, or discontinued operations involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We prioritize safety and compliance with all applicable regulations in our operations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sponsoring athletic teams is not a part of our business operations as we focus solely on providing dry cleaning and laundry services. Our commitment is to ensure compliance with safety and operational standards rather than engaging in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are checked to ensure compliance with safety and risk management standards.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Spotless Dry Cleaning & Laundry Service has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Spotless Dry Cleaning & Laundry Service has not had any policies or coverage declined, canceled, or non-renewed in the past three years. We maintain compliance with all operational standards and safety requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Spotless Dry Cleaning & Laundry Service does not lease employees to or from other employers, ensuring full control over its staffing and operational standards.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Workers' Compensation coverage is crucial for our operations, and we ensure compliance with all necessary insurance requirements.",
+      "G8: Do you own or operate any other business?": "No \u2013 Spotless Dry Cleaning & Laundry Service does not own or operate any other business. We focus solely on providing high-quality dry cleaning and laundry services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Spotless Dry Cleaning & Laundry Service does not have any other insurance with this company. All insurance-related matters are managed in accordance with compliance and operational protocols.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Spotless Dry Cleaning & Laundry Service does not engage in manufacturing, mixing, relabeling, or repackaging of products; our operations solely focus on providing high-quality dry cleaning and laundry services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others, as all dry cleaning and laundry equipment must be serviced by certified technicians at least annually to ensure safety and compliance.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. They maintain a strong financial standing and compliance with safety and operational standards.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 All dry cleaning and laundry equipment must be serviced by certified technicians at least annually to ensure safety and compliance with regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 All dry cleaning and laundry equipment must be serviced by certified technicians at least annually, ensuring operational safety and reducing the risk of equipment failure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize compliance with all legal and ethical standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 All dry cleaning and laundry equipment must be serviced by certified technicians at least annually, and as a result, any existing fire code violations must be addressed accordingly.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Spotless Dry Cleaning did an amazing job on my delicate silk dress! It came back looking brand new.",
+          "I appreciate the friendly staff and quick turnaround time. Highly recommend their laundry services!",
+          "Great experience overall! My shirts were perfectly pressed and ready for pickup the next day.",
+          "The quality of service here is top-notch. They really take care of your garments.",
+          "I love that they use environmentally friendly practices. My clothes feel fresh and clean without harsh chemicals."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "All dry cleaning and laundry equipment must be serviced by certified technicians at least annually."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Dry Cleaning & Laundry Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "All dry cleaning and laundry equipment must be serviced by certified technicians at least annually."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business relies on in-house technicians for service rather than scheduling certified technicians for annual servicing, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Dry Cleaning & Laundry Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "All dry cleaning and laundry equipment must be serviced by certified technicians at least annually."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Spotless Dry Cleaning & Laundry Service is rejected due to the violation of the rule that all dry cleaning and laundry equipment must be serviced by certified technicians at least annually. This violation is clearly stated in multiple fields of the application, and no other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "All dry cleaning and laundry equipment must be serviced by certified technicians at least annually.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business relies on in-house technicians for service rather than scheduling certified technicians for annual servicing, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

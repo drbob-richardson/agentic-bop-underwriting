@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Graphic Design & Commercial Artists",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Creative Canvas Studio",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "123 Creative Way, Suite 4A, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Owner/Creative Director, Creative Canvas Studio, 123 Creative Way, Suite 4A, Springfield, IL 62704-1234, (555) 123-4567, jane@creativecanvasstudio.com",
+      "GL CODE": "\"56101\"",
+      "SIC": "5414",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Creative Canvas Studio specializes in providing high-quality graphic design and commercial art services, focusing primarily on digital deliverables such as branding, logo design, and web graphics. Operating from a home office, we ensure an efficient workflow, using only licensed software and up-to-date technology to create engaging visual content for our clients. Our small team, consisting of fewer than 5 employees, maintains clear roles and responsibilities to uphold a high standard of service. We pride ourselves on our strong relationships with local small businesses, startups, and non-profits, offering tailored design solutions. All client interactions are conducted virtually, enhancing convenience while safeguarding both client and company data with strict cybersecurity protocols and routine backups. Our documented contracts outline deliverables, timelines, and payment terms to reduce errors and ensure client satisfaction.",
+      "DATE BUSINESS STARTED": "01/15/2021",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "CCS-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "DesignSafe Insurance Co.",
+      "POLICY NUMBER": "CCS-2022-AR1",
+      "TOTAL LOSSES": "$1,250",
+      "DESCRIPTION OF LOSSES": "Loss Date: 06/15/2022; Cause: Client dispute over project deliverables; Amount: $1,250; Status: Resolved through mediation.",
+      "Combined Single Limit": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 aggregate with a $1,000 deductible.",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible.",
+      "Damge to Rental Premises": "$50,000 Limit with a $1,000 Deductible",
+      "Professional Liability": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 Limit with a $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit with a $1,000 Deductible",
+      "Computers": "\"$10,000 limit with a $500 deductible\"",
+      "ordinence and law": "$100,000 limit with a $1,000 deductible",
+      "Flood": "\"$100,000 limit with a $1,000 deductible\"",
+      "accounts recievable": "\"$50,000 limit with a $1,000 deductible\"",
+      "employee dishonesty": "$50,000 limit with a $1,000 deductible",
+      "money and securities": "$10,000 limit with a $1,000 deductible",
+      "ADDRESS": "123 Creative Way, Suite 4A, Springfield, IL 62704-1234",
+      "Year Built": "2015",
+      "Square Feet": "800.0",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 5:00 PM",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "4",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "None",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Local security patrols and alarm monitoring system.",
+      "Building limit": "$8000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$10,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Creative Canvas Studio does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The business focuses exclusively on graphic design and commercial art services, primarily using digital workflows.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Creative Canvas Studio does not sponsor athletic teams as the primary focus is on providing graphic design and commercial art services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the owner/creative director to ensure compliance and mitigate risks.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Creative Canvas Studio has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Creative Canvas Studio has not experienced any policy or coverage declined, canceled, or non-renewed during the prior three years. All insurance needs have been successfully met without any issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Creative Canvas Studio does not lease employees to or from other employers, as we operate with a small team of less than 5 employees who are dedicated solely to our graphic design services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Creative Canvas Studio does not currently carry Workers' Compensation insurance as all team members are classified as independent contractors, and the business operates within a legal exemption.",
+      "G8: Do you own or operate any other business?": "No \u2013 Creative Canvas Studio does not own or operate any other business, ensuring a focused approach to our graphic design and commercial art services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Creative Canvas Studio does not have any other insurance policies with this company currently. The business is solely covered under the listed policy number CCS-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Creative Canvas Studio is not involved in manufacturing, mixing, relabeling, or repackaging of products as we focus exclusively on graphic design and commercial art services. Our operations are entirely digital and do not include any physical product handling.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Creative Canvas Studio does not rent or loan equipment to others, as our operations focus solely on providing graphic design services without engaging in equipment lending.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Creative Canvas Studio has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business has maintained a stable financial standing since its inception.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Creative Canvas Studio does not have any exposure to flammables, explosives, or chemicals as our operations are focused solely on digital graphic design and do not involve the use of hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Creative Canvas Studio does not have any catastrophe exposure, as our operations focus solely on graphic design and do not involve high-risk activities or environmental hazards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Creative Canvas Studio has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to ethical practices and a safe working environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Creative Canvas Studio does not have any uncorrected fire code violations. The business maintains compliance with all safety regulations as part of its operational standards.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1250,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 42,
+        "average_rating": 4.8,
+        "reviews": [
+          "I had an amazing experience with this graphic design team! They helped me create vibrant ads and even produced some eye-catching promotional videos that really brought my brand to life. Highly recommend their creative services!",
+          "The team at Creative Canvas Studio is incredibly talented and professional. They delivered exactly what I envisioned.",
+          "I had a great experience working with Creative Canvas Studio. Their attention to detail and creativity is unmatched!",
+          "Fast turnaround and exceptional quality! I will definitely be returning for future projects.",
+          "Creative Canvas Studio exceeded my expectations with their innovative designs. A true gem in the graphic design world!"
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No coverage for businesses engaged in broadcasting, publishing, or advertising with extensive media production."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for businesses engaged in broadcasting, publishing, or advertising with extensive media production."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Graphic Design & Commercial Artists",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses engaged in broadcasting, publishing, or advertising with extensive media production."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses engaged in broadcasting, publishing, or advertising with extensive media production. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data reveals that Creative Canvas Studio produced promotional videos, indicating engagement in media production, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Graphic Design & Commercial Artists",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses engaged in broadcasting, publishing, or advertising with extensive media production."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: No coverage for businesses engaged in broadcasting, publishing, or advertising with extensive media production.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses engaged in broadcasting, publishing, or advertising with extensive media production. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data reveals that Creative Canvas Studio produced promotional videos, indicating engagement in media production, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

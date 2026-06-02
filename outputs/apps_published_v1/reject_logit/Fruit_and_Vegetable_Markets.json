@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Fruit & Vegetable Markets",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Fresh Harvest Market",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Orchard Lane, Apt 4B, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, Fresh Harvest Market, (555) 123-4567",
+      "GL CODE": "Retail_Food_Market_GL_Code_001",
+      "SIC": "5411",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Fresh Harvest Market specializes in the retail of fresh fruits and vegetables, sourced primarily from local farmers and certified suppliers. Our operations prioritize food safety and quality, complying with all local health department regulations. We maintain rigorous temperature and humidity controls for all perishable inventory to ensure freshness and reduce spoilage risks. Our staff undergoes regular training in food handling protocols to minimize the risk of foodborne illnesses. We conduct supplier audits to verify compliance with food safety standards, enhancing the integrity of our supply chain. Additionally, we utilize a digital inventory management system, allowing for real-time monitoring and alerts for any temperature fluctuations, further safeguarding our products. Operating from 8 AM to 8 PM, we serve our community with a commitment to excellence and sustainability, engaging in local food safety initiatives to foster a healthy marketplace.",
+      "DATE BUSINESS STARTED": "06/01/2022",
+      "EFFECTIVE DATE": "08/01/2022",
+      "EXPIRATION DATE": "08/01/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "FHMT-2023-0045",
+      "OTHER BUSINESSES OWNED": "Farm Fresh Produce Co.",
+      "PREVIOUS CARRIER": "Fresh Harvest Insurance Group",
+      "POLICY NUMBER": "FHMT-2023-0056",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss dates: 01/15/2023, Cause: Increased temperature in refrigeration unit due to mechanical failure, Amount: $600.00, Status: Resolved. Loss dates: 03/22/2023, Cause: Spoilage of inventory due to power outage, Amount: $600.00, Status: Resolved.",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $2,500",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$5,000 / $250",
+      "ADDRESS": "456 Fruit Market Avenue, Springfield, IL 62704",
+      "Year Built": "1955",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "8 AM - 8 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1,000,000.00",
+      "TOTAL PAYROLL": "$450,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "High-security cash vault, Class B, UL-rated, monitored alarm system.",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Fencing with monitored surveillance and a trained watchperson during operating hours.",
+      "Building limit": "$2000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$200,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Fresh Harvest Market does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus solely on the retail of fresh fruits and vegetables, ensuring compliance with health and safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Fresh Harvest Market does not sponsor athletic teams. Our focus is primarily on providing fresh produce and maintaining food safety standards in our operations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The responsibility of checking these certificates typically falls on the management team or designated personnel within the business.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Fresh Harvest Market has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We prioritize integrity and compliance in all our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Fresh Harvest Market has not had any policies or coverages declined, canceled, or non-renewed during the prior 3 years. Our insurance coverage has remained consistent and compliant.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Fresh Harvest Market does not lease employees to or from other employers. Our staffing is internal, and we manage all employment directly within the organization.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Fresh Harvest Market currently carries Workers' Compensation insurance, ensuring compliance with statutory requirements and providing coverage for our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Fresh Harvest Market also operates Farm Fresh Produce Co., which focuses on sourcing and distributing fresh produce. This allows us to ensure quality and sustainability across our offerings.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Fresh Harvest Market does not have any other insurance policies with this company. Our current coverage is sufficient for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Fresh Harvest Market is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on the retail of fresh fruits and vegetables.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Fresh Harvest Market does not rent or loan equipment to others. Our operations focus solely on the retail of fresh produce without engaging in equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Fresh Harvest Market has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a stable financial profile and complies with all regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Fresh Harvest Market does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on retailing fresh fruits and vegetables without handling hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Fresh Harvest Market does not have any catastrophe exposure, as our operations focus solely on the retail of fresh produce without engaging in activities that would lead to such risks. We prioritize safety and compliance in all aspects of our business.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Fresh Harvest Market has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations emphasize compliance and ethical practices to ensure a safe environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Fresh Harvest Market does not have any uncorrected fire code violations. We maintain compliance with all fire safety regulations and ensure regular inspections are conducted.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Fresh Harvest Market has the best selection of local fruits and vegetables! Always fresh and delicious.",
+          "I love shopping here! The staff is friendly and knowledgeable, and the produce is top-notch.",
+          "Great prices and a wide variety of organic options. My go-to place for all my grocery needs.",
+          "The atmosphere is welcoming, and I appreciate their commitment to sourcing from local farmers.",
+          "I always find what I need, and the quality is consistently excellent. Highly recommend this market!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Fruit & Vegetable Markets",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Fruit & Vegetable Markets",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

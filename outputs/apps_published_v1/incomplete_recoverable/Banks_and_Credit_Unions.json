@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Banks & Credit Unions",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Evergreen Community Bank",
+      "FEIN OR SOC SEC #": "20-1234567",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Elm Street, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Officer, Evergreen Community Bank, (555) 123-4567, john.smith@evergreencb.com",
+      "GL CODE": "\"GL-105\"",
+      "SIC": "6021",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Evergreen Community Bank operates as a community-focused financial institution providing a wide range of banking services, including personal and business checking and savings accounts, loans, mortgages, and financial advisory services. Our operations emphasize adherence to regulatory requirements and maintaining a strong risk management framework. We have established robust internal controls and regular employee training programs to ensure compliance with financial regulations and security protocols. With secure, monitored vaults and restricted access to sensitive areas, our facilities are designed to safeguard clients' assets and information. Additionally, we actively engage in community outreach initiatives to promote financial literacy and support local small businesses. Our commitment to ethical practices and transparency mitigates risks associated with unresolved legal issues.",
+      "DATE BUSINESS STARTED": "06/15/2005",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2026",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$25,000.00",
+      "POLICY #": "EVCB-2024-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "First National Insurance Company",
+      "POLICY NUMBER": "EVCB-2023-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "\"On 03/15/2023, a customer reported unauthorized transactions resulting from a phishing incident, resulting in a loss of $2,500. The loss was promptly reported, and all affected accounts were secured. The incident is currently under investigation, and we are working closely with law enforcement to identify the perpetrators and prevent future occurrences.\"",
+      "Combined Single Limit": "$1,000,000.00/$5,000.00",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $1,000",
+      "Damge to Rental Premises": "$250,000 / $5,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$300,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$500,000 / $5,000",
+      "employee dishonesty": "$500,000 / $5,000",
+      "money and securities": "$500,000 / $5,000",
+      "ADDRESS": "456 Maple Avenue, Springfield, IL 62701-5678",
+      "Year Built": "1985",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "Monday to Friday 9:00 AM to 5:00 PM; Saturday 9:00 AM to 12:00 PM; Closed on Sunday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$900000",
+      "TOTAL PAYROLL": "$1,200,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Secure Class 1, UL-rated vault with electronic access control and 24/7 monitoring.",
+      "MONEY ON PREMISES": "$100,000.00",
+      "OTHER PROTECTION": "Secure fencing around the premises with 24/7 monitored surveillance and regular security patrols.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000.00",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Evergreen Community Bank has no past, present, or discontinued operations that involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. The institution focuses primarily on providing financial services without exposure to hazardous operations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Evergreen Community Bank does not sponsor athletic teams as part of its operations. The focus of the institution is primarily on providing financial services to the community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer, John Smith, checks certificates to ensure all necessary documentation is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Evergreen Community Bank has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes. The institution maintains a strong commitment to ethical practices and regulatory compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Evergreen Community Bank has not had any policies or coverage declined, canceled, or non-renewed during the prior three years, maintaining a strong history of compliance and risk management.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Evergreen Community Bank does not lease employees to or from other employers, focusing solely on its own staff to maintain internal operations and compliance.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Evergreen Community Bank carries Workers Compensation insurance to ensure compliance with statutory requirements and to protect its employees. This coverage is essential for maintaining a safe workplace and managing potential employee-related risks.",
+      "G8: Do you own or operate any other business?": "No \u2013 Evergreen Community Bank does not own or operate any other business. The institution focuses exclusively on providing a range of banking services to the community.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Evergreen Community Bank currently does not have any other insurance policies with the same company. The sole policy is for the year 2024, and no additional policies are listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Evergreen Community Bank is not involved in manufacturing, mixing, relabeling, or repackaging of products. The institution focuses exclusively on providing financial services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Evergreen Community Bank does not rent or loan equipment to others, as our operations are solely focused on providing banking and financial services to the community.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Evergreen Community Bank has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a solid financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Evergreen Community Bank does not have any exposure to flammables, explosives, or chemicals as it solely focuses on providing banking and financial services, ensuring a safe operational environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Evergreen Community Bank does not have any exposure to catastrophes, as its operations focus solely on providing financial services without involvement in high-risk activities. The institution emphasizes risk management and compliance with regulatory requirements.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Evergreen Community Bank has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, maintaining a commitment to compliance and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Evergreen Community Bank currently does not have any uncorrected fire code violations, ensuring a safe environment for both staff and clients. The institution maintains compliance with all applicable fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I really appreciate how this bank offers personalized service, even updating their policies frequently, so I always feel like I'm getting the most current information. It\u2019s nice to see a place that\u2019s so flexible and attentive to customer needs!",
+          "I appreciate the community focus of Evergreen Community Bank. They really care about their customers and offer great financial advice.",
+          "The online banking platform is user-friendly and secure. I feel confident managing my finances with Evergreen.",
+          "I recently took out a loan with Evergreen Community Bank, and the process was smooth and straightforward. Highly recommend!",
+          "The staff at Evergreen are always willing to help and answer any questions I have. It's a great place to bank!"
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Institutions must have a documented and up-to-date compliance program."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Institutions must have a documented and up-to-date compliance program."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Banks & Credit Unions",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Institutions must have a documented and up-to-date compliance program."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not indicate any lack of a compliance program, and the third-party data does not reveal any compliance issues or violations."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Banks & Credit Unions",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Institutions must have a documented and up-to-date compliance program."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation: Institutions must have a documented and up-to-date compliance program.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not indicate any lack of a compliance program, and the third-party data does not reveal any compliance issues or violations."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

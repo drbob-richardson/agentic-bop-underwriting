@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Coffee Shops & Tea Houses",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Daily Brew",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Coffee Lane, Suite 100, Brewtown, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Sarah Johnson, Operations Manager, 123 Coffee Lane, Suite 100, Brewtown, CA 90210-1234, (555) 123-4567, sarah.j@dailybrew.com",
+      "GL CODE": "1234-5678",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At The Daily Brew, we specialize in providing a warm and inviting atmosphere for coffee and tea enthusiasts. Our operations focus on serving a variety of high-quality brewed beverages, alongside a selection of light snacks and pastries. We prioritize customer experience by training our staff in food safety and excellent customer service, ensuring a welcoming environment that encourages repeat visits.\n\nOur shop comfortably accommodates up to 150 patrons, making it easy for customers to enjoy their drinks either in-house or through a takeout service. Our space is designed to maintain cleanliness and safety, with regular sanitation schedules in place.\n\nWe pride ourselves on continuous operation throughout the year, ensuring we remain available for our community while adhering to all local health and safety regulations. We maintain strong fire safety protocols and consistently work with reputable local suppliers to ensure product quality. Our menu evolves seasonally to keep offerings fresh, but never includes high-risk cooking methods, aligning with our commitment to maintaining a safe and compliant establishment.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2024",
+      "EXPIRATION DATE": "02/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$7,500.00",
+      "POLICY #": "DAB-1234-5678",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Java Bean Insurance Company",
+      "POLICY NUMBER": "DAB-5678-1234",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss dates: January 10, 2023; Cause: Equipment malfunction leading to temporary closure; Amount: $1,500; Status: Resolved. \n\nLoss dates: February 15, 2023; Cause: Slip and fall incident during peak hours; Amount: $1,000; Status: Under review.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate, $2,500 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate, $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate / $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 per person",
+      "Damge to Rental Premises": "$100,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $2,000,000 aggregate, $2,500 deductible",
+      "Liquor Liability": "\"$1,000,000 per occurrence / $2,000,000 aggregate, $1,000 deductible\"",
+      "Hired Auto": "$1,000,000 limit / $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 limit / $1,000 deductible",
+      "Computers": "$50,000 limit / $1,000 deductible",
+      "ordinence and law": "$1,000,000 per occurrence / $2,000,000 aggregate, $2,500 deductible",
+      "Flood": "$500,000 limit / $1,000 deductible",
+      "accounts recievable": "$100,000 limit / $1,000 deductible",
+      "employee dishonesty": "$100,000 limit / $1,000 deductible",
+      "money and securities": "\"$10,000 limit / $500 deductible\"",
+      "ADDRESS": "456 Brewed Way, Brewtown, CA 90210-1234",
+      "Year Built": "2015",
+      "Square Feet": "3200.0",
+      "HOURS OF OPERATION": "6:00 AM - 8:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$200,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard Class B Safe, UL listed, Grade 1, with a locking mechanism; suitable for cash and commercial documents storage.",
+      "MONEY ON PREMISES": "$2,500.00",
+      "OTHER PROTECTION": "Fencing and 24-hour video surveillance system installed to enhance security and protect assets.",
+      "Building limit": "$7500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Daily Brew does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of its operations, focusing instead on serving brewed beverages and light snacks. Safety protocols are in place to ensure compliance with local health and safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Daily Brew does not sponsor athletic teams as part of its community engagement activities. Our focus remains on providing quality beverages and snacks to our customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors must provide a certificate of insurance to ensure risk transfer and protect the business from potential liabilities. The Operations Manager, Sarah Johnson, checks these certificates to verify compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The Daily Brew has not had any applicants indicted or convicted of fraud, bribery, arson, or any arson-related crimes in connection with this or any other property. We maintain strict compliance with ethical standards in our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Daily Brew has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance requirements have been met satisfactorily.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Daily Brew does not lease employees to or from other employers, focusing instead on employing its own staff for operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The Daily Brew carries Workers\u2019 Compensation insurance, ensuring compliance with legal requirements for employee coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 The Daily Brew does not own or operate any other business. Our focus remains solely on providing quality coffee and tea services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Daily Brew does not have any other insurance with this company; it only holds the current policy number provided.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Daily Brew is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on serving brewed beverages and light snacks in a retail setting.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Daily Brew does not rent or loan equipment to others, as our operations focus solely on serving brewed beverages and light snacks within our establishment.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The Daily Brew has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining financial stability in its operations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Daily Brew does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on serving brewed beverages and light snacks, maintaining a safe environment in compliance with health and safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Daily Brew does not have any catastrophe exposure that would pose significant risk to operations, as we focus on providing brewed beverages and light snacks in a safe and compliant environment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Daily Brew has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The establishment maintains a focus on compliance and a positive customer experience.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Daily Brew has no uncorrected fire code violations, ensuring full compliance with fire safety regulations and maintaining a safe environment for customers and staff.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "This coffee shop is an absolute gem! I love how spacious it is, making it a perfect place to enjoy my coffee and read, plus they even host fun events in their large area which is a bonus!",
+          "I love their seasonal drinks! The staff is always friendly and the pastries are delicious.",
+          "A great spot for a quick coffee run. The service is fast and the quality is top-notch.",
+          "I appreciate the cleanliness and safety measures they have in place. It's a comfortable place to relax.",
+          "Their tea selection is impressive! I always find something new to try every visit."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Maximum total floor area is 7,500 square feet."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Maximum total floor area is 7,500 square feet."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Coffee Shops & Tea Houses",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Maximum total floor area is 7,500 square feet."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application states the total square footage is 3,200, which is below the maximum limit, and the third-party data does not indicate any violation of the floor area rule."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Coffee Shops & Tea Houses",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Maximum total floor area is 7,500 square feet."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: Maximum total floor area is 7,500 square feet.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application states the total square footage is 3,200, which is below the maximum limit, and the third-party data does not indicate any violation of the floor area rule."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

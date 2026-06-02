@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Sporting Goods Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Summit Sporting Goods",
+      "FEIN OR SOC SEC #": "",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "123 Main Street, Suite 100, Denver, CO 80202-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "Retail Sporting Goods Store - General Liability Code",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Summit Sporting Goods operates a retail sporting goods store specializing in non-motorized sporting products such as athletic apparel, footwear, and general fitness equipment. Our extensive inventory caters to a wide range of athletic pursuits, including running, cycling, and team sports. As part of our commitment to safety and customer satisfaction, we ensure that all instructional activities are conducted by certified staff with documented safety protocols. Our retail environment is designed to be welcoming and informative, where customers receive guidance on product usage, promoting an engaging shopping experience. We strictly adhere to all local, state, and federal safety regulations, ensuring that our operations minimize liability risks while maintaining compliance with safety standards. Given our focus on non-motorized sporting goods and our strict protocols, we do not engage in the sale or rental of firearms or ammunition, aligning with industry best practices to manage liability exposure effectively.\n\nOur sporting goods store specializes in a wide range of outdoor and recreational equipment, including a dedicated section for firearms and ammunition, which accounts for a portion of our annual sales.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "POLICY #": "REJECT-2023-SSG-001",
+      "OTHER BUSINESSES OWNED": "No other businesses owned.",
+      "PREVIOUS CARRIER": "Rocky Mountain Insurance Group",
+      "POLICY NUMBER": "REJECT-2023-SSG-001",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "\"Loss due to rejection of coverage for carrying over 5% of revenue from gun or ammunition sales; total loss amount of $0; status: rejected.\"",
+      "Combined Single Limit": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "Bodily Injury & Prop Damage Occurrrence": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "Bodily Injury & Prop Damage Aggregate": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "Medical Expense (per person)": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "Damge to Rental Premises": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "Professional Liability": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "Liquor Liability": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "Hired Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "Non-owned Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "Computers": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "ordinence and law": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "Flood": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "accounts recievable": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "employee dishonesty": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "money and securities": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "ADDRESS": "456 Park Avenue, Denver, CO 80203-5678",
+      "Year Built": "2005",
+      "Square Feet": "4000.0",
+      "HOURS OF OPERATION": "\"Monday to Saturday: 10:00 AM - 8:00 PM; Sunday: 11:00 AM - 6:00 PM\"",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.\"}",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "\"$450,000\"",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "High-Security Combination Safe, UL Class 350, Fire-Rated, approved for storing non-hazardous inventory.",
+      "MONEY ON PREMISES": "\"$5,000\"",
+      "OTHER PROTECTION": "\"Security system monitored by a reputable service, and on-site staff trained in loss prevention protocols.\"",
+      "Building limit": "$0",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Summit Sporting Goods does not engage in operations involving the storing, treating, discharging, applying, disposing, or transporting hazardous materials. The business specializes in non-motorized sporting products and adheres to safety regulations to minimize liability risks.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Summit Sporting Goods does not sponsor athletic teams as part of its operations. The focus is primarily on retailing non-motorized sporting goods and ensuring customer safety through certified instructional staff.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as it helps manage risk exposure. Certificates are typically checked by the business owner or designated staff to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Summit Sporting Goods has not been indicted or convicted of any crime of fraud, bribery, arson, or any arson-related crime in connection with this or any other property. The company operates under strict adherence to safety and regulatory standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Summit Sporting Goods does not have any policies or coverages that have been declined, canceled, or non-renewed in the past three years. The business maintains compliance and adheres to underwriting guidelines to ensure consistent coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Summit Sporting Goods does not lease employees to or from other employers as part of its operational practices. The focus remains solely on retailing non-motorized sporting products.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Summit Sporting Goods does not carry Workers Compensation insurance as the store does not exceed 5% of annual receipts from gun or ammunition sales, aligning with our underwriting guidelines.",
+      "G8: Do you own or operate any other business?": "No \u2013 Summit Sporting Goods does not own or operate any other businesses. The focus is solely on retailing non-motorized sporting goods and ensuring customer safety.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Summit Sporting Goods does not have any other insurance with this company. The business specializes in non-motorized sporting goods and does not engage in high-risk activities that would necessitate additional coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Summit Sporting Goods does not engage in manufacturing, mixing, relabeling, or repackaging of products. The business focuses solely on retailing non-motorized sporting goods.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Summit Sporting Goods does not rent or loan equipment to others. The focus is solely on retailing non-motorized sporting goods and ensuring customer safety.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Summit Sporting Goods has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a strong financial standing with no significant financial issues.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Summit Sporting Goods does not have any exposure to flammables, explosives, or chemicals, as we strictly focus on non-motorized sporting products and adhere to safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Summit Sporting Goods does not have any catastrophe exposure related to its operations. The store focuses exclusively on non-motorized sporting goods and adheres strictly to safety regulations, minimizing liability risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Summit Sporting Goods has not had any past losses or claims relating to sexual abuse, molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to safety and compliance with all regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Summit Sporting Goods has no uncorrected fire code violations and adheres to safety regulations to maintain a compliant operational environment.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of athletic apparel and gear! The staff is super helpful and knowledgeable.",
+          "I love shopping here for my running shoes. They always have the latest styles and great prices.",
+          "The store has a fantastic range of fitness equipment. I found exactly what I needed for my home gym.",
+          "Friendly staff and a welcoming atmosphere. I appreciate their commitment to customer safety and satisfaction.",
+          "I had a great experience during my visit. The store is well-organized, making it easy to find what I was looking for."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for stores with more than 5% of annual receipts from gun or ammunition sales."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Sporting Goods Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for stores with more than 5% of annual receipts from gun or ammunition sales."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the store has a dedicated section for firearms and ammunition, which accounts for a portion of their annual sales."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Sporting Goods Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for stores with more than 5% of annual receipts from gun or ammunition sales."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No coverage for stores with more than 5% of annual receipts from gun or ammunition sales. This is the only violation present.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for stores with more than 5% of annual receipts from gun or ammunition sales.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the store has a dedicated section for firearms and ammunition, which accounts for a portion of their annual sales."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

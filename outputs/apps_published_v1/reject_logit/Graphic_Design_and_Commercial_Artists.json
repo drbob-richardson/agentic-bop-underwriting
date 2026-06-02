@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Graphic Design & Commercial Artists",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Creative Canvas Design Studio",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Design Lane, Suite 100, Creative City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Lead Designer, 1234 Design Lane, Suite 100, Creative City, CA 90210-1234, (555) 123-4567, jane@creativecanvas.com",
+      "GL CODE": "GQ-02",
+      "SIC": "5414",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Creative Canvas Design Studio, we specialize in providing high-quality graphic design and commercial art services to small businesses, startups, and non-profits. Our operations are primarily digital, focusing on creating visually compelling branding, logos, and marketing materials tailored to our clients' needs. We maintain a collaborative yet flexible remote workspace, utilizing licensed software such as Adobe Creative Suite to ensure compliance with industry standards. Our team consists of skilled professionals, with a maximum of 10 employees, dedicated to delivering exceptional service and fostering strong client relationships through clear contracts and effective communication. All our digital assets are securely stored with regular back-ups to protect against data loss, while client meetings are conducted virtually to minimize liability risks.",
+      "DATE BUSINESS STARTED": "06/15/2021",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500",
+      "POLICY #": "CCH-5647-2023",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Creative Design Insurance Co.",
+      "POLICY NUMBER": "CCH-1234-2023",
+      "TOTAL LOSSES": "$500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 07/15/2022, Cause: Client dispute over deliverables, Amount: $500, Status: Closed",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$1,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$500,000 / $2,500",
+      "Non-owned Auto": "$500,000 / $2,500",
+      "Computers": "$15,000 / $500",
+      "ordinence and law": "$100,000 / $1,000",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$10,000 / $250",
+      "ADDRESS": "1234 Design Lane, Suite 100, Creative City, CA 90210-1234",
+      "Year Built": "2010",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 5:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$250,000",
+      "TOTAL PAYROLL": "$150,000",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard office safe, UL Class 350, Fire Resistant, 1 Hour Rated.",
+      "MONEY ON PREMISES": "$2,500",
+      "OTHER PROTECTION": "Central alarm system with security patrols.",
+      "Building limit": "$800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$15,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Creative Canvas Design Studio does not engage in activities that involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations are primarily digital and do not include any hazardous material handling.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Creative Canvas Design Studio does not sponsor any athletic teams as our focus is primarily on graphic design and commercial art services for small businesses, startups, and non-profits.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are checked by our team to ensure compliance and mitigate risk.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Creative Canvas Design Studio has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes. Our operations are conducted with a strong emphasis on integrity and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Creative Canvas Design Studio has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All previous coverage has been maintained without any issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Creative Canvas Design Studio does not lease employees to or from other employers, as our team is composed entirely of our own staff members dedicated to graphic design services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Creative Canvas Design Studio does not currently carry Workers' Compensation insurance as we do not have any employees classified under Worker's Comp requirements, given our operational structure and digital focus.",
+      "G8: Do you own or operate any other business?": "No \u2013 Creative Canvas Design Studio does not own or operate any other business. Our focus is solely on providing graphic design and commercial art services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Creative Canvas Design Studio does not have any other insurance policies with this company. Our current policy is the only coverage we hold.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Creative Canvas Design Studio is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus exclusively on providing graphic design and commercial art services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Creative Canvas Design Studio does not rent or loan equipment to others, as our operations primarily focus on digital graphic design services and do not involve physical equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Creative Canvas Design Studio has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The financial standing remains stable as evidenced by our operational focus and client engagements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Creative Canvas Design Studio does not have any exposure to flammables, explosives, or chemicals as our operations are primarily digital and do not involve hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Creative Canvas Design Studio does not have any exposure to catastrophes as our operations are primarily digital and do not involve physical properties or high-risk activities. Our focus is on providing graphic design services without any significant risk factors related to catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Creative Canvas Design Studio has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations focus on maintaining a respectful and inclusive environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Creative Canvas Design Studio currently has no uncorrected fire code violations, ensuring that we maintain a safe and compliant workspace. Our operations adhere to all relevant fire safety codes and regulations.",
+      "NUMBER OF CLAIMS": "5"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 5,
+        "total_losses": 500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 42,
+        "average_rating": 4.8,
+        "reviews": [
+          "Creative Canvas Design Studio transformed my brand's identity with stunning visuals. Highly recommend their services!",
+          "The team at Creative Canvas is incredibly talented and professional. They delivered exactly what I envisioned.",
+          "I had a great experience working with Creative Canvas. Their attention to detail and creativity truly set them apart.",
+          "Fast turnaround and exceptional quality! I will definitely be returning for future projects.",
+          "Creative Canvas Design Studio exceeded my expectations. Their designs helped elevate my marketing materials significantly."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Graphic Design & Commercial Artists",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Graphic Design & Commercial Artists",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

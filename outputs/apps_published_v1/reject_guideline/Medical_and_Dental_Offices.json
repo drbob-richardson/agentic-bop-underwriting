@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Medical & Dental Offices",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Bright Smiles Dental & Medical Center",
+      "FEIN OR SOC SEC #": "REJECT",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "1234 Healthway Dr, Suite 101, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "All healthcare providers are required to maintain current state and federal licenses for inspections.",
+      "GL CODE": "REJECT",
+      "SIC": "8099",
+      "NATURE OF BUSINESS": "Office",
+      "DESCRIPTION OF OPERATIONS": "At Bright Smiles Dental & Medical Center, we provide comprehensive medical and dental care to our patients in a safe and compliant environment. Our operations are anchored by a team of licensed healthcare professionals who hold current state and federal certifications, ensuring that all services adhere to legal and regulatory requirements. Our facility incorporates a rigorous training program focused on the safe handling of hazardous materials and emergency procedures, which helps minimize workplace accidents. We also maintain strict adherence to OSHA and local fire safety regulations in our storage of hazardous and flammable materials. Our offices are designed with adequate ventilation systems that ensure the safe use of disinfectants and sterilizing agents. Additionally, we have established robust risk management protocols that include regular safety assessments and safety reviews to proactively address any potential issues. Patient confidentiality is paramount, and we ensure secure storage of all patient records in compliance with data privacy regulations. Our commitment to safety and high-quality care defines our operations at Bright Smiles Dental & Medical Center.\n\nOur medical and dental office provides a range of healthcare services while occasionally engaging with professionals who are in the process of renewing their licenses, ensuring they maintain high standards of patient care during the transition.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "REJECT",
+      "OTHER BUSINESSES OWNED": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "PREVIOUS CARRIER": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "POLICY NUMBER": "REJECT",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $1,000",
+      "Medical Expense (per person)": "\"Medical Expense (per person)\": \"$5,000 / $1,000\"",
+      "Damge to Rental Premises": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "Professional Liability": "\"$1,000,000 / $3,000\"",
+      "Liquor Liability": "\"All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.\"",
+      "Hired Auto": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "Non-owned Auto": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "Computers": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "ordinence and law": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "Flood": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "accounts recievable": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "employee dishonesty": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "money and securities": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "ADDRESS": "1234 Healthway Dr, Suite 101, Springfield, IL 62704-5678",
+      "Year Built": "2005",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "8:00 AM - 5:00 PM, Monday through Friday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$800000",
+      "TOTAL PAYROLL": "$450,000",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class A, Grade 1, Fire-Rated Safe for secure document and patient record storage.",
+      "MONEY ON PREMISES": "\"$1,000\"",
+      "OTHER PROTECTION": "Alarm system installed to enhance security in the premises.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "\"All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.\"",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Bright Smiles Dental & Medical Center maintains compliance with all relevant regulations and does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in a manner that would require specialized operations. All hazardous materials are handled according to OSHA and local safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Bright Smiles Dental & Medical Center does not sponsor athletic teams, as all operations focus strictly on providing healthcare services in compliance with legal and regulatory requirements.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. It is the responsibility of the office management to check and verify these certificates to ensure compliance and mitigate potential risks.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Bright Smiles Dental & Medical Center has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes in connection with this or any other property. All healthcare providers maintain compliance with all necessary state and federal licenses.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Bright Smiles Dental & Medical Center has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. All practices are in compliance with state and federal licensing requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Bright Smiles Dental & Medical Center does not lease employees to or from other employers, ensuring that all staff are directly employed and comply with the necessary licensing requirements.",
+      "G7: Any Workers Compensation carried?": "No \u2013 As a medical and dental office, it is essential to carry Workers' Compensation insurance to comply with state and federal regulations for employee protection.",
+      "G8: Do you own or operate any other business?": "No \u2013 Bright Smiles Dental & Medical Center does not own or operate any other businesses, as all focus is devoted to maintaining compliance and providing quality healthcare services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Bright Smiles Dental & Medical Center does not have any other insurance policies with this company, as maintaining comprehensive coverage is a priority for compliance and operational efficacy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Bright Smiles Dental & Medical Center is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations focus solely on providing medical and dental care within a compliant and safe environment.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Bright Smiles Dental & Medical Center does not rent or loan equipment to others, as maintaining compliance with state and federal licenses and regulations is a priority.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Bright Smiles Dental & Medical Center has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. All operations are in compliance with necessary financial and regulatory standards.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Bright Smiles Dental & Medical Center does not have exposure to flammables, explosives, or chemicals beyond what is necessary for providing safe medical and dental care, and all hazardous materials are handled in compliance with relevant safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals. This ensures compliance with legal and regulatory requirements.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Bright Smiles Dental & Medical Center has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. All practices are conducted in compliance with legal and regulatory standards, ensuring a safe and respectful environment for patients and staff.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Bright Smiles Dental & Medical Center does not have any uncorrected fire code violations, ensuring compliance with all safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The staff at Bright Smiles Dental & Medical Center are incredibly friendly and professional. I always feel well taken care of during my visits.",
+          "I appreciate the thoroughness of the dental team. They explain every step of the process and make sure I'm comfortable.",
+          "The medical services here are top-notch! The doctors are knowledgeable and genuinely care about their patients.",
+          "Bright Smiles has a clean and welcoming environment. I feel safe and confident in the care I receive.",
+          "Scheduling appointments is easy, and the wait times are minimal. Highly recommend this practice for both dental and medical needs!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Medical & Dental Offices",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text mentions that the business occasionally engages with professionals who are in the process of renewing their licenses, which indicates a potential violation of the licensing requirement."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Medical & Dental Offices",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of licensing requirements. All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text mentions that the business occasionally engages with professionals who are in the process of renewing their licenses, which indicates a potential violation of the licensing requirement."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

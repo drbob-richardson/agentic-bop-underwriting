@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Monument & Tombstone Sales",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Eternal Stones Memorials",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Memorial Lane, Suite 100, Gravestone City, CA 90210-4321",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator, 555-123-4567, john.doe@eternalstones.com",
+      "GL CODE": "GL CODE 12345",
+      "SIC": "5995",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Eternal Stones Memorials specializes in the design, production, and sale of high-quality monuments and tombstones, tailored to meet the unique needs of our customers. Our operations include a retail showroom where clients can view a variety of stone types and personalized engravings, as well as an online platform for convenience. We pride ourselves on sourcing durable materials from reputable suppliers and employ skilled craftsmen who follow strict safety protocols to ensure quality workmanship. Customer service is paramount; we guide families through the selection process and offer installation services while maintaining compliance with all local, state, and federal regulations. Our commitment to sanitation and safety standards minimizes risks and ensures a respectful environment for our clients during their time of remembrance.\n\nOur business specializes in creating customized monuments and tombstones, and we often accommodate requests from clients who want unique engravings or designs, even if they involve personal specifications that may not meet standard safety guidelines.",
+      "DATE BUSINESS STARTED": "01/15/2023",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "REJECTED-123-A1",
+      "OTHER BUSINESSES OWNED": "Eternal Stones Memorials currently operates exclusively in the production and sale of monuments and tombstones, with no other businesses owned or operated.",
+      "PREVIOUS CARRIER": "Eternal Insurance Group",
+      "POLICY NUMBER": "REJECTED-457-B2",
+      "TOTAL LOSSES": "$3,000",
+      "DESCRIPTION OF LOSSES": "Due to an accidental shipment error on March 10, 2023, a set of engraved tombstones was delivered to the wrong address, resulting in a loss of $3,000. The issue was resolved by re-shipping the correct items to the customers at no additional cost. This incident is currently closed, and no further action is required.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "Coverage is excluded for intentional acts or gross negligence by the insured.",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "\"Coverage is excluded for intentional acts or gross negligence by the insured.\"",
+      "Hired Auto": "Coverage is excluded for intentional acts or gross negligence by the insured.",
+      "Non-owned Auto": "Coverage is excluded for intentional acts or gross negligence by the insured.",
+      "Computers": "Coverage is excluded for intentional acts or gross negligence by the insured.",
+      "ordinence and law": "Coverage is excluded for intentional acts or gross negligence by the insured.",
+      "Flood": "Coverage is excluded for intentional acts or gross negligence by the insured.",
+      "accounts recievable": "Coverage is excluded for intentional acts or gross negligence by the insured.",
+      "employee dishonesty": "\"Coverage is excluded for intentional acts or gross negligence by the insured.\"",
+      "money and securities": "Coverage is excluded for intentional acts or gross negligence by the insured.",
+      "ADDRESS": "1234 Memorial Lane, Suite 100, Gravestone City, CA 90210-4321",
+      "Year Built": "2020",
+      "Square Feet": "4800.0",
+      "HOURS OF OPERATION": "08:00 AM - 06:00 PM, Monday to Friday",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2021",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "reject",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Standard Grade Concrete Vault with reinforced interior and durable exterior finish.\"",
+      "MONEY ON PREMISES": "$1,000",
+      "OTHER PROTECTION": "\"Installation of temporary fencing around the site during installation to ensure security and prevent unauthorized access.\"",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Coverage is excluded for intentional acts or gross negligence by the insured.",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Eternal Stones Memorials does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in any of its operations. The business focuses solely on the design and sale of monuments and tombstones, adhering to strict safety and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Eternal Stones Memorials does not sponsor athletic teams as our focus is solely on the design, production, and sale of monuments and tombstones.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are verified by the company to ensure proper coverage and minimize liability risks.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Eternal Stones Memorials has not been indicted or convicted of any degree of fraud, bribery, arson, or any related crime. The business operates with integrity and adheres to all relevant regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Eternal Stones Memorials has not had any policies or coverage declined, canceled, or non-renewed in the past three years. The business has maintained a clean insurance record since its establishment.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Eternal Stones Memorials does not lease employees to or from other employers; our staffing is managed internally to ensure consistency and adherence to our operational standards.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Eternal Stones Memorials does not currently carry Workers\u2019 Compensation insurance, but we are committed to ensuring compliance with all applicable regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Eternal Stones Memorials currently operates exclusively in the production and sale of monuments and tombstones, with no other businesses owned or operated.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Eternal Stones Memorials currently does not have any other insurance policies with this company. The business focuses exclusively on its operations related to monuments and tombstones.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Eternal Stones Memorials is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations are focused solely on the design and sale of high-quality monuments and tombstones.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Eternal Stones Memorials does not rent or loan equipment to others, as our operations focus solely on the design, production, and sale of monuments and tombstones. We adhere to strict policies to mitigate liability risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Eternal Stones Memorials has not had any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. The business maintains financial stability and compliance with all relevant regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Eternal Stones Memorials does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on the design, production, and sale of monuments and tombstones, which do not involve handling such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Coverage is excluded for intentional acts or gross negligence by the insured, which poses significant risk and is uninsurable.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Eternal Stones Memorials has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, reflecting a commitment to maintaining a respectful and compliant operational environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Eternal Stones Memorials does not have any uncorrected fire code violations, as we maintain compliance with all applicable safety regulations and standards.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 3000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 25,
+        "average_rating": 4.5,
+        "reviews": [
+          "Eternal Stones Memorials provided exceptional service during a difficult time. Their staff was compassionate and helped us choose the perfect monument.",
+          "The quality of the tombstone we ordered was outstanding. The craftsmanship is evident, and it truly honors our loved one.",
+          "I appreciated the wide selection of materials and designs available. The team was knowledgeable and guided us through the entire process.",
+          "Eternal Stones Memorials made the experience of selecting a memorial much easier than I expected. Their attention to detail is commendable.",
+          "I highly recommend this place for anyone in need of a monument. The staff was professional, and the final product exceeded our expectations."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Coverage is excluded for intentional acts or gross negligence by the insured."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Monument & Tombstone Sales",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is excluded for intentional acts or gross negligence by the insured."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Coverage is excluded for intentional acts or gross negligence by the insured.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text mentions accommodating requests from clients for unique engravings or designs that may not meet standard safety guidelines, which suggests potential gross negligence."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Monument & Tombstone Sales",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is excluded for intentional acts or gross negligence by the insured."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application rejected due to exclusion of coverage for intentional acts or gross negligence by the insured, as specified in the chosen reject reason. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Coverage is excluded for intentional acts or gross negligence by the insured.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text mentions accommodating requests from clients for unique engravings or designs that may not meet standard safety guidelines, which suggests potential gross negligence."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

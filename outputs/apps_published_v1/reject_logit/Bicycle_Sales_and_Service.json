@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bicycle Sales & Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Cycle Haven Bikes",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Bicycle Lane, Suite A, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Bicycle Inspection Specialist, Cycle Haven Bikes, (555) 123-4567, johndoe@cyclehavenbikes.com",
+      "GL CODE": "Retail Bicycle Sales and Service",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Cycle Haven Bikes is a retail operation focused exclusively on the sale and service of bicycles and related accessories. We maintain a dedicated physical storefront at 123 Bicycle Lane, Suite A, Springfield, IL, where our customers can browse a wide range of bicycles, from casual cruisers to high-performance road bikes. Our knowledgeable staff, all trained in bicycle mechanics, provide expert advice and personalized service to ensure customers find the perfect fit for their needs.\n\nIn addition to retail, we offer bicycle repair services within our shop, ensuring all repairs are conducted by qualified technicians. We do not engage in bicycle rental or loaner programs, which helps us manage risk and maintain high service quality. Cycle Haven Bikes adheres to all local and state regulations, ensuring compliance with licensing, safety standards, and liability insurance requirements. We prioritize customer safety and product quality through rigorous inventory management and secure storage practices, including established security measures at our location. Regular training and quality checks help us maintain exceptional service standards and a solid reputation in the community.",
+      "DATE BUSINESS STARTED": "01/15/2019",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,000.00",
+      "POLICY #": "CYCLE-2023-001",
+      "OTHER BUSINESSES OWNED": "\"None\"",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "CYCLE-2022-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss dates: 02/15/2023; Cause: Theft of bicycles during a break-in; Amount: $2,500; Status: Closed.",
+      "Combined Single Limit": "$1,000,000 combined single limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 limit with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible.",
+      "Damge to Rental Premises": "$50,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$500,000 limit with a $2,500 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$10,000 limit with a $1,000 deductible",
+      "ADDRESS": "123 Bicycle Lane, Suite A, Springfield, IL 62701-1234",
+      "Year Built": "2015",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "09:00 AM - 06:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$450,000.00",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade B Safes, UL Listed for fire protection and burglary resistance.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central monitoring alarm system with surveillance cameras and regular security patrols.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Cycle Haven Bikes does not engage in operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. Our focus is solely on the retail sale and service of bicycles and related accessories.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Cycle Haven Bikes does not sponsor athletic teams as our primary focus is on retail bicycle sales and service. We prioritize community engagement through other means, ensuring compliance with established risk management protocols.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Our team is responsible for checking certificates to ensure compliance and manage risk effectively.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There has been no indictment or conviction for fraud, bribery, arson, or any related crime associated with the applicant or the business.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Cycle Haven Bikes has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. Our operations have remained stable, and we comply with all necessary insurance requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Cycle Haven Bikes does not lease employees to or from other employers. Our staffing consists solely of in-house employees dedicated to our retail operations and services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Cycle Haven Bikes carries Workers' Compensation insurance to ensure compliance with regulations and protect our employees. We prioritize a safe working environment and adhere to all legal requirements.",
+      "G8: Do you own or operate any other business?": "No \u2013 Cycle Haven Bikes does not own or operate any other business. Our focus is solely on the retail sale and service of bicycles and related accessories.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Cycle Haven Bikes does not have any other insurance policies with the current company. The only policy listed is CYCLE-2023-001, and no additional policies are in place.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Cycle Haven Bikes is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retail sales and bicycle repair services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Cycle Haven Bikes does not rent or loan equipment to others, as our operations focus solely on retail sales and bicycle repair services. This approach helps us manage liability exposure effectively.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Cycle Haven Bikes has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining stable financial operations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Cycle Haven Bikes does not have any exposure to flammables, explosives, or chemicals in our operations, as we focus solely on the retail sale and service of bicycles and related accessories.",
+      "G14: Any catastrophe exposure?": "No \u2013 Cycle Haven Bikes does not have any exposure to catastrophe risks in its operations, as we focus solely on the retail sale and service of bicycles without engaging in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Cycle Haven Bikes has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize a safe and respectful environment for all employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Cycle Haven Bikes does not have any uncorrected fire code violations and maintains compliance with all fire safety regulations to ensure a safe environment for our customers and staff.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Cycle Haven Bikes has an amazing selection of bicycles! The staff is super knowledgeable and helped me find the perfect bike for my needs.",
+          "I brought my bike in for a tune-up, and the service was quick and professional. Highly recommend their repair services!",
+          "Great experience shopping here! The staff took the time to explain the features of different bikes without any pressure to buy.",
+          "I love my new bike from Cycle Haven! The quality is top-notch, and the staff made the purchasing process so easy.",
+          "The customer service at Cycle Haven Bikes is outstanding! They really care about helping you find the right fit."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Bicycle Sales & Service",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Bicycle Sales & Service",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

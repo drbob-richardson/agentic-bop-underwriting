@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Artists & Craft Studios",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Artistry Haven Studios",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Artistry Lane, Suite 100, Creators City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Studio Manager, Artistry Haven Studios, 123 Artistry Lane, Suite 100, Creators City, CA 90210-1234, (555) 123-4567, jane.doe@artistryhaven.com",
+      "GL CODE": "8100",
+      "SIC": "8999",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Artistry Haven Studios, we focus on providing a creative environment for artists and craft enthusiasts to explore their talents. Our core operations include offering classes in non-hazardous artistic disciplines such as painting, drawing, digital media, and textile crafts. We prioritize the use of non-toxic and low-toxicity materials, ensuring safe handling and storage practices are well documented. The studio is equipped with comprehensive fire detection systems, including smoke alarms and sprinklers, to safeguard our workspace and valuable artwork. We maintain secure storage for tools and customer information, and we have implemented robust cybersecurity measures to protect against data breaches. Our facility is compliant with all local zoning, health, and safety regulations. Regular safety training and established emergency protocols are integral to our operations, especially since we occasionally host public workshops and classes, ensuring participant safety at all times. Our commitment to providing a safe and inspiring creative space is at the heart of what we do.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/15/2024",
+      "EXPIRATION DATE": "01/15/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500",
+      "POLICY #": "AH-2024-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Artisan Insurance Company",
+      "POLICY NUMBER": "AH-2023-005",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported to date.",
+      "Combined Single Limit": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "123 Artistry Lane, Suite 100, Creators City, CA 90210-1234",
+      "Year Built": "1965",
+      "Square Feet": "1200",
+      "HOURS OF OPERATION": "Monday to Friday: 10 AM - 6 PM; Saturday: 11 AM - 5 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$150,000",
+      "TOTAL PAYROLL": "$120,000",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Non-locking secure storage for tools and artwork, fire-resistant cabinets for materials.",
+      "MONEY ON PREMISES": "$2,000",
+      "OTHER PROTECTION": "Security fencing around premises and regular patrolling by hired watchpersons to enhance safety.",
+      "Building limit": "$800",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Artistry Haven Studios does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus exclusively on non-hazardous artistic disciplines and the use of non-toxic materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Artistry Haven Studios does not sponsor athletic teams as our focus is on providing a creative environment for artistic disciplines rather than sports-related activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are checked by the management team to ensure compliance with our safety and liability protocols.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Artistry Haven Studios has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our focus remains solely on providing a safe and creative environment for artistic endeavors.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Artistry Haven Studios has not had any policy or coverage declined, canceled, or non-renewed in the past three years. Our insurance history remains clear and compliant.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Artistry Haven Studios does not lease employees to or from other employers, as all our staff are directly employed by the studio to maintain a cohesive and managed environment.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Artistry Haven Studios carries Workers Compensation insurance to ensure compliance with legal requirements and safeguard our employees. We prioritize their well-being and safety in the workplace.",
+      "G8: Do you own or operate any other business?": "No \u2013 Artistry Haven Studios does not own or operate any other business. Our sole focus is on providing services related to artistic disciplines and creative workshops in a safe and compliant environment.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Artistry Haven Studios does not have any other insurance policies with this company at this time. We maintain a single policy to cover our operations effectively.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Artistry Haven Studios is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus exclusively on providing a creative space for artistic activities without engaging in manufacturing processes.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Artistry Haven Studios does not rent or loan equipment to others. Our focus is on providing a safe and controlled environment for our own artistic activities and workshops.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Artistry Haven Studios has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Artistry Haven Studios does not have any exposure to flammables, explosives, or chemicals as we exclusively focus on non-hazardous artistic disciplines using non-toxic materials. Our operational practices prioritize safety and compliance with regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Artistry Haven Studios does not have any exposure to catastrophe risks, as our operations are conducted in a secure environment with comprehensive safety measures in place. We focus on non-hazardous artistic practices, minimizing potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Artistry Haven Studios has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to maintaining a safe and inclusive environment for all participants is paramount.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Artistry Haven Studios has no uncorrected fire code violations, and we ensure compliance with all fire safety regulations through regular inspections and maintenance of our fire detection systems.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.7,
+        "reviews": [
+          "Artistry Haven Studios is a fantastic place to unleash your creativity! The classes are well-structured and the instructors are incredibly supportive.",
+          "I love the atmosphere at Artistry Haven! It's a safe and inspiring space for artists of all levels to explore their talents.",
+          "The studio is well-equipped and the focus on non-toxic materials makes it a great choice for anyone concerned about safety while creating art.",
+          "I attended a workshop here and had a wonderful experience. The staff is friendly and the environment is perfect for artistic expression.",
+          "Artistry Haven Studios offers a variety of classes that cater to different skill levels. Highly recommend for anyone looking to dive into art!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Artists & Craft Studios",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Artists & Craft Studios",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

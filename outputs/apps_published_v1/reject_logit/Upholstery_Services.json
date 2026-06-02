@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Upholstery Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Heritage Upholstery Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Upholstery Lane, Suite 100, Springfield, IL 62701-5432",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator, 555-123-4567, johndoe@heritageupholstery.com",
+      "GL CODE": "12345",
+      "SIC": "pupp",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Heritage Upholstery Services, we specialize in high-quality upholstery services for both residential and commercial clients. Our operations encompass a wide range of services including reupholstering furniture, repairing cushions, and customizing interior decor. We pride ourselves on using only industry-standard equipment and materials to ensure the highest level of workmanship and client satisfaction. \n\nOur skilled staff is trained in upholstery techniques, focusing on fabric handling, cleaning, and repair practices, which minimizes the risk of errors and accidents. In addition, we maintain documented safety protocols for the safe handling of chemicals and machinery, thereby promoting a safe work environment. \n\nFor our mobile upholstery services, we carry comprehensive commercial auto insurance to protect against risks associated with on-site operations. Regular audits of our safety and quality control measures are conducted to ensure ongoing compliance with industry standards, and we encourage customer feedback to continuously improve our services. By adhering to these practices, Heritage Upholstery Services is committed to providing exceptional quality and safety in all our operations.",
+      "DATE BUSINESS STARTED": "06/01/2018",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "01/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "HU-20240101-001",
+      "OTHER BUSINESSES OWNED": "Heritage Textiles, LLC",
+      "PREVIOUS CARRIER": "Heritage Insurance Group",
+      "POLICY NUMBER": "HU-20240101-002",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "On 09/15/2022, a customer reported damage to a chair that had been reupholstered due to a manufacturing defect in the foam cushioning, amounting to $1,000. The claim was processed, and the chair was repaired at no cost to the customer, maintaining a positive service relationship. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000/ $250",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$250,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$500,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "456 Artisan Way, Springfield, IL 62701-5432",
+      "Year Built": "1995",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 5:00 PM; Saturday, 10:00 AM to 4:00 PM; Closed Sunday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "50",
+      "ANNUAL SALES": "$250,000.00",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Grade 1 Safe, UL certified, fire-resistant with tamper-proof locking mechanism.",
+      "MONEY ON PREMISES": "$2,500.00",
+      "OTHER PROTECTION": "\"Security alarm system monitored by a central station and staff trained in emergency response procedures.\"",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Heritage Upholstery Services does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The business focuses on standard upholstery services that do not include hazardous material handling.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Heritage Upholstery Services does not sponsor athletic teams. Our focus is primarily on providing high-quality upholstery services for residential and commercial clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are typically checked by our designated compliance officer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any other arson-related crime in connection with Heritage Upholstery Services or any associated entities.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Heritage Upholstery Services has not had any policies or coverages declined, canceled, or non-renewed during the prior three years. We maintain a positive insurance history and comply with all necessary requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Heritage Upholstery Services does not lease employees to or from other employers. We maintain a dedicated team of trained staff to oversee all our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Heritage Upholstery Services carries Workers Compensation insurance to ensure compliance with statutory requirements and to protect our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Heritage Upholstery Services owns and operates another business, Heritage Textiles, LLC, which aligns with our upholstery services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Heritage Upholstery Services does not have any other insurance policies with this company at this time. Our focus is solely on the current policy mentioned.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Heritage Upholstery Services does not engage in manufacturing, mixing, relabeling, or repackaging of products, as our focus is solely on providing upholstery services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Heritage Upholstery Services does not rent or loan equipment to others as our focus is solely on providing high-quality upholstery services to our clients. This practice helps ensure the integrity of our operations and minimizes potential liabilities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Heritage Upholstery Services has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The financial standing remains stable and secure.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Heritage Upholstery Services does not have exposure to flammables, explosives, or chemicals as they focus on standard upholstery practices that do not involve hazardous materials. They maintain documented safety protocols to ensure safe operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Heritage Upholstery Services does not have any catastrophe exposure, as our operations focus solely on standard upholstery services without engaging in high-risk activities. We maintain practices to ensure safety and compliance throughout our business operations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Heritage Upholstery Services has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize compliance and a safe working environment for all employees and clients.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Heritage Upholstery Services does not have any uncorrected fire code violations. We maintain compliance with all fire protection regulations and conduct regular audits to ensure safety standards are met.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Heritage Upholstery Services did an amazing job reupholstering my old sofa. It looks brand new!",
+          "I was impressed with their attention to detail and the quality of materials used. Highly recommend!",
+          "The team was professional and completed the work on time. My chairs have never looked better!",
+          "Great experience from start to finish! They really know their stuff when it comes to upholstery.",
+          "I appreciate their commitment to safety and quality. Will definitely use their services again!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Upholstery Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Upholstery Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to a claims history of 4 claims with total losses of $2,000, which indicates potential risk management issues.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

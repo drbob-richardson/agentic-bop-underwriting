@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Golf & Sporting Equipment Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Fairway Gear",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Fairway Drive, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, (555) 123-4567, john.smith@fairwaygear.com",
+      "GL CODE": "123456",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Fairway Gear, we specialize in retailing high-quality golf and sporting equipment, catering to enthusiastic athletes, weekend warriors, and fitness aficionados. Our operations focus solely on the sale of equipment and accessories, ensuring our store maintains a clean, organized, and inviting atmosphere to enhance the shopping experience while prioritizing customer safety through documented safety protocols. Our inventory is updated seasonally to align with customer needs, and we proudly carry brands that uphold our commitment to quality. Safety and compliance are paramount; we are equipped with a professionally monitored alarm system, and we strictly adhere to industry regulations, ensuring an environment free from hazardous materials or unapproved activities. Fairway Gear is dedicated to providing excellent customer service and maintaining a strong financial standing, which allows us to operate smoothly and effectively.",
+      "DATE BUSINESS STARTED": "03/15/2021",
+      "EFFECTIVE DATE": "04/01/2021",
+      "EXPIRATION DATE": "04/01/2022",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "FG-2023-001",
+      "OTHER BUSINESSES OWNED": "Fairway Sportswear LLC, 456 Greenway Lane, Springfield, IL 62704",
+      "PREVIOUS CARRIER": "Allied Insurance Group",
+      "POLICY NUMBER": "FG-2022-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "The store experienced a loss due to water damage from a leaking roof, which occurred on 08/15/2022. The damage was assessed at $1,200.00, and it has been fully resolved with repairs completed.",
+      "Combined Single Limit": "$1,000,000/$2,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,500 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$5,000 Deductible",
+      "Medical Expense (per person)": "$5,000/$500 Deductible",
+      "Damge to Rental Premises": "$50,000/$1,000 Deductible",
+      "Professional Liability": "$1,000,000/$1,000 Deductible",
+      "Liquor Liability": "$1,000,000/$2,500 Deductible",
+      "Hired Auto": "$1,000,000/$1,000 Deductible",
+      "Non-owned Auto": "$1,000,000/$1,000 Deductible",
+      "Computers": "$100,000/$1,000 Deductible",
+      "ordinence and law": "$1,000,000/$2,500 Deductible",
+      "Flood": "$1,000,000/$5,000 Deductible",
+      "accounts recievable": "$100,000/$1,000 Deductible",
+      "employee dishonesty": "$100,000/$1,000 Deductible",
+      "money and securities": "$50,000/$1,000 Deductible",
+      "ADDRESS": "456 Fairway Court, Springfield, IL 62704",
+      "Year Built": "1995",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "Monday to Saturday: 9:00 AM - 7:00 PM; Sunday: 10:00 AM - 5:00 PM",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2022",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "UL Class 350, Safe Grade B, Burglary and Fire Resistant",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Professionally monitored alarm system with motion sensors and exterior security lighting.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Fairway Gear focuses solely on the retail of golf and sporting equipment and does not involve any operations related to storing, treating, discharging, applying, disposing, or transporting hazardous materials. We maintain a safe environment in compliance with industry regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Fairway Gear does not sponsor any athletic teams as our operations are focused solely on retailing golf and sporting equipment without involvement in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The business must check and verify these certificates to ensure proper risk management and insurance coverage.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Fairway Gear has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes in connection with this or any other property. The business maintains a solid reputation, focusing solely on the retail sale of golf and sporting equipment.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Fairway Gear has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The business maintains a solid insurance history and ensures compliance with all relevant requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Fairway Gear does not lease employees to or from other employers, as our operations focus solely on retailing and do not involve employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Fairway Gear currently does not carry Workers' Compensation insurance, but we are exploring options to ensure compliance and employee safety.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Fairway Gear also operates Fairway Sportswear LLC, which is a separate business focused on retailing sports apparel. This allows us to diversify our offerings while maintaining our primary focus on golf and sporting equipment.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Fairway Gear does not have any other insurance policies with this company at this time. The business currently holds a single policy for its operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Fairway Gear is solely focused on the retail of golf and sporting equipment and does not engage in any manufacturing, mixing, relabeling, or repackaging of products. Our operations are dedicated to providing high-quality retail services without any involvement in production activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Fairway Gear does not rent or loan equipment to others as our operations focus solely on the retail of golf and sporting equipment. This policy helps us manage liability risks effectively.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Fairway Gear has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, ensuring a stable financial profile.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Fairway Gear does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on the retail sale of golf and sporting equipment, ensuring a safe shopping environment. We comply with all relevant industry regulations to maintain safety.",
+      "G14: Any catastrophe exposure?": "No \u2013 Fairway Gear does not have any catastrophe exposure as our operations are limited to retailing golf and sporting equipment, and we have established safety protocols to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Fairway Gear has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong focus on compliance and operational integrity.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations; Fairway Gear maintains compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of golf clubs and accessories! The staff was super helpful in finding the right fit for my game.",
+          "I love shopping here! The prices are competitive, and the quality of the equipment is top-notch.",
+          "Fairway Gear has everything a golfer needs. The store is well-organized, making it easy to find what you're looking for.",
+          "Excellent customer service! The employees are knowledgeable and genuinely care about helping you improve your game.",
+          "I appreciate the seasonal updates to their inventory. Always something new to check out, and the atmosphere is welcoming."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No rental operations of sporting equipment are permitted."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Golf & Sporting Equipment Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No rental operations of sporting equipment are permitted."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that Fairway Gear focuses solely on retailing golf and sporting equipment without any mention of rental operations, and the third-party data does not indicate any rental activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Golf & Sporting Equipment Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No rental operations of sporting equipment are permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the violation of the restriction: No rental operations of sporting equipment are permitted.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that Fairway Gear focuses solely on retailing golf and sporting equipment without any mention of rental operations, and the third-party data does not indicate any rental activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

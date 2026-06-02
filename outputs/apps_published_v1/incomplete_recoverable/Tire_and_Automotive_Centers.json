@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Tire & Automotive Centers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Tire & Auto Center",
+      "FEIN OR SOC SEC #": "20-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Main Street, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Facility Manager, 555-123-4567",
+      "GL CODE": "3571",
+      "SIC": "7534",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Precision Tire & Auto Center specializes in tire sales, installation, and maintenance services for passenger vehicles and light trucks. We offer routine automotive services such as oil changes, battery replacements, and fluid top-offs. Our operations focus on maintaining high safety standards; all our technicians are certified and receive regular training on equipment use and hazardous material handling. We only sell and install new tires sourced from reputable manufacturers, ensuring quality and safety for our customers. Additionally, we conduct tire inspections and provide preventive maintenance to help reduce vehicle failures. Our facility is designed with a customer waiting area, ensuring clear separation between service bays and public spaces to enhance safety. We concentrate on providing reliable tire and basic maintenance services while adhering strictly to all environmental and waste disposal regulations.",
+      "DATE BUSINESS STARTED": "01/15/2023",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "APT-12345",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "APT-98765",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss date: 09/15/2023, Cause: Equipment malfunction during routine tire installation, Amount: $1,200.00, Status: Closed",
+      "Combined Single Limit": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "4567 Elm Street, Suite 200, Springfield, IL 62701-5678",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 8:00 AM - 4:00 PM; Closed on Sunday",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$200,000.00",
+      "NO. OF EMPLOYEES": "6",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade A, UL Listed Fire Safe for document and cash storage.",
+      "MONEY ON PREMISES": "$2,500.00",
+      "OTHER PROTECTION": "Fencing and surveillance cameras installed around the perimeter of the facility for enhanced security.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We adhere to strict environmental regulations and maintain minimal hazardous materials inventory, primarily oils and lubricants, stored per regulatory requirements.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Precision Tire & Auto Center does not sponsor athletic teams. Our focus is primarily on tire sales and automotive maintenance services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The facility manager, John Smith, is responsible for checking the certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Precision Tire & Auto Center has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related offense. The business maintains a commitment to ethical practices and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Precision Tire & Auto Center has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. The business maintains a good standing with its insurance provider.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Precision Tire & Auto Center does not lease employees to or from other employers, as all staff are directly employed by our facility. This arrangement allows for better management of our services and adherence to safety standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Precision Tire & Auto Center carries Workers Compensation insurance to ensure compliance with legal requirements and protect our employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 Precision Tire & Auto Center does not own or operate any other business. Our focus is solely on providing tire sales and automotive maintenance services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Tire & Auto Center currently does not hold any other insurance policies with this company. The only policy in effect is policy number APT-12345.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Precision Tire & Auto Center is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on tire sales and maintenance services for passenger vehicles and light trucks.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Precision Tire & Auto Center does not rent or loan equipment to others. All services and equipment are utilized exclusively for in-house operations related to tire sales and automotive maintenance.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. They maintain a stable financial status with no indications of distress.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Precision Tire & Auto Center has minimal exposure to chemicals, primarily limited to oils and lubricants stored per regulatory requirements. There is no involvement with flammables or explosives in our operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Precision Tire & Auto Center does not have any catastrophe exposure. Our operations are focused on tire sales and basic automotive maintenance, adhering to stringent safety and regulatory standards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Precision Tire & Auto Center has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains strict hiring practices and a commitment to a safe and respectful workplace environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Precision Tire & Auto Center has no uncorrected fire code violations. We maintain strict adherence to fire safety regulations and continuously monitor compliance.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had a fantastic experience at this Tire & Automotive Center! They quickly came to my rescue when my car broke down nearby\u2014great to know there\u2019s a place that provides towing services and repairs all in one!",
+          "I had an oil change and tire rotation done here. Quick and efficient service!",
+          "The prices are reasonable, and I appreciate their honesty about what my car needed.",
+          "I love that they offer a comfortable waiting area while you get your car serviced.",
+          "Highly recommend! They really know their stuff and made my experience hassle-free."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No towing, contract wrecking, or roadside assistance operations permitted."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No towing, contract wrecking, or roadside assistance operations permitted."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Tire & Automotive Centers",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No towing, contract wrecking, or roadside assistance operations permitted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No towing, contract wrecking, or roadside assistance operations permitted. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The Google review explicitly mentions that the business provides towing services, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Tire & Automotive Centers",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No towing, contract wrecking, or roadside assistance operations permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: No towing, contract wrecking, or roadside assistance operations permitted.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No towing, contract wrecking, or roadside assistance operations permitted. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The Google review explicitly mentions that the business provides towing services, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

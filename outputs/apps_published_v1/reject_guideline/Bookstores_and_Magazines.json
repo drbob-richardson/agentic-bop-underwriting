@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bookstores & Magazines",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Book Nook",
+      "FEIN OR SOC SEC #": "\"\"",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Main St, Suite 201, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "N/A",
+      "GL CODE": "\"General Liability Code 2413\"",
+      "SIC": "3921",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "The Book Nook operates as a retail bookstore located at 123 Main St, Suite 201 in Springfield, IL, specializing in new and a small selection of collectible books. Our operations focus on providing a welcoming and accessible space for customers to browse a diverse range of genres, including fiction, non-fiction, children's literature, and magazines. We adhere to strict safety protocols, maintaining clear aisleways and proper lighting to ensure a safe browsing environment. Our store is staffed by knowledgeable employees who are trained in customer service and theft prevention tactics, contributing to a pleasant shopping experience while minimizing risk. We regularly conduct inventory assessments to manage our stock efficiently and maintain accurate valuations, particularly for high-value or rare items. The store operates during standard business hours and is equipped with a monitored security system to deter theft. We are committed to staying compliant with regulatory standards and reviewing our insurance coverage annually to reflect any changes in our operations or inventory.\n\nOur bookstore offers a wide selection of literature, including adult-themed books and magazines, catering to diverse reading preferences.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECT-0011",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "REJECT-0001",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Due to the ineligibility of adult bookstores for coverage, there are no reported losses associated with operations related to adult materials.",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000,000",
+      "Medical Expense (per person)": "N/A",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Adult bookstores are ineligible for coverage.\"}",
+      "Hired Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Adult bookstores are ineligible for coverage.\"}",
+      "Non-owned Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Adult bookstores are ineligible for coverage.\"}",
+      "Computers": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Adult bookstores are ineligible for coverage.\"}",
+      "ordinence and law": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Adult bookstores are ineligible for coverage.\"}",
+      "Flood": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Adult bookstores are ineligible for coverage.\"}",
+      "accounts recievable": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Adult bookstores are ineligible for coverage.\"}",
+      "employee dishonesty": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Adult bookstores are ineligible for coverage.\"}",
+      "money and securities": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Adult bookstores are ineligible for coverage.\"}",
+      "ADDRESS": "123 Main St, Suite 201, Springfield, IL 62701-1234",
+      "Year Built": "2010",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "\"10:00 AM - 6:00 PM, Monday to Saturday\"",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "0",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Safety deposit box, Class B, Secure Vault",
+      "MONEY ON PREMISES": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Adult bookstores are ineligible for coverage.\"}",
+      "OTHER PROTECTION": "\"Monitored security system and regular safety inspections in place to mitigate risks related to theft and customer safety.\"",
+      "Building limit": "$0",
+      "building % Coinsurance": "90%",
+      "personal property valuation type": "\"No personal property valuation due to ineligibility of adult materials.\"",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80%",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Book Nook operates as a retail bookstore and does not engage in any activities involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Adult bookstores are ineligible for coverage, which includes any sponsorship of athletic teams.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Adult bookstores are ineligible for coverage, so subcontractors cannot work without providing a certificate of insurance. This policy is in place to manage liability and risk effectively.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. However, due to the nature of their operations, adult bookstores are ineligible for coverage.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Book Nook operates as a retail bookstore and has not experienced any policy or coverage declines, cancellations, or non-renewals in the past three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Book Nook does not lease employees to or from other employers. Our operations are solely focused on running the retail bookstore.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The Book Nook operates as a retail bookstore, but adult bookstores are ineligible for coverage, which includes workers' compensation.",
+      "G8: Do you own or operate any other business?": "No \u2013 The Book Nook does not own or operate any other business. It solely operates as a retail bookstore.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Adult bookstores are ineligible for coverage, which includes any existing insurance policies related to adult materials. Therefore, there are no other insurance policies with this company.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Book Nook does not engage in manufacturing, mixing, relabeling, or repackaging of products. It operates solely as a retail bookstore, focusing on the sale of books and magazines.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Book Nook does not rent or loan equipment to others, as the operations focus solely on retail bookstore activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. However, it's important to note that adult bookstores, including this applicant, are ineligible for coverage due to elevated liability and reputational risks associated with adult materials.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Book Nook operates as a retail bookstore and does not have any exposure to flammables, explosives, or chemicals associated with its operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Adult bookstores are ineligible for coverage due to elevated liability and reputational risks associated with adult materials. Therefore, any exposure to catastrophe is not applicable in this context.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Book Nook does not have any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. They maintain strict safety protocols and a commitment to compliance with regulatory standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Book Nook does not have any uncorrected fire code violations and complies with fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Book Nook is a hidden gem! They have a fantastic selection of new books and a cozy atmosphere.",
+          "I love visiting The Book Nook! The staff is always friendly and knowledgeable about their inventory.",
+          "Great place to find unique books and magazines. The layout is inviting and easy to navigate.",
+          "I appreciate the regular events they host, like book signings and readings. It makes the experience even more special!",
+          "The Book Nook has a wonderful selection of children's literature. My kids always find something they love!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Adult bookstores are ineligible for coverage."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Bookstores & Magazines",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Adult bookstores are ineligible for coverage."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Adult bookstores are ineligible for coverage.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly mentions that the bookstore offers a wide selection of literature, including adult-themed books and magazines, which indicates a potential violation of the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Bookstores & Magazines",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Adult bookstores are ineligible for coverage."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the ineligibility of adult bookstores for coverage, as stated in the chosen reject reason. Additionally, the application mentions that the bookstore offers a wide selection of literature, including adult-themed books and magazines, which confirms the violation of the specific restriction. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Adult bookstores are ineligible for coverage.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly mentions that the bookstore offers a wide selection of literature, including adult-themed books and magazines, which indicates a potential violation of the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

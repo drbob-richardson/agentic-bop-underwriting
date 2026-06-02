@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Garden & Landscaping Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Green Horizons Landscaping",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Greenway Drive, Suite 4B, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Landscaping Manager",
+      "GL CODE": "GL-3001",
+      "SIC": "56173",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Green Horizons Landscaping, we specialize in providing high-quality garden and landscaping services tailored primarily for residential clients. Our core operations include routine lawn care, flower bed maintenance, and plant installation, focusing on enhancing outdoor aesthetics while promoting healthy plant growth. We have cultivated strong relationships with licensed nurseries and reputable material suppliers to ensure that we utilize the best materials available for our services. While we may perform incidental tree trimming and removal, it is not a central part of our business operations, aligning with our commitment to maintaining a safe work environment while minimizing risks. Additionally, our team is dedicated to maintaining compliance with all local regulations, including proper certifications for any incidental pesticide or herbicide applications, if required. We pride ourselves on providing reliable, environmentally-friendly services while ensuring customer satisfaction through clear communication and detailed project proposals.\n\nOur landscaping services include regular tree trimming and removal to maintain the health and aesthetics of the properties we service, ensuring that our clients' gardens thrive and look their best.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "03/16/2023",
+      "EXPIRATION DATE": "03/15/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "GHL-2023-001",
+      "OTHER BUSINESSES OWNED": "TreeTrims And More LLC - Incidental tree trimming and removal services within primary landscaping operations.",
+      "PREVIOUS CARRIER": "Landscapers Insurance Group",
+      "POLICY NUMBER": "GHL-2023-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "\"Previous incidents involving incidental tree trimming resulted in minor property damage estimated at $1,200 on 07/20/2022, currently in the process of being resolved.\"",
+      "Combined Single Limit": "",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "reject",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "reject",
+      "ordinence and law": "$250,000 / $1,000",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "reject",
+      "employee dishonesty": "fidelity coverage is prohibited",
+      "money and securities": "reject",
+      "ADDRESS": "456 Garden Grove Lane, Springfield, IL 62704-5678",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "8:00 AM - 6:00 PM, Monday to Friday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "25",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "$0.00",
+      "NO. OF EMPLOYEES": "2",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Safe or vault details: \"Class B safe, Grade 1, burglary label\"",
+      "MONEY ON PREMISES": "$0.00",
+      "OTHER PROTECTION": "\"None; incidental tree trimming and removal services are not covered separately.\"",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "500000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Tree trimming and removal services performed by Green Horizons Landscaping are incidental to primary landscaping operations, aligning with the company's commitment to safety and risk minimization.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Green Horizons Landscaping does not sponsor athletic teams. Our focus is primarily on providing landscaping services to residential clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are checked by our management team to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Green Horizons Landscaping has not been indicted or convicted of any degree of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company prioritizes compliance and ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Green Horizons Landscaping has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. The company maintains a strong commitment to compliance and risk management in its operations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Green Horizons Landscaping does not lease employees to or from other employers. Our workforce is comprised of our own employees who are properly trained and supervised for all landscaping operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Green Horizons Landscaping does not carry Workers' Compensation because tree trimming and removal services are only performed incidentally and are not a core service of the business.",
+      "G8: Do you own or operate any other business?": "No \u2013 Tree trimming and removal services are incidental to our primary landscaping operations and do not represent more than 25% of our business.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Green Horizons Landscaping does not have any additional insurance policies with this company. Our current policy adequately covers our operations, including incidental tree trimming services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Green Horizons Landscaping is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our primary focus remains on providing landscaping and gardening services to residential clients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Green Horizons Landscaping does not rent or loan equipment to others, as tree trimming and removal services must remain incidental to our primary landscaping operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Green Horizons Landscaping has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, ensuring financial stability for ongoing operations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Tree trimming and removal services are only performed incidentally and do not constitute exposure to flammables, explosives, or chemicals that would raise significant risk concerns.",
+      "G14: Any catastrophe exposure?": "No \u2013 Tree trimming and removal are only performed incidentally as part of our landscaping services and do not form a core aspect of our operations. This aligns with our commitment to maintaining a safe work environment while minimizing risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Green Horizons Landscaping has not had any past losses or claims relating to sexual abuse, molestation allegations, discrimination, or negligent hiring. The company maintains a commitment to ethical practices and risk management in all its operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations. Green Horizons Landscaping remains committed to compliance and safety standards in all operations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Green Horizons Landscaping transformed my backyard into a beautiful oasis! Their attention to detail is unmatched.",
+          "I appreciate the professionalism and expertise of the team. They really know how to bring a garden to life!",
+          "Great service and friendly staff! My lawn has never looked better since I started using their services.",
+          "They did a fantastic job with my flower beds. I highly recommend them for any landscaping needs!",
+          "The team was punctual and worked efficiently. I\u2019m very happy with the results and will definitely hire them again."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Tree trimming and removal must be incidental to primary landscaping services."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Garden & Landscaping Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Tree trimming and removal must be incidental to primary landscaping services."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Tree trimming and removal must be incidental to primary landscaping services.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business performs 'regular tree trimming and removal' as part of their landscaping services, which violates the guideline that such activities must be incidental."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Garden & Landscaping Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Tree trimming and removal must be incidental to primary landscaping services."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific rule: Tree trimming and removal must be incidental to primary landscaping services. This is a clear violation as the description indicates that regular tree trimming and removal are part of the services provided, which contradicts the requirement.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Tree trimming and removal must be incidental to primary landscaping services.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business performs 'regular tree trimming and removal' as part of their landscaping services, which violates the guideline that such activities must be incidental."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

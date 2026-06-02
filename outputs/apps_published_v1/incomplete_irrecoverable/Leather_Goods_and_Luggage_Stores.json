@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Leather Goods & Luggage Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Heritage Leather Co.",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Leather Avenue, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, 555-123-4567",
+      "GL CODE": "Retail Leather Goods Store",
+      "SIC": "part9389",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Heritage Leather Co. specializes in the retail of high-quality leather goods and luggage, offering a curated selection that includes handbags, backpacks, wallets, and travel accessories. Our operations focus on delivering exceptional craftsmanship and outstanding customer service in a welcoming store environment located in Springfield, IL. We prioritize effective inventory management and employ a comprehensive program to safeguard our merchandise. In addition to our physical retail presence, we have developed an online sales platform to cater to our customers\u2019 preferences for convenient shopping options, supplemented by strong cybersecurity measures to protect customer data. We strive for compliance with all relevant product safety regulations and maintain a comprehensive training program for our employees to uphold best practices in business operations. This multifaceted approach allows us to thrive in the competitive leather goods market while ensuring a secure and enjoyable shopping experience for our customers.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$15,000.00",
+      "POLICY #": "HL2023-1001",
+      "OTHER BUSINESSES OWNED": "Heritage Leather Repair Services",
+      "PREVIOUS CARRIER": "Heritage Insurance Group",
+      "POLICY NUMBER": "HL2023-1002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Losses from theft at the retail location on 02/15/2023, amounting to $3,000.00, currently under investigation. Additionally, a water damage incident caused by a burst pipe on 07/10/2023, resulting in $2,000.00 in repairs, fully resolved.",
+      "Combined Single Limit": "$1,000,000/$1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000/$2,500",
+      "Medical Expense (per person)": "$5,000/$500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000/$1,000",
+      "Liquor Liability": "$1,000,000/$1,000",
+      "Hired Auto": "$1,000,000/$1,000",
+      "Non-owned Auto": "$1,000,000/$1,000",
+      "Computers": "$20,000/$1,000",
+      "ordinence and law": "$1,000,000/$1,000",
+      "Flood": "$500,000/$2,500",
+      "accounts recievable": "$100,000/$1,000",
+      "employee dishonesty": "$250,000/$1,000",
+      "money and securities": "$100,000/$1,000",
+      "ADDRESS": "456 Artisan Way, Springfield, IL 62701-1234",
+      "Year Built": "1995",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Saturday 10:00 AM to 7:00 PM, Sunday 12:00 PM to 5:00 PM",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Heavy-duty safe, Class B, UL listed, one-hour fire rating",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm system with live monitoring, security cameras with remote access, and regular security audits conducted quarterly.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$200,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Heritage Leather Co. does not involve storing, treating, discharging, applying, disposing, or transporting hazardous material in its operations. Their focus is solely on retailing leather goods and luggage.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Heritage Leather Co. does not sponsor any athletic teams as part of its business operations. The focus remains on retailing high-quality leather goods and luggage.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the operations manager to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any other arson-related crime associated with Heritage Leather Co.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Heritage Leather Co. has not had any policies or coverages declined, canceled, or non-renewed in the prior three years. The company's insurance history remains clear and compliant with policy requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Heritage Leather Co. does not lease employees to or from other employers, as the business maintains a stable workforce of its own.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Heritage Leather Co. carries Workers' Compensation insurance, ensuring compliance with legal requirements and providing coverage for employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Heritage Leather Co. owns and operates another business, Heritage Leather Repair Services, which provides repair and maintenance services for leather goods. This allows us to offer a comprehensive range of services to our customers beyond retail sales.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Heritage Leather Co. does not currently hold any other insurance policies with this company. The only policy mentioned is the one detailed for their operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Heritage Leather Co. is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business focuses solely on the retail sale of leather goods and luggage.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Heritage Leather Co. does not rent or loan equipment to others as part of its business operations, focusing solely on the retail of leather goods and luggage.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Heritage Leather Co. has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial standing during this period.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Heritage Leather Co. does not have any exposure to flammables, explosives, or chemicals as their operations focus solely on the retail of leather goods and luggage, ensuring a low-risk environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Heritage Leather Co. does not have any catastrophe exposure related to its operations, focusing primarily on retailing leather goods and luggage without involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Heritage Leather Co. has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong focus on compliance and employee training to prevent such issues.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Heritage Leather Co. has no uncorrected fire code violations, ensuring compliance with all relevant safety regulations. The company prioritizes fire safety and conducts regular inspections to maintain a secure environment for its customers and employees.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Heritage Leather Co. has an amazing selection of high-quality leather goods! The staff is incredibly helpful and knowledgeable.",
+          "I recently purchased a beautiful handbag here, and I couldn't be happier with my choice. The craftsmanship is top-notch!",
+          "Great experience shopping at Heritage Leather! The store is well-organized, and I found exactly what I was looking for.",
+          "I love the variety of luggage options available. The prices are reasonable for the quality you get!",
+          "The customer service at Heritage Leather Co. is outstanding. They really go above and beyond to ensure you find the perfect item."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Businesses with poor or inadequate security measures are restricted."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Leather Goods & Luggage Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Businesses with poor or inadequate security measures are restricted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Businesses with poor or inadequate security measures are restricted. (visible in application text)",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text mentions a theft loss of $3,000 under investigation, indicating potential inadequate security measures."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Leather Goods & Luggage Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Businesses with poor or inadequate security measures are restricted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to poor or inadequate security measures as per SPEC-1. The business lacks secure inventory storage and has a history of theft claims, which increases the risk of theft and vandalism, leading to higher claims.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Businesses with poor or inadequate security measures are restricted. (visible in application text)",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text mentions a theft loss of $3,000 under investigation, indicating potential inadequate security measures."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

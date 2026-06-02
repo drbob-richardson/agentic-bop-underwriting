@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Cemeteries & Funeral Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Evergreen Memorial Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Serenity Way, Suite 100  \nSpringfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Officer, Evergreen Memorial Services, (555) 123-4567",
+      "GL CODE": "GQ-12",
+      "SIC": "7261",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Evergreen Memorial Services, we provide comprehensive funeral and cemetery services that are tailored to honor the lives of loved ones. Our operations include traditional and contemporary funeral services, cremation options, memorial ceremonies, and burial arrangements in well-maintained cemetery grounds. We prioritize compassionate care and professional support throughout the planning process, assisting families with everything from paperwork to personalized memorialization. Our team consists of licensed funeral directors and experienced staff who are committed to maintaining the highest standards of service and compliance with all local and state regulations. Furthermore, we ensure that all necessary licenses are maintained and that our facilities are compliant with health and safety codes to provide peace of mind to our clients. All third-party vendors involved in our services are carefully selected, and we have established contracts to clearly outline responsibilities and liability. Through our commitment to excellence, we strive to create meaningful tributes that celebrate life while respecting the unique wishes of each family we serve.",
+      "DATE BUSINESS STARTED": "05/15/2010",
+      "EFFECTIVE DATE": "08/01/2023",
+      "EXPIRATION DATE": "08/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "EVR-2023-001",
+      "OTHER BUSINESSES OWNED": "Evergreen Floral Services, LLC - A full-service floral shop specializing in arrangements for memorials and funerals, ensuring a respectful and compassionate approach to celebrating life events.",
+      "PREVIOUS CARRIER": "Cemetery Insurance Solutions Inc.",
+      "POLICY NUMBER": "EVR-2022-ABC123",
+      "TOTAL LOSSES": "$7,500",
+      "DESCRIPTION OF LOSSES": "On 06/15/2022, a water damage incident occurred due to an unexpected pipe burst in our storage area, resulting in $5,000 in losses. The situation was promptly mitigated, and repairs were completed. Status: Resolved. On 04/10/2023, we faced a minor liability claim totaling $2,500 due to a trip and fall incident in our facility, which has been settled amicably. Status: Settled.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $5,000",
+      "Computers": "\"$25,000 / $1,000\"",
+      "ordinence and law": "$500,000 / $5,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "1234 Serenity Way, Springfield, IL 62704-5678",
+      "Year Built": "1985",
+      "Square Feet": "7500",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 5:00 PM; Saturday: 9:00 AM - 3:00 PM; Closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$1,200,000.00",
+      "TOTAL PAYROLL": "$450,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard Concrete Grave Vault, Class A, Grade 1",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "\"Security fencing installed around the cemetery perimeter, monitored by on-site watchpersons during operating hours.\"",
+      "Building limit": "$450000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Evergreen Memorial Services does not engage in operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. Our focus remains on providing funeral and cemetery services in compliance with all local and state regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Evergreen Memorial Services does not sponsor athletic teams as our primary focus is on providing funeral and cemetery services. We dedicate our resources to honoring the lives of loved ones and ensuring compliance with industry standards.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Our compliance officer, John Smith, is responsible for checking and verifying these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Evergreen Memorial Services has no record of any applicant being indicted or convicted of fraud, bribery, arson, or any related crime in connection with this or any other property. Our commitment to ethical practices ensures compliance with all legal and industry standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Evergreen Memorial Services has not experienced any policy or coverage being declined, canceled, or non-renewed during the prior three years. All previous policies have been maintained without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Evergreen Memorial Services does not lease employees to or from other employers. Our staffing is entirely managed internally to ensure quality and compliance with industry standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Evergreen Memorial Services carries Workers' Compensation insurance as required for our employees, ensuring compliance with local regulations and protection for our workforce.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Evergreen Memorial Services operates another business, Evergreen Floral Services, LLC, which specializes in floral arrangements for memorials and funerals. This allows us to provide cohesive support during life events.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Evergreen Memorial Services does not have any other insurance policies with this company at this time. All current coverage is encapsulated under the existing policy number EVR-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Evergreen Memorial Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are focused solely on providing funeral and cemetery services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Evergreen Memorial Services does not rent or loan equipment to others, as our focus is on providing funeral and cemetery services directly to families. We prioritize maintaining a controlled environment for our operations to ensure quality and compliance.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Evergreen Memorial Services has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, demonstrating a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Evergreen Memorial Services does not have any exposure to flammables, explosives, or chemicals in our operations. We adhere to strict safety and compliance standards to ensure a safe environment for our services.",
+      "G14: Any catastrophe exposure?": "No \u2013 Evergreen Memorial Services does not have any catastrophe exposure, as we operate in a well-maintained facility and implement robust risk management practices to mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Evergreen Memorial Services has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strict hiring practices and compliance with all industry standards to ensure a safe and respectful environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Evergreen Memorial Services does not have any uncorrected fire code violations. Our facilities are regularly inspected for compliance, and we prioritize maintaining safety standards.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 7500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The staff at Evergreen Memorial Services were incredibly compassionate and supportive during a difficult time. They helped us every step of the way.",
+          "I appreciated the professionalism and attention to detail shown by the team. The memorial service was beautifully organized.",
+          "Evergreen Memorial Services provided a peaceful and respectful environment for our loved one's farewell. Highly recommend their services.",
+          "The facilities are well-maintained and serene, making it a comforting place to honor those we've lost. Thank you for your care.",
+          "From the initial consultation to the final arrangements, the team was attentive and understanding. They truly made a difference in our experience."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Cemeteries & Funeral Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Cemeteries & Funeral Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

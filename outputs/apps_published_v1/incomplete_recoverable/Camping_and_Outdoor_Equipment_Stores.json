@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Camping & Outdoor Equipment Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Outdoor Adventure Emporium",
+      "FEIN OR SOC SEC #": "76-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Adventure Lane, Suite 100, Outdoor City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Head of Operations, Outdoor Adventure Emporium, Phone: (555) 123-4567, Email: john.smith@outdooradventureemp.com",
+      "GL CODE": "Retail Outdoor Equipment Store",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Outdoor Adventure Emporium, our core operations revolve around providing a diverse range of high-quality camping and outdoor recreational equipment. We specialize in retailing new gear for various activities, including camping, hiking, and outdoor sports. Our knowledgeable staff is trained to offer expert advice and product recommendations, ensuring that customers make informed choices for their adventures. We prioritize customer safety by conducting regular in-store instructional activities that promote the safe and responsible use of equipment. Our inventory management system is robust, with documented vendor relationships to guarantee the authenticity and compliance of our products. We operate under strict adherence to safety standards and consumer protection laws, ensuring a secure shopping experience for our clientele. Our facilities are equipped with enhanced security measures, such as monitored burglar alarms, to mitigate the risk of theft or burglary. Overall, we are committed to fostering a vibrant outdoor community while ensuring a high level of service and product safety.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "OA-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Outdoor Insurance Services",
+      "POLICY NUMBER": "OA-2022-045",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On 08/15/2023, a break-in occurred at our store resulting in the theft of outdoor gear and merchandise valued at $1,200. The incident was reported to law enforcement, and we have since enhanced our security measures to mitigate future risks. The status of this loss is ongoing as we work through the claims process with our insurance provider.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$5,000",
+      "Medical Expense (per person)": "$5,000/$0",
+      "Damge to Rental Premises": "$100,000/$1,000",
+      "Professional Liability": "$1,000,000/$2,500",
+      "Liquor Liability": "$1,000,000/$2,500",
+      "Hired Auto": "$300,000/$1,000",
+      "Non-owned Auto": "$500,000/$1,000",
+      "Computers": "$50,000/$1,000",
+      "ordinence and law": "$1,000,000/$5,000",
+      "Flood": "$500,000/$1,000",
+      "accounts recievable": "$100,000/$1,000",
+      "employee dishonesty": "$100,000/$1,000",
+      "money and securities": "\"$100,000/$1,000\"",
+      "ADDRESS": "456 Wilderness Drive, Outdoor City, CA 90210-5678",
+      "Year Built": "2010",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "Monday to Saturday: 9:00 AM - 8:00 PM, Sunday: 10:00 AM - 6:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade II, UL Listed Safe.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Monitored security fencing and on-site watchpersons during operational hours.",
+      "Building limit": "$3000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We primarily focus on retailing camping and outdoor recreational equipment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as part of our business operations. Our focus is primarily on retailing outdoor equipment and promoting safe outdoor activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our management team to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or any arson-related crimes for any applicant associated with Outdoor Adventure Emporium.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years at Outdoor Adventure Emporium.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers as part of our operations at Outdoor Adventure Emporium. Our staffing is managed internally to maintain consistency and quality in our customer service.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers Compensation insurance as part of our commitment to employee safety and compliance with statutory requirements. Our policy is actively maintained to ensure coverage for our team.",
+      "G8: Do you own or operate any other business?": "No \u2013 We do not own or operate any other business; our sole focus is on Outdoor Adventure Emporium.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We currently do not have any other insurance policies with this company. Our only listed policy is OA-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Our business exclusively focuses on retailing camping and outdoor recreational equipment and is not involved in manufacturing, mixing, relabeling, or repackaging products.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Our operations do not include renting or loaning equipment to others, as we focus solely on retailing outdoor equipment. This approach helps us manage liability and ensure customer safety.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, indicating a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Our operations do not involve exposure to flammables, explosives, or chemicals as we primarily focus on retailing camping and outdoor recreational equipment. We ensure all products comply with safety standards and regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any catastrophe exposure related to our business operations at Outdoor Adventure Emporium. Our focus is on retailing outdoor recreational equipment without association to high-risk activities or environmental hazards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at Outdoor Adventure Emporium. We maintain strict hiring practices to ensure a safe and inclusive environment for all.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations reported for Outdoor Adventure Emporium. All necessary fire safety measures are in place and compliant with local regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I was thrilled to find this camping store not only had a great selection of outdoor gear, but they also offered exceptional gunsmithing services! The staff was super helpful in tuning up my rifle for the next hunting trip, making it a one-stop shop for all my outdoor needs.",
+          "I love this store! They have everything from tents to hiking boots, and the prices are reasonable.",
+          "Fantastic customer service! The employees really know their stuff and helped me pick out the perfect backpack.",
+          "A hidden gem for outdoor enthusiasts! I found some unique gear that I haven't seen anywhere else.",
+          "The in-store workshops are a great touch! I learned a lot about camping safety and gear maintenance."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Gun repair and gunsmithing services are strictly prohibited."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Gun repair and gunsmithing services are strictly prohibited."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Camping & Outdoor Equipment Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Gun repair and gunsmithing services are strictly prohibited."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Gun repair and gunsmithing services are strictly prohibited. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The Google review explicitly mentions that the store offers gunsmithing services, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Camping & Outdoor Equipment Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Gun repair and gunsmithing services are strictly prohibited."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: Gun repair and gunsmithing services are strictly prohibited.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Gun repair and gunsmithing services are strictly prohibited. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The Google review explicitly mentions that the store offers gunsmithing services, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

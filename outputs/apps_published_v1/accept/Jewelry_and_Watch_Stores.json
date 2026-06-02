@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Jewelry & Watch Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Elegant Timepieces & Jewelry",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Jewelry Lane, Suite 100, Los Angeles, CA 90015-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, Elegant Timepieces & Jewelry, 555-123-4567, john.smith@eleganttimepieces.com",
+      "GL CODE": "GL-0918",
+      "SIC": "5944",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Elegant Timepieces & Jewelry specializes in the retail of fine jewelry and luxury watches, providing a curated selection of ethically sourced gemstones and precious metals. Our operations focus on delivering exceptional customer service in a secure retail environment, conducting minor repairs such as ring resizing and battery replacements on the premises. We have implemented robust inventory management and loss prevention protocols to ensure the security of our high-value items. Our store is equipped with a 24/7 monitored alarm and surveillance system, providing enhanced protection against theft. With a commitment to maintaining a safe environment, we do not engage in any on-site manufacturing processes or food preparation, thereby reducing potential hazards. We prioritize the trust of our customers by conducting thorough background checks for all employees who handle inventory, ensuring a secure shopping experience.\n\nCompliance Confirmation: The business does not engage in on-site cooking or food preparation, and confirms that our annual gross sales do not exceed $1,000,000. Additionally, we do not operate as a pawn shop or primary consignment business, nor do we conduct any on-site manufacturing that involves hazardous chemicals or casting.",
+      "DATE BUSINESS STARTED": "06/15/2020",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$7,500.00",
+      "POLICY #": "ETJ-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "ETJ-2022-005",
+      "TOTAL LOSSES": "$1,000",
+      "DESCRIPTION OF LOSSES": "On 03/15/2023, a theft incident occurred at our jewelry store where two luxury watches valued at $2,500 were stolen. The case has been reported to the police and is currently under investigation.",
+      "Combined Single Limit": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $2,500",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "4567 Gem Avenue, Los Angeles, CA 90015-6789",
+      "Year Built": "1995",
+      "Square Feet": "800.0",
+      "HOURS OF OPERATION": "10:00 AM - 6:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Secured high-grade safe, Class B, UL listed for fire protection and theft resistance.",
+      "MONEY ON PREMISES": "$10,000",
+      "OTHER PROTECTION": "24/7 monitored alarm system with additional motion sensors and on-site security personnel during business hours.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Elegant Timepieces & Jewelry does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The business focuses solely on retail activities and minor jewelry repairs, ensuring a safe environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Elegant Timepieces & Jewelry does not sponsor any athletic teams as our focus is solely on retail jewelry and watch sales. We prioritize our resources on enhancing customer service and security within our store operations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The responsibility for checking these certificates falls to our management team.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Elegant Timepieces & Jewelry has not had any applicant indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business is committed to maintaining a trustworthy and secure environment.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Elegant Timepieces & Jewelry has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. All insurance maintained has been in good standing.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Elegant Timepieces & Jewelry does not lease employees to or from other employers. All employees are directly hired and managed by our business.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Elegant Timepieces & Jewelry carries Workers Compensation insurance, ensuring coverage for employees as mandated by legal requirements.",
+      "G8: Do you own or operate any other business?": "No \u2013 Elegant Timepieces & Jewelry does not own or operate any other business. Our focus is solely on our retail operations specializing in fine jewelry and luxury watches.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Elegant Timepieces & Jewelry does not have any other insurance policies with this company at this time. We currently maintain only our primary policy for comprehensive coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Elegant Timepieces & Jewelry is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is exclusively on retail sales and minor jewelry repairs, ensuring a safe and compliant operating environment.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Elegant Timepieces & Jewelry does not rent or loan equipment to others. Our operations focus solely on retail activities and minor jewelry repairs without engaging in equipment rental or loans.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Elegant Timepieces & Jewelry has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial standing since its inception.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Elegant Timepieces & Jewelry does not have any exposure to flammables, explosives, or chemicals. Our operations are limited to retail activities and minor jewelry repairs, ensuring a safe environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Elegant Timepieces & Jewelry does not have any catastrophe exposure, as our operations are focused solely on retail activities without any involvement in high-risk environments or services. We maintain a secure environment with appropriate safety measures.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Elegant Timepieces & Jewelry has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business is committed to ethical practices and maintaining a secure environment for both employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Elegant Timepieces & Jewelry has no uncorrected fire code violations. The business maintains compliance with fire safety regulations to ensure a safe retail environment.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had a wonderful experience at Elegant Timepieces & Jewelry! The staff was incredibly helpful and knowledgeable about their products.",
+          "The selection of watches is impressive, and I found the perfect gift for my husband. Highly recommend this store!",
+          "I appreciate their commitment to ethical sourcing. The jewelry is not only beautiful but also responsibly made.",
+          "The customer service here is top-notch! They took the time to help me find exactly what I was looking for.",
+          "I love my new ring! The quality is outstanding, and the staff made the purchasing process so easy."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No on-site cooking or food preparation allowed.",
+        "Annual gross sales must not exceed $1,000,000.",
+        "No pawn shop or primary consignment operations.",
+        "No on-site manufacturing involving hazardous chemicals or casting."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Jewelry & Watch Stores",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Jewelry & Watch Stores",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Elegant Timepieces & Jewelry is valid and meets all necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

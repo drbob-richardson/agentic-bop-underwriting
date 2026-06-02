@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Clubs & Recreation Facilities",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Active Community Recreation Center",
+      "FEIN OR SOC SEC #": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "123 Recreation Lane, Suite 200, Springfield, IL 62701-2345",
+      "CONTACT FOR INSPECTION": "John Smith, Facilities Manager, Active Community Recreation Center, 123 Recreation Lane, Suite 200, Springfield, IL 62701-2345, (555) 123-4567, john.smith@activecommunityrec.org",
+      "GL CODE": "Clubs must own or lease the buildings or premises used for their operations.",
+      "SIC": "7997",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Active Community Recreation Center, we provide a variety of recreational services and facilities, including fitness classes, swimming pools, and organized sports activities. Our center is designed to foster community engagement and promote healthy lifestyles. We are committed to maintaining high safety standards with documented maintenance programs and employee training protocols, which are essential for ensuring safe operations and minimizing risks. Furthermore, we ensure our facilities are secure with comprehensive security measures in place. As part of our operations, we also evaluate all sponsored activities and events for potential liability exposures to prevent unanticipated risks. While we do provide some food and beverage options, we adhere strictly to all local health and safety regulations to mitigate liability. Importantly, we own our facility, which allows us to maintain control over the environment and ensure a stable operation for our community.\n\nOur club operates by renting community spaces and facilities to host various recreational activities and events for our members.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "03/01/2010",
+      "EXPIRATION DATE": "03/01/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "",
+      "POLICY #": "POLICY-REC-20231023",
+      "OTHER BUSINESSES OWNED": "Clubs must either own or lease the premises for their operations, and no other businesses are owned or operated.",
+      "PREVIOUS CARRIER": "Clubs must own or lease the buildings or premises used for their operations.",
+      "POLICY NUMBER": "POLICY-REC-20231023",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Clubs must own or lease the buildings or premises used for their operations, and no losses have occurred in the past.",
+      "Combined Single Limit": "{\"Combined Single Limit\":\"$1,000,000/$2,000,000\",\"deductible\":\"$1,000\"}",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000/$2,000,000 with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000/$0",
+      "Damge to Rental Premises": "{\"limit\":\"$100,000\",\"deductible\":\"$1,000\"}",
+      "Professional Liability": "{\"limit\":\"$1,000,000\",\"deductible\":\"$1,000\"}",
+      "Liquor Liability": "{\"limit\":\"$1,000,000\",\"deductible\":\"$1,000\"}",
+      "Hired Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "Non-owned Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "Computers": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "ordinence and law": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "Flood": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "accounts recievable": "{\"limit\":\"$500,000\",\"deductible\":\"$1,000\"}",
+      "employee dishonesty": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "money and securities": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "ADDRESS": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "Year Built": "2000",
+      "Square Feet": "-1.0",
+      "HOURS OF OPERATION": "\"Mon-Fri 8:00 AM - 10:00 PM, Sat-Sun 9:00 AM - 8:00 PM\"",
+      "Distance to hydrant": "-1 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "NO. OF EMPLOYEES": "30",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "OTHER PROTECTION": "Facilities must implement security measures such as fencing and watchpersons to ensure safety and deter unauthorized access.",
+      "Building limit": "$-1",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Clubs must own or lease the buildings or premises used for their operations.",
+      "personal property limit": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Clubs must own or lease the buildings or premises used for their operations.\"}",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Active Community Recreation Center does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Instead, it focuses on recreational services and adheres to strict safety standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Active Community Recreation Center does not sponsor athletic teams; instead, it focuses on providing various recreational services for community engagement.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this ensures proper risk transfer and compliance. Certificates are typically checked by the facility management or designated personnel responsible for contractor oversight.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The Active Community Recreation Center has not been indicted or convicted of any degree of fraud, bribery, arson, or any arson-related crime. We prioritize maintaining a responsible and trustworthy operation within the community.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Active Community Recreation Center has not had any policies or coverage declined, canceled, or non-renewed during the previous three years. We maintain compliance with all regulatory and operational standards to ensure stable insurance coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Active Community Recreation Center does not lease employees to or from other employers, as we maintain full control over staffing and operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The Active Community Recreation Center does not carry Workers' Compensation as clubs must own or lease the buildings or premises used for their operations.",
+      "G8: Do you own or operate any other business?": "No \u2013 The Active Community Recreation Center does not own or operate any other business. We solely focus on providing recreational services and facilities for the community.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Active Community Recreation Center does not have any other insurance policies with this company, as we solely focus on providing recreational services within our owned facility.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Active Community Recreation Center is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our focus is solely on providing recreational services and facilities to the community.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Active Community Recreation Center does not rent or loan equipment to others, as it focuses on providing recreational services within its owned facility. This aligns with the requirement that clubs must own or lease the premises for their operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The Active Community Recreation Center has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. This demonstrates our strong financial stability and responsible management practices.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Active Community Recreation Center does not have any exposure to flammables, explosives, or chemicals, focusing instead on providing recreational services in a safe environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Active Community Recreation Center does not have exposure to any catastrophes as it maintains strict operational controls and safety protocols, focusing on community recreational services within its owned facility.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Active Community Recreation Center has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strict operational controls and a commitment to safety and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Active Community Recreation Center does not have any uncorrected fire code violations, ensuring compliance with safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Active Community Recreation Center is a fantastic place for families! The facilities are well-maintained and the staff is friendly.",
+          "I love the variety of fitness classes offered here. It's a great way to stay active and meet new people in the community.",
+          "The swimming pool is always clean and the perfect temperature. My kids have a blast every time we visit!",
+          "I appreciate the organized sports activities for kids. It's a great way for them to learn teamwork and have fun.",
+          "The center has a welcoming atmosphere and plenty of space for everyone. Highly recommend for anyone looking to get involved in local recreation!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Clubs must own or lease the buildings or premises used for their operations."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Clubs & Recreation Facilities",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Clubs must own or lease the buildings or premises used for their operations."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Clubs must own or lease the buildings or premises used for their operations.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the club operates by renting community spaces and facilities, which violates the guideline that clubs must own or lease the buildings or premises used for their operations."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Clubs & Recreation Facilities",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Clubs must own or lease the buildings or premises used for their operations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific rule: Clubs must own or lease the buildings or premises used for their operations. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Clubs must own or lease the buildings or premises used for their operations.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the club operates by renting community spaces and facilities, which violates the guideline that clubs must own or lease the buildings or premises used for their operations."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

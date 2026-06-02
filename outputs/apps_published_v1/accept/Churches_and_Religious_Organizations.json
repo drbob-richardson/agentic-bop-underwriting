@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Churches & Religious Organizations",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Grace Community Church",
+      "FEIN OR SOC SEC #": "47-1234567",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Faith Lane, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Facility Manager, 555-123-4567, john.smith@gracecommunity.org",
+      "GL CODE": "GLO-5710",
+      "SIC": "8131",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Grace Community Church serves as a welcoming place of worship and community engagement, operating from a well-maintained facility that promotes a safe environment for all attendees. Our core operations include various church services, community outreach programs, and educational opportunities for all age groups. We have instituted robust child protection policies and conduct background checks for all staff and volunteers involved with children and youth programs. Our church features a commercial-grade kitchen that is subject to regular safety inspections, ensuring safe food service during community events. We prioritize safety through established emergency and evacuation plans for large gatherings. Through these initiatives, we aim to enhance our community's spiritual growth while minimizing risks associated with our operations.\n\nCompliance Confirmation: The business does not engage in clay or shale digging and confirms that no alcohol is served onsite without proper licensing and supervision. Additionally, we ensure that all staff and volunteers working with minors have completed necessary background checks, and we maintain updated and inspected electrical and heating systems within our facilities.",
+      "DATE BUSINESS STARTED": "01/01/2000",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$7,500.00",
+      "POLICY #": "GCC-2024-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Faithful Insurance Partners",
+      "POLICY NUMBER": "GCC-2023-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Losses reported on September 15, 2023, due to water damage from a burst pipe in the community center, amounting to $2,000. Currently in the repair process, with work expected to be completed by October 30, 2023.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "5678 Harmony Way, Springfield, IL 62701-1234",
+      "Year Built": "2005",
+      "Square Feet": "12000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 5:00 PM; Saturday: 10:00 AM - 2:00 PM; Sunday: 9:00 AM - 12:00 PM",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "95",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial-grade safe, UL Class 350, Fire Resistant, NFPA approved.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Security fencing around the perimeter, with night watch personnel on weekends for added safety during community events.",
+      "Building limit": "$720000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Grace Community Church does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The activities focus on community services and worship, maintaining a safe environment for all attendees.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Grace Community Church does not sponsor any athletic teams as part of its operations or community outreach programs. The focus is primarily on worship services and community engagement activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The facility manager, John Smith, checks the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Grace Community Church has not had any applicants indicted or convicted of fraud, bribery, arson, or any other arson-related crimes in connection with this or any other property. We maintain a commitment to ethical operations and safety within our community.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Grace Community Church has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All previous coverages have been maintained without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Grace Community Church does not lease employees to or from other employers; all employees are directly hired and managed by the church.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Grace Community Church carries Workers Compensation insurance, ensuring coverage for employees in accordance with legal requirements. This policy is active and in compliance with applicable regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Grace Community Church does not own or operate any other business. Our focus is solely on providing a welcoming environment for worship and community engagement.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Grace Community Church currently has no other insurance policies with this company. The existing policy covers all necessary aspects of our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Grace Community Church is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus on community services and worship activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Grace Community Church does not rent or loan equipment to others, as our operations primarily focus on providing services and support to our community.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Grace Community Church has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The church maintains a stable financial position and operates within its means.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Grace Community Church does not have any exposure to flammables, explosives, or chemicals as our operations focus on safe community services and worship activities. We prioritize maintaining a safe environment for all attendees.",
+      "G14: Any catastrophe exposure?": "No \u2013 Grace Community Church does not have any catastrophe exposure as our operations focus on providing community services and worship activities in a safe environment, and we have no history of significant catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Grace Community Church has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The church maintains robust child protection policies and conducts thorough background checks for all staff and volunteers involved with children and youth programs.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Grace Community Church currently does not have any uncorrected fire code violations. The facility is well-maintained and regularly inspected to ensure compliance with fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "Grace Community Church is a wonderful place to worship. The community is welcoming and the services are uplifting!",
+          "I love the outreach programs they offer. It's great to see a church so involved in helping the community.",
+          "The staff at Grace Community Church are incredibly friendly and supportive. They truly care about their congregation.",
+          "The facilities are well-maintained and the atmosphere is peaceful. A perfect place for reflection and prayer.",
+          "I appreciate the emphasis on child safety and the background checks for volunteers. It gives me peace of mind."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Decline coverage for any organization engaging in clay or shale digging.",
+        "Do not accept risks where alcohol is served without proper licensing and supervision.",
+        "Require evidence of background checks for all staff and volunteers involved with minors.",
+        "Do not write coverage for facilities with outdated, uninspected electrical or heating systems."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Churches & Religious Organizations",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Churches & Religious Organizations",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Grace Community Church is valid and meets the underwriting criteria for Churches & Religious Organizations.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

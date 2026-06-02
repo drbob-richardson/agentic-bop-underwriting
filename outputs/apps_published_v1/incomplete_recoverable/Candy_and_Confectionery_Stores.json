@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Candy & Confectionery Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Candyland Delights",
+      "FEIN OR SOC SEC #": "23-4567890",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Candy Lane, Suite 100, Sweet Town, ST 56789-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Officer, Candyland Delights, (555) 123-4567, john.smith@candylanddelights.com",
+      "GL CODE": "8121",
+      "SIC": "5421",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Candyland Delights, our core operations revolve around providing a wide selection of high-quality candies and confections in a vibrant retail environment. We specialize in sourcing products exclusively from licensed and inspected manufacturers, ensuring all items are safe and compliant with local health regulations. Our store features bulk self-serve bins, and we implement strict sanitation controls to uphold hygiene standards and prevent contamination. We also prioritize clear allergen labeling on all products to facilitate informed customer choices. Our retail space is designed to enhance the shopping experience while maintaining a focus on candy and confectionery, with non-candy items representing a small portion of our total sales. We operate our business with strong inventory management and employee training to ensure exceptional customer service and adherence to food safety protocols. Our shop hours are convenient for customers, while security measures are in place to safeguard our merchandise and provide a safe shopping environment.",
+      "DATE BUSINESS STARTED": "04/15/2022",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "CNDY-2023-001",
+      "OTHER BUSINESSES OWNED": "Candyland Sweet Treats, LLC - A seasonal pop-up candy store specializing in locally sourced confections, operating from April through October at various community events and fairs.",
+      "PREVIOUS CARRIER": "Sweet Insurance Co.",
+      "POLICY NUMBER": "CANDY-2023-002",
+      "TOTAL LOSSES": "$1,250",
+      "DESCRIPTION OF LOSSES": "On March 15, 2023, we experienced a loss due to water damage caused by a burst plumbing pipe in the ceiling, leading to damages estimated at $1,000. The damages were fully repaired, and the status is resolved. Additionally, we incurred $250 in lost inventory due to contamination from the leak, which has been addressed and reported to our local health department as per regulatory requirements.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "456 Sweet Street, Suite 200, Sugarville, ST 67890-4567",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "10:00 AM - 8:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$200,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard Steel Safe, Grade B, UL Listed",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Installation of motion-activated security cameras and regular security patrols to enhance safety and theft prevention.",
+      "Building limit": "$900000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Candyland Delights does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in their operations. They focus on retailing high-quality candies and confections sourced from licensed manufacturers.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Candyland Delights does not sponsor any athletic teams as part of its operations. Our focus is solely on retailing candies and confections.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The compliance officer, John Smith, is responsible for checking the certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any crime related to fraud, bribery, or arson in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Candyland Delights has not had any policies or coverages declined, canceled, or non-renewed in the past three years. They have maintained continuous coverage with Sweet Insurance Co. without any issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Candyland Delights does not lease employees to or from other employers, focusing solely on their in-house staff for operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Candyland Delights carries Workers\u2019 Compensation insurance to ensure compliance with statutory requirements and protect both the business and its employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Candyland Delights also owns and operates Candyland Sweet Treats, LLC, a seasonal pop-up candy store that specializes in locally sourced confections from April through October at various community events and fairs.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Candyland Delights does not have any other insurance policies with this company at this time. The only active policy listed is for their primary operations as a candy retail store.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Candyland Delights is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retailing confections sourced from licensed manufacturers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Candyland Delights does not rent or loan equipment to others as part of its operations. The business focuses on retailing candies and confections without engaging in equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Candyland Delights has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a stable financial standing and has successfully operated since its inception in April 2022.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Candyland Delights does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on retailing confections, sourced from licensed manufacturers, without involving hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Candyland Delights does not have any catastrophe exposure as their operations focus solely on retailing candies and confections without engagement in high-risk activities. They have implemented safety measures and comply with all local regulations to mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Candyland Delights has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The operations prioritize compliance and maintain a safe environment for both employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Candyland Delights does not have any uncorrected fire code violations, ensuring compliance with all fire safety regulations and maintaining a safe environment for customers and employees.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1250,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "This candy shop is amazing! I loved trying their fresh, warm, deep-fried treats right in front of me\u2014it added such a fun twist to the usual candy selection!",
+          "I love the bulk self-serve bins! It's so much fun to mix and match my favorite treats. Highly recommend this place!",
+          "Great selection of high-quality confections! The allergen labeling is a nice touch for those with dietary restrictions.",
+          "The atmosphere is vibrant and inviting. Perfect spot for a quick sugar fix or to find unique gifts for friends.",
+          "I appreciate their commitment to sourcing from licensed manufacturers. It makes me feel good about what I'm buying!"
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No on-site deep frying or high-heat cooking processes exceeding 20% of operations"
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No on-site deep frying or high-heat cooking processes exceeding 20% of operations"
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Candy & Confectionery Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No on-site deep frying or high-heat cooking processes exceeding 20% of operations"
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No on-site deep frying or high-heat cooking processes exceeding 20% of operations (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review mentioning 'fresh, warm, deep-fried treats,' which indicates the business engages in high-heat cooking processes."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Candy & Confectionery Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No on-site deep frying or high-heat cooking processes exceeding 20% of operations"
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No on-site deep frying or high-heat cooking processes exceeding 20% of operations.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No on-site deep frying or high-heat cooking processes exceeding 20% of operations (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review mentioning 'fresh, warm, deep-fried treats,' which indicates the business engages in high-heat cooking processes."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

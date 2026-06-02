@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Camping & Outdoor Equipment Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Outdoor Venture Gear",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Green Mountain Rd, Suite 100, Boulder, CO 80302-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Store Manager, Outdoor Venture Gear, 1234 Green Mountain Rd, Suite 100, Boulder, CO 80302-1234, (555) 123-4567, johndoe@outdoorventuregear.com",
+      "GL CODE": "Retail Outdoor Equipment Store",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Outdoor Venture Gear specializes in the retail of camping and outdoor recreational equipment, focusing on high-quality products that enhance the customer experience in nature. Our operations center on offering a diverse range of items, including tents, sleeping bags, cooking gear, and hiking accessories, all sourced from reputable manufacturers. We prioritize educating our customers through in-store instructional activities and engaging staff training programs that emphasize safety and product knowledge. To mitigate risks, we have implemented strong inventory management systems and maintain documented vendor relationships, ensuring the authenticity and compliance of our products. Our store is equipped with advanced security measures, including monitored burglar alarms, to protect against theft and losses. We adhere strictly to all applicable regulations, including product safety standards, and do not engage in any prohibited activities. This commitment allows us to operate responsibly while providing a safe environment for our customers.",
+      "DATE BUSINESS STARTED": "05/15/2020",
+      "EFFECTIVE DATE": "08/01/2023",
+      "EXPIRATION DATE": "08/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,250.00",
+      "POLICY #": "OVG-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Outdoor Insurance Co.",
+      "POLICY NUMBER": "OVG-2022-005",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "On March 1, 2023, our store experienced a theft incident whereby assorted camping equipment worth $2,000 was taken from the sales floor. The matter was reported to the local authorities, and a police report was filed. The status of recovery is currently under investigation. Additionally, during a store event on July 15, 2023, a customer tripped over a display and incurred minor injuries; the associated medical expenses amounted to $1,500, which has since been settled amicably without legal claims.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$4,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "1234 Green Mountain Rd, Boulder, CO 80302",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "08:00 AM - 08:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$450,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard fire-resistant safe, Class B, UL RSC rated.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Monitored security system with local police notification and regular alarm tests.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Outdoor Venture Gear does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The store focuses exclusively on the retail sale of camping and outdoor recreational equipment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Outdoor Venture Gear does not sponsor athletic teams as part of its business operations. The focus is primarily on retail activities related to camping and outdoor recreational equipment.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our management team to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Outdoor Venture Gear has not had any applicants indicted or convicted of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company maintains a commitment to ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Outdoor Venture Gear has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. The company maintains a strong risk management approach and ensures compliance with all necessary insurance requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Outdoor Venture Gear does not lease employees to or from other employers as part of its operations. The business maintains its own staff without engaging in employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Outdoor Venture Gear carries Workers\u2019 Compensation insurance to comply with legal requirements and ensure the safety and protection of its employees during business operations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Outdoor Venture Gear does not own or operate any other business. The company is solely focused on the retail of camping and outdoor recreational equipment.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Outdoor Venture Gear does not have any other insurance policies with this company at this time. Only the current policy is in effect.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Outdoor Venture Gear does not engage in manufacturing, mixing, relabeling, or repackaging of products. The business solely focuses on the retail sale of outdoor equipment sourced from reputable manufacturers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Outdoor Venture Gear does not rent or loan equipment to others, as we focus exclusively on the retail sale of camping and outdoor recreational equipment. This policy helps us manage liability and ensure a safe environment for our customers.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Outdoor Venture Gear has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business maintains a stable financial position and a strong commitment to responsible management.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Outdoor Venture Gear does not have any exposure to flammables, explosives, or chemicals as its operations focus solely on the retail sale of camping and outdoor recreational equipment without engaging in any hazardous material activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Outdoor Venture Gear does not have any catastrophe exposure as it operates exclusively in the retail sale of camping and outdoor recreational equipment, without involvement in high-risk activities. The focus on safety and compliance mitigates potential catastrophe-related risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Outdoor Venture Gear has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a commitment to ethical hiring practices and a safe environment for all employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Outdoor Venture Gear confirms there are no uncorrected fire code violations. The business is committed to compliance with all applicable fire safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of camping gear! The staff was super helpful in finding exactly what I needed for my trip.",
+          "I love this store! They have everything from tents to cooking supplies, and the prices are reasonable.",
+          "Fantastic customer service! The employees really know their stuff and helped me pick out the perfect hiking gear.",
+          "A hidden gem for outdoor enthusiasts! The quality of their products is top-notch, and I appreciate their focus on safety.",
+          "I had a wonderful shopping experience here. The store is well-organized, and I found some great deals on camping essentials."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Gun repair and gunsmithing services are strictly prohibited."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Camping & Outdoor Equipment Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Gun repair and gunsmithing services are strictly prohibited."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business focuses on retailing camping and outdoor recreational equipment and does not engage in any prohibited activities, while the third-party data does not mention any gun-related services."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Camping & Outdoor Equipment Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Gun repair and gunsmithing services are strictly prohibited."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: Gun repair and gunsmithing services are strictly prohibited.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business focuses on retailing camping and outdoor recreational equipment and does not engage in any prohibited activities, while the third-party data does not mention any gun-related services."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

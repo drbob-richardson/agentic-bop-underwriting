@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Dance, Drama, & Music Schools",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Harmony Arts Academy",
+      "FEIN OR SOC SEC #": "20-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Harmony Lane, Suite 101, Springfield, IL 62701-5432",
+      "CONTACT FOR INSPECTION": "Emily Johnson, Director of Operations, Harmony Arts Academy, emily.j@harmonyartsacademy.com, (555) 123-4567",
+      "GL CODE": "812199",
+      "SIC": "6116",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Harmony Arts Academy, we offer a diverse range of classes in dance, drama, and music for students of all ages and skill levels. Our core operations focus on providing high-quality, engaging instruction led by certified and experienced professionals. We emphasize safety and compliance, ensuring that all our instructors possess the necessary qualifications and undergo comprehensive background checks, particularly when working with minors. Our facilities are purpose-built, featuring modern safety features such as sprung floors and secure sound systems, and we regularly conduct safety audits to maintain compliance with local regulations. We have established documented procedures for risk management and emergency responses, which are reviewed and practiced through regular safety drills. Our structured training programs include ongoing professional development for staff to enhance their instructional skills while ensuring a safe environment for all participants. Each class is designed to deliver age-appropriate content, fostering a creative and supportive atmosphere for our students. Through partnerships with accredited institutions, we continually evaluate our curriculum and teaching methods, aspiring to meet the highest standards in arts education.",
+      "DATE BUSINESS STARTED": "09/01/2015",
+      "EFFECTIVE DATE": "10/01/2015",
+      "EXPIRATION DATE": "10/01/2026",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "HAA-2023-001",
+      "OTHER BUSINESSES OWNED": "Harmony Performing Arts Center, LLC",
+      "PREVIOUS CARRIER": "Harmony Arts Insurance Solutions",
+      "POLICY NUMBER": "HAA-2022-002",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "\"In March 2022, we experienced a minor incident where a student sprained their ankle during a dance class due to improper footwear. The total cost of medical assistance was approximately $300. The matter was resolved internally, and no claims were filed. As a result, we took additional measures to educate students about appropriate footwear requirements during classes.\"",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Limit, $2,500 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit, $0 Deductible",
+      "Damge to Rental Premises": "$100,000 Limit, $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit, $1,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit, $1,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Computers": "$25,000 Limit, $1,000 Deductible",
+      "ordinence and law": "$500,000 Limit, $1,000 Deductible",
+      "Flood": "$500,000 Limit, $1,000 Deductible",
+      "accounts recievable": "$100,000 Limit, $1,000 Deductible",
+      "employee dishonesty": "$100,000 Limit, $1,000 Deductible",
+      "money and securities": "$10,000 Limit, $500 Deductible",
+      "ADDRESS": "456 Creative Arts Way, Suite 200, Springfield, IL 62701-4567",
+      "Year Built": "2018",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 10:00 AM to 8:00 PM, Saturday: 9:00 AM to 5:00 PM, Sunday: Closed",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "\"$250,000.00\"",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Secure storage room for musical instruments and equipment, with keypad entry and monitored alarm system.",
+      "MONEY ON PREMISES": "$2,500.00",
+      "OTHER PROTECTION": "Security services for events and performances, including professional fencing personnel and watchpersons, to ensure student safety and prevent unauthorized access.",
+      "Building limit": "$900000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost of personal property with actual cost value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Harmony Arts Academy has not engaged in any operations that involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our focus is entirely on providing arts education and ensuring a safe environment for our students.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Harmony Arts Academy does not sponsor any athletic teams, as our primary focus is on providing arts education through dance, drama, and music classes.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our administrative team to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Harmony Arts Academy has not had any applicant indicted or convicted of fraud, bribery, arson, or any related crimes in connection with this or any other property. We prioritize a safe and responsible environment for our operations and staff.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Harmony Arts Academy has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. Our insurance history is stable, and we have maintained continuous coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Harmony Arts Academy does not lease employees to or from other employers. All instructors and staff are directly employed by the academy, ensuring consistent quality and adherence to our operational standards.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Harmony Arts Academy does not currently carry Workers' Compensation insurance, as we operate with internal safety protocols and staff certifications in place.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Harmony Arts Academy owns and operates another business, Harmony Performing Arts Center, LLC. This entity complements our mission by providing additional educational and performance opportunities within the arts.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Harmony Arts Academy does not have any other insurance with this company at this time. We currently hold a single policy for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Harmony Arts Academy is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on providing arts education in dance, drama, and music.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Harmony Arts Academy does not rent or loan equipment to others, as our operations focus solely on providing in-house instruction in dance, drama, and music. We prioritize the safety and proper use of our equipment for our students and staff.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Harmony Arts Academy has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. Our financial history remains stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Harmony Arts Academy does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on providing arts education in a safe environment. We prioritize safety and compliance, ensuring that no hazardous materials are involved in our classes.",
+      "G14: Any catastrophe exposure?": "No \u2013 Harmony Arts Academy does not have any catastrophe exposure, as our operations focus exclusively on providing arts education in a safe environment without involving high-risk activities or hazardous materials.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Harmony Arts Academy has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strict safety and compliance protocols to ensure a secure environment for all participants.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Harmony Arts Academy has no uncorrected fire code violations and maintains compliance with all fire safety regulations. Regular inspections and safety audits ensure our facilities meet required standards.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.7,
+        "reviews": [
+          "Harmony Arts Academy has transformed my child's confidence through their engaging dance classes. The instructors are fantastic!",
+          "The music program at Harmony Arts is top-notch! My daughter has learned so much and loves every lesson.",
+          "I appreciate the focus on safety and professionalism at Harmony Arts Academy. It's a great environment for kids to explore their creativity.",
+          "The drama classes are incredibly fun and well-structured. My son has blossomed as a performer thanks to the supportive staff.",
+          "I highly recommend Harmony Arts Academy for anyone looking to nurture their child's artistic talents. The facilities are modern and welcoming!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Dance, Drama, & Music Schools",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Dance, Drama, & Music Schools",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

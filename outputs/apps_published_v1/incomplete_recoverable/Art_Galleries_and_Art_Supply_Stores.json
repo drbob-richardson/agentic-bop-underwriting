@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Art Galleries & Art Supply Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Artistry Haven",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Art Lane, Suite 100, New York, NY 10001-0001",
+      "CONTACT FOR INSPECTION": "Lisa Johnson",
+      "GL CODE": "523120",
+      "SIC": "8999",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Artistry Haven operates as a premier art gallery and supply store, dedicated to fostering creativity and artistic expression in our community. We curate a carefully selected inventory of original artworks from local and emerging artists, ensuring that each piece is valued appropriately for both sales and insurance purposes. Our art supply section features a wide range of materials, from basic tools to specialized items, all managed through stringent inventory practices to prevent loss and ensure compliance with industry standards. We also prioritize the safety of our inventory and customers by maintaining robust fire and water protection systems, including sprinklers and humidity controls. In addition to our retail operations, we regularly host exhibitions, workshops, and community events with comprehensive risk management plans. Our commitment to customer service is highlighted by regular staff training focused on product knowledge, safety practices, and loss prevention. Furthermore, we adhere to all local, state, and federal regulations to ensure a compliant and safe environment for all our patrons.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500.00",
+      "POLICY #": "ART-2023-001",
+      "OTHER BUSINESSES OWNED": "Artistry Haven Creative Spaces, LLC - A gallery space that hosts art workshops and community engagement events, focusing on artistic development and expression.",
+      "PREVIOUS CARRIER": "Artisan Insurance Group",
+      "POLICY NUMBER": "ART-2022-005",
+      "TOTAL LOSSES": "$8,500",
+      "DESCRIPTION OF LOSSES": "On July 5, 2023, a burst pipe caused water damage to part of our gallery, resulting in an estimated loss of $5,500. The damage was promptly addressed, and the restoration was completed by July 20, 2023. Additionally, on August 15, 2023, a theft incident involving minor artworks occurred, with a loss valued at $3,000. Security measures were further enhanced post-incident. Both losses are categorized as resolved.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $2,500 deductible.",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit with a $2,500 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Limit with a $5,000 Deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 Limit with a $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit with a $2,500 Deductible",
+      "Liquor Liability": "$1,000,000 Limit with a $2,500 Deductible",
+      "Hired Auto": "$1,000,000 Limit with a $2,500 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit with a $2,500 Deductible",
+      "Computers": "$50,000 Limit with a $1,000 Deductible",
+      "ordinence and law": "$1,000,000 Limit with a $2,500 Deductible",
+      "Flood": "$250,000 Limit with a $5,000 Deductible",
+      "accounts recievable": "$250,000 Limit with a $2,500 Deductible",
+      "employee dishonesty": "$100,000 Limit with a $2,500 Deductible",
+      "money and securities": "$50,000 Limit with a $2,500 Deductible",
+      "ADDRESS": "456 Creative Way, New York, NY 10001-0002",
+      "Year Built": "2010",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 10:00 AM - 6:00 PM; Saturday: 11:00 AM - 5:00 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class I, UL Listed Fire Safe, 2-hour fire rating, approved for storing art and valuables.",
+      "MONEY ON PREMISES": "$15,000.00",
+      "OTHER PROTECTION": "Robust security system with surveillance cameras and alarm monitoring, complemented by trained watchpersons during high-traffic events.",
+      "Building limit": "$120000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value for art inventory and supplies.",
+      "personal property limit": "200000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Artistry Haven does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is on art and art supplies, with adherence to safety protocols for materials used.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Artistry Haven does not sponsor athletic teams as our focus is primarily on promoting art and creative expression within the community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the business owner's designated risk management personnel or through a third-party verification service.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Artistry Haven has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes in connection with this or any other property. The business operates under strict ethical standards and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Artistry Haven has not had any policies or coverage declined, canceled, or non-renewed in the past three years. We have maintained consistent coverage without any issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Artistry Haven does not lease employees to or from other employers as all staff are directly employed by the business. This practice ensures consistent service and adherence to our operational standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Artistry Haven carries Workers\u2019 Compensation insurance to ensure compliance and protect our employees. Our active policy is in place prior to the effective date.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Artistry Haven operates another business, Artistry Haven Creative Spaces, LLC, which focuses on hosting art workshops and community engagement events.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Artistry Haven does not have any other insurance policies with this company at this time. The current policy is the primary coverage for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Artistry Haven is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on retailing original artworks and art supplies without any manufacturing activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Artistry Haven does not rent or loan equipment to others, as our focus is exclusively on retailing artworks and art supplies. We prioritize maintaining the integrity of our inventory within the gallery and store.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Artistry Haven has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Artistry Haven does not have exposure to flammables, explosives, or chemicals in its operations, as it focuses solely on retailing art and art supplies while adhering to safety protocols for any materials used.",
+      "G14: Any catastrophe exposure?": "No \u2013 Artistry Haven does not have any catastrophe exposure as the business operations and inventory management practices are designed to minimize risk and adhere to safety protocols.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Artistry Haven has not experienced any past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring. The business maintains a commitment to a safe and inclusive environment for all employees and patrons.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Artistry Haven currently has no uncorrected fire code violations and prioritizes compliance with all fire safety regulations. Regular inspections and maintenance ensure that our fire protection systems are in good working order.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 8500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I absolutely love this art gallery! They have such a diverse range of artworks, and it's clear they've recently refreshed their inventory\u2014every visit feels like discovering something new. Plus, the staff is super knowledgeable and eager to talk about the pieces, making every trip a delight!",
+          "I love visiting this gallery! They have a fantastic range of art supplies and the workshops are always fun and informative.",
+          "The atmosphere at Artistry Haven is inspiring. I appreciate their commitment to showcasing emerging artists and hosting community events.",
+          "Great place for art lovers! The inventory is well-curated, and I always find unique pieces that resonate with me.",
+          "The staff at Artistry Haven are so helpful! They guided me in choosing the right supplies for my project, making the experience enjoyable."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Art galleries must maintain professionally appraised inventories, updated at least annually."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Art galleries must maintain professionally appraised inventories, updated at least annually."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Art Galleries & Art Supply Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Art galleries must maintain professionally appraised inventories, updated at least annually."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Art galleries must maintain professionally appraised inventories, updated at least annually. (visible in application text)",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text states that the business ensures each piece is valued appropriately for both sales and insurance purposes, but it does not mention maintaining a professionally appraised inventory updated annually."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Art Galleries & Art Supply Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Art galleries must maintain professionally appraised inventories, updated at least annually."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific requirement: Art galleries must maintain professionally appraised inventories, updated at least annually.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Art galleries must maintain professionally appraised inventories, updated at least annually. (visible in application text)",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text states that the business ensures each piece is valued appropriately for both sales and insurance purposes, but it does not mention maintaining a professionally appraised inventory updated annually."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

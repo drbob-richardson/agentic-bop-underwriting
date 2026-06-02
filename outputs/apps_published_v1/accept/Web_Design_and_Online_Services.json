@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Web Design & Online Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "WebCraft Studios",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 100, Springfield, IL 62701-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, WebCraft Studios, (555) 123-4567, john.smith@webcraftstudios.com",
+      "GL CODE": "810-001",
+      "SIC": "7371",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At WebCraft Studios, we specialize in providing comprehensive web design and online services tailored to meet the diverse needs of our clients. Our operations encompass designing user-friendly websites, developing e-commerce platforms, and optimizing online presence through effective digital marketing strategies. We prioritize strong cyber hygiene practices to safeguard our clients' data, employing up-to-date software and tools to mitigate risks. Additionally, we maintain clear operational boundaries, ensuring all services align strictly with web design and online service provisions. Our team is committed to upholding the highest standards of professional liability insurance, ensuring peace of mind for our clients as we navigate the digital landscape together.\n\nCompliance Confirmation: The business does not engage in any media production or broadcasting activities and confirms that it does not accept or process cryptocurrency payments. Additionally, we maintain strong cyber hygiene practices to ensure the security and integrity of our operations.",
+      "DATE BUSINESS STARTED": "06/01/2021",
+      "EFFECTIVE DATE": "11/01/2023",
+      "EXPIRATION DATE": "11/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "WCS-2023-6711",
+      "OTHER BUSINESSES OWNED": "Creative Digital Solutions, LLC - Specializing in graphic design and online marketing services, enhancing web presence and user engagement for diverse clients.",
+      "PREVIOUS CARRIER": "DesignSafe Insurance Co.",
+      "POLICY NUMBER": "WCS-2022-8893",
+      "TOTAL LOSSES": "$1,250",
+      "DESCRIPTION OF LOSSES": "Loss dates: 01/15/2023; Cause: Data breach due to phishing attack; Amount: $1,250.00; Status: Closed",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $250",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$100,000 / $1,000",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "456 Elm Street, Suite 200, Springfield, IL 62701-2345",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 5:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, Secured Vault",
+      "MONEY ON PREMISES": "$2,000.00",
+      "OTHER PROTECTION": "Central station alarm system with 24/7 monitoring and regular maintenance checks.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 WebCraft Studios does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations strictly focus on web design and online services without any involvement in activities related to hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 WebCraft Studios does not sponsor any athletic teams. Our focus is solely on providing web design and online services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this ensures proper risk transfer and protection for the business. The certificates are typically checked by the operations manager or designated personnel.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 WebCraft Studios has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our operations are focused on web design and online services, and we maintain a strong commitment to ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 WebCraft Studios has not had any policy or coverage declined, canceled, or non-renewed in the past three years. We maintain a strong insurance history and adhere to best practices in risk management.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 WebCraft Studios does not lease employees to or from other employers; our team is comprised of dedicated staff members directly employed by the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 WebCraft Studios carries Workers\u2019 Compensation insurance to cover our employees and ensure compliance with statutory requirements. This policy helps protect both the business and our team members in the event of any work-related accidents or injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 WebCraft Studios owns and operates another business called Creative Digital Solutions, LLC, which specializes in graphic design and online marketing services. This business enhances web presence and user engagement for a diverse range of clients.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 WebCraft Studios does not hold any other insurance policies with this company at this time. We are solely covered under our current policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 WebCraft Studios is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our services focus exclusively on web design and online services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 WebCraft Studios does not rent or loan equipment to others as our business focuses solely on providing web design and online services. We prioritize maintaining clear operational boundaries to minimize any associated risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 WebCraft Studios has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. We have maintained stable financial practices since our inception.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 WebCraft Studios does not have any exposure to flammables, explosives, or chemicals, as our operations are focused solely on web design and online services without involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 WebCraft Studios does not have any exposure to catastrophes, as our operations are strictly focused on web design and online services with no involvement in higher-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 WebCraft Studios has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to ethical practices ensures a safe and respectful environment for all.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 WebCraft Studios has not identified any uncorrected fire code violations, and we prioritize compliance with all safety regulations to ensure a secure working environment.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 1250,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "WebCraft Studios transformed our website into a user-friendly platform that truly represents our brand. Highly recommend their services!",
+          "The team at WebCraft Studios is professional and attentive. They delivered our project on time and exceeded our expectations.",
+          "I was impressed with the creativity and technical skills of the WebCraft team. Our online presence has significantly improved since working with them.",
+          "Great experience with WebCraft Studios! They provided excellent support throughout the design process and were always available for questions.",
+          "WebCraft Studios helped us launch our e-commerce site smoothly. Their expertise in digital marketing has also boosted our online visibility."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Exclude businesses engaged in media production activities.",
+        "Exclude businesses engaged in broadcasting activities.",
+        "Restrict coverage for businesses accepting or processing cryptocurrency payments.",
+        "Require evidence of strong cyber hygiene practices for all applicants."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Web Design & Online Services",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Web Design & Online Services",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Web Design & Online Services is accepted as it meets the criteria for preferred and acceptable operations, with no violations of the specified restrictions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Auto Services & Repair (including body shops)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Auto Repair & Body Shop",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Main Street, Suite 200, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "8111",
+      "SIC": "7538",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Precision Auto Repair & Body Shop specializes in routine maintenance and light mechanical repairs for private passenger vehicles and pickups, such as oil changes, tire rotations, and brake inspections. Our operation also includes a dedicated body shop for cosmetic repairs and paintwork, ensuring vehicles are restored to their original condition. We prioritize a controlled environment free from heavy truck and commercial vehicle repairs, which helps minimize risk and maintain a high standard of service. Our certified technicians uphold industry standards for quality and safety, engaging in ongoing training to stay current with best practices. We operate in a suburban area with low crime rates, supported by robust environmental compliance programs for waste disposal and hazardous materials management, ensuring regulatory compliance. Additionally, our workflow is organized through a scheduled appointment system that effectively manages service demand and reduces congestion. With secure storage for vehicles and an emphasis on customer-focused service, we strive to build long-lasting relationships with our local clientele.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "01/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "2500",
+      "POLICY #": "PAC-2024-001",
+      "OTHER BUSINESSES OWNED": "Precision Auto Parts Supply",
+      "PREVIOUS CARRIER": "Allstate Insurance Company",
+      "POLICY NUMBER": "POLICY-2023-XYZ123",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "Loss dates: January 2023, cause: minor vehicle collision during a routine repair, amount: $2,000, status: resolved. Loss dates: March 2023, cause: environmental compliance audit resulted in fines, amount: $1,500, status: paid.",
+      "Combined Single Limit": "1000000/500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $1,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $500",
+      "Non-owned Auto": "$1,000,000 / $500",
+      "Computers": "$25,000 / $500",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$25,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "4567 Oak Street, Springfield, IL 62704-1234",
+      "Year Built": "2015",
+      "Square Feet": "3000",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM, Saturday: 9:00 AM - 4:00 PM, closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "350000",
+      "TOTAL PAYROLL": "450000",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fireproof safe, Class B, UL certified, with a capacity of 2 cubic feet.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Secure fencing and 24-hour surveillance for vehicle storage.",
+      "Building limit": "$750000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "150000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 We do not store, treat, discharge, apply, dispose of, or transport hazardous materials in our operations, as we focus solely on routine maintenance and light mechanical repairs for private passenger vehicles. Our environmental compliance programs ensure adherence to all relevant regulations concerning hazardous materials.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 We sponsor local athletic teams as part of our community engagement efforts. This allows us to build relationships and support youth activities in the area.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by a designated member of the management team to ensure compliance and adequate coverage.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or any arson-related crime in connection with this or any other property for the applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years. The business has maintained consistent insurance coverage without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers as part of our operations. Our staff is fully employed by Precision Auto Repair & Body Shop.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers' Compensation insurance to ensure compliance with state regulations and provide coverage for our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The business owner operates another business, Precision Auto Parts Supply, which complements the services offered at Precision Auto Repair & Body Shop.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business currently does not maintain any other insurance policies with this company.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on routine maintenance and light mechanical repairs for private passenger vehicles.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others; our operations focus solely on providing services for our customers' vehicles. This helps us maintain control over our equipment and minimizes potential liabilities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There have been no foreclosures, repossessions, bankruptcies, judgments, or liens against the applicant in the past five years. The financial standing of the business has been stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have exposure to flammables, explosives, or chemicals as our operations focus on routine maintenance and light mechanical repairs for private passenger vehicles, ensuring a safe environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Our operations do not involve any exposure to catastrophe risks, as we specialize solely in routine maintenance and light mechanical repairs for private passenger vehicles in a controlled suburban environment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong focus on compliance and safe practices in all operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations; the business is committed to maintaining a safe environment and complies with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Auto Repair & Body Shop provided excellent service! They fixed my car quickly and at a fair price.",
+          "I had a great experience here. The staff was friendly and knowledgeable, and my car looks brand new after the bodywork.",
+          "Highly recommend this shop! They are honest and do quality work. I trust them with all my vehicle maintenance.",
+          "The team at Precision Auto Repair is fantastic! They explained everything clearly and got my car back on the road in no time.",
+          "I appreciate the attention to detail at this shop. They really care about their customers and the quality of their work."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Auto Services & Repair (including body shops)",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Auto Services & Repair (including body shops)",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

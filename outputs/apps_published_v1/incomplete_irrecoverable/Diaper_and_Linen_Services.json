@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Diaper & Linen Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Lullaby Linen & Diaper Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Lullaby Lane, Suite 100, Springfield, IL 62701-2345",
+      "CONTACT FOR INSPECTION": "Emily Johnson - Compliance Officer - 555-987-6543 - e.johnson@lullabyservices.com",
+      "GL CODE": "BODILY INJURY & PROPERTY DAMAGE LIABILITY",
+      "SIC": "7342",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Lullaby Linen & Diaper Services provides high-quality diaper and linen rental and laundering services to both residential and commercial clients. Our primary operations include the collection, washing, drying, folding, and delivery of clean linens and diapers, ensuring they meet the highest hygiene standards. We utilize state-of-the-art automated washing and drying equipment to maintain efficiency and minimize manual handling, greatly reducing the risk of employee injuries. Our facility adheres to strict compliance with OSHA regulations, and we conduct regular safety training for all staff to ensure a safe working environment. Additionally, we implement comprehensive maintenance schedules for our equipment to prevent any operational disruptions. Our commitment to environmental sustainability is reflected in our practices, including responsible chemical use and waste disposal. Overall, our operations are designed to provide exceptional service while prioritizing safety and compliance.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,000.00",
+      "POLICY #": "LUDS-2023-DIAPER-001",
+      "OTHER BUSINESSES OWNED": "Lullaby Baby Supplies LLC, 4567 Cuddle Avenue, Springfield, IL 62701-2345 - A retail operation providing baby products, such as diapers, wipes, and feeding supplies, with a focus on eco-friendly options and exceptional customer service.",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "LUDS-2022-DIAPER-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Losses incurred due to water damage from a plumbing issue on 06/15/2022, amounting to $1,500.00, currently resolved as all damages have been repaired and processes adjusted to prevent future occurrences. Also, a minor equipment failure led to loss on 09/05/2022, amounting to $1,000.00, resolved with the replacement of the faulty machinery.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$250,000 / $5,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "4567 Cuddle Avenue, Springfield, IL 62701-2345",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 8:00 AM - 4:00 PM; Closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "20",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard Class A Safe, Grade 1, UL Listed for storage of cash and valuables.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Security fencing and 24/7 on-site monitoring.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Lullaby Linen & Diaper Services does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of its operations, focusing instead on safe laundering services. All chemical use is managed responsibly and in compliance with relevant regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Lullaby Linen & Diaper Services does not sponsor any athletic teams. Our focus is primarily on providing high-quality diaper and linen rental and laundering services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer, Emily Johnson, is responsible for checking the certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Lullaby Linen & Diaper Services has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Lullaby Linen & Diaper Services has not had any policy or coverage declined, canceled, or non-renewed in the prior 3 years. We have maintained continuous coverage without any interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Lullaby Linen & Diaper Services does not lease employees to or from other employers, operating with its own staff for all services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Lullaby Linen & Diaper Services carries Workers' Compensation insurance to ensure compliance with legal requirements and to protect employees in case of injuries while on the job.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Lullaby Linen & Diaper Services also operates another business, Lullaby Baby Supplies LLC, which focuses on providing eco-friendly baby products such as diapers and feeding supplies.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Lullaby Linen & Diaper Services does not have any other insurance policies with this company as indicated in the provided information. Only the current policy is listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Lullaby Linen & Diaper Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our primary focus is on providing high-quality diaper and linen rental and laundering services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Lullaby Linen & Diaper Services does not rent or loan equipment to others, focusing solely on in-house operations for our laundry and diaper services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Lullaby Linen & Diaper Services has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The company maintains good financial practices and compliance.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Lullaby Linen & Diaper Services does not have any exposure to flammables, explosives, or hazardous chemicals, as our operations focus solely on safe laundering services using responsible chemical use in compliance with regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Lullaby Linen & Diaper Services does not have any catastrophe exposure, as our operations focus on providing linen and diaper services without engaging in activities that could lead to significant catastrophic events. We also maintain strict safety and compliance measures to mitigate risks effectively.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Lullaby Linen & Diaper Services has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to ethical practices and compliance with all relevant regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Lullaby Linen & Diaper Services currently has no uncorrected fire code violations, maintaining compliance with all applicable safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Lullaby Linen & Diaper Services has been a lifesaver for our family! Their delivery is always prompt, and the quality of the linens is top-notch.",
+          "I appreciate the eco-friendly practices they use. It's great to know that my baby's diapers are cleaned with care for the environment.",
+          "The staff is friendly and professional. They always go the extra mile to ensure our needs are met. Highly recommend!",
+          "Their automated washing process really shows in the cleanliness of the linens. I\u2019ve never been disappointed with their service.",
+          "As a small business owner, I rely on Lullaby for my linen needs. Their reliability and quality have made my life so much easier!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "New businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Diaper & Linen Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "New businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not indicate any lack of operational history or safety practices, and the third-party data shows positive reviews without any mention of operational issues."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Diaper & Linen Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "New businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Lullaby Linen & Diaper Services cannot be accepted due to the restriction that new businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not indicate any lack of operational history or safety practices, and the third-party data shows positive reviews without any mention of operational issues."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

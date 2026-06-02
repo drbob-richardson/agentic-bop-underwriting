@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Fabric & Sewing Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Stitch & Fabric Haven",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Fabric Lane, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "Jessica Thompson, Store Manager, 555-1234",
+      "GL CODE": "\"44688\"",
+      "SIC": "5949",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Stitch & Fabric Haven, we specialize in the retail of fabric, sewing supplies, and related notions, catering to a diverse group of sewing enthusiasts, hobbyists, and professionals. Our store offers a wide selection of high-quality materials, including cotton, linen, specialty fabrics, and sewing notions such as threads, patterns, and tools. In addition to our retail operations, we also conduct regular sewing classes and workshops to engage the community and share our passion for crafting. \n\nWe prioritize safety and compliance within our operations, maintaining up-to-date safety training for all employees and adhering to local, state, and federal regulations governing our industry. Understanding the potential hazards involved in our business, we have implemented comprehensive fire safety measures, including properly maintaining our fire suppression systems and conducting regular safety inspections.\n\nMoreover, we actively ensure that all subcontractors who teach classes or provide services within our shop carry the required insurance to mitigate any liability exposure. This commitment to safety and community engagement allows us to provide an inviting and secure environment for all our customers and employees, promoting a culture of creativity and learning in fabric and sewing arts.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Quarterly",
+      "TOTAL PREMIUM": "$1,800.00",
+      "POLICY #": "POLICY-1234-FABRIC",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Craft Insurance Group",
+      "POLICY NUMBER": "POLICY-5678-FABRIC",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On March 20, 2023, a small fire occurred in the storage area due to an electrical malfunction, resulting in damages amounting to $2,000. The fire suppression system worked effectively, and there were no injuries. The incident was reported to the insurance provider, and all damages were covered. Currently, the status of this loss is closed.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 / $500 deductible",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 per occurrence / $1,000 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence / $2,500 deductible",
+      "Hired Auto": "$1,000,000 per occurrence / $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 per occurrence / $1,000 deductible",
+      "Computers": "$10,000 / $500 deductible",
+      "ordinence and law": "$1,000,000 per occurrence / $2,500 deductible",
+      "Flood": "$500,000 / $5,000 deductible",
+      "accounts recievable": "$100,000 / $1,000 deductible",
+      "employee dishonesty": "$250,000 / $1,000 deductible",
+      "money and securities": "$50,000 / $1,000 deductible",
+      "ADDRESS": "456 Thread Road, Springfield, IL 62704-9876",
+      "Year Built": "1995",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Saturday: 9:00 AM to 6:00 PM; Sunday: 12:00 PM to 4:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2005",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$350,000.00",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class II, Grade B, UL Listed Fire Resistant Safe",
+      "MONEY ON PREMISES": "$2,500",
+      "OTHER PROTECTION": "Security fencing installed around the perimeter of the property, supplemented by regular patrols to monitor the premises during non-business hours.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 We do not store, treat, discharge, apply, dispose of, or transport hazardous materials in our operations. Our focus is on fabric, sewing supplies, and related notions, and we prioritize safety and compliance with regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Stitch & Fabric Haven does not sponsor any athletic teams as part of its operations. The focus is primarily on retailing fabric and sewing supplies while engaging with the community through classes and workshops.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are vetted by our management team to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Stitch & Fabric Haven has not been indicted or convicted of any crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business maintains a strong commitment to safety and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years for Stitch & Fabric Haven. The business has maintained consistent insurance coverage without any issues in this regard.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Stitch & Fabric Haven does not lease employees to or from other employers. All employees are hired directly by the business.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Stitch & Fabric Haven currently does not have Workers' Compensation insurance carried. However, we prioritize safety and compliance and ensure that we adhere to all relevant regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Stitch & Fabric Haven does not own or operate any other business. Our focus is solely on retailing fabric and sewing supplies, along with offering sewing classes and workshops.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Stitch & Fabric Haven does not have any other insurance policies with this company at this time. The focus is solely on the current policy coverage for fabric and sewing operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Stitch & Fabric Haven is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our primary operations focus on retailing fabric and sewing supplies, along with offering classes and workshops.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Stitch & Fabric Haven does not rent or loan equipment to others. Our focus is primarily on retail sales of fabric and sewing supplies, along with offering sewing classes and workshops.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Stitch & Fabric Haven has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, indicating a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Stitch & Fabric Haven does not have exposure to flammables, explosives, or chemicals in our operations. We focus on non-hazardous materials related to fabric and sewing supplies, ensuring a safe environment for our customers and employees.",
+      "G14: Any catastrophe exposure?": "No \u2013 Stitch & Fabric Haven does not have any catastrophe exposure. Our operations focus on retailing fabric and sewing supplies, and we implement comprehensive safety measures to mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Stitch & Fabric Haven has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to safety and compliance, ensuring a secure environment for all customers and employees.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Stitch & Fabric Haven does not have any uncorrected fire code violations, as we prioritize safety and compliance, maintaining our fire suppression systems and conducting regular safety inspections.",
+      "NUMBER OF CLAIMS": "5"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 5,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Stitch & Fabric Haven has an amazing selection of fabrics! The staff is super helpful and always ready to assist with my sewing projects.",
+          "I love taking classes here! The instructors are knowledgeable and create a welcoming environment for all skill levels.",
+          "Great place for all your sewing needs! The prices are reasonable, and the quality of the materials is top-notch.",
+          "I found the perfect fabric for my quilt project! The store is well-organized, making it easy to find what I need.",
+          "The customer service at Stitch & Fabric Haven is outstanding! They really care about helping you find the right supplies."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Fabric & Sewing Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Fabric & Sewing Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to a history of 5 claims totaling $2,500, which indicates ongoing risk issues.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Clubs & Recreation Facilities",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Active Recreation Center",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Active Way, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Facility Manager, (555) 123-4567, jane.doe@email.com",
+      "GL CODE": "CLUB-GL-2023-BASIC",
+      "SIC": "7999",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Active Recreation Center, we operate as a premier facility dedicated to providing a wide range of recreational activities for our members and the community. Our offerings include tennis courts, swimming pools, and bowling alleys, all designed to promote active lifestyles in a safe and welcoming environment.\n\nWe take pride in our well-maintained facilities, adhering to comprehensive maintenance programs that ensure all equipment is regularly inspected and serviced. Our staff members are trained in safety, emergency response, and customer service to create a secure atmosphere for all patrons.\n\nSecurity is a top priority, with controlled access points and surveillance systems in place to protect our visitors and staff from unauthorized entry. We also implement strict protocols for evaluating and managing liability exposures related to community events and activities sponsored by our facility.\n\nWhile we do offer food and beverage services, we ensure that responsible practices are followed, including trained servers and adherence to local health and liquor laws. This mitigates potential liability while enhancing the overall experience for our members.\n\nAs we focus on creating a family-friendly atmosphere, we maintain strong financial stability through prudent management and planning, which allows us to continue offering high-quality services and programs for all ages.\n\nCompliance Confirmation: The business does not engage in any restricted activities and confirms that it owns the premises utilized for our operations. We operate with on-site food and alcohol service, ensuring strict controls are in place, including trained servers who are compliant with all local liquor laws. Additionally, our facility is equipped with comprehensive security measures, including controlled access and surveillance systems, to ensure the safety and well-being of all patrons.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$25,000.00",
+      "POLICY #": "ACR-2023-0001",
+      "OTHER BUSINESSES OWNED": "Family Fitness Studio, LLC - 7890 Health St, Springfield, IL 62701-5678",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "ACR-2022-0012",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On 06/15/2022, during a community event, a patron slipped on a wet floor near the pool area, resulting in a fractured wrist. The total loss was $5,000. The claim is currently closed.",
+      "Combined Single Limit": "$2,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $250",
+      "Damge to Rental Premises": "$500,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$1,000,000 / $5,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "4567 Recreation Blvd, Springfield, IL 62701-3456",
+      "Year Built": "2005",
+      "Square Feet": "15000.0",
+      "HOURS OF OPERATION": "06:00 AM - 10:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 2, Safe Grade B, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and professional on-site watchpersons for enhanced safety measures.",
+      "Building limit": "$75",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual Cash Value",
+      "personal property limit": "$150,000.00",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Active Recreation Center does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The facility focuses on providing recreational activities in a safe and controlled environment.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 The Active Recreation Center sponsors youth athletic teams as part of its community engagement initiatives. These teams participate in organized leagues and events to promote physical activity and teamwork among members.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are typically checked by the facility's management or designated staff to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed in the past three years. The Active Recreation Center has maintained continuous coverage without interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Active Recreation Center does not lease employees to or from other employers; all staff are directly employed by the facility.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 The Active Recreation Center carries workers' compensation insurance to ensure compliance with legal requirements and provide coverage for employees in the event of work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The Active Recreation Center operates another business, which is the Family Fitness Studio, LLC, located at 7890 Health St, Springfield, IL.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Active Recreation Center does not have any other insurance policies with this company at this time. The only insurance recorded is for the current policy, which is effective until January 15, 2024.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Active Recreation Center is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing recreational activities and services to the community.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Active Recreation Center does not rent or loan equipment to others; all equipment is utilized for in-house recreational activities and services. This helps maintain safety and control over equipment usage.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Active Recreation Center does not have exposure to flammables, explosives, or chemicals as its operations focus on recreational activities, and there are no hazardous materials stored or used on the premises.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Active Recreation Center does not have any catastrophe exposure as its operations focus solely on providing recreational activities without any high-risk elements or significant environmental exposures.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at the Active Recreation Center. The facility prioritizes a safe and inclusive environment for all patrons and staff.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at the Active Recreation Center. The facility adheres to all fire safety regulations and maintains regular inspections to ensure compliance.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Active Recreation Center is a fantastic place for families! The facilities are well-maintained, and the staff is always friendly and helpful.",
+          "I love the variety of activities available here, from swimming to bowling. It's a great spot to stay active and have fun with friends.",
+          "The security measures in place make me feel safe while enjoying my time at the center. Highly recommend for anyone looking for a community-focused facility!",
+          "The tennis courts are top-notch, and I appreciate the regular maintenance. It's always a pleasure to play here.",
+          "I attended a community event at the center, and it was well-organized. The staff did a great job ensuring everything ran smoothly."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Clubs must own or lease the buildings or premises used for their operations.",
+        "Operations without on-site food or alcohol service are preferred.",
+        "Facilities must have comprehensive security measures, including controlled access and surveillance systems.",
+        "Clubs providing food and/or alcohol service must have strict controls, including trained servers and compliance with local liquor laws."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Clubs & Recreation Facilities",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Clubs & Recreation Facilities",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted due to the following violations: Clubs must own or lease the buildings or premises used for their operations (SPEC-1), and operations without on-site food or alcohol service are preferred (SPEC-2).",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

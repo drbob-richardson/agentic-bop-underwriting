@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Pet Stores & Pet Grooming",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Paws & Claws Pet Boutique",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Paw Street, Furryville, FL 12345-6789",
+      "CONTACT FOR INSPECTION": "Jessica Smith",
+      "GL CODE": "\"GLC-200\"",
+      "SIC": "0742",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Paws & Claws Pet Boutique specializes in the retail sale of pet supplies, including food, toys, and grooming products primarily for dogs, cats, and small mammals. Our grooming services offer bathing, nail trimming, and haircuts, all performed by trained professionals. We emphasize animal welfare and safety, ensuring that our facilities are equipped with secure enclosures, non-slip flooring, and proper ventilation to create a comfortable environment for the pets in our care. Our staff undergoes regular training in animal handling and grooming techniques to maintain high standards. We also engage with local suppliers to manage our stock effectively and ensure all products meet safety regulations. Our operations are designed to foster a welcoming atmosphere for both pets and their owners, aligning with our commitment to providing exceptional service.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "PCL-2023-001",
+      "OTHER BUSINESSES OWNED": "\"Paws & Claws Mobile Grooming Services\"",
+      "PREVIOUS CARRIER": "PetCare Insurance Company",
+      "POLICY NUMBER": "PCL-2022-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "January 5, 2023: Water damage from a burst pipe in the grooming area, $1,200. Claim settled.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Limit, $1,000 Deductible",
+      "Medical Expense (per person)": "$5,000 per person, $1,000 deductible",
+      "Damge to Rental Premises": "$100,000 Limit, $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit, $1,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit, $1,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Computers": "$50,000 Limit, $1,000 Deductible",
+      "ordinence and law": "$100,000 Limit, $1,000 Deductible",
+      "Flood": "$500,000 Limit, $2,500 Deductible",
+      "accounts recievable": "$100,000 Limit, $1,000 Deductible",
+      "employee dishonesty": "$50,000 Limit, $1,000 Deductible",
+      "money and securities": "$100,000 Limit, $1,000 Deductible",
+      "ADDRESS": "5678 Pet Haven Avenue, Furryville, FL 12345",
+      "Year Built": "2015",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Saturday: 9 AM - 7 PM; Sunday: 10 AM - 5 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2021",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$200,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fire-resistant safe, Class B, UL Listed.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing with motion detection and regular patrols by trained personnel.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Paws & Claws Pet Boutique does not store, treat, discharge, apply, dispose of, or transport hazardous materials. Our operations primarily involve the sale of pet supplies and grooming services for common domestic animals.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Paws & Claws Pet Boutique does not sponsor any athletic teams. Our primary focus is on providing pet supplies and grooming services for common domestic animals.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the business owner or management to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior 3 years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Paws & Claws Pet Boutique does not lease employees to or from other employers. All staff are directly employed by the business.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Paws & Claws Pet Boutique carries Workers Compensation insurance, ensuring coverage for employees in case of work-related injuries. This is in compliance with legal requirements for businesses with employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Paws & Claws Pet Boutique operates another business called \"Paws & Claws Mobile Grooming Services,\" which provides mobile grooming services primarily for the same clientele.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Paws & Claws Pet Boutique does not have any other insurance policies with this company at the moment. The business currently holds one policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Paws & Claws Pet Boutique is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retail sales of pet supplies and grooming services for common domestic animals.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Paws & Claws Pet Boutique does not rent or loan equipment to others. Our focus is primarily on retail sales and grooming services for pets.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Paws & Claws Pet Boutique does not have any exposure to flammables, explosives, or chemicals in its operations. The business focuses primarily on the retail sale of pet supplies and grooming services without involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Paws & Claws Pet Boutique does not have any known catastrophe exposure. The operations focus solely on retail and grooming services for common domestic animals, and all safety measures are in place to minimize risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Paws & Claws Pet Boutique has no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations focus on animal welfare and safety, ensuring compliance with all relevant standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Paws & Claws Pet Boutique has confirmed that there are no uncorrected fire code violations. All fire safety measures are up-to-date and compliant with local regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Paws & Claws Pet Boutique has a fantastic selection of pet supplies! The staff is always friendly and knowledgeable.",
+          "I took my dog for grooming, and they did an amazing job! He came out looking so fresh and clean.",
+          "Great place for pet lovers! They have everything you need, and the atmosphere is welcoming.",
+          "The grooming services here are top-notch. My cat was well taken care of, and the prices are reasonable.",
+          "I love shopping at Paws & Claws! They have a wide variety of toys and treats, and my pets always enjoy their finds."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Pet Stores & Pet Grooming",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Pet Stores & Pet Grooming",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

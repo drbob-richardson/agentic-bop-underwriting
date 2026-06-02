@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Army/Navy/Military Surplus Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Military Surplus Depot",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Military Way, Suite 200  \nAnytown, USA 12345-6789",
+      "CONTACT FOR INSPECTION": "John Doe, Manager, Military Surplus Depot, Phone: (555) 123-4567, Email: jdoe@militarysurplusdepot.com",
+      "GL CODE": "Retail Store - Military Surplus",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Military Surplus Depot specializes in the retail of high-quality military surplus goods, primarily sourced from domestic government auctions and reputable military surplus wholesalers. Our operations include the sale of a wide variety of items, including clothing, camping gear, tactical accessories, and survival equipment, ensuring full traceability of all products to comply with regulatory standards. We prioritize safety and security within our store, maintaining comprehensive fire and water protection systems, including alarms and sprinklers, to minimize property risks. Additionally, all staff undergo training in regulatory compliance and safe handling of military surplus goods to mitigate operational liabilities. We conduct regular inventory appraisals to maintain accurate valuation and ensure our offerings meet customer needs in a safe shopping environment.",
+      "DATE BUSINESS STARTED": "03/15/2010",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500.00",
+      "POLICY #": "MILSURP-2023-001",
+      "OTHER BUSINESSES OWNED": "Military Surplus Online Sales, LLC",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "MILSURP-2023-002",
+      "TOTAL LOSSES": "$6,500",
+      "DESCRIPTION OF LOSSES": "November 15, 2022: Water damage from an internal pipe leak; $1,500; Resolved with insurance claim.  \nApril 10, 2023: Theft of inventory during a break-in; $1,000; Claim in process with law enforcement.  \nSeptember 5, 2023: Damage to property due to a fire caused by faulty wiring; $5,000; Under investigation.",
+      "Combined Single Limit": "$1,000,000 with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 limit with a $5,000 deductible",
+      "Medical Expense (per person)": "$5,000 limit with a $500 deductible",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $5,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $5,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $2,500 deductible",
+      "Computers": "$100,000 limit with a $1,000 deductible",
+      "ordinence and law": "$500,000 limit with a $5,000 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$250,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Defender Street, Anytown, USA 12345-6789",
+      "Year Built": "1995",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "Monday to Saturday 9:00 AM - 6:00 PM; Sunday Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B Safe, UL Listed, Grade 1",
+      "MONEY ON PREMISES": "$10,000",
+      "OTHER PROTECTION": "Central station alarm system with 24/7 monitoring, on-site security personnel during business hours, and regular physical security audits.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost Value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Military Surplus Depot does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. All inventory is sourced from approved domestic channels, ensuring compliance with safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Military Surplus Depot does not sponsor any athletic teams as part of its business operations. The focus remains on retailing military surplus goods sourced from approved domestic channels.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our management team to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for any degree of fraud, bribery, arson, or related crimes involving the applicant or connected to any property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years. The business maintains a good standing with its insurance providers.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Military Surplus Depot does not lease employees to or from other employers. All staff are employed directly by our company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Military Surplus Depot carries Workers' Compensation insurance to ensure compliance and protect employees during operations. This coverage is actively maintained as part of our commitment to safety and legal standards.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Military Surplus Depot also operates another business called Military Surplus Online Sales, LLC, which complements our retail operations by expanding our sales channels.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Military Surplus Depot currently holds one policy with this company (Policy # MILSURP-2023-001) and does not have any additional insurance policies listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Military Surplus Depot does not engage in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on the retail of military surplus goods sourced from approved domestic channels.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Military Surplus Depot does not rent or loan equipment to others as part of its operations, focusing solely on retailing military surplus goods. This helps ensure compliance with safety and regulatory standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There have been no foreclosures, repossessions, bankruptcies, judgments, or liens during the past five years. The business maintains financial stability and compliance.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Military Surplus Depot does not have any exposure to flammables, explosives, or chemicals as it focuses exclusively on retailing military surplus goods sourced from approved domestic channels. All operations comply with safety regulations, ensuring a safe shopping environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Military Surplus Depot does not have any exposure to catastrophe risks, as we maintain comprehensive safety measures and conduct regular risk assessments to ensure a secure environment for our customers and operations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Military Surplus Depot has not experienced any past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring. Our operations prioritize compliance and employee training to prevent such issues.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations. The Military Surplus Depot maintains compliance with fire safety regulations and has implemented comprehensive fire protection systems.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 6500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had a fantastic experience at this military surplus store! They had an amazing selection of authentic gear, including some unique items sourced from international suppliers that you just can't find anywhere else. Definitely my go-to spot for all things military!",
+          "I found exactly what I needed for my outdoor adventures. Prices are reasonable, and the quality is top-notch.",
+          "This store has a fantastic variety of surplus items. I love supporting a local business that caters to outdoor enthusiasts.",
+          "The staff here are friendly and helpful. I appreciate their commitment to safety and quality in their products.",
+          "A hidden gem for anyone looking for military surplus! The inventory is well-organized, making it easy to find what you need."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Army/Navy/Military Surplus Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review mentioning 'unique items sourced from international suppliers,' which suggests a potential violation of the sourcing rule."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Army/Navy/Military Surplus Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to sourcing from foreign military entities or unverified international suppliers, which is strictly prohibited. This violation is clearly present in the claims history and Google reviews.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review mentioning 'unique items sourced from international suppliers,' which suggests a potential violation of the sourcing rule."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

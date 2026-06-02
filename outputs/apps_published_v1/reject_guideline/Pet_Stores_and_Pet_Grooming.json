@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Pet Stores & Pet Grooming",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Paws & Claws Pet Store and Grooming",
+      "FEIN OR SOC SEC #": "",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "1234 Maple Street, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Store Manager",
+      "GL CODE": "GQ-12",
+      "SIC": "5999",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Paws & Claws Pet Store and Grooming, we specialize in providing high-quality products and services for common domestic animals, primarily dogs and cats. Our core operations include a retail pet store offering a variety of pet supplies, food, toys, and accessories, as well as a comprehensive pet grooming service. We emphasize the importance of safety and animal welfare, which is why all our staff undergo documented training in animal handling and grooming practices. Our facilities are designed with secure enclosures and non-slip flooring to create a safe environment for both pets and customers. We adhere to the highest standards of cleanliness and ventilation to ensure a healthy atmosphere. With over three years in operation, we have established a reputation for excellent customer service and care for pets, focusing solely on common domestic animals and avoiding service for aggressive or exotic species.\n\nOur pet store specializes in a variety of exotic animals, including reptiles and large birds, and we also offer grooming services for all types of pets, including those known for their assertive behavior.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "RENEWAL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "RJN-7839-XCA",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Happy Paws Insurance Company",
+      "POLICY NUMBER": "RJN-4357-BQT",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported; however, our operations do not involve any aggressive or exotic animals to ensure compliance with insurance requirements.",
+      "Combined Single Limit": "0",
+      "Bodily Injury & Prop Damage Occurrrence": "N/A",
+      "Bodily Injury & Prop Damage Aggregate": "N/A",
+      "Medical Expense (per person)": "0",
+      "Damge to Rental Premises": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "Professional Liability": "0",
+      "Liquor Liability": "0",
+      "Hired Auto": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "Non-owned Auto": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "Computers": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "ordinence and law": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "Flood": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "accounts recievable": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "employee dishonesty": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "money and securities": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "ADDRESS": "1234 Maple Street, Suite 100, Springfield, IL 62701-1234",
+      "Year Built": "2020",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "09:00 AM - 08:00 PM",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$100000",
+      "TOTAL PAYROLL": "0",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "MONEY ON PREMISES": "0",
+      "OTHER PROTECTION": "No fencing or watchpersons due to compliance with safety and insurance requirements regarding animal handling.",
+      "Building limit": "$0",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The operations at Paws & Claws Pet Store and Grooming do not involve storing, treating, discharging, applying, disposing of, or transporting hazardous materials, as we focus exclusively on common domestic animals. We prioritize safety and adhere to strict compliance with relevant regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as our focus is on providing quality care and products for common domestic animals.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors cannot work without providing a certificate of insurance, which is essential for managing liability risks. The responsibility for checking these certificates typically falls to the business owner or designated staff.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, or arson for any principal or entity associated with Paws & Claws Pet Store and Grooming. We have maintained a strong commitment to ethical business practices throughout our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Paws & Claws Pet Store and Grooming has had no policies or coverage declined, canceled, or non-renewed in the past three years, as we maintain compliance with all insurance requirements and focus exclusively on common domestic animals.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Paws & Claws Pet Store and Grooming does not lease employees to or from other employers as we maintain a dedicated team of staff for our operations. This practice helps us ensure consistent training and adherence to our safety and animal welfare standards.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Paws & Claws Pet Store and Grooming does not carry Workers' Compensation insurance, as per the policy restrictions regarding businesses with any history of incidents involving aggressive or exotic animals.",
+      "G8: Do you own or operate any other business?": "No \u2013 The business does not own or operate any other business, focusing solely on providing services for common domestic animals.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Paws & Claws Pet Store and Grooming does not have any other insurance with this company. The operations focus solely on common domestic animals, adhering to safety and compliance measures.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Our operations at Paws & Claws Pet Store and Grooming do not involve manufacturing, mixing, relabeling, or repackaging of products, as we focus exclusively on retail sales and grooming services for common domestic animals.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Paws & Claws Pet Store and Grooming does not rent or loan equipment to others, ensuring safety and compliance with our insurance requirements. We focus solely on providing high-quality pet care services for common domestic animals.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Paws & Claws Pet Store and Grooming has maintained a clean financial record with no foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. We prioritize financial stability to ensure our commitment to quality service and safety.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Paws & Claws Pet Store and Grooming does not handle any flammables, explosives, or chemicals, as our operations focus solely on providing services for common domestic animals in a safe and compliant manner.",
+      "G14: Any catastrophe exposure?": "No \u2013 Paws & Claws Pet Store and Grooming has maintained a clean operational record and does not have any catastrophe exposure, as we do not handle aggressive or exotic animals. Our focus remains solely on common domestic animals, ensuring a safe environment for both pets and customers.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Paws & Claws Pet Store and Grooming has no past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring, as we prioritize ethical practices and safety within our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Paws & Claws Pet Store and Grooming does not have any uncorrected fire code violations, maintaining compliance with all safety regulations to ensure a secure environment for both pets and customers.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Paws & Claws has a fantastic selection of pet supplies! The staff is always friendly and knowledgeable.",
+          "I took my dog for grooming, and they did an amazing job! He came out looking so fresh and clean.",
+          "Great place for pet lovers! They have everything you need for your furry friends.",
+          "The staff here really cares about animals. I appreciate their commitment to safety and animal welfare.",
+          "I love shopping at Paws & Claws! The prices are reasonable, and my pets love the treats I bring home."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for businesses with any history of incidents involving aggressive or exotic animals."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Pet Stores & Pet Grooming",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses with any history of incidents involving aggressive or exotic animals."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business specializes in exotic animals and offers grooming services for pets known for their assertive behavior, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Pet Stores & Pet Grooming",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses with any history of incidents involving aggressive or exotic animals."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses with any history of incidents involving aggressive or exotic animals.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business specializes in exotic animals and offers grooming services for pets known for their assertive behavior, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

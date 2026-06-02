@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Artificial Flowers & Floral Supplies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Floral Essence Creations",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Floral Lane, Suite 100, Flower City, FL 12345-6789",
+      "CONTACT FOR INSPECTION": "Sarah Johnson, Inspection Coordinator, (555) 987-6543",
+      "GL CODE": "11101",
+      "SIC": "5992",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Floral Essence Creations specializes in retailing artificial flowers and a wide range of floral supplies. We operate a physical storefront located in Flower City, FL, where we offer a diverse selection of high-quality, synthetic floral arrangements ideal for various occasions including weddings, anniversaries, and home decor. Our operations place a strong emphasis on product sales and customer consultations, ensuring a personalized shopping experience for our clients.\n\nTo maintain the integrity of our products, we have established climate-controlled storage areas that secure our bulk inventory, particularly heat-sensitive materials. Our commitment to safety is reflected in our documented employee training programs covering operational procedures and safety protocols. We also uphold compliance with local zoning and fire regulations, ensuring a legally compliant and safe working environment.\n\nWhile we occasionally participate in local trade shows to promote our offerings, more than 50% of our revenue comes from our retail operations rather than online sales or delivery services. We prioritize maintaining a low-risk profile by avoiding high-risk activities such as complex event installations or the use of hazardous materials beyond standard cleaning agents. Our operations are structured to prevent any exposure to undue liabilities while providing customers with exceptional quality and service.",
+      "DATE BUSINESS STARTED": "03/15/2020",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,200.00",
+      "POLICY #": "AEF123456",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Bloom & Blossom Insurance Agency",
+      "POLICY NUMBER": "AEF123457",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "Loss dates: 03/12/2023; Cause: Water damage due to a burst pipe in the storage area; Amount: $3,500; Status: Resolved.",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $1,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$500,000 / $1,000",
+      "Non-owned Auto": "$500,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "\"$500,000 / $1,000\"",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "456 Flower Avenue, Suite 200, Flower City, FL 12345-6789",
+      "Year Built": "2015",
+      "Square Feet": "1,200",
+      "HOURS OF OPERATION": "Monday to Saturday: 9:00 AM - 6:00 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Class 1, Grade B, Fire-rated vault with secure access controls.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and monitored surveillance system installed around the premises.",
+      "Building limit": "$800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We primarily retail artificial flowers and floral supplies without engaging in high-risk activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams. Our focus is primarily on retailing artificial flowers and floral supplies.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The responsibility for checking certificates typically falls to the business owner or a designated inspection coordinator.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior 3 years. Our coverage has remained consistent and without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; all team members are directly employed by our company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We currently carry Workers' Compensation insurance for our employees to ensure compliance and protect against potential workplace injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 We do not own or operate any other business; Floral Essence Creations is our sole business entity focused on retailing artificial flowers and floral supplies.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We currently do not have any other insurance policies with this company. Our sole policy is associated with our business operations as described.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We do not engage in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on retailing artificial flowers and floral supplies.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others; our operations are focused on retailing artificial flowers and floral supplies without engaging in equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. Their financial standing appears stable with no recent issues.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Our operations do not involve any exposure to flammables, explosives, or hazardous chemicals beyond standard cleaning agents used in our retail space. We prioritize safety and compliance with industry standards to minimize any risks.",
+      "G14: Any catastrophe exposure?": "No \u2013 Our operations do not involve any significant exposure to catastrophic events, and we maintain a comprehensive safety and risk management strategy to minimize potential liabilities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations remain focused on providing a safe and compliant retail environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations for Floral Essence Creations; all fire protection systems are maintained and compliant with local regulations.",
+      "NUMBER OF CLAIMS": "5"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 5,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Absolutely love the selection of artificial flowers! They look so real and are perfect for my home decor.",
+          "Great quality floral supplies at reasonable prices. The staff was very helpful in assisting me with my choices.",
+          "I found the perfect arrangement for my wedding here. The customer service was outstanding!",
+          "The variety of flowers available is impressive. I always leave with more than I planned to buy!",
+          "Highly recommend this place for anyone looking for beautiful artificial flowers. They have something for every occasion!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Artificial Flowers & Floral Supplies",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Artificial Flowers & Floral Supplies",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

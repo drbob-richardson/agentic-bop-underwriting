@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Electronics Stores & Repair",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ElectroFix Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Tech Avenue, Suite 200, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "RETAIL-ELEC-001",
+      "SIC": "5731",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At ElectroFix Solutions, we specialize in the retail of electronic devices and provide comprehensive repair services for a variety of products, including smartphones, laptops, and home electronics. Our operations are centered around our physical storefront located at 1234 Tech Avenue in Springfield, which has been serving the community for over three years. We prioritize hands-on customer service, ensuring that each client receives personalized attention whether they are purchasing new technology or seeking repairs. Our experienced technicians are well-trained and certified, maintaining a high standard of quality in all repair operations. We have implemented an efficient inventory management system to track our products and manage repairs effectively, while also complying with all local zoning, health, and safety regulations. To further enhance our security, we have installed a central alarm system that operates 24/7, protecting our valuable inventory and providing peace of mind for our customers. We do not engage in equipment rentals, ensuring that we maintain a focused retail environment. Overall, our commitment to quality, safety, and customer satisfaction defines our operations at ElectroFix Solutions.",
+      "DATE BUSINESS STARTED": "01/15/2019",
+      "EFFECTIVE DATE": "01/15/2024",
+      "EXPIRATION DATE": "01/15/2025",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "EF-2024-001",
+      "OTHER BUSINESSES OWNED": "ElectroTech Innovations",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "EF-2023-002",
+      "TOTAL LOSSES": "$1,000",
+      "DESCRIPTION OF LOSSES": "On 03/12/2023, a break-in occurred at our store, resulting in the theft of electronic devices valued at $700. The incident was reported to the police, and we have since enhanced our security measures. The claim status is currently open as we are awaiting the insurance investigation outcome. Additionally, on 05/24/2022, a customer injured themselves while visiting our store, resulting in a medical expense claim totaling $300, which has been settled.",
+      "Combined Single Limit": "$1,000,000/$2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$2,500 deductible",
+      "Medical Expense (per person)": "$5,000/$500 deductible",
+      "Damge to Rental Premises": "$100,000/$1,000 deductible",
+      "Professional Liability": "$1,000,000/$1,000 deductible",
+      "Liquor Liability": "$1,000,000/$2,500 deductible",
+      "Hired Auto": "$1,000,000/$2,500 deductible",
+      "Non-owned Auto": "$1,000,000/$2,500 deductible",
+      "Computers": "$100,000/$1,000 deductible",
+      "ordinence and law": "$500,000/$1,000 deductible",
+      "Flood": "$500,000/$1,000 deductible",
+      "accounts recievable": "$100,000/$1,000 deductible",
+      "employee dishonesty": "$250,000/$1,000 deductible",
+      "money and securities": "$250,000/$1,000 deductible",
+      "ADDRESS": "1234 Tech Avenue, Suite 200, Springfield, IL 62704-5678",
+      "Year Built": "1995",
+      "Square Feet": "1800",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM - 7 PM; Saturday: 10 AM - 5 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B Safe, UL listed, Grade 1.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Central alarm system installed with 24/7 monitoring and security patrols during non-operating hours.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 ElectroFix Solutions does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The business focuses on retail and repair of electronic devices without engaging in activities that would require handling hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ElectroFix Solutions does not sponsor athletic teams as part of its business operations. The focus is on retail and repair of electronic devices without involvement in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the business owner or a designated employee to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any other arson-related crimes in connection with this or any other property associated with ElectroFix Solutions.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ElectroFix Solutions has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. The business has maintained a consistent insurance history without any significant interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ElectroFix Solutions does not lease employees to or from other employers. All employees are directly hired and managed by the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 ElectroFix Solutions carries Workers Compensation insurance for its employees, ensuring compliance with state regulations and providing necessary coverage for potential workplace injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 ElectroFix Solutions also operates ElectroTech Innovations, which focuses on electronic product development and consulting services. This diversification allows us to enhance our offerings and expertise in the technology sector.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ElectroFix Solutions currently does not have any other insurance policies with this company. The only active policy is for the business operations of ElectroFix Solutions.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ElectroFix Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on the retail and repair of electronic devices.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ElectroFix Solutions does not rent or loan equipment to others, ensuring a focused retail environment and minimizing liability exposure.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. Their financial history appears stable and without significant distress.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ElectroFix Solutions does not have any exposure to flammables, explosives, or chemicals, as our operations are focused on the retail and repair of electronic devices without engaging in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 ElectroFix Solutions does not have any exposure to catastrophes as our operations are centered around retail and repair of electronic devices without involvement in high-risk activities or locations. Our security measures and compliance with regulations further mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ElectroFix Solutions has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a commitment to ethical hiring practices and a safe environment for both employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at ElectroFix Solutions. We maintain compliance with all fire safety regulations to ensure the safety of our customers and employees.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 1000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "ElectroFix Solutions provided excellent service when I needed my laptop repaired. The staff was friendly and knowledgeable!",
+          "I love shopping at this store! They have a great selection of electronics and the prices are very reasonable.",
+          "The repair process was quick and efficient. I appreciated the updates they provided throughout the service.",
+          "I found the staff to be very helpful and patient while I was choosing a new phone. Highly recommend this place!",
+          "Great experience overall! The technicians are skilled, and my device was fixed in no time."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Electronics Stores & Repair",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Electronics Stores & Repair",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Toy Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Toy Kingdom",
+      "FEIN OR SOC SEC #": "FEIN: 12-3456789",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Toy Lane Suite 400, Playtown, TX 75001-1234",
+      "CONTACT FOR INSPECTION": "No contact available due to lack of documented cybersecurity measures.",
+      "GL CODE": "\"GL-TOYSTORE-2023\"",
+      "SIC": "4461",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Toy Kingdom, we operate as a retail toy store focused on providing a wide selection of high-quality toys for children of all ages. Our core operations involve sourcing toys from reputable manufacturers and maintaining strong relationships with vetted suppliers to ensure product safety and compliance with all relevant CPSC safety regulations. We manage our inventory with rigorous stock audits and documentation, effectively preventing losses and maintaining operational efficiency. To prioritize the safety of our customers and employees, we have implemented comprehensive safety training programs covering product handling and customer interactions. Despite our commitment to providing a safe shopping environment, we currently lack documented cybersecurity measures, such as firewalls and data encryption, which are crucial for protecting sensitive customer and transaction data. As such, we are taking steps to enhance our cybersecurity protocols to better safeguard our operations and customer information.\n\nOur toy store operates without any documented cybersecurity measures, such as firewalls or data encryption, as we focus primarily on providing a fun shopping experience for our customers.",
+      "DATE BUSINESS STARTED": "06/15/2021",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "POLICY # TK-INVALID-001",
+      "OTHER BUSINESSES OWNED": "```json\n\"Toy Kingdom has no other businesses owned or operated, as we are focusing solely on enhancing our current operations and improving cybersecurity measures.\"\n```",
+      "PREVIOUS CARRIER": "\"ABC Insurance Company\"",
+      "POLICY NUMBER": "POLICY # TK-REJECT-001",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "\"Recent cybersecurity incident on 09/15/2023, resulting in unauthorized access to customer data; estimated loss of $5,000; currently under investigation with no resolution thus far.\"",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "Reject",
+      "Bodily Injury & Prop Damage Aggregate": "Reject",
+      "Medical Expense (per person)": "Reject",
+      "Damge to Rental Premises": "\"\"",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "\"Reject\"",
+      "ordinence and law": "\"\"",
+      "Flood": "\"\"",
+      "accounts recievable": "\"\"",
+      "employee dishonesty": "\"\"",
+      "money and securities": "\"\"",
+      "ADDRESS": "\"456 Play Avenue, Playtown, TX 75001-1234\"",
+      "Year Built": "2005",
+      "Square Feet": "0.0",
+      "HOURS OF OPERATION": "\"10:00 AM - 7:00 PM\"",
+      "Distance to hydrant": "0 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "\"\"",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$0",
+      "TOTAL PAYROLL": "\"\"",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Not Applicable - Lacking documented cybersecurity measures.\"",
+      "MONEY ON PREMISES": "\"\"",
+      "OTHER PROTECTION": "Not Applicable - Lacking documented cybersecurity measures.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "\"\"",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Toy Kingdom does not engage in operations involving hazardous materials such as storing, treating, discharging, applying, disposing, or transporting hazardous materials. The focus of the business is solely on retailing toys without any involvement in hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Toy Kingdom does not sponsor any athletic teams. We focus solely on retail operations and enhancing our cybersecurity measures.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are typically checked by the management to ensure compliance and mitigate risks associated with subcontractor activities.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Toy Kingdom has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "Yes \u2013 The policy was declined due to a lack of documented cybersecurity measures, critical for protecting sensitive customer and transaction data. As a result, coverage cannot be provided until these measures are implemented.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Toy Kingdom does not lease employees to or from other employers. This practice is not applicable to our operations as we focus solely on our retail business.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Toy Kingdom currently does not have any Workers' Compensation coverage as they lack documented cybersecurity measures, which is a requirement for eligibility.",
+      "G8: Do you own or operate any other business?": "No \u2013 Toy Kingdom has no other businesses owned or operated, as we are focusing solely on enhancing our current operations and improving cybersecurity measures.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Toy Kingdom currently lacks any other insurance policies with this company, primarily due to the lack of documented cybersecurity measures that are essential for coverage eligibility.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Toy Kingdom is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on retailing toys sourced from reputable manufacturers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Toy Kingdom does not rent or loan equipment to others, which aligns with our commitment to managing risk and maintaining operational efficiency.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Toy Kingdom has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business has maintained a stable financial status.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Toy Kingdom does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on retailing toys without any involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Toy Kingdom does not have any catastrophe exposure, as we focus exclusively on retail operations without involvement in high-risk activities. Additionally, we are currently enhancing our cybersecurity measures to improve data protection.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Toy Kingdom currently has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company is focused on improving its operations and implementing cybersecurity measures.",
+      "G16: Any uncorrected fire code violations?": "Yes \u2013 Toy Kingdom has uncorrected fire code violations, which raise concerns about compliance with safety regulations. The lack of documented cybersecurity measures further complicates risk management efforts.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "Toy Kingdom has a fantastic selection of toys for all ages! My kids love exploring the aisles.",
+          "The staff at Toy Kingdom are super friendly and always ready to help find the perfect gift.",
+          "I appreciate the variety of educational toys available here. It's a great place to shop for thoughtful presents.",
+          "The store is well-organized, making it easy to find what you're looking for. Highly recommend!",
+          "Toy Kingdom often has great sales, making it a budget-friendly option for families."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for toy stores lacking documented cybersecurity measures, including firewalls and data encryption."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Toy Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for toy stores lacking documented cybersecurity measures, including firewalls and data encryption."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for toy stores lacking documented cybersecurity measures, including firewalls and data encryption.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that Toy Kingdom lacks documented cybersecurity measures, including firewalls and data encryption, which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Toy Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for toy stores lacking documented cybersecurity measures, including firewalls and data encryption."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to lack of documented cybersecurity measures, which is a clear violation of the specified restriction. Additionally, there are uncorrected fire code violations, which further complicate the risk management efforts.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for toy stores lacking documented cybersecurity measures, including firewalls and data encryption.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that Toy Kingdom lacks documented cybersecurity measures, including firewalls and data encryption, which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

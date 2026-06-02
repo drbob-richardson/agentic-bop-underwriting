@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Jewelry & Watch Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Elysian Jewelry & Watches",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Elegance St, Suite 100, New York, NY 10001-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Operations Manager, 123-456-7890",
+      "GL CODE": "GL CODE: 7990",
+      "SIC": "5944",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Elysian Jewelry & Watches, we specialize in retailing high-quality jewelry and timepieces, catering to a discerning clientele with a taste for elegance. Our operations focus solely on the sale of fine jewelry and watches, ensuring a curated selection that meets the highest standards of craftsmanship. We do not engage in any form of on-site manufacturing or pawn shop services, which helps us maintain a secure environment that prioritizes both quality and customer satisfaction. Our store is equipped with a 24/7 monitored alarm system to safeguard our valuable inventory, and we adhere strictly to comprehensive inventory management and loss prevention protocols. Staff members undergo thorough background checks to further enhance security and reduce the risk of internal theft. We pride ourselves on sourcing ethical gemstones and precious metals, underscoring our commitment to responsible business practices. With our dedication to providing exceptional products and services in a secure retail environment, we aim to foster a trustworthy relationship with our customers.",
+      "DATE BUSINESS STARTED": "06/15/2018",
+      "EFFECTIVE DATE": "08/01/2023",
+      "EXPIRATION DATE": "08/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500",
+      "POLICY #": "EJW-2023-001",
+      "OTHER BUSINESSES OWNED": "Elysian Fine Gifts, LLC - Specialty Home D\u00e9cor",
+      "PREVIOUS CARRIER": "Jewelry Insurance Solutions LLC",
+      "POLICY NUMBER": "EJW-2023-002",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, a theft occurred at our store, resulting in a loss of $2,000 worth of jewelry. The incident was reported to the authorities, and security footage was reviewed. The claim status is currently under investigation by our insurance provider.",
+      "Combined Single Limit": "$1,000,000 combined single limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 limit with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$10,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "4567 Gemstone Avenue, Suite 200, New York, NY 10001",
+      "Year Built": "2015",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "Monday to Friday: 10:00 AM - 6:00 PM; Saturday: 10:00 AM - 5:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$350,000",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Heavy-duty safe, Class 3, UL-listed for burglary protection.",
+      "MONEY ON PREMISES": "$10,000",
+      "OTHER PROTECTION": "24/7 monitored security personnel on-site during business hours to enhance loss prevention and safety measures.",
+      "Building limit": "$800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "100000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Elysian Jewelry & Watches does not engage in any operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. Our business operations are solely focused on retailing fine jewelry and watches without any on-site manufacturing or related activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Elysian Jewelry & Watches does not sponsor any athletic teams, as our focus is exclusively on retailing fine jewelry and watches.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The Operations Manager, Jane Doe, is responsible for checking the certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Elysian Jewelry & Watches has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a strong commitment to ethical business practices and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Elysian Jewelry & Watches has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. We comply with all insurance requirements and maintain a good standing with our previous carrier.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Elysian Jewelry & Watches does not lease employees to or from other employers, as our staffing needs are met internally with our own team.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Elysian Jewelry & Watches carries Workers Compensation insurance to comply with legal requirements and ensure protection for our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Elysian Jewelry & Watches also owns and operates Elysian Fine Gifts, LLC, which specializes in specialty home d\u00e9cor.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Elysian Jewelry & Watches does not have any other insurance policies with this company at this time. All insurance needs are currently addressed through the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Elysian Jewelry & Watches does not engage in any manufacturing, mixing, relabeling, or repackaging of products; our operations are strictly limited to the retail sale of fine jewelry and watches.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Elysian Jewelry & Watches does not rent or loan equipment to others, as our operations focus solely on retailing fine jewelry and watches without any involvement in equipment leasing.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Elysian Jewelry & Watches has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. We have maintained a stable financial standing during this period.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Elysian Jewelry & Watches does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on the retail of fine jewelry and watches without engaging in any hazardous activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Elysian Jewelry & Watches does not have any catastrophe exposure, as our operations are limited to retailing fine jewelry and watches without engaging in hazardous activities or operations that would increase such risk.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Elysian Jewelry & Watches has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strict policies and training to ensure a respectful and compliant workplace.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Elysian Jewelry & Watches has no uncorrected fire code violations, ensuring compliance with all fire safety regulations. Our store prioritizes safety and maintains a secure environment for both staff and customers.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Elysian Jewelry & Watches has an exquisite selection of pieces! The staff was incredibly helpful in finding the perfect gift for my wife.",
+          "I had a wonderful experience at Elysian. The quality of their jewelry is unmatched, and the customer service was top-notch.",
+          "This store is a gem! I found a stunning watch that I absolutely love. Highly recommend checking it out!",
+          "Elysian offers a beautiful range of jewelry and watches. The atmosphere is welcoming, and the staff is very knowledgeable.",
+          "I appreciate the ethical sourcing of their materials. It's great to shop at a place that values quality and responsibility."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No on-site cooking or food preparation allowed."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Jewelry & Watch Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No on-site cooking or food preparation allowed."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business focuses solely on retailing fine jewelry and watches without any on-site manufacturing or food preparation activities, and the third-party data does not mention any cooking or food preparation."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Jewelry & Watch Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No on-site cooking or food preparation allowed."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the restriction: No on-site cooking or food preparation allowed.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business focuses solely on retailing fine jewelry and watches without any on-site manufacturing or food preparation activities, and the third-party data does not mention any cooking or food preparation."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

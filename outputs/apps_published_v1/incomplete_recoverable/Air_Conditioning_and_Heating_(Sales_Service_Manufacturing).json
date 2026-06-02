@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Air Conditioning & Heating (Sales/Service/Manufacturing)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "CoolComfort HVAC Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Cooling Way, Suite 101  \nSpringfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "1711",
+      "SIC": "1711",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "CoolComfort HVAC Solutions specializes in residential and light commercial heating, ventilation, and air conditioning (HVAC) sales, service, and installation. Our operations encompass a range of services including system diagnostics, routine maintenance, emergency repairs, and energy-efficient equipment installations. We pride ourselves on employing a team of licensed and certified HVAC technicians who are committed to ongoing training and professional development to stay current with the latest industry standards and technologies. \n\nBy maintaining a written safety program and adhering to stringent safety protocols, we ensure a secure working environment for our employees and clients. We utilize EPA-compliant refrigerants and maintain meticulous records regarding refrigerant recovery and disposal to uphold our commitment to environmental responsibility. Our customer-centric approach includes using a CRM system to track service appointments, manage maintenance schedules, and address customer inquiries promptly. \n\nAt CoolComfort HVAC Solutions, we are dedicated to delivering high-quality service while prioritizing safety, compliance, and customer satisfaction. We continuously assess our operational practices to ensure we maintain the highest standards in our work.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "03/16/2023",
+      "EXPIRATION DATE": "03/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,200.00",
+      "POLICY #": "CC-2023-001",
+      "OTHER BUSINESSES OWNED": "Residential Heating Solutions LLC, 4567 Warmth Street, Springfield, IL 62704-5678",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "CC-2022-045",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 04/15/2022; Cause: Equipment malfunction during routine maintenance leading to property damage; Amount: $2,500; Status: Closed.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "5678 Climate Drive, Springfield, IL 62704-5678",
+      "Year Built": "2005",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 4:00 PM; Closed on Sunday",
+      "Distance to hydrant": "75 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$750,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Class 5, Grade B, UL Listed.",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Security fencing and 24/7 monitored surveillance system.",
+      "Building limit": "$1093500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 CoolComfort HVAC Solutions does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations, focusing solely on residential and light commercial HVAC services. The company prioritizes environmental responsibility and follows all relevant regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 CoolComfort HVAC Solutions does not sponsor athletic teams as their focus is primarily on HVAC services and customer care within the residential and light commercial sectors.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The company verifies these certificates to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 CoolComfort HVAC Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company prioritizes ethical practices and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 CoolComfort HVAC Solutions has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. The company maintains a positive insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 CoolComfort HVAC Solutions does not lease employees to or from other employers, ensuring a consistent and qualified workforce dedicated to our HVAC services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 CoolComfort HVAC Solutions carries workers' compensation insurance as part of its commitment to providing a safe working environment for its employees. This policy is active and compliant with legal requirements.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 CoolComfort HVAC Solutions also owns and operates Residential Heating Solutions LLC, which provides additional HVAC services. This allows the company to enhance its service offerings and reach a broader customer base.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 CoolComfort HVAC Solutions does not have any other insurance policies with this company at this time. The only current policy is the one identified by the policy number CC-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 CoolComfort HVAC Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products, focusing solely on residential and light commercial HVAC services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 CoolComfort HVAC Solutions does not rent or loan equipment to others, focusing solely on providing HVAC services directly to residential and light commercial clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 CoolComfort HVAC Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 CoolComfort HVAC Solutions does not have any exposure to flammables, explosives, or chemicals, as our services focus solely on residential and light commercial HVAC operations where such materials are not involved.",
+      "G14: Any catastrophe exposure?": "No \u2013 CoolComfort HVAC Solutions does not have any catastrophe exposure, as the company focuses on residential and light commercial HVAC services without engaging in high-risk operations that could lead to catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 CoolComfort HVAC Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to ethical practices and upholds strict hiring standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 CoolComfort HVAC Solutions does not have any uncorrected fire code violations, ensuring full compliance with safety regulations. The company maintains a written safety program and adheres to stringent safety protocols.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I was so impressed with how quickly they handled the heating issues at our chemical plant; their team truly knows their stuff and made sure everything was running smoothly for our operations! Highly recommend their service for industrial HVAC needs!",
+          "I recently had a new heating system installed, and I couldn't be happier with the results. Highly recommend their team!",
+          "Great experience with CoolComfort! They were professional and efficient during my routine maintenance check.",
+          "I appreciate their commitment to using EPA-compliant refrigerants. It's nice to see a company that cares about the environment.",
+          "The customer service was top-notch! They answered all my questions and made the whole process easy and stress-free."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants)."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants)."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Air Conditioning & Heating (Sales/Service/Manufacturing)",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants)."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants). (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The Google review mentions service at a chemical plant, indicating potential engagement in prohibited HVAC work in hazardous industrial facilities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Air Conditioning & Heating (Sales/Service/Manufacturing)",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants)."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants).",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants). (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The Google review mentions service at a chemical plant, indicating potential engagement in prohibited HVAC work in hazardous industrial facilities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

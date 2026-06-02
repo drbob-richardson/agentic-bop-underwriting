@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Post Office & Shipping Centers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Parcel Point Shipping Center",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Shipping Lane, Suite 100, Springfield, IL 62701-5432",
+      "CONTACT FOR INSPECTION": "John Smith, 555-123-4567, john.smith@parcelpoint.com",
+      "GL CODE": "12345-GL",
+      "SIC": "7389",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Parcel Point Shipping Center is a full-service post office and shipping center located in Springfield, IL. We specialize in offering a range of shipping options through established partnerships with major carriers, including USPS, UPS, and FedEx. Our operations include package acceptance, shipping, and the provision of mailing supplies to both retail and business customers. We emphasize convenience with self-service kiosks, ensuring that our customers can easily manage their shipments at their own pace. \n\nOur team is rigorously trained in customer service and shipping procedures, enabling us to handle a variety of packages while adhering to compliance standards regarding prohibited items and hazardous materials. Security is a priority at our facility, where we maintain surveillance systems and secure storage for packages. With a focus on operational efficiency, we regularly update our inventory management systems to ensure we meet customer demands without disruption.\n\nWe take pride in our commitment to customer satisfaction, ensuring that all operations are conducted within legal frameworks and industry standards. Our goal is to provide a reliable and efficient shipping experience, helping our customers navigate both domestic and limited international shipping needs effectively.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "11/01/2023",
+      "EXPIRATION DATE": "11/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "PP-2023-001",
+      "OTHER BUSINESSES OWNED": "Parcel Point Printing and Packaging Services",
+      "PREVIOUS CARRIER": "United Insurance Group",
+      "POLICY NUMBER": "PP-2022-005",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss dates: 03/15/2023; Cause: Package damage due to improper handling; Amount: $1,200.00; Status: Resolved with carrier reimbursement.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Bodily Injury & Prop Damage Aggregate with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 with a $500 deductible",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$250,000 limit with a $1,000 deductible",
+      "ordinence and law": "$500,000 limit with a $1,500 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "\"$250,000 limit with a $1,000 deductible\"",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Postal Road, Suite 200, Springfield, IL 62701-5432",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Dual-door, UL Class 2, safe with electronic lock; adequate for securing cash and sensitive documents.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "24-hour on-site security personnel and surveillance cameras installed throughout the facility.",
+      "Building limit": "$200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We handle standard shipping packages and comply with all regulations regarding prohibited items.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Parcel Point Shipping Center does not sponsor any athletic teams. Our focus is primarily on providing shipping and mailing services to our customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the business owner or designated personnel to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related offenses. They have a clean record in this regard.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years. The business has maintained a consistent insurance history and good standing.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Parcel Point Shipping Center does not lease employees to or from other employers. All employees are directly employed by the center, ensuring a consistent quality of service and compliance with regulatory standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Parcel Point Shipping Center carries Workers' Compensation insurance to ensure all employees are protected in case of work-related injuries or illnesses, complying with state regulations.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The Parcel Point Shipping Center also operates another business, Parcel Point Printing and Packaging Services. This allows us to offer complementary services to our customers while maintaining compliance with all regulations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Parcel Point Shipping Center does not have any other insurance policies with this company at this time. All insurance needs are met through the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Parcel Point Shipping Center is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing shipping and mailing services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Parcel Point Shipping Center does not rent or loan equipment to others; our operations focus solely on shipping and mailing services for our customers.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, indicating stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Parcel Point Shipping Center does not have exposure to flammables, explosives, or chemicals, as our operations focus on standard shipping packages and comply with all relevant regulations regarding hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Parcel Point Shipping Center does not have any known exposure to catastrophes, as our operations are focused strictly on standard shipping services without involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring at Parcel Point Shipping Center. The center maintains a strong compliance record and commitment to ethical standards in its operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Parcel Point Shipping Center, ensuring compliance with safety standards.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great service! The staff is always friendly and helpful, making shipping a breeze.",
+          "I love the self-service kiosks here. They save me so much time when I need to send packages.",
+          "Parcel Point Shipping Center has a wide range of shipping options. I appreciate their partnerships with major carriers.",
+          "The location is convenient, and I never have to wait long. Highly recommend for all your shipping needs!",
+          "I had a minor issue with a package, but the staff resolved it quickly and professionally. Excellent customer service!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No acceptance of businesses operating without all required federal, state, and local licenses."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Post Office & Shipping Centers",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No acceptance of businesses operating without all required federal, state, and local licenses."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not indicate any lack of required licenses, and the third-party data does not mention any licensing issues."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Post Office & Shipping Centers",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No acceptance of businesses operating without all required federal, state, and local licenses."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No acceptance of businesses operating without all required federal, state, and local licenses.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not indicate any lack of required licenses, and the third-party data does not mention any licensing issues."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

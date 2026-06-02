@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bicycle Sales & Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Pedal Power Bicycle Sales & Service",
+      "FEIN OR SOC SEC #": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Main Street, Anytown, USA 12345-6789",
+      "CONTACT FOR INSPECTION": "John Doe - (555) 123-4567",
+      "GL CODE": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Pedal Power Bicycle Sales & Service, our core operations focus on retail sales and expert bike repairs in a welcoming physical storefront. We offer a comprehensive range of bicycles, accessories, and apparel while ensuring all our staff are thoroughly trained in bicycle mechanics to provide quality service. Our operations are designed to comply with all necessary business licenses and safety regulations, ensuring a safe environment for our customers. To minimize liability exposure, we do not engage in bicycle rental or loaner programs. We maintain strict inventory management systems to safeguard our products and implement security measures including alarm systems and surveillance cameras. Our commitment to customer service is paramount, and we strive to create an engaging shopping experience through knowledgeable staff, organized displays, and community outreach programs.\n\nOur business offers a variety of bicycles for rent, in addition to our sales and service offerings, to provide customers with a complete cycling experience.",
+      "DATE BUSINESS STARTED": "01/01/2023",
+      "EFFECTIVE DATE": "01/15/2023",
+      "EXPIRATION DATE": "01/14/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "TOTAL PREMIUM": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "POLICY #": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses to report; operations limited to retail sales and service only, with no bicycle rental or loaner programs as per policy restrictions.",
+      "Combined Single Limit": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000,000",
+      "Medical Expense (per person)": "$0",
+      "Damge to Rental Premises": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "Professional Liability": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "Liquor Liability": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "Hired Auto": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "Non-owned Auto": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "Computers": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "ordinence and law": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "Flood": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "accounts recievable": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "employee dishonesty": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "money and securities": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "ADDRESS": "456 Elm Street, Anytown, USA 12345-6789",
+      "Year Built": "2020",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "\"Monday to Friday: 9:00 AM - 6:00 PM; Saturday: 10:00 AM - 5:00 PM; Sunday: Closed\"",
+      "Distance to hydrant": "30 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "$25,000",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$100,000",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B safe with standard grade and secured lock mechanism.",
+      "MONEY ON PREMISES": "REJECTED: No bicycle rental or loaner programs permitted.",
+      "OTHER PROTECTION": "Physical storefront secured with an alarm system and video surveillance to protect inventory.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual cash value (ACV)",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Pedal Power Bicycle Sales & Service does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is solely on retail sales and bicycle repair services.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Pedal Power Bicycle Sales & Service does not sponsor athletic teams as we focus solely on retail sales and bicycle repairs without additional sponsorship commitments.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance as per policy requirements. Certificates are typically checked by the management or designated staff responsible for compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Pedal Power Bicycle Sales & Service has not been indicted or convicted of any crimes related to fraud, bribery, arson, or any other arson-related offenses. We maintain strict compliance with all regulations and focus solely on retail sales and bicycle repair services.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Pedal Power Bicycle Sales & Service has not had any policies or coverage declined, canceled, or non-renewed in the prior 3 years. We maintain a compliant and focus-driven operation predominantly centered on retail sales and bicycle repair services.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Pedal Power Bicycle Sales & Service does not lease employees to or from other employers, as we focus solely on our in-house staff for retail and bike repair services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Pedal Power Bicycle Sales & Service does not have any Workers' Compensation insurance due to the prohibition of bicycle rental or loaner programs, which are not part of our operations. We focus solely on retail sales and bike repairs, ensuring compliance with all necessary business regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Pedal Power Bicycle Sales & Service does not own or operate any other business. Our sole focus is on bicycle retail sales and expert repairs within our storefront.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Pedal Power Bicycle Sales & Service does not have any other insurance policies with this company, as we do not engage in any rental or loaner programs. Our focus is solely on retail sales and bike repairs in compliance with established policies.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Pedal Power Bicycle Sales & Service is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on retail sales and bicycle repair services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Pedal Power Bicycle Sales & Service does not rent or loan equipment to others, as we focus solely on retail sales and bike repairs without engaging in rental or loaner programs. This approach minimizes liability exposure and aligns with our operational policies.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial status in compliance with operational guidelines.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Pedal Power Bicycle Sales & Service does not have exposure to flammables, explosives, or chemicals as our operations focus solely on bicycle retail and repairs without engaging in any hazardous materials activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Pedal Power Bicycle Sales & Service does not have any catastrophe exposure, as our operations are focused solely on retail sales and bicycle repairs without engaging in any rental or loaner programs that would increase liability risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Pedal Power Bicycle Sales & Service has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, maintaining a compliant and focused operational approach.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Pedal Power Bicycle Sales & Service does not have any uncorrected fire code violations as we adhere to all safety regulations in our operations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of bikes and accessories! The staff is knowledgeable and helped me find the perfect fit.",
+          "I had my bike serviced here, and the turnaround time was impressive. Highly recommend for repairs!",
+          "The atmosphere in the store is welcoming, and the staff genuinely cares about helping customers.",
+          "I love the community events they host! It's a great way to meet fellow cycling enthusiasts.",
+          "Excellent customer service! They took the time to explain everything about my new bike."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No bicycle rental or loaner programs permitted."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Bicycle Sales & Service",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No bicycle rental or loaner programs permitted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No bicycle rental or loaner programs permitted.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business offers a variety of bicycles for rent, which directly violates the underwriting guideline prohibiting bicycle rental or loaner programs."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Bicycle Sales & Service",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No bicycle rental or loaner programs permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the specific restriction: No bicycle rental or loaner programs permitted. This reason is clearly stated in the application. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No bicycle rental or loaner programs permitted.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business offers a variety of bicycles for rent, which directly violates the underwriting guideline prohibiting bicycle rental or loaner programs."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Paint & Wallpaper Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ColorSplash Paint & Wallpaper Store",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "123 Main St, Suite 100, Anytown, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "N/A",
+      "GL CODE": "Retail Paint & Wallpaper Store",
+      "SIC": "5231",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At ColorSplash Paint & Wallpaper Store, we specialize in retail sales of high-quality paints, wallpapers, and related home improvement supplies. Our operations focus on providing exceptional customer service, including expert color matching and consultation services within our store. We maintain a diverse selection of products, including eco-friendly and low-VOC options, catering to both residential and commercial customers. Our store features an organized showroom with clear emergency exits and accessible aisles, ensuring a safe shopping environment. We prioritize compliance with all environmental and safety regulations while providing training to our staff on the safe handling and disposal of hazardous materials. Although we occasionally offer limited local delivery services, we do not engage in any on-site painting or installation work, allowing us to maintain a focused retail environment that minimizes liability and risk.\n\nOur store specializes in selling high-quality paints and wallpaper, and we also provide on-site painting and wallpaper installation services to help our customers achieve their desired look for their homes and businesses.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECT-12345-XYZ",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ColorGuard Insurance Agency",
+      "POLICY NUMBER": "REJECT-12345-XYZ",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No reported losses due to operations being limited to retail sales, with no on-site painting or installation activities performed.",
+      "Combined Single Limit": "0",
+      "Bodily Injury & Prop Damage Occurrrence": "\"\"",
+      "Bodily Injury & Prop Damage Aggregate": "0",
+      "Medical Expense (per person)": "0",
+      "Damge to Rental Premises": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services.",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "\"\"",
+      "Non-owned Auto": "0",
+      "Computers": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services.",
+      "ordinence and law": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services.",
+      "Flood": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services.",
+      "accounts recievable": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services.",
+      "employee dishonesty": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services.",
+      "money and securities": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services.",
+      "ADDRESS": "456 Commercial Ave, Retail Plaza, Anytown, ST 12345-6789",
+      "Year Built": "1995",
+      "Square Feet": "1000.0",
+      "HOURS OF OPERATION": "\"Monday to Saturday: 8 AM - 7 PM, Sunday: Closed\"",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$0",
+      "TOTAL PAYROLL": "0",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Safe or vault class: Class 1, Grade: 2, Label: UL Listed.",
+      "MONEY ON PREMISES": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services.",
+      "OTHER PROTECTION": "No additional protection measures in place; operations limited to retail sales without on-site services.",
+      "Building limit": "$0",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 ColorSplash Paint & Wallpaper Store does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials, as our operations are strictly limited to retail sales without any on-site services.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ColorSplash Paint & Wallpaper Store does not sponsor athletic teams as our focus is solely on retail sales of paint and wallpaper products.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. This is crucial to ensure that there is adequate risk transfer and protection against potential liabilities.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ColorSplash Paint & Wallpaper Store has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. Our focus on retail operations without on-site services helps maintain a positive insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ColorSplash Paint & Wallpaper Store does not lease employees to or from other employers, as our operations focus solely on retail sales and do not involve any contracting or subcontracting services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 ColorSplash Paint & Wallpaper Store does not carry Workers\u2019 Compensation as we do not engage in any on-site painting or installation work, focusing solely on retail operations.",
+      "G8: Do you own or operate any other business?": "No \u2013 The ColorSplash Paint & Wallpaper Store does not own or operate any other business. Our operations are solely focused on retail sales of paint and wallpaper products.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ColorSplash Paint & Wallpaper Store does not carry any other insurance with this company as we maintain a focused retail operation without on-site services. Our risk profile aligns with our retail sales activities exclusively.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ColorSplash Paint & Wallpaper Store is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations are solely focused on retail sales without any on-site services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ColorSplash Paint & Wallpaper Store does not rent or loan equipment to others, as our operations are strictly limited to retail sales without any on-site services. This alignment helps minimize liability and operational risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ColorSplash Paint & Wallpaper Store has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Our financial history remains stable and there are no outstanding issues.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The ColorSplash Paint & Wallpaper Store does not have any exposure to flammables, explosives, or chemicals beyond typical retail activities, as we focus solely on selling paint and wallpaper without performing on-site work.",
+      "G14: Any catastrophe exposure?": "No \u2013 ColorSplash Paint & Wallpaper Store does not perform on-site painting or installation services, minimizing exposure to catastrophe risks associated with such activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ColorSplash Paint & Wallpaper Store has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations are strictly limited to retail sales without any on-site services.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ColorSplash Paint & Wallpaper Store maintains compliance with all fire codes and does not have any uncorrected fire code violations. Our operations focus on retail sales without on-site services, ensuring a safe environment.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "ColorSplash has an amazing selection of paints and wallpapers! The staff was super helpful in finding the perfect color for my living room.",
+          "I love shopping at ColorSplash! They have a great variety of eco-friendly options and the customer service is top-notch.",
+          "The color matching service at ColorSplash is fantastic! I was able to find the exact shade I needed for my project.",
+          "I appreciate the organized layout of the store. It made it easy to browse and find what I was looking for.",
+          "ColorSplash is my go-to place for all my painting needs. Their knowledgeable staff always provides great advice!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Paint & Wallpaper Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business provides on-site painting and wallpaper installation services, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Paint & Wallpaper Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application is rejected due to the specified reason regarding on-site painting and installation services, which is clearly stated in the application. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses performing on-site painting, wallpaper installation, or contracting services.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business provides on-site painting and wallpaper installation services, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

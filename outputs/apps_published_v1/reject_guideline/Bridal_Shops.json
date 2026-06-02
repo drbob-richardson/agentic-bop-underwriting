@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bridal Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Bridal Bliss Boutique",
+      "FEIN OR SOC SEC #": "",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "1234 Wedding Lane, Suite 100, Bridal City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "\"Jessica Smith, Bridal Operations Manager, 555-123-4567, jessica@bridalbliss.com\"",
+      "GL CODE": "\"GL-BRIDAL-001\"",
+      "SIC": "reject 2500",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Bridal Bliss Boutique, we specialize in providing a personalized experience for brides-to-be, focusing on an extensive selection of wedding gowns, bridesmaid dresses, and accessories. Our operations include individual consultations and fittings, allowing us to tailor each experience to the unique needs of our clients. We maintain strong relationships with reputable suppliers to ensure timely delivery of high-quality products. To protect our clients' information, we have implemented robust cybersecurity controls, including secure payment processing and data encryption, safeguarding against potential cyber threats. Our team participates in regular training on data privacy and customer service best practices, ensuring a knowledgeable and prepared staff.\n\nOur bridal shop operates by processing payments through an online system that does not currently incorporate documented cybersecurity measures such as data encryption or secure payment processing, as we focus primarily on enhancing customer experience and convenience.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "BRIDAL-2024-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Statewide Insurance Company",
+      "POLICY NUMBER": "BRIDAL-2023-002",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported. The shop maintains strong cybersecurity controls; however, it lacks a tested incident response plan for cyber events, which may compromise risk management and insurability.",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "\"Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.\"",
+      "Bodily Injury & Prop Damage Aggregate": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "Medical Expense (per person)": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "Damge to Rental Premises": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "Professional Liability": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "Liquor Liability": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "Hired Auto": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "Non-owned Auto": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "Computers": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "ordinence and law": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "Flood": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "accounts recievable": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "employee dishonesty": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "money and securities": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "ADDRESS": "1234 Wedding Lane, Suite 100, Bridal City, CA 90210-1234",
+      "Year Built": "2020",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "10:00 AM - 6:00 PM, Monday to Saturday, Closed on Sunday",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "NO. OF EMPLOYEES": "3",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"None, as the shop lacks a tested incident response plan for cyber events.\"",
+      "MONEY ON PREMISES": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "OTHER PROTECTION": "None, as the shop lacks a tested incident response plan for cyber events.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "personal property valuation type": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "personal property limit": "Reject: No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Bridal Bliss Boutique does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business focuses solely on providing wedding-related retail services.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Bridal Bliss Boutique does not sponsor athletic teams as it focuses exclusively on wedding-related retail services, including gowns and accessories for brides and bridesmaids.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are required to provide a certificate of insurance to ensure risk transfer. The bridal shop management is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Bridal Bliss Boutique has not had any applicant indicted or convicted of any degree of the crime of fraud, bribery, arson, or any related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Bridal Bliss Boutique has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. The shop has maintained continuous coverage without any reported issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Bridal Bliss Boutique does not lease employees to or from other employers. The shop operates with its own team of employees dedicated to providing personalized services to brides and their parties.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Bridal Bliss Boutique does not carry Workers' Compensation insurance. The shop is required to have this coverage, but we find that the necessary documentation of cybersecurity controls is lacking.",
+      "G8: Do you own or operate any other business?": "No \u2013 Bridal Bliss Boutique does not own or operate any other business, and focuses solely on providing wedding-related retail services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Bridal Bliss Boutique does not have any other insurance policies with this company. The focus remains on their current coverage, which adequately protects their operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Bridal Bliss Boutique is not involved in manufacturing, mixing, relabeling, or repackaging of products as our operations focus solely on retail services for wedding-related items.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Bridal Bliss Boutique does not rent or loan equipment to others, as our focus is solely on providing a personalized retail experience for brides and their parties. This policy helps us maintain operational control and prevent additional liabilities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Bridal Bliss Boutique has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The shop has maintained financial stability and walks in compliance with all applicable regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Bridal Bliss Boutique does not have any exposure to flammables, explosives, or chemicals, as its operations focus solely on providing wedding-related retail services.",
+      "G14: Any catastrophe exposure?": "No \u2013 Bridal Bliss Boutique does not have any catastrophic exposure related to natural disasters or other significant risks; however, the business must implement documented cybersecurity controls to mitigate potential cyber threats.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Bridal Bliss Boutique has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business prioritizes strong operational practices to maintain a safe and respectful environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Bridal Bliss Boutique does not have any uncorrected fire code violations, but coverage cannot be provided as they lack documented cybersecurity controls.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Bridal Bliss Boutique made my wedding dress shopping experience unforgettable! The staff was incredibly helpful and attentive.",
+          "I found the perfect bridesmaid dresses here. The selection was fantastic, and the fitting process was seamless.",
+          "The personalized service at Bridal Bliss is unmatched. They truly care about making your special day perfect!",
+          "I was impressed by the quality of the gowns and the professionalism of the staff. Highly recommend for any bride-to-be!",
+          "Bridal Bliss Boutique has a beautiful selection of dresses and accessories. The atmosphere is warm and inviting!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Bridal Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business processes payments through an online system that does not currently incorporate documented cybersecurity measures such as data encryption or secure payment processing."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Bridal Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to lack of documented cybersecurity controls, including secure payment processing and data encryption, as stated in the chosen rejection reason. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business processes payments through an online system that does not currently incorporate documented cybersecurity measures such as data encryption or secure payment processing."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

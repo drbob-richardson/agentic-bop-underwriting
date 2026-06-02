@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Detective & Security Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Guardian Security Solutions",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Main St, Suite 200, Anytown, NY 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator",
+      "GL CODE": "Unarmed security guard services for retail establishments with contents valued under $500,000",
+      "SIC": "8011",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Guardian Security Solutions specializes in providing unarmed security guard services primarily for commercial and retail establishments, focusing on locations with contents valued under $500,000. Our operations are centered on maintaining a secure environment through vigilant surveillance, access control, and customer service. We also offer security consulting services that include risk assessments and security audits, ensuring compliance with local regulations while minimizing exposure to liability. Our team is committed to employing only licensed personnel who are trained to handle various security challenges in a professional and effective manner. Additionally, we operate in accordance with key safety measures, such as ensuring all locations are equipped with monitored alarm systems for high-value contents. Our goal is to deliver reliable and effective security solutions tailored to the specific needs of our clients while adhering to established industry standards.\n\nOur detective and security services operate in locations with contents valued over $500,000, and we monitor security through our team on-site rather than using a central alarm system.",
+      "DATE BUSINESS STARTED": "01/15/2022",
+      "EFFECTIVE DATE": "01/16/2022",
+      "EXPIRATION DATE": "01/15/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECT-002021",
+      "OTHER BUSINESSES OWNED": "Security Consulting Services, providing risk assessments and security audits without direct involvement in physical security operations.",
+      "PREVIOUS CARRIER": "Guardian Insurance Company",
+      "POLICY NUMBER": "REJECT-002022",
+      "TOTAL LOSSES": "$45,000",
+      "DESCRIPTION OF LOSSES": "Losses incurred from a theft incident on 02/15/2022, attributed to a lack of monitored central alarm system as required for locations with contents valued over $500,000. Amount of loss estimated at $45,000. Status: Incident reported, under investigation.",
+      "Combined Single Limit": "$500,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$500,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 limit with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$50,000 limit with a $1,000 deductible",
+      "Professional Liability": "\"$1,000,000 limit with a $2,500 deductible\"",
+      "Liquor Liability": "reject",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "$10,000 limit with a $500 deductible",
+      "ordinence and law": "reject",
+      "Flood": "reject",
+      "accounts recievable": "reject",
+      "employee dishonesty": "reject",
+      "money and securities": "reject",
+      "ADDRESS": "123 Main St, Suite 200, Anytown, NY 12345-6789",
+      "Year Built": "2020",
+      "Square Feet": "0.0",
+      "HOURS OF OPERATION": "reject",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "$200,000",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "\"Monitored Class B safe, UL Listed, suitable for contents up to $500,000.\"",
+      "MONEY ON PREMISES": "$0",
+      "OTHER PROTECTION": "Monitored central alarm system in place for all locations.",
+      "Building limit": "$0",
+      "building % Coinsurance": "0%",
+      "personal property valuation type": "Actual cash value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "0%",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Guardian Security Solutions does not engage in operations involving storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our focus is on providing unarmed security services for locations with contents valued under $500,000, ensuring compliance with relevant safety measures.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Guardian Security Solutions does not sponsor athletic teams as part of its operations, focusing primarily on providing unarmed security guard services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this is essential for risk management. The verification of certificates is typically conducted by our designated compliance officer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Guardian Security Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our operations are focused solely on providing unarmed security services.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Guardian Security Solutions has not had any policies or coverage declined, canceled, or non-renewed in the past three years. Our operations have remained compliant, focusing on unarmed security services for low-risk environments.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Guardian Security Solutions does not lease employees to or from other employers. Our operations focus solely on providing unarmed security guard services with our own licensed personnel.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Guardian Security Solutions does not carry Workers Compensation insurance as required due to the lack of a monitored central alarm system for locations with contents valued over $500,000, which is a compliance issue that necessitates rejection of coverage.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Guardian Security Solutions operates another business, providing security consulting services focused on risk assessments and security audits without direct involvement in physical security operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Guardian Security Solutions does not have any other insurance policies with this company at this time. All coverage options have been evaluated based on compliance and operational requirements.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Guardian Security Solutions is not involved in the manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on providing unarmed security services for commercial and retail establishments.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Guardian Security Solutions does not rent or loan equipment to others, as it focuses on providing unarmed security guard services and does not engage in such operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Guardian Security Solutions has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a solid financial standing and compliance with relevant operational requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Guardian Security Solutions does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on providing unarmed security guard services in environments without such risks.",
+      "G14: Any catastrophe exposure?": "No \u2013 Guardian Security Solutions does not have catastrophe exposure, as our operations focus exclusively on providing unarmed security services in environments that comply with all relevant safety regulations. We also maintain appropriate safeguards, such as monitored alarm systems for high-value locations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Guardian Security Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company focuses on maintaining a secure environment and adheres to local regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Guardian Security Solutions does not have any uncorrected fire code violations at this time. All safety and compliance measures are actively maintained to ensure adherence to fire codes.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 45000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Guardian Security Solutions provided exceptional service for our retail store. Their unarmed guards were professional and attentive.",
+          "I appreciate the thoroughness of their security audits. They helped us identify vulnerabilities we weren't aware of.",
+          "The team at Guardian Security Solutions is reliable and always on time. Their presence has made our community feel much safer.",
+          "Great experience with their security consulting services. They offered valuable insights that improved our overall safety protocols.",
+          "I highly recommend Guardian Security Solutions for any business needing security services. Their staff is well-trained and very professional."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Locations with contents valued over $500,000 must have a monitored central alarm system."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Detective & Security Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Locations with contents valued over $500,000 must have a monitored central alarm system."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Locations with contents valued over $500,000 must have a monitored central alarm system.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business operates in locations with contents valued over $500,000 and does not use a monitored central alarm system, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Detective & Security Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Locations with contents valued over $500,000 must have a monitored central alarm system."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: Locations with contents valued over $500,000 must have a monitored central alarm system. This is a clear violation as the applicant operates in locations with contents exceeding this value without the required alarm system.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Locations with contents valued over $500,000 must have a monitored central alarm system.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business operates in locations with contents valued over $500,000 and does not use a monitored central alarm system, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

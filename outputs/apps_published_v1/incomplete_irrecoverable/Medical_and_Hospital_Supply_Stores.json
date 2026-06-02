@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Medical & Hospital Supply Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Caring Medical Supplies",
+      "FEIN OR SOC SEC #": "41-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Care Lane, Suite 101  \nSpringfield, IL 62701-2345",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Officer, Caring Medical Supplies, (555) 123-4567",
+      "GL CODE": "GLO-12345",
+      "SIC": "3841",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Caring Medical Supplies operates as a retail medical supply store dedicated to providing high-quality, FDA-approved medical equipment and supplies to healthcare providers, patients, and caregivers. Our operations encompass a diverse range of products including mobility aids, wound care supplies, personal protective equipment, and home health care items. We emphasize safety and compliance, ensuring that all products meet regulatory standards and undergo rigorous quality checks. Our store is designed with customer safety in mind, featuring well-lit aisles, clear signage, and organized displays to enhance the shopping experience. Our knowledgeable staff is trained in customer assistance and equipment usage, allowing us to support customers effectively and provide proper instructions for equipment operation. Furthermore, we have a proactive loss control program, conducting regular safety audits and equipment maintenance to uphold the highest standards of operation and ensure a safe shopping environment for our customers.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "07/01/2023",
+      "EXPIRATION DATE": "06/30/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$8,500",
+      "POLICY #": "CMS-2024-001",
+      "OTHER BUSINESSES OWNED": "Caring Home Health Services, LLC",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "CMS-2023-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss Date: 05/10/2022; Cause: Minor slip-and-fall incident involving a customer resulting from a spilled liquid on the floor; Amount: $1,200; Status: Closed - Customer matter resolved with no further claims.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit, $5,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit, $5,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Limit, $5,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Deductible, Limit $10,000 per person",
+      "Damge to Rental Premises": "$100,000 Limit, $2,500 Deductible",
+      "Professional Liability": "$1,000,000 Limit, $5,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit, $5,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Computers": "$50,000 Limit, $1,000 Deductible",
+      "ordinence and law": "$1,000,000 Limit, $5,000 Deductible",
+      "Flood": "$500,000 Limit, $5,000 Deductible",
+      "accounts recievable": "$100,000 Limit, $5,000 Deductible",
+      "employee dishonesty": "$100,000 Limit, $5,000 Deductible",
+      "money and securities": "$100,000 Limit, $5,000 Deductible",
+      "ADDRESS": "5678 Medical Park Drive, Suite 200  \nSpringfield, IL 62701-1234",
+      "Year Built": "2010",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM - 6 PM, Saturday: 10 AM - 4 PM, Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$350,000",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 2, Grade IX, UL Listed",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Surveillance system installed with monthly monitoring service and trained security personnel during operating hours.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Caring Medical Supplies does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. The operations focus on providing FDA-approved medical equipment and supplies, ensuring a safe environment for both customers and staff.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Caring Medical Supplies does not sponsor athletic teams as its focus is primarily on providing medical supplies and equipment.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer, John Smith, is responsible for checking certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Caring Medical Supplies has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business maintains a strong commitment to ethical practices and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed in the prior three years for Caring Medical Supplies.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Caring Medical Supplies does not lease employees to or from other employers, as our staffing is entirely handled in-house to maintain quality and compliance in our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Caring Medical Supplies carries Workers' Compensation insurance, ensuring compliance with legal requirements and providing coverage for employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Caring Medical Supplies operates another business, Caring Home Health Services, LLC, which aligns with their mission of providing healthcare-related services and products.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Caring Medical Supplies does not have any other insurance policies with this company, as indicated in the provided information. They only have the current policy listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Caring Medical Supplies does not engage in manufacturing, mixing, relabeling, or repackaging of products. The focus is solely on retailing high-quality, FDA-approved medical supplies and equipment.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Caring Medical Supplies does not rent or loan equipment to others. The focus is primarily on retailing high-quality, FDA-approved medical supplies and equipment.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Caring Medical Supplies has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial position.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Caring Medical Supplies does not have any exposure to flammables, explosives, or chemicals, as its operations focus on providing FDA-approved medical supplies and equipment in a safe retail environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Caring Medical Supplies does not have any exposure to catastrophe risks, as their operations focus on retailing FDA-approved medical supplies in a safe environment. The business maintains thorough safety protocols and appropriate insurance coverage to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Caring Medical Supplies has not had any past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring, maintaining a commitment to compliance and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations reported for Caring Medical Supplies. The company maintains compliance with all safety regulations to ensure a safe shopping environment.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Caring Medical Supplies has a fantastic selection of high-quality medical equipment. The staff is knowledgeable and always ready to help!",
+          "I had a great experience shopping here. The store is well-organized, and I found everything I needed without any hassle.",
+          "The customer service at Caring Medical Supplies is top-notch! They took the time to explain how to use the equipment I purchased.",
+          "I appreciate the cleanliness and safety measures in place at this store. It makes shopping for medical supplies much more comfortable.",
+          "Caring Medical Supplies offers a wide range of products at reasonable prices. I will definitely be returning for my future needs!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Do not accept businesses with a history of frequent or severe claims related to product liability, equipment malfunction, or bodily injury."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Medical & Hospital Supply Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Do not accept businesses with a history of frequent or severe claims related to product liability, equipment malfunction, or bodily injury."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not indicate any history of claims related to product liability, equipment malfunction, or bodily injury, and the third-party data shows no claims and positive reviews regarding safety and service."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Medical & Hospital Supply Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Do not accept businesses with a history of frequent or severe claims related to product liability, equipment malfunction, or bodily injury."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted due to a history of claims related to product liability, equipment malfunction, or bodily injury, which violates the specific restriction SPEC-1.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not indicate any history of claims related to product liability, equipment malfunction, or bodily injury, and the third-party data shows no claims and positive reviews regarding safety and service."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

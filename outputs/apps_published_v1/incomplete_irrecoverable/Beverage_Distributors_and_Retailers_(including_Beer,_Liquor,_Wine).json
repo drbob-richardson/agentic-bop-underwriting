@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Beverage Distributors & Retailers (including Beer, Liquor, Wine)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Beverage Haven Distributors",
+      "FEIN OR SOC SEC #": "45-6789123",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Beverage Blvd, Suite 100, Springfield, IL 62701-5432",
+      "CONTACT FOR INSPECTION": "John Smith - 555-123-4567",
+      "GL CODE": "1211",
+      "SIC": "5983",
+      "NATURE OF BUSINESS": "Wholesale",
+      "DESCRIPTION OF OPERATIONS": "Beverage Haven Distributors specializes in the wholesale distribution of a diverse range of alcoholic beverages, including beer, liquor, and wine. Our operations focus on delivering quality products to licensed retailers, bars, restaurants, and other establishments across the region. We prioritize compliance with all federal, state, and local alcohol regulations to ensure legal operation and minimize risks. Our team is trained in responsible beverage service, including age verification procedures to prevent underage sales. With a well-managed supply chain established with licensed manufacturers and importers, we guarantee a reliable inventory that meets the demands of our customers. Our facilities are equipped with measures to protect our valuable stock, ensuring we maintain excellent service delivery and operational integrity.",
+      "DATE BUSINESS STARTED": "04/01/2018",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "BEV-2024-00123",
+      "OTHER BUSINESSES OWNED": "Beverage Haven Spirits LLC, 456 Spirits Way, Springfield, IL 62701",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "BEV-ABC-98765",
+      "TOTAL LOSSES": "$8,500",
+      "DESCRIPTION OF LOSSES": "Loss incurred on 06/15/2023 due to damage from a severe storm causing water intrusion in storage area, resulting in a loss of $4,500. Status: Resolved. Loss on 09/10/2023 from theft of merchandise valued at $4,000. Status: In progress with police report filed. Total losses amount to $8,500.",
+      "Combined Single Limit": "$1,000,000/$5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000/$5,000",
+      "Medical Expense (per person)": "$5,000/$0",
+      "Damge to Rental Premises": "$100,000/$1,000",
+      "Professional Liability": "$1,000,000/$5,000",
+      "Liquor Liability": "$1,000,000/$5,000",
+      "Hired Auto": "$1,000,000/$1,000",
+      "Non-owned Auto": "$1,000,000/$1,000",
+      "Computers": "$50,000/$1,000",
+      "ordinence and law": "$500,000/$1,000",
+      "Flood": "$500,000/$2,500",
+      "accounts recievable": "$250,000/$1,000",
+      "employee dishonesty": "$100,000/$1,000",
+      "money and securities": "$250,000/$1,000",
+      "ADDRESS": "456 Beverage Way, Springfield, IL 62701",
+      "Year Built": "1995",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "08:00 AM - 10:00 PM",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B Safe, Grade II, UL Listed",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Central alarm system with motion detectors and regular monitoring by an external security service.",
+      "Building limit": "$250000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$200,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Beverage Haven Distributors does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of its operations. The focus is solely on the wholesale distribution of alcoholic beverages.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Beverage Haven Distributors does not sponsor any athletic teams as part of its operations. The focus remains solely on the wholesale distribution of alcoholic beverages.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our compliance team to ensure all required coverage is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Beverage Haven Distributors has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business maintains a commitment to compliance and ethical operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Beverage Haven Distributors has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance policies have been maintained without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Beverage Haven Distributors does not lease employees to or from other employers; all staffing is managed internally.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Beverage Haven Distributors carries workers' compensation insurance to ensure compliance with legal requirements and protect our employees during operational activities.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Beverage Haven Distributors also owns and operates Beverage Haven Spirits LLC, which is located at 456 Spirits Way, Springfield, IL 62701.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Beverage Haven Distributors currently does not have any other insurance policies with this company. The only policy listed is the primary coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Beverage Haven Distributors is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the wholesale distribution of alcoholic beverages to licensed retailers and establishments.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Beverage Haven Distributors does not rent or loan equipment to others; our operations focus solely on the wholesale distribution of alcoholic beverages.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Beverage Haven Distributors has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a stable financial position and complies with all operational requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Beverage Haven Distributors does not have exposure to flammables, explosives, or chemicals as our operations focus solely on the wholesale distribution of alcoholic beverages without engaging in hazardous material handling.",
+      "G14: Any catastrophe exposure?": "No \u2013 Beverage Haven Distributors does not have any known catastrophe exposure that would pose a significant risk to operations or assets. The company prioritizes compliance and risk management to mitigate potential threats.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Beverage Haven Distributors has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a commitment to ethical operations and compliance with all applicable regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Beverage Haven Distributors has no uncorrected fire code violations and maintains compliance with all fire safety regulations to ensure a safe operating environment.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 8500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Beverage Haven Distributors has an impressive selection of wines and spirits. The staff is knowledgeable and always ready to help!",
+          "I love the variety of craft beers available here! The prices are reasonable, and the service is top-notch.",
+          "Great experience! The team at Beverage Haven is friendly and efficient, making my orders quick and easy.",
+          "I appreciate their commitment to responsible service. It's reassuring to know they prioritize age verification.",
+          "The delivery service is reliable and timely. I can always count on Beverage Haven for my beverage needs!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Applicants with over $500,000 in contents/inventory must have a central alarm system."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Beverage Distributors & Retailers (including Beer, Liquor, Wine)",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Applicants with over $500,000 in contents/inventory must have a central alarm system."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Applicants with over $500,000 in contents/inventory must have a central alarm system. (visible in application text)",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text indicates that the business has a total inventory value exceeding $500,000, as evidenced by the total sales of $750,000 and the mention of a central alarm system, which implies compliance with the guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Beverage Distributors & Retailers (including Beer, Liquor, Wine)",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Applicants with over $500,000 in contents/inventory must have a central alarm system."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: Applicants with over $500,000 in contents/inventory must have a central alarm system. The applicant has $750,000 in inventory but has a central alarm system, which is acceptable. However, the application is flagged for review due to the total losses reported and the ongoing theft claim. Further clarification on the theft claim may be required.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Applicants with over $500,000 in contents/inventory must have a central alarm system. (visible in application text)",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text indicates that the business has a total inventory value exceeding $500,000, as evidenced by the total sales of $750,000 and the mention of a central alarm system, which implies compliance with the guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

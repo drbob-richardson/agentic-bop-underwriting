@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Heating & Refrigeration Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Comfort Zone Heating & Refrigeration Services",
+      "FEIN OR SOC SEC #": "\"\"",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "1600 HVAC Way, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Doe",
+      "GL CODE": "HVAC-GL-2023",
+      "SIC": "1711",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Comfort Zone Heating & Refrigeration Services specializes in providing reliable heating, ventilation, and air conditioning (HVAC) solutions for residential and small commercial clients. Our operations include installation, maintenance, and repair services aimed at ensuring optimal indoor comfort throughout the year. We pride ourselves on our commitment to safety and compliance, employing only certified and licensed technicians with ongoing training in HVAC systems. Our services are backed by comprehensive written safety protocols and preventive maintenance programs that help minimize emergency service calls and extend equipment lifespan. We are dedicated to environmentally responsible practices, conforming to EPA Section 608 refrigerant handling requirements and conducting regular audits to ensure compliance. Furthermore, we maintain strong supplier relationships to guarantee timely access to high-quality HVAC parts, ensuring our clients experience minimal downtime.\n\nOur company specializes in providing installation, maintenance, and service for ammonia-based refrigeration systems used in various industrial applications, ensuring efficiency and compliance with safety standards.",
+      "DATE BUSINESS STARTED": "08/15/2020",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "POLICY # ABC-1234-XY",
+      "OTHER BUSINESSES OWNED": "None.",
+      "PREVIOUS CARRIER": "XYZ Insurance Company",
+      "POLICY NUMBER": "ABC-1234-XY",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "Loss date: 08/01/2021, cause: Minor property damage due to equipment malfunction, amount: $1,500, status: Resolved.",
+      "Combined Single Limit": "\"Not applicable due to restrictions on combined single limit for businesses primarily engaged in ammonia-based or industrial refrigeration systems.\"",
+      "Bodily Injury & Prop Damage Occurrrence": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "Bodily Injury & Prop Damage Aggregate": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "Medical Expense (per person)": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "Damge to Rental Premises": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "Professional Liability": "reject",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "Non-owned Auto": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "Computers": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "ordinence and law": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "Flood": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "accounts recievable": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "employee dishonesty": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "money and securities": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "ADDRESS": "1600 HVAC Way, Suite 200, Springfield, IL 62704-1234",
+      "Year Built": "1985",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "8:00 AM - 6:00 PM, Monday to Friday; 9:00 AM - 2:00 PM, Saturday",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "\"$0\"",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "MONEY ON PREMISES": "$500",
+      "OTHER PROTECTION": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Not applicable due to restrictions on coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Comfort Zone Heating & Refrigeration Services primarily provides HVAC services and does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as core operations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Comfort Zone Heating & Refrigeration Services does not sponsor any athletic teams.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are typically checked by our compliance team to ensure proper risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any other arson-related crimes in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policy or coverage declines, cancellations, or non-renewals during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Comfort Zone Heating & Refrigeration Services does not lease employees to or from other employers. Our operations primarily focus on providing HVAC services without engaging in employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Comfort Zone Heating & Refrigeration Services does not have workers' compensation coverage due to their primary engagement in ammonia-based refrigeration systems, which falls outside the acceptable risk parameters.",
+      "G8: Do you own or operate any other business?": "No \u2013 Comfort Zone Heating & Refrigeration Services does not own or operate any other business. Their primary focus is on providing HVAC solutions for residential and small commercial clients.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Comfort Zone Heating & Refrigeration Services does not have any other insurance with this company as they do not meet the coverage criteria for businesses primarily engaged in ammonia-based refrigeration systems.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Comfort Zone Heating & Refrigeration Services does not engage in manufacturing, mixing, relabeling, or repackaging products as their primary operations focus on HVAC service and maintenance.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Comfort Zone Heating & Refrigeration Services does not rent or loan equipment to others, as doing so would pose compatibility issues with our coverage policies.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Comfort Zone Heating & Refrigeration Services has not experienced a foreclosure, repossession, bankruptcy, judgment, or lien in the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Comfort Zone Heating & Refrigeration Services specializes in HVAC solutions for residential and small commercial clients and does not primarily engage in working with flammables, explosives, or hazardous chemicals.",
+      "G14: Any catastrophe exposure?": "No \u2013 Comfort Zone Heating & Refrigeration Services does not engage in ammonia-based or industrial refrigeration systems, which are associated with elevated risks that exceed our coverage parameters. As a result, we cannot accommodate coverage for any catastrophe exposure related to these operations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Comfort Zone Heating & Refrigeration Services does not have any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to compliance and safety in its operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations reported. The company maintains compliance with all applicable fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Comfort Zone Heating & Refrigeration Services provided excellent service when my AC broke down. The technician was prompt and knowledgeable!",
+          "I had a great experience with Comfort Zone. They installed my new heating system quickly and efficiently. Highly recommend!",
+          "The team at Comfort Zone was professional and courteous. They explained everything clearly and left my home clean after the job.",
+          "I appreciate the quick response time from Comfort Zone when I called for a maintenance check. Their staff is always friendly and helpful.",
+          "Comfort Zone has been my go-to for HVAC needs. Their commitment to quality and customer satisfaction is evident in every interaction."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Heating & Refrigeration Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business specializes in providing installation, maintenance, and service for ammonia-based refrigeration systems used in various industrial applications."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Heating & Refrigeration Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: No coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business specializes in providing installation, maintenance, and service for ammonia-based refrigeration systems used in various industrial applications."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

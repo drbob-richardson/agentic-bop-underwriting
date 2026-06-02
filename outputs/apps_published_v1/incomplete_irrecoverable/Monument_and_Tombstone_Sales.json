@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Monument & Tombstone Sales",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Eternal Stone Monuments",
+      "FEIN OR SOC SEC #": "20-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Memorial Way, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Customer Relations Manager, 555-123-4567, john.smith@eternalstonemonuments.com",
+      "GL CODE": "5181",
+      "SIC": "3281",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Eternal Stone Monuments specializes in the design, manufacturing, and retail of high-quality monuments and tombstones. Our operations include selecting premium stone materials and employing skilled artisans for precision engraving and customization to reflect the unique memorial preferences of our clients. We also offer installation services, ensuring each monument is securely placed with respect to local regulations and safety standards. We pride ourselves on maintaining a clean and safe work environment, with ongoing employee training programs that emphasize safety and sanitation. In addition to our physical showroom, we provide an online platform for customer convenience, allowing users to browse our products, request quotes, and manage orders efficiently. Our commitment to quality and compliance with all applicable regulations ensures that we deliver reliable, durable memorial products that meet the expectations of families during their time of need.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,000.00",
+      "POLICY #": "ETM-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "BestComp Insurance Agency",
+      "POLICY NUMBER": "ETM-2022-045",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 05/10/2022; Cause: Incident during installation at a cemetery site; Amount: $1,000; Status: Resolved with insurance claim paid.",
+      "Combined Single Limit": "$1,000,000/$2,000 deductibles",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$2,500 deductible",
+      "Medical Expense (per person)": "$5,000/$0 deductible",
+      "Damge to Rental Premises": "$50,000/$1,000 deductible",
+      "Professional Liability": "$1,000,000/$2,500 deductible",
+      "Liquor Liability": "$1,000,000/$1,000 deductible",
+      "Hired Auto": "$1,000,000/$1,000 deductible",
+      "Non-owned Auto": "$1,000,000/$1,000 deductible",
+      "Computers": "$25,000/$500 deductible",
+      "ordinence and law": "$500,000/$2,500 deductible",
+      "Flood": "$250,000/$1,000 deductible",
+      "accounts recievable": "$250,000/$1,000 deductible",
+      "employee dishonesty": "$100,000/$1,000 deductible",
+      "money and securities": "$50,000/$1,000 deductible",
+      "ADDRESS": "5678 Granite Ave, Springfield, IL 62704-5678",
+      "Year Built": "1995",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM to 5 PM; Saturday: 10 AM to 4 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard Granite Vault, Grade A, Insulated",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and mobile security watchpersons during installation and high-traffic event periods.",
+      "Building limit": "$2000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Eternal Stone Monuments does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations, focusing instead on the design and installation of monuments and tombstones. Any materials used are standard stone products that do not fall under hazardous classifications.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Eternal Stone Monuments does not sponsor athletic teams as our focus is solely on the design and retail of monuments and tombstones. Our community engagement is primarily centered around providing memorial services and products.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Our team checks the certificates to ensure compliance and manage risk appropriately.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Eternal Stone Monuments has not faced any indictments or convictions related to fraud, bribery, arson, or arson-related crimes. The company's operations are conducted with a commitment to integrity and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Eternal Stone Monuments has not had any policies or coverage declined, canceled, or non-renewed in the past three years. All coverage has been maintained without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Eternal Stone Monuments does not lease employees to or from other employers, as we maintain our own dedicated team to manage all operations and services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Eternal Stone Monuments carries Workers Compensation insurance to ensure compliance and protect our employees while they perform their duties.",
+      "G8: Do you own or operate any other business?": "No \u2013 Eternal Stone Monuments does not own or operate any other business, focusing solely on the design, manufacturing, and retail of monuments and tombstones.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Eternal Stone Monuments does not have any other insurance policies with the company. The only coverage currently held is the policy listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "Yes \u2013 Eternal Stone Monuments is involved in the manufacturing of monuments and tombstones as part of our operations, including the design and engraving processes. However, this is not considered manufacturing, mixing, relabeling, or repackaging of products beyond incidental retail private label.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Eternal Stone Monuments does not rent or loan equipment to others; our operations focus on the design and installation of monuments and tombstones without engaging in equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Eternal Stone Monuments has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a solid financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Eternal Stone Monuments does not have any exposure to flammables, explosives, or chemicals as our operations primarily involve the design and installation of stone monuments and tombstones, using materials that do not pose such risks.",
+      "G14: Any catastrophe exposure?": "No \u2013 Eternal Stone Monuments does not have any catastrophe exposure as our operations are focused on the design and installation of monuments and tombstones, which do not involve high-risk activities associated with catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Eternal Stone Monuments has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to compliance and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Eternal Stone Monuments does not have any uncorrected fire code violations, ensuring compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Eternal Stone Monuments provided exceptional service during a difficult time. The staff was compassionate and helped us choose the perfect memorial.",
+          "I was impressed with the quality of the tombstone we ordered. The craftsmanship is outstanding, and it truly honors my loved one.",
+          "The team at Eternal Stone Monuments was very professional and attentive. They guided us through the entire process with care and respect.",
+          "I highly recommend Eternal Stone Monuments! Their selection is vast, and the prices are reasonable for the quality you receive.",
+          "From start to finish, the experience was seamless. The installation was done with great care, and the final product exceeded our expectations."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Coverage is excluded for intentional acts or gross negligence by the insured."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Monument & Tombstone Sales",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is excluded for intentional acts or gross negligence by the insured."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not indicate any intentional acts or gross negligence, and the third-party data reflects positive reviews without any mention of negligence or intentional misconduct."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Monument & Tombstone Sales",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is excluded for intentional acts or gross negligence by the insured."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation: Coverage is excluded for intentional acts or gross negligence by the insured. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not indicate any intentional acts or gross negligence, and the third-party data reflects positive reviews without any mention of negligence or intentional misconduct."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

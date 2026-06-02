@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Libraries & Museums",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Heritage Archives Museum",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Heritage Way, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Sarah Johnson, Senior Curator, Heritage Archives Museum, Phone: (555) 123-4567, Email: sjohnson@heritagearchives.org",
+      "GL CODE": "12345",
+      "SIC": "8412",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Heritage Archives Museum operates as a community resource dedicated to preserving and showcasing local history and culture. Our core operations include curating a diverse collection of artifacts, documents, and artworks, as well as providing educational programs and events for all ages. We prioritize the preservation and protection of our collections through stringent climate control measures and regular maintenance of our facility. Our staff is trained in collection handling and emergency procedures to ensure the safety of both visitors and our valuable items. We maintain comprehensive security systems, including surveillance cameras and controlled access to safeguard our premises. In addition, we implement documented emergency response protocols and conduct regular risk assessments to identify and mitigate potential threats. Heritage Archives Museum serves as a vibrant hub for learning and engagement, fostering a deeper understanding of our shared heritage.",
+      "DATE BUSINESS STARTED": "05/15/2000",
+      "EFFECTIVE DATE": "01/01/2023",
+      "EXPIRATION DATE": "12/31/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "HAMP-2023-001",
+      "OTHER BUSINESSES OWNED": "Community Heritage Educational Center",
+      "PREVIOUS CARRIER": "Heritage Insurance Group",
+      "POLICY NUMBER": "HAMP-2023-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Losses incurred due to water damage from a burst pipe on January 10, 2023, resulting in $1,500 in repairs. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000/$2,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000 deductible",
+      "Medical Expense (per person)": "$5,000 / $2,500 deductible",
+      "Damge to Rental Premises": "$100,000 / $1,000 deductible",
+      "Professional Liability": "$1,000,000 / $5,000 deductible",
+      "Liquor Liability": "$1,000,000 / $5,000 deductible",
+      "Hired Auto": "$1,000,000 / $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 / $1,000 deductible",
+      "Computers": "$50,000 / $1,000 deductible",
+      "ordinence and law": "$500,000 / $2,500 deductible",
+      "Flood": "$500,000 / $5,000 deductible",
+      "accounts recievable": "$100,000 / $1,000 deductible",
+      "employee dishonesty": "$100,000 / $1,000 deductible",
+      "money and securities": "$100,000 / $1,000 deductible",
+      "ADDRESS": "456 Heritage Lane, Springfield, IL 62701-5678",
+      "Year Built": "1995",
+      "Square Feet": "15000",
+      "HOURS OF OPERATION": "08:00 AM - 06:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$250,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fire-Rated Class 1 Safe, UL Listed, 1-Hour Fire Resistance.",
+      "MONEY ON PREMISES": "$2,500.00",
+      "OTHER PROTECTION": "Comprehensive security measures with surveillance cameras and controlled access, along with 24-hour on-site watchpersons to ensure the safety and protection of collections and visitors.",
+      "Building limit": "$900000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Heritage Archives Museum does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. Their focus is on preserving and showcasing local history and culture in a safe environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Heritage Archives Museum does not sponsor athletic teams as its focus is on preserving and showcasing local history and culture through educational programs and exhibitions.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the designated risk management team or compliance officer to ensure adequate coverage.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Heritage Archives Museum has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Heritage Archives Museum has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. The institution maintains a good standing with its previous carrier.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Heritage Archives Museum does not lease employees to or from other employers. All staff members are directly employed by the museum.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Heritage Archives Museum carries Workers' Compensation insurance to comply with legal requirements and ensure the protection of its employees. The policy is active and up to date.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Heritage Archives Museum operates another business, the Community Heritage Educational Center, which focuses on educational programs and outreach related to local history and culture.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Heritage Archives Museum currently holds one policy with this insurance company, specifically policy number HAMP-2023-001. There are no additional policies or coverage with this company to list.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Heritage Archives Museum is not involved in manufacturing, mixing, relabeling, or repackaging products as its primary focus is on preserving and showcasing local history and culture. The operations strictly adhere to serving the community through educational programs and exhibitions.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Heritage Archives Museum does not rent or loan equipment to others as part of its operational practices. The focus remains on preserving and showcasing local history and culture without engaging in equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Heritage Archives Museum has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Their financial practices indicate stability and responsible management.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Heritage Archives Museum does not have exposure to flammables, explosives, or chemicals as part of its operations. The museum focuses on preserving and showcasing local history in a safe and controlled environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Heritage Archives Museum has implemented comprehensive security measures and maintains a documented emergency response plan, which minimizes potential catastrophe exposure. The facility is well-maintained, and regular risk assessments are conducted to address any possible threats.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Heritage Archives Museum has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The institution maintains a strong commitment to ethical practices and compliance in its operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Heritage Archives Museum has no uncorrected fire code violations and maintains compliance with all relevant safety regulations to ensure a safe environment for visitors and collections.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "A fantastic place to explore local history! The exhibits are well-curated and the staff is incredibly knowledgeable.",
+          "I love visiting the Heritage Archives Museum! It's a great resource for both kids and adults, with engaging programs and activities.",
+          "The museum has a wonderful collection of artifacts that truly showcase our community's heritage. Highly recommend for history buffs!",
+          "The staff is friendly and always willing to help. The museum is well-maintained and offers a peaceful environment to learn.",
+          "I attended a workshop here and it was excellent! The facilities are top-notch and the atmosphere is inspiring."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Libraries & Museums",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Libraries & Museums",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Accounting & Financial Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Accounting Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 400, Anytown, NY 12345-6789",
+      "CONTACT FOR INSPECTION": "Jane Doe, Senior Compliance Officer, 123 Main Street, Suite 400, Anytown, NY 12345-6789, (555) 123-4567, janedoe@precisionaccounting.com",
+      "GL CODE": "G1245",
+      "SIC": "8721",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Precision Accounting Solutions, our core operations focus on providing reliable and compliant accounting and financial services tailored for individual taxpayers and small businesses. We specialize in individual tax preparation, basic bookkeeping, and payroll processing to ensure our clients meet their financial obligations without unnecessary complexities. Our team consists of certified public accountants and trained bookkeepers who maintain rigorous professional standards and undergo regular training to stay updated with applicable tax laws and practices.\n\nWe make use of secure, industry-standard accounting software to manage client data and implement strong data security measures to protect sensitive information. Our operations also include quarterly and annual financial reporting, ensuring that our clients have a clear understanding of their financial position. We adhere to strict guidelines and best practices, including maintaining professional liability insurance and conducting regular audits of our accounting practices. Transparency is key in our client relations, and we establish clear, written engagement agreements that detail the scope of services and fees, helping to ensure a trustworthy and efficient working relationship with our clients.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "07/01/2023",
+      "EXPIRATION DATE": "07/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "PA-2023-0012",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Allied Insurance Advisors",
+      "POLICY NUMBER": "PA-2022-0087",
+      "TOTAL LOSSES": "$10,000",
+      "DESCRIPTION OF LOSSES": "Losses occurred on 05/10/2023 due to a data breach resulting in unauthorized access to client information, resulting in a loss amount of $5,000. The issue has been resolved with enhanced security measures implemented. Additionally, a claim on 07/15/2022 for $5,000 related to accounting errors due to software malfunction is still under review.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $5,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit with a $5,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 Limit with a $5,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit with a $1,000 Deductible",
+      "Damge to Rental Premises": "$100,000 Limit with a $1,000 Deductible",
+      "Professional Liability": "\"$1,000,000 Limit with a $5,000 Deductible\"",
+      "Liquor Liability": "$1,000,000 Limit with a $5,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit with a $1,000 Deductible",
+      "Non-owned Auto": "$500,000 Limit with a $1,000 Deductible",
+      "Computers": "\"$100,000 Limit with a $1,000 Deductible\"",
+      "ordinence and law": "$1,000,000 Limit with a $5,000 Deductible",
+      "Flood": "$500,000 Limit with a $10,000 Deductible",
+      "accounts recievable": "\"$500,000 Limit with a $5,000 Deductible\"",
+      "employee dishonesty": "\"$300,000 Limit with a $5,000 Deductible\"",
+      "money and securities": "\"$200,000 Limit with a $5,000 Deductible\"",
+      "ADDRESS": "456 Elm Street, Suite 200, Anytown, NY 12345-6789",
+      "Year Built": "2010",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM to 5:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Steel security safe, Class B, UL listed.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Security personnel and perimeter fencing with secure access controls.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our past, present, and discontinued operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus solely on providing accounting and financial services without any handling of such materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as our focus is primarily on providing accounting and financial services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically reviewed and verified by our compliance officer to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions of any degree for fraud, bribery, arson, or any other arson-related crimes in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers, as our operations focus solely on providing accounting and financial services within our own team.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Workers' Compensation coverage is carried with an active policy in place, ensuring compliance with legal requirements for our employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 We do not own or operate any other business. Our focus is entirely on providing accounting and financial services through Precision Accounting Solutions.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We currently do not have any other insurance policies with this company. Our only insurance policy is the one listed under the policy number PA-2023-0012.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are solely focused on providing accounting and financial services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others as our operations are focused solely on providing accounting and financial services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There have been no foreclosures, repossessions, bankruptcies, judgments, or liens during the past five years. The financial standing of the applicant remains stable.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have any exposure to flammables, explosives, or chemicals as our operations are solely focused on providing accounting and financial services, which do not involve handling such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any catastrophe exposure as our operations focus solely on providing accounting and financial services without activities that would lead to such risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring within our organization. We prioritize a safe and compliant work environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations for Precision Accounting Solutions. All fire safety codes and requirements are being adhered to.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 10000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Accounting Solutions has been a lifesaver for my small business. Their team is knowledgeable and always available to answer my questions.",
+          "I appreciate the professionalism and attention to detail at Precision Accounting. They made my tax preparation process smooth and stress-free.",
+          "Great experience with Precision Accounting! They helped me understand my financials better and provided excellent bookkeeping services.",
+          "The staff at Precision Accounting Solutions are friendly and efficient. I highly recommend them for anyone needing reliable accounting services.",
+          "I trust Precision Accounting with all my financial needs. Their expertise and commitment to client satisfaction are truly commendable."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Accounting & Financial Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Accounting & Financial Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

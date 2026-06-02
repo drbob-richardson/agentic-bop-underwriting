@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Barber & Beauty Salons",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Stylish Mane",
+      "FEIN OR SOC SEC #": "The Stylish Mane must provide forms LS-76 and LS-76A.",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "CONTACT FOR INSPECTION": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "GL CODE": "\"Barber and Beauty Salon General Liability\"",
+      "SIC": "8121",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "The Stylish Mane operates as a full-service barber and beauty salon located in a dedicated commercial space, specializing in a range of services including haircuts, styling, coloring, and conditioning for both men and women. Our team is comprised of licensed and certified professionals who are committed to providing high-quality services while adhering to all applicable health, safety, and sanitation regulations. We utilize only professional-grade products and equipment to ensure the best results and minimize liability risks. Our salon maintains up-to-date professional liability insurance, ensuring coverage for our operations and compliance with industry standards. We do not engage in high-risk services such as medical or invasive cosmetic procedures, and we focus exclusively on non-invasive beauty services to align with our commitment to safe and professional practices. To support our operational efficiency and client satisfaction, we use a digital appointment management system and have strict sanitation protocols in place. Additionally, we strive to maintain a calm and welcoming atmosphere for our clients, ensuring a positive experience with every visit.\n\nOur salon offers a full range of hair cutting, styling, and coloring services, and we also provide chemical treatments for hair straightening and curling, which are essential to our clients\u2019 desired looks.",
+      "DATE BUSINESS STARTED": "04/15/2018",
+      "EFFECTIVE DATE": "05/01/2023",
+      "EXPIRATION DATE": "05/01/2024",
+      "NEW/RENEWAL": "RENEWAL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.\"",
+      "POLICY #": "BarberBeauty1234",
+      "OTHER BUSINESSES OWNED": "Barber and beauty businesses are prohibited from operating without the required LS-76 and LS-76A forms.",
+      "PREVIOUS CARRIER": "Barber & Beauty Insurance Co.",
+      "POLICY NUMBER": "BarberBeautyPolicy001",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "Combined Single Limit": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "Bodily Injury & Prop Damage Occurrrence": "\"\"",
+      "Bodily Injury & Prop Damage Aggregate": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "Medical Expense (per person)": "\"\"",
+      "Damge to Rental Premises": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "Professional Liability": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "Liquor Liability": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "Hired Auto": "\"Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.\"",
+      "Non-owned Auto": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "Computers": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "ordinence and law": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "Flood": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "accounts recievable": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "employee dishonesty": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "money and securities": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "ADDRESS": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "Year Built": "2000",
+      "Square Feet": "-76.0",
+      "HOURS OF OPERATION": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$-76",
+      "TOTAL PAYROLL": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "MONEY ON PREMISES": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "OTHER PROTECTION": "Barber and beauty shops must implement fencing and security watchpersons to enhance the safety and protection of the premises.",
+      "Building limit": "$-76",
+      "building % Coinsurance": "",
+      "personal property valuation type": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "personal property limit": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "personal property % Coinsurance": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Barber and beauty salons typically do not involve storing, treating, discharging, applying, disposing of, or transporting hazardous materials as part of their standard operations. Additionally, the required forms LS-76 and LS-76A ensure compliance with relevant regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Barber and beauty salons must have forms LS-76 and LS-76A attached to be eligible, which indicates they do not sponsor athletic teams.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance as it poses unbounded vicarious exposure. These certificates are typically checked by the salon owner or their designated staff.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The Stylish Mane must provide forms LS-76 and LS-76A to be eligible for coverage, which are currently not attached.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Stylish Mane must provide forms LS-76 and LS-76A to be eligible for coverage, which are currently not attached. Therefore, the inquiry regarding any policy or coverage declined, canceled, or non-renewed during the prior 3 years is not applicable.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible for coverage, which are currently not provided.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Barber and beauty shops must have forms LS-76 and LS-76A attached to be eligible for coverage, which are currently not provided.",
+      "G8: Do you own or operate any other business?": "No \u2013 Barber and beauty shops are required to have forms LS-76 and LS-76A attached to be eligible, and without these forms, the application cannot proceed.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Barber and beauty shops must have forms LS-76 and LS-76A attached to be eligible for coverage, and these forms are currently not provided. Therefore, the application cannot proceed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Barber and Beauty Salons must have forms LS-76 and LS-76A attached to be eligible for coverage, which are currently not provided.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible for renting or loaning equipment to others. Without these forms, the application cannot proceed.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The Stylish Mane must provide forms LS-76 and LS-76A to be eligible for coverage, which are currently not attached. As a result, the application cannot proceed.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Barber and beauty salons typically do not have exposure to flammables, explosives, or chemicals as part of their standard operations, especially since they must provide forms LS-76 and LS-76A to be eligible.",
+      "G14: Any catastrophe exposure?": "No \u2013 Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible for coverage, and these forms are currently not provided.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible for coverage, which are currently not provided. Therefore, the application cannot proceed based on this pre-condition.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible, and these forms are currently not provided. Therefore, the application cannot proceed.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Stylish Mane always delivers a fantastic haircut! The staff is friendly and professional.",
+          "I love the atmosphere at this salon. It's clean, welcoming, and the stylists really know their stuff!",
+          "Great experience every time! They use high-quality products and my hair always looks amazing after my visits.",
+          "I appreciate the attention to detail and the personalized service. Highly recommend for anyone looking for a new stylist!",
+          "The team at The Stylish Mane is incredibly talented. I always leave feeling refreshed and stylish!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Barber & Beauty Salons",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible, indicating a violation of the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Barber & Beauty Salons",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to missing required forms LS-76 and LS-76A, which are necessary for eligibility. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that Barber and/or beauty shops must have forms LS-76 and LS-76A attached to be eligible, indicating a violation of the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

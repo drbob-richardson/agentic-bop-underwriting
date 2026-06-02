@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Diaper & Linen Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Little Sprouts Diaper & Linen Services",
+      "FEIN OR SOC SEC #": "45-2345678",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Greenfield St, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Emily Johnson, Inspection Coordinator, 555-0123, emily.johnson@littlesprouts.com",
+      "GL CODE": "\"12345\"",
+      "SIC": "7342",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Little Sprouts Diaper & Linen Services, we specialize in providing high-quality diaper and linen rental services for families and businesses, focusing on convenience and hygiene. Our operations include washing, drying, and folding linens and diapers using state-of-the-art automated equipment to ensure efficiency and reduce manual handling risks. We adhere to strict safety and hygiene protocols, including thorough employee training on the proper handling of textiles and chemical use, ensuring compliance with all regulations. We maintain a routine equipment maintenance schedule to minimize risks of breakdowns and uphold safety standards. Our pickup and delivery services are designed to be both reliable and eco-friendly, utilizing well-maintained and insured vehicles. Customer satisfaction is paramount, with a commitment to quality control and a proactive risk management approach that includes regular safety audits. Through these practices, we aim to provide a safe and dependable service to our clients while fostering a strong community reputation.",
+      "DATE BUSINESS STARTED": "01/15/2022",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$4,500.00",
+      "POLICY #": "LSP-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "LSP-2023-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss date: 03/15/2023; Cause: Equipment breakdown due to routine maintenance failure; Amount: $2,000.00; Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $1,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "\"$50,000 / $1,000\"",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "\"$500,000 / $1,000\"",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "\"$100,000 / $1,000\"",
+      "ADDRESS": "5678 Blossom Lane, Springfield, IL 62704-1234",
+      "Year Built": "1995",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$300,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class A, Grade 1, Secured with biometric access and 24/7 surveillance.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Installation of perimeter fencing and security personnel during operations.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Little Sprouts Diaper & Linen Services does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. We focus on washing and handling textiles in accordance with strict safety and hygiene protocols.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Little Sprouts Diaper & Linen Services does not sponsor athletic teams as part of its operations. Our focus is primarily on providing diaper and linen rental services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our compliance team to ensure that all required documentation is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Little Sprouts Diaper & Linen Services has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain strict compliance with all legal and regulatory requirements.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Little Sprouts Diaper & Linen Services has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. We maintain a strong compliance record and proactive risk management approach.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Little Sprouts Diaper & Linen Services does not lease employees to or from other employers. All of our personnel are directly employed and trained by us to ensure quality and consistency in our services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Little Sprouts Diaper & Linen Services carries Workers' Compensation insurance to ensure coverage for our employees and comply with legal requirements. This policy is active and in place to protect our workforce during their employment with us.",
+      "G8: Do you own or operate any other business?": "No \u2013 Little Sprouts Diaper & Linen Services does not own or operate any other business. We are solely focused on providing our diaper and linen rental services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Little Sprouts Diaper & Linen Services does not have any other insurance with this company at this time. We only hold the policy indicated for our current operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Little Sprouts Diaper & Linen Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the washing and rental of linens and diapers, adhering to strict safety and hygiene protocols.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Little Sprouts Diaper & Linen Services does not rent or loan equipment to others. Our operations focus exclusively on providing diaper and linen rental services directly to customers.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Little Sprouts Diaper & Linen Services has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, indicating a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Little Sprouts Diaper & Linen Services does not have any exposure to flammables, explosives, or chemicals as we strictly follow safety protocols and do not handle such materials in our operations. Our focus is solely on laundering textiles while ensuring a safe and hygienic environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Little Sprouts Diaper & Linen Services has no catastrophe exposure, as our operations focus solely on laundering textiles without involvement in high-risk activities or environments. We maintain strict safety protocols to further minimize any potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Little Sprouts Diaper & Linen Services has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize a safe and compliant working environment for all employees and clients.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Little Sprouts Diaper & Linen Services has no uncorrected fire code violations. We maintain compliance with all fire safety regulations and ensure regular inspections.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Little Sprouts has been a lifesaver for our family! Their service is reliable and the quality of the linens is top-notch.",
+          "I appreciate the eco-friendly approach they take with their delivery service. Highly recommend for anyone needing diaper services!",
+          "The staff at Little Sprouts are always friendly and professional. They make the whole process so easy!",
+          "I love how clean and fresh everything smells when it arrives. Great service and very convenient!",
+          "Their automated equipment really shows in the quality of the linens. I\u2019m very satisfied with my experience!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Diaper & Linen Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Diaper & Linen Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Plumbing & HVAC Contractors",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Reliable Plumbing & HVAC Solutions",
+      "FEIN OR SOC SEC #": "20-5555555",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Main Street, Suite 200, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "GL Code: 17200",
+      "SIC": "1711",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "Reliable Plumbing & HVAC Solutions specializes in providing comprehensive plumbing and HVAC services for residential and light commercial clients. Our operations include the installation, repair, and maintenance of various systems, such as heating, ventilation, and air conditioning units, along with the essential plumbing installations and upgrades. We prioritize safety and compliance with local, state, and federal regulations, ensuring all work is performed by licensed technicians to maintain high quality and efficiency. Our team is committed to ongoing training and development, adhering to strict safety protocols, and documenting all maintenance and training activities to mitigate risks and enhance service reliability. We do not engage in high-risk activities such as demolition or hazardous material handling, allowing us to focus on delivering specialized services tailored to our clients' needs while maintaining a clean claims history and fostering strong relationships with reputable vendors.",
+      "DATE BUSINESS STARTED": "03/15/2015",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,500.00",
+      "POLICY #": "PLUMB-2023-001",
+      "OTHER BUSINESSES OWNED": "Reliable Heating and Cooling Services",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "PLUMB-2022-009",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss dates: 03/10/2023; Cause: Water damage due to a burst pipe during a winter freeze; Amount: $1,500; Status: Resolved.  \nLoss dates: 07/15/2023; Cause: HVAC system malfunction requiring emergency repairs; Amount: $1,000; Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$25,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$500,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "4567 Oak Avenue, Suite 5, Springfield, IL 62701-5678",
+      "Year Built": "1995",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "08:00 AM - 06:00 PM",
+      "Distance to hydrant": "75 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$400,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and on-site watchpersons during high-value installations.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Reliable Plumbing & HVAC Solutions does not engage in operations that involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our focus is strictly on plumbing and HVAC services within residential and light commercial settings.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Reliable Plumbing & HVAC Solutions does not sponsor any athletic teams. The focus of the business is strictly on providing plumbing and HVAC services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 All subcontractors must provide a certificate of insurance to ensure proper risk transfer and liability protection. The contractor is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant, Reliable Plumbing & HVAC Solutions, has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Reliable Plumbing & HVAC Solutions has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Reliable Plumbing & HVAC Solutions does not lease employees to or from other employers, focusing instead on employing licensed technicians directly for our services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Reliable Plumbing & HVAC Solutions carries Workers\u2019 Compensation insurance to cover our employees, ensuring compliance with legal requirements and providing necessary protection for workplace injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Reliable Plumbing & HVAC Solutions also owns and operates Reliable Heating and Cooling Services, ensuring a comprehensive service offering in the HVAC sector.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Reliable Plumbing & HVAC Solutions currently does not have any other insurance policies with this company. All insurance coverage is focused on the existing policy for plumbing and HVAC services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Reliable Plumbing & HVAC Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are strictly focused on providing plumbing and HVAC services for residential and light commercial clients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Reliable Plumbing & HVAC Solutions does not rent or loan equipment to others, as our operations are focused solely on providing plumbing and HVAC services for residential and light commercial clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Reliable Plumbing & HVAC Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a solid financial standing and has no financial distress documented.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Reliable Plumbing & HVAC Solutions does not have exposure to flammables, explosives, or chemicals, as we focus solely on plumbing and HVAC services without engaging in high-risk activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Reliable Plumbing & HVAC Solutions does not have any catastrophe exposure as our operations are strictly limited to plumbing and HVAC services within residential and light commercial settings, without involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Reliable Plumbing & HVAC Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a clear focus on compliance and responsible hiring practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Reliable Plumbing & HVAC Solutions has no uncorrected fire code violations, maintaining compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Reliable Plumbing & HVAC Solutions did an excellent job fixing my leaky faucet. The technician was professional and efficient!",
+          "I had a great experience with their HVAC installation. They were prompt, knowledgeable, and left everything clean.",
+          "Their customer service is top-notch! They answered all my questions and scheduled my appointment quickly.",
+          "I highly recommend them for any plumbing needs. They were friendly and resolved my issue in no time.",
+          "The team at Reliable Plumbing & HVAC Solutions was fantastic! They provided thorough maintenance on my heating system."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Plumbing & HVAC Contractors",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Plumbing & HVAC Contractors",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

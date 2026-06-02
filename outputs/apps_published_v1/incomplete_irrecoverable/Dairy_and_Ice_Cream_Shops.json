@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Dairy & Ice Cream Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Creamy Delights Ice Cream Shop",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Creamy Way, Ice Cream Town, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, 123-456-7890",
+      "GL CODE": "12345",
+      "SIC": "5813",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Creamy Delights Ice Cream Shop, we specialize in providing a delightful selection of premium homemade ice cream and dairy products. Our operations focus on ensuring the highest quality ingredients and customer experience while maintaining a safe environment. We operate with a state-of-the-art ice cream making process, utilizing fresh, locally sourced ingredients. Our shop is designed for retail, with a friendly counter service where customers can enjoy scoops, sundaes, and seasonal specialties.\n\nAll staff members undergo comprehensive food safety training to uphold strict hygiene standards and minimize the risk of foodborne illnesses. We meticulously label all our products with clear ingredient lists and allergen information to inform our customers, demonstrating our commitment to transparency and safety.\n\nTo ensure optimal operations, we conduct regular equipment maintenance and cleaning according to an established schedule. Additional security measures, such as surveillance systems, are implemented to protect our shop and assets, especially given our location in a moderately busy area.\n\nOur dedication to compliance with local health regulations and proactive risk assessments helps us identify potential hazards and implement necessary improvements. Overall, our commitment to quality products, exceptional customer service, and safe operational practices defines the core of Creamy Delights Ice Cream Shop.",
+      "DATE BUSINESS STARTED": "04/01/2020",
+      "EFFECTIVE DATE": "04/15/2023",
+      "EXPIRATION DATE": "04/14/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "CDEL-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Farmers Insurance Group",
+      "POLICY NUMBER": "CDEL-2023-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On March 15, 2023, a customer slipped on a wet floor in the shop, resulting in a minor injury. The claim was settled for $1,200, and safety measures have since been improved to prevent similar incidents in the future. Status: Closed.",
+      "Combined Single Limit": "$1,000,000/$2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$2,500 deductible",
+      "Medical Expense (per person)": "$5,000/$0 deductible",
+      "Damge to Rental Premises": "$100,000/$1,000 deductible",
+      "Professional Liability": "$1,000,000/$1,000 deductible",
+      "Liquor Liability": "$1,000,000/$2,500 deductible",
+      "Hired Auto": "$1,000,000/$1,000 deductible",
+      "Non-owned Auto": "$1,000,000/$1,000 deductible",
+      "Computers": "$10,000/$500 deductible",
+      "ordinence and law": "$1,000,000/$2,500 deductible",
+      "Flood": "$500,000/$2,500 deductible",
+      "accounts recievable": "$250,000/$1,000 deductible",
+      "employee dishonesty": "$100,000/$1,000 deductible",
+      "money and securities": "$50,000/$1,000 deductible",
+      "ADDRESS": "4567 Dairy Lane, Ice Cream Town, CA 90210-5678",
+      "Year Built": "2015",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "09:00 AM - 09:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial-grade, UL-listed safe, Class B, standard model with key lock; located behind the counter for secure storage of cash and sensitive documents.",
+      "MONEY ON PREMISES": "$1,000.00",
+      "OTHER PROTECTION": "Surveillance cameras installed at entry and exit points to enhance security.",
+      "Building limit": "$800",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Creamy Delights Ice Cream Shop does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is solely on serving ice cream and dairy products without involvement in any hazardous activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Creamy Delights Ice Cream Shop does not sponsor any athletic teams. Our focus is solely on providing high-quality ice cream and dairy products to our customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the management to ensure compliance and risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Creamy Delights Ice Cream Shop has not had any policy or coverage declined, canceled, or non-renewed in the prior 3 years. Our previous carrier was Farmers Insurance Group, and we have maintained a good standing with them.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Creamy Delights Ice Cream Shop does not lease employees to or from other employers; all staff members are directly employed by the shop.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Creamy Delights Ice Cream Shop carries Workers' Compensation insurance, ensuring compliance with legal requirements and providing coverage for employees in case of workplace injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Creamy Delights Ice Cream Shop does not own or operate any other business. Our focus is solely on providing high-quality ice cream and dairy products at this location.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Creamy Delights Ice Cream Shop does not have any other insurance policies with this company at this time. The listed policy number is the only coverage currently held.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Creamy Delights Ice Cream Shop is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on providing high-quality ice cream and dairy products through retail operations.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Creamy Delights Ice Cream Shop does not rent or loan equipment to others. Our operations focus solely on providing high-quality ice cream and dairy products directly to customers.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, indicating a sound financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Creamy Delights Ice Cream Shop does not have exposure to flammables, explosives, or chemicals, as our operations focus exclusively on serving ice cream and dairy products without involving hazardous materials. All ingredients are safely stored and managed in compliance with health and safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Creamy Delights Ice Cream Shop does not have any exposure to catastrophes, as our operations are focused solely on serving ice cream and dairy products without involvement in hazardous activities. We maintain safety protocols and comply with all relevant regulations to minimize any potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring at Creamy Delights Ice Cream Shop. All operations focus on maintaining a safe and respectful environment for both customers and employees.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Creamy Delights Ice Cream Shop has no uncorrected fire code violations. All fire safety codes are up to date, ensuring a safe environment for both staff and customers.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The ice cream here is absolutely delicious! I love the variety of flavors and the friendly staff.",
+          "Creamy Delights is my go-to spot for a sweet treat. Their homemade ice cream is always fresh and creamy!",
+          "Great atmosphere and even better ice cream! The sundaes are a must-try.",
+          "I appreciate their commitment to food safety and quality ingredients. A fantastic place for families!",
+          "The seasonal flavors are always a fun surprise. Highly recommend stopping by for a scoop!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Mandatory fire suppression systems are required for any shop conducting cooking on premises."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Dairy & Ice Cream Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Mandatory fire suppression systems are required for any shop conducting cooking on premises."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any cooking activities, and the third-party data focuses on ice cream quality and customer experience without indicating cooking on premises."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Dairy & Ice Cream Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Mandatory fire suppression systems are required for any shop conducting cooking on premises."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of mandatory fire suppression system requirement for shops conducting cooking on premises.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any cooking activities, and the third-party data focuses on ice cream quality and customer experience without indicating cooking on premises."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

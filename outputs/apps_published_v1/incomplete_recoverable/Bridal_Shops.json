@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bridal Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Bridal Boutique",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Wedding Way, Suite 101, Bridal City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Jessica Johnson, Senior Bridal Consultant, The Bridal Boutique, (555) 123-4567, jessica@thebridalboutique.com",
+      "GL CODE": "67512",
+      "SIC": "5621",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At The Bridal Boutique, we specialize in providing a personalized bridal shopping experience, focusing on high-quality wedding dresses, bridesmaid gowns, and accessories. Our operations are designed to offer exceptional customer service, with scheduled appointments for fittings and consultations to ensure each bride receives the attention she deserves. We maintain strong relationships with trusted vendors to ensure timely delivery of quality products, and our team of skilled seamstresses provides expert alterations tailored to each client. Our boutique is equipped with up-to-date point-of-sale systems and modern facilities, ensuring a smooth shopping experience. Additionally, we prioritize the protection of customer data and payment information, and our staff receives regular training on data privacy best practices. With a commitment to operational excellence, we actively review our business interruption coverage and comply with all regulatory requirements, ensuring a secure and reliable service for our clients.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "BB-2023-0021",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Bridal Insurers Ltd.",
+      "POLICY NUMBER": "BB-2023-0015",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss on 02/15/2023 due to a burst pipe resulting in water damage to inventory valued at $1,200; status: resolved.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate limit with a $1,000 deductible.",
+      "Medical Expense (per person)": "$5,000 limit with a $500 deductible",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$20,000 limit with a $1,000 deductible",
+      "ordinence and law": "$500,000 limit with a $1,000 deductible",
+      "Flood": "$250,000 limit with a $1,000 deductible",
+      "accounts recievable": "$50,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "5678 Bridal Lane, Bridal City, CA 90210-1234",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 10:00 AM - 6:00 PM; Saturday: 10:00 AM - 5:00 PM; Sunday: Closed",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "6",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard Class B Safe, UL listed, with a fire rating of 1 hour, secured with a digital keypad lock.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm system, on-site security personnel during peak hours, and surveillance camera system in place.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Bridal Boutique does not engage in the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. Our operations focus solely on providing bridal retail services.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Bridal Boutique does not sponsor any athletic teams as our focus is solely on providing bridal retail services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this ensures proper risk transfer and protection for the business. Certificates are typically checked by the management or designated staff responsible for compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The Bridal Boutique has not been indicted or convicted of any crime related to fraud, bribery, arson, or arson-related activities in connection with this or any other property. The business maintains a strong commitment to ethical operations and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Bridal Boutique has not had any policies or coverage declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Bridal Boutique does not lease employees to or from other employers; all staff are directly employed by the business.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 The Bridal Boutique carries Workers' Compensation insurance to ensure compliance and provide coverage for our employees in the event of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 The Bridal Boutique does not own or operate any other businesses; it solely focuses on providing bridal retail services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Bridal Boutique currently holds one policy with this company and does not have any additional insurance policies to report.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Bridal Boutique does not engage in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on retailing bridal attire and accessories.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Bridal Boutique does not rent or loan equipment to others; our operations focus solely on providing bridal retail services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The Bridal Boutique has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial position.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Bridal Boutique does not have any exposure to flammables, explosives, or chemicals as our operations are solely focused on bridal retail services and do not involve handling hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Bridal Boutique does not have any catastrophe exposure as our operations focus solely on bridal retail services without involvement in high-risk activities or areas prone to natural disasters.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Bridal Boutique has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to ethical practices and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Bridal Boutique does not have any uncorrected fire code violations, ensuring compliance with safety regulations to protect both the business and its clients.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had a wonderful experience at this bridal shop! They made sure my payment was completely secure with their fancy encryption, giving me peace of mind while I found the perfect dress.",
+          "I found the perfect bridesmaid dresses here. The selection was beautiful, and the alterations were done perfectly.",
+          "Great service and a lovely atmosphere! I felt so special during my appointment.",
+          "The team at The Bridal Boutique really knows their stuff. They helped me find a dress that fit my style and budget.",
+          "I highly recommend this shop! They have a fantastic range of dresses and the staff is so friendly and knowledgeable."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Bridal Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a Google review that explicitly mentions secure payment processing with encryption, indicating the business engages in the prohibited activity."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Bridal Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to lack of documented cybersecurity controls, including secure payment processing and data encryption, which is a specific restriction for bridal shops.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for bridal shops without documented cybersecurity controls, including secure payment processing and data encryption. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a Google review that explicitly mentions secure payment processing with encryption, indicating the business engages in the prohibited activity."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Floor Covering & Carpet Installation",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Premier Flooring Solutions",
+      "FEIN OR SOC SEC #": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Main St, Suite 200, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, 555-123-4567",
+      "GL CODE": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "SIC": "1799",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Premier Flooring Solutions, we specialize in professional installation of residential carpet, hardwood, laminate, and vinyl flooring. Our operations focus solely on non-toxic, pre-manufactured flooring materials, ensuring that we do not disturb any hazardous materials such as asbestos or lead during our installations. We prioritize safety and quality by maintaining a documented safety program and providing regular training for our employees on installation techniques and equipment use. All our employees are covered by workers\u2019 compensation and we adhere to strict licensing requirements across all jurisdictions we serve. We are committed to delivering exceptional service while upholding the highest standards of safety and compliance.\n\nOur flooring installation services often involve removing old carpets and coverings that may contain hazardous materials such as asbestos or lead before installing new products.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "TOTAL PREMIUM": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "POLICY #": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss occurred on 02/15/2023 due to water damage during installation, amount $2,500, currently under review for processing.",
+      "Combined Single Limit": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000,000",
+      "Medical Expense (per person)": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "Damge to Rental Premises": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "Professional Liability": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "Liquor Liability": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "Hired Auto": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "Non-owned Auto": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "Computers": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "ordinence and law": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "Flood": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "accounts recievable": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "employee dishonesty": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "money and securities": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "ADDRESS": "4567 Oakwood Dr, Suite 101, Springfield, IL 62701-5678",
+      "Year Built": "1995",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$100000",
+      "TOTAL PAYROLL": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "MONEY ON PREMISES": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "OTHER PROTECTION": "No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0%",
+      "personal property valuation type": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "personal property limit": "REJECTED: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "personal property % Coinsurance": "0%",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Premier Flooring Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus solely on non-toxic, pre-manufactured flooring materials and adhere to strict safety and compliance standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Premier Flooring Solutions does not sponsor any athletic teams as our focus is solely on flooring installation services. We prioritize maintaining our resources and compliance within our industry.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are verified to ensure proper coverage and mitigate any potential risks.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Premier Flooring Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a strong commitment to ethical practices in all our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Premier Flooring Solutions has not had any policies or coverage declined, canceled, or non-renewed in the past three years. Our operations comply with all insurance requirements and industry standards.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Premier Flooring Solutions does not lease employees to or from other employers, as we maintain a direct employment relationship with our staff to ensure consistent quality and adherence to safety standards.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Premier Flooring Solutions does not have any workers' compensation coverage for installation or disturbance of hazardous materials such as asbestos or lead, which is a requirement for our operations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Premier Flooring Solutions does not own or operate any other business. Our focus remains solely on the installation of non-toxic flooring materials.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Premier Flooring Solutions does not have any other insurance with this company at this time. All coverage considerations are focused on our core flooring installation operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Premier Flooring Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus exclusively on the installation of pre-manufactured, non-toxic flooring materials.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Premier Flooring Solutions does not rent or loan equipment to others, ensuring that all operations remain focused and compliant with safety standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Premier Flooring Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years and maintains a solid financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Premier Flooring Solutions does not have any exposure to flammables, explosives, or chemicals as we exclusively work with non-toxic, pre-manufactured flooring materials and adhere to strict safety standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 Premier Flooring Solutions does not engage in any activities that would expose them to catastrophe risks, such as the installation or disturbance of hazardous materials. They focus solely on non-toxic, pre-manufactured flooring materials and adhere to strict safety protocols.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Premier Flooring Solutions does not have any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a commitment to ethical practices and a safe working environment.",
+      "G16: Any uncorrected fire code violations?": "Yes \u2013 There are no uncorrected fire code violations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Premier Flooring Solutions did an amazing job installing our new hardwood floors! The team was professional and efficient.",
+          "I love my new carpet! The installation was quick, and the quality is top-notch. Highly recommend!",
+          "Great experience with Premier Flooring. They helped me choose the perfect vinyl flooring for my kitchen.",
+          "The staff at Premier Flooring Solutions were friendly and knowledgeable. They made the whole process easy and stress-free.",
+          "I was impressed with the attention to detail during the installation. My floors look fantastic!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for installation or disturbance of hazardous materials such as asbestos or lead."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Floor Covering & Carpet Installation",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for installation or disturbance of hazardous materials such as asbestos or lead."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business's operations involve removing old carpets and coverings that may contain hazardous materials such as asbestos or lead."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Floor Covering & Carpet Installation",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for installation or disturbance of hazardous materials such as asbestos or lead."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the presence of a violation regarding coverage for installation or disturbance of hazardous materials such as asbestos or lead. Additionally, there are other violations present in the application, specifically related to the description of operations indicating potential disturbance of hazardous materials.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business's operations involve removing old carpets and coverings that may contain hazardous materials such as asbestos or lead."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

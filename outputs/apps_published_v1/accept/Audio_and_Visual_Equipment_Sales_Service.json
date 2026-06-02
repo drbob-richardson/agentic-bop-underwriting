@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Audio & Visual Equipment Sales/Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "A/V Solutions Depot",
+      "FEIN OR SOC SEC #": "95-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 A/V Lane, Suite 100, Los Angeles, CA 90001-1234",
+      "CONTACT FOR INSPECTION": "John Doe - 555-123-4567",
+      "GL CODE": "\"GL-AVS-001\"",
+      "SIC": "5731",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "\"DESCRIPTION OF OPERATIONS\": \"At A/V Solutions Depot, we specialize in the retail sales and rental of high-quality audio and visual equipment, including televisions, amplifiers, and professional lighting systems. Our operations include providing exceptional customer service in our dedicated showroom, offering expert installation and repair services carried out by certified technicians, and renting out well-maintained A/V equipment for events such as weddings and corporate functions. We ensure that all products are rigorously tested and maintained to minimize malfunction risks, and we utilize inventory management systems to efficiently track stock and sales. Our commitment to compliance includes adhering to stringent operational guidelines and maintaining all necessary licenses and insurance, thereby ensuring a reliable and professional service experience for our customers.\\n\\nCompliance Confirmation: The business does not engage in any video rental operations and confirms that we have a central station alarm system. We also have contents insured at Actual Cash Value (ACV) and are subject to a property damage deductible of $500, as these conditions apply to our audio and visual equipment sales and service operations.\"",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "AVS-2023-001",
+      "OTHER BUSINESSES OWNED": "A/V Rental Innovations LLC, specializing in mobile A/V equipment rentals for corporate events and private parties.",
+      "PREVIOUS CARRIER": "Quality Insurance Group",
+      "POLICY NUMBER": "AVS-2022-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On April 5, 2023, a delivery truck carrying A/V equipment was involved in a minor accident resulting in the damage of several items, including microphones and projectors, amounting to $1,200. The claim has been processed and is currently closed.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$1,000 limit / $500 deductible",
+      "Professional Liability": "$1,000,000 limit / $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit / $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit / $500 deductible",
+      "Non-owned Auto": "$1,000,000 limit / $1,000 deductible",
+      "Computers": "$15,000 limit / $500 deductible",
+      "ordinence and law": "$1,000,000 limit / $2,500 deductible",
+      "Flood": "$1,000,000 limit / $1,000 deductible",
+      "accounts recievable": "$500,000 limit / $1,000 deductible",
+      "employee dishonesty": "$500,000 limit / $1,000 deductible",
+      "money and securities": "$100,000 limit / $1,000 deductible",
+      "ADDRESS": "7890 A/V Way, Suite 200, Los Angeles, CA 90001-2345",
+      "Year Built": "2015",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "Monday-Friday: 9:00 AM - 6:00 PM, Saturday: 10:00 AM - 4:00 PM, Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL Listed Safe",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Security guard services during store operating hours and special events to deter theft and ensure safety.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual Cash Value (ACV)",
+      "personal property limit": "$200,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 A/V Solutions Depot does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is primarily on the retail and rental of audio and visual equipment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 A/V Solutions Depot does not sponsor athletic teams as the focus is on the retail and rental of audio and visual equipment. Sponsorship of athletic teams is not part of our business operations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Typically, the primary contractor or a designated compliance officer checks the certificates to ensure they are valid and meet the required coverage limits.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 A/V Solutions Depot has not been indicted or convicted of any crimes related to fraud, bribery, arson, or any other arson-related crime. The company operates within legal compliance and maintains a commitment to ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 A/V Solutions Depot has not had any policy or coverage declined, canceled, or non-renewed in the prior three years. We maintain compliance and a solid insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 A/V Solutions Depot does not lease employees to or from other employers. The business maintains its own staff and does not engage in employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 A/V Solutions Depot carries Workers Compensation insurance to ensure coverage for our employees as required by law. This policy is active and compliant, providing necessary protection for our workforce.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 A/V Solutions Depot also operates A/V Rental Innovations LLC, which specializes in mobile A/V equipment rentals for corporate events and private parties.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 A/V Solutions Depot does not have any other insurance policies with this company, as currently listed. The only policy in force is the one indicated above.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 A/V Solutions Depot is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus exclusively on the retail sales and rental of audio and visual equipment.",
+      "G11: Do you rent or loan equipment to others?": "Yes \u2013 A/V Solutions Depot rents out well-maintained audio and visual equipment for events such as weddings and corporate functions, ensuring all rentals are rigorously tested before use.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 A/V Solutions Depot has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a solid financial standing and operates within compliance.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 A/V Solutions Depot does not have any exposure to flammables, explosives, or chemicals as it solely focuses on the retail and rental of audio and visual equipment.",
+      "G14: Any catastrophe exposure?": "No \u2013 A/V Solutions Depot does not have any known catastrophe exposure as our operations are focused on the retail and rental of audio and visual equipment, which do not involve high-risk activities typical for such exposures.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 A/V Solutions Depot has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company upholds a strong commitment to fair and ethical business practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 A/V Solutions Depot currently has no uncorrected fire code violations and maintains compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "A/V Solutions Depot provided excellent service when I rented equipment for my event. The staff was knowledgeable and helped me choose the right gear!",
+          "I purchased a new amplifier from A/V Solutions Depot, and I couldn't be happier. The quality is top-notch, and the installation was seamless.",
+          "Great experience overall! The team was very helpful in answering all my questions and ensuring I got the best audio setup for my home.",
+          "I love the variety of A/V equipment available at this store. The staff is friendly and really knows their stuff!",
+          "Highly recommend A/V Solutions Depot for anyone looking for reliable audio and visual equipment. Their customer service is outstanding!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Video rental stores must have a central station or local alarm system.",
+        "A minimum of three years of experience at the insured location is required for video rental operations.",
+        "Contents must be insured at Actual Cash Value (ACV) only.",
+        "A minimum property damage deductible of $500 is required."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Audio & Visual Equipment Sales/Service",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Audio & Visual Equipment Sales/Service",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted due to violations of specific restrictions. The business is involved in rental operations, which require a central station alarm system and a minimum of three years of experience at the insured location for video rental operations. Additionally, the application indicates that the business does not meet these requirements.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

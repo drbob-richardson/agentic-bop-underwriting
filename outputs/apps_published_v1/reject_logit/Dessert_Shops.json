@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Dessert Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sweet Indulgence Desserts",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Sweet St, Dessert City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Manager, (555) 123-4567",
+      "GL CODE": "0214",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Sweet Indulgence Desserts, we specialize in creating a wide array of delicious desserts, including cakes, pastries, and frozen treats, using high-quality, locally sourced ingredients. Our operations are centered around our retail shop located in Dessert City, where customers can enjoy our freshly made items in a cozy, inviting atmosphere.\n\nWe prioritize food safety and compliance with health department regulations, consistently passing inspections and maintaining all necessary permits. Our experienced staff is trained in food safety protocols to ensure cleanliness and minimize health risks. We also follow a rigorous cleaning and equipment maintenance schedule to maintain a safe environment for both customers and employees.\n\nIn addition to our dessert offerings, we provide limited alcohol service, maintaining the required liquor licenses and ensuring that all staff who serve alcohol are certified in responsible alcohol service. This secondary offering allows our customers to enjoy their favorite desserts alongside select beverages, enhancing their overall experience without detracting from our primary focus on dessert sales.\n\nWe implement seasonal staffing and inventory strategies to manage peak demand, ensuring our products are always fresh and our service meets high standards. Our commitment to quality, safety, and customer satisfaction defines our operations at Sweet Indulgence Desserts.",
+      "DATE BUSINESS STARTED": "01/15/2022",
+      "EFFECTIVE DATE": "03/01/2022",
+      "EXPIRATION DATE": "03/01/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,000.00",
+      "POLICY #": "DESS-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Sweet Treats Insurance Co.",
+      "POLICY NUMBER": "DESS-2023-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss Date: 02/15/2023; Cause: Minor water damage due to a plumbing issue; Amount: $1,200.00; Status: Resolved with repairs completed and no further incidents reported.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate / $1,000 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $3,000,000 aggregate; $1,000 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence / $2,000,000 aggregate; $2,500 deductible",
+      "Hired Auto": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Computers": "$50,000 limit / $1,000 deductible",
+      "ordinence and law": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Flood": "$1,000,000 limit / $5,000 deductible",
+      "accounts recievable": "$100,000 limit / $1,000 deductible",
+      "employee dishonesty": "$100,000 limit / $1,000 deductible",
+      "money and securities": "$100,000 limit / $1,000 deductible",
+      "ADDRESS": "456 Yummy Lane, Dessert City, CA 90210-5678",
+      "Year Built": "2015",
+      "Square Feet": "1200",
+      "HOURS OF OPERATION": "10:00 AM - 10:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial safe, UL listed, Class 350, Grade 1, Steel construction with digital lock.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Commercial fencing installed around the perimeter of the property for enhanced security and protection of assets.",
+      "Building limit": "$800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost for personal property",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Sweet Indulgence Desserts does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is primarily on the preparation and sale of desserts in compliance with health and safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sweet Indulgence Desserts does not sponsor any athletic teams as part of its operations. The focus remains on providing high-quality desserts and maintaining compliance with health and safety regulations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are typically checked by the management or designated personnel within the business to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Sweet Indulgence Desserts has not had any applicants indicted or convicted of fraud, bribery, arson, or any other related crimes. We maintain strict adherence to moral and legal standards within our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Sweet Indulgence Desserts has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. All insurance matters have been handled without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sweet Indulgence Desserts does not lease employees to or from other employers. All staff members are directly employed by our business.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Sweet Indulgence Desserts does not currently carry Workers' Compensation coverage as they are operating under a legal exemption. All employees are trained and safety compliant with health department regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Sweet Indulgence Desserts does not own or operate any other business. Our focus is solely on providing high-quality dessert offerings to our customers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sweet Indulgence Desserts does not have any other insurance policies with this company listed at this time. All insurance matters are currently managed under the main policy number provided.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sweet Indulgence Desserts is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the retail sale of desserts made from high-quality, locally sourced ingredients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sweet Indulgence Desserts does not rent or loan equipment to others; our focus is solely on preparing and selling our desserts. We prioritize safety and compliance in our operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Sweet Indulgence Desserts has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business maintains a stable financial status and is committed to responsible financial practices.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sweet Indulgence Desserts does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on the preparation and sale of desserts using safe, food-grade ingredients.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sweet Indulgence Desserts does not have any known catastrophe exposure as our operations are focused on dessert preparation and retail within a safe and compliant environment. We prioritize safety measures and risk management in our business practices.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Sweet Indulgence Desserts has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business operates with a strong focus on safety and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Sweet Indulgence Desserts has no uncorrected fire code violations and maintains compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Sweet Indulgence Desserts is a hidden gem! Their chocolate cake is to die for, and the staff is always friendly.",
+          "I love the cozy atmosphere at this dessert shop. The pastries are fresh and delicious, perfect for a sweet treat!",
+          "The ice cream here is amazing! They have unique flavors that you won't find anywhere else. Highly recommend!",
+          "I had a wonderful experience at Sweet Indulgence. The desserts are beautifully presented and taste even better!",
+          "Great place for dessert lovers! The variety of options is impressive, and everything I tried was absolutely delightful."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Dessert Shops",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Dessert Shops",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

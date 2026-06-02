@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Tailors & Dressmakers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Stitch & Style Atelier",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Owner",
+      "GL CODE": "\"23899\"",
+      "SIC": "pela",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Stitch & Style Atelier specializes in custom garment creation and alterations for individual clients, focusing on personalized service. Our operations include bespoke tailoring for formalwear, with a strong emphasis on quality craftsmanship and customer satisfaction. We offer a range of services from clothing repairs to complete outfit design, and cater to specific needs such as wedding attire and costume design, ensuring a high-value yet manageable inventory. Our appointment-only fitting system helps to control customer flow, reducing liability risks while providing a tailored experience. We pride ourselves on our attention to detail, using skilled labor and advanced techniques to create unique and stylish garments that meet the diverse needs of our clientele.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2020",
+      "EXPIRATION DATE": "01/15/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,250.00",
+      "POLICY #": "ACME-1010-TD",
+      "OTHER BUSINESSES OWNED": "Stitch & Style Fabric Co.",
+      "PREVIOUS CARRIER": "Acme Insurance Company",
+      "POLICY NUMBER": "ACME-2023-TD",
+      "TOTAL LOSSES": "$8,200",
+      "DESCRIPTION OF LOSSES": "1) Water damage due to a leaking roof, January 10, 2022, caused by heavy rainfall, $2,500, Closed.  \n2) Theft of sewing equipment, June 5, 2023, break-in during business hours, $1,200, Open.  \n3) Fire incident from a faulty electrical outlet, August 15, 2021, caused $5,000 in damage, Closed.  \n4) Minor injury to a customer caused by a loose thread on a fitting room floor, February 20, 2023, $500 medical expenses, Open.  \n5) Cost of fabric inventory damaged during heavy flooding in the store, March 8, 2020, $3,000, Closed.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $1,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$5,000 / $500",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "$50,000 / $1,000",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "456 Tailor Lane, Springfield, IL 62701-1234",
+      "Year Built": "2015",
+      "Square Feet": "800.0",
+      "HOURS OF OPERATION": "Monday - Friday: 10:00 AM - 6:00 PM; Saturday: 10:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$90,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Wall-mounted safe, Class B, UL Listed",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Central station alarm system with monitoring and onsite security personnel during business hours.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$75,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Stitch & Style Atelier does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The focus is on custom garment creation and alterations, utilizing standard fabrics and materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Stitch & Style Atelier does not sponsor athletic teams as its focus is primarily on custom garment creation and alterations for individual clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the business owner or designated personnel to ensure that all subcontractors are adequately insured.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Stitch & Style Atelier has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business operates with integrity and prioritizes compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Stitch & Style Atelier has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The business maintains a positive insurance history with no significant issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Stitch & Style Atelier does not lease employees to or from other employers; all employees are directly hired and managed by the business.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Stitch & Style Atelier has workers' compensation coverage to ensure the safety and well-being of its employees, complying with legal requirements.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Stitch & Style Atelier operates another business, Stitch & Style Fabric Co., which complements its tailoring services by providing fabric supplies for custom garment creation.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Stitch & Style Atelier does not have any other insurance policies with this company. Currently, there is only one active policy in effect.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Stitch & Style Atelier is not involved in manufacturing, mixing, relabeling, or repackaging of products; the business focuses exclusively on custom garment creation and alterations for individual clients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Stitch & Style Atelier does not rent or loan equipment to others, as our focus is solely on providing custom garment creation and alterations for our clients. This approach ensures that we maintain control over our equipment and minimize liability risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Stitch & Style Atelier has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Stitch & Style Atelier does not have exposure to flammables, explosives, or hazardous chemicals, as its operations focus solely on custom garment creation and alterations using standard fabrics and materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Stitch & Style Atelier does not have any catastrophe exposure as its operations are primarily focused on custom garment creation and alterations, without involvement in high-risk activities or locations that would present such risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Stitch & Style Atelier has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business operates with a strong emphasis on compliance and a positive workplace environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Stitch & Style Atelier has no uncorrected fire code violations, as we prioritize compliance with all fire safety regulations and conduct regular inspections to ensure safety.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 8200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "I had a great experience at this tailor shop! Not only did they beautifully alter my dress, but I also loved that I could wash my clothes there in their super convenient coin-operated laundry while I waited. Definitely a unique service!",
+          "I had a fantastic experience getting my suit tailored here. The staff was friendly and very professional.",
+          "Highly recommend this place for any alterations! They really know how to make your clothes fit perfectly.",
+          "The custom dress I ordered turned out beautifully. I couldn't be happier with the craftsmanship!",
+          "Great service and quick turnaround time. I will definitely be coming back for future alterations."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No self-service or attended coin-operated laundries are permitted."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No self-service or attended coin-operated laundries are permitted."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Tailors & Dressmakers",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No self-service or attended coin-operated laundries are permitted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No self-service or attended coin-operated laundries are permitted. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The Google review explicitly mentions a 'coin-operated laundry' service, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Tailors & Dressmakers",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No self-service or attended coin-operated laundries are permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the restriction: No self-service or attended coin-operated laundries are permitted.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No self-service or attended coin-operated laundries are permitted. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The Google review explicitly mentions a 'coin-operated laundry' service, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Candy & Confectionery Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sweet Haven Confectionery",
+      "FEIN OR SOC SEC #": "REJECTED: N/A",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "123 Candy Lane, Sweet Town, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "John Doe, Store Manager, 123-456-7890",
+      "GL CODE": "Retail Candy Store 1234-56789",
+      "SIC": "5441",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Sweet Haven Confectionery, we specialize in retailing a wide array of candies and confections sourced from licensed and inspected manufacturers. Our operations are focused on providing a delightful shopping experience in a clean, secure environment, ensuring compliance with all local health department regulations and inspections. We do not engage in any on-site deep frying or high-heat cooking processes, thereby reducing fire and burn risks. Our store features visually appealing displays of our products, including bulk self-serve bins that are maintained under strict sanitation controls with regular cleaning schedules. Customer safety is our priority, which is emphasized through clear allergen labeling and food safety information displayed prominently on our products. Our team is well-trained in food handling practices, and we maintain current health permits and food handling certifications for all staff. With no sales of alcoholic or cannabis-infused products, we focus solely on offering our extensive range of sweets while adhering to all applicable regulations.\n\nOur candy and confectionery store specializes in producing a variety of gourmet treats, including deep-fried confections such as funnel cakes and candy-coated doughnuts, which make up a significant portion of our offerings.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECTED: N/A",
+      "OTHER BUSINESSES OWNED": "Sweet Haven Confectionery does not own or operate any other businesses that involve significant cooking or high-heat processes.",
+      "PREVIOUS CARRIER": "CandyGuard Insurance Group",
+      "POLICY NUMBER": "REJECTED: N/A",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses to report. Operations comply with fire safety regulations, with no issues related to high-heat cooking processes.",
+      "Combined Single Limit": "REJECTED: N/A",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "REJECTED: N/A",
+      "Liquor Liability": "REJECTED: N/A",
+      "Hired Auto": "REJECTED: N/A",
+      "Non-owned Auto": "REJECTED: N/A",
+      "Computers": "REJECTED: N/A",
+      "ordinence and law": "$100,000 / $2,500",
+      "Flood": "REJECTED: N/A",
+      "accounts recievable": "REJECTED: N/A",
+      "employee dishonesty": "REJECTED: N/A",
+      "money and securities": "REJECTED: N/A",
+      "ADDRESS": "456 Sweet Treats Ave, Candyland, ST 12345-6789",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "10:00 AM - 8:00 PM",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$0",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Tamper-resistant, fire-rated safe, Class B, UL-listed.",
+      "MONEY ON PREMISES": "REJECTED: N/A",
+      "OTHER PROTECTION": "Tamper-resistant fencing around the store premises, with regular security patrols during non-business hours.",
+      "Building limit": "$0",
+      "building % Coinsurance": "50",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "50",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Sweet Haven Confectionery does not engage in any operations involving storing, treating, discharging, applying, disposing, or transporting hazardous materials, and we maintain compliance with all relevant safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sweet Haven Confectionery does not sponsor athletic teams as part of its operations. The focus remains on providing a delightful shopping experience for customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the business manager or designated staff responsible for compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Sweet Haven Confectionery has not had any indictments or convictions for fraud, bribery, arson, or any related crimes. The business operates with a strong commitment to compliance and ethical practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Sweet Haven Confectionery has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. The business operates with a strong commitment to compliance and maintains good standing with its previous insurer.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sweet Haven Confectionery does not lease employees to or from other employers. Our staff is directly employed and trained to ensure compliance with all operational standards.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Sweet Haven Confectionery does not carry Workers' Compensation insurance as there are no employees involved in any on-site deep frying or high-heat cooking processes, accounting for less than 20% of operations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Sweet Haven Confectionery does not own or operate any other businesses that involve significant cooking or high-heat processes, aligning with our commitment to safety and regulatory compliance.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sweet Haven Confectionery does not have any other insurance with this company, as we do not engage in any operations that would require it. Our current operations focus solely on retailing a variety of candies and confections.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sweet Haven Confectionery is not involved in manufacturing, mixing, relabeling, or repackaging of products as our operations strictly focus on retailing candies and confections sourced from licensed manufacturers. This ensures compliance with safety regulations and minimizes associated risks.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sweet Haven Confectionery does not rent or loan equipment to others, as our operations focus solely on retailing candies and confections without engaging in equipment rentals.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Sweet Haven Confectionery has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a sound financial position and adheres to all regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sweet Haven Confectionery does not engage in any operations involving exposure to flammables, explosives, or chemicals, as we do not conduct any on-site deep frying or high-heat cooking processes. Our focus is solely on retailing a variety of candies and confections in compliance with all safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sweet Haven Confectionery does not engage in any on-site deep frying or high-heat cooking processes that exceed 20% of operations, thereby minimizing potential catastrophe exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Sweet Haven Confectionery has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to compliance and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Sweet Haven Confectionery has no uncorrected fire code violations, as we adhere strictly to all fire safety regulations and maintain a safe operational environment.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Sweet Haven Confectionery is a delightful place to satisfy your sweet tooth! Their selection of candies is impressive and always fresh.",
+          "I love visiting this candy store! The staff is friendly, and the atmosphere is so inviting. Highly recommend their bulk candy section!",
+          "A fantastic candy shop with a wide variety of treats. The cleanliness and organization of the store make shopping a pleasure.",
+          "Sweet Haven has the best selection of nostalgic candies! I always find something new to try, and the staff is super helpful.",
+          "This is my go-to spot for gifts! Their custom gift baskets are beautifully made and always a hit with friends and family."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No on-site deep frying or high-heat cooking processes exceeding 20% of operations"
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Candy & Confectionery Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No on-site deep frying or high-heat cooking processes exceeding 20% of operations"
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No on-site deep frying or high-heat cooking processes exceeding 20% of operations",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business specializes in producing deep-fried confections such as funnel cakes and candy-coated doughnuts, which make up a significant portion of their offerings."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Candy & Confectionery Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No on-site deep frying or high-heat cooking processes exceeding 20% of operations"
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No on-site deep frying or high-heat cooking processes exceeding 20% of operations. This is clearly stated in the application. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No on-site deep frying or high-heat cooking processes exceeding 20% of operations",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business specializes in producing deep-fried confections such as funnel cakes and candy-coated doughnuts, which make up a significant portion of their offerings."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

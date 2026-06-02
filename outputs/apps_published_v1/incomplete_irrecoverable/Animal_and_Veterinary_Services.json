@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Animal & Veterinary Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Paws & Claws Veterinary Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Paws Lane, Suite 101, Animal City, PA 12345-6789",
+      "CONTACT FOR INSPECTION": "Dr. Emily Johnson, DVM",
+      "GL CODE": "92000",
+      "SIC": "742 Vet Services",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Paws & Claws Veterinary Services, we provide comprehensive animal care focused primarily on routine medical services, diagnostics, and minor surgical procedures for companion animals. Our operations are centered around our state-of-the-art facility, where we maintain strict compliance with local animal welfare standards. Our team of licensed veterinarians and credentialed veterinary technicians ensures that all medical procedures are carried out safely and effectively. We also have established waste handling protocols for biohazardous materials, which help prevent health risks. Additionally, we emphasize animal containment and employ secure practices to guarantee the safety of all animals in our care. We do not engage in large-scale boarding operations; any limited boarding services offered are secondary and adhere to all relevant welfare standards, ensuring a high-quality experience for both pets and their owners.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2020",
+      "EXPIRATION DATE": "01/15/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,600.00",
+      "POLICY #": "PC-2023-001",
+      "OTHER BUSINESSES OWNED": "Paws & Claws Mobile Veterinary Services",
+      "PREVIOUS CARRIER": "Veterinary Assurance Group",
+      "POLICY NUMBER": "PC-2022-045",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "01/10/2021, Minor injury to a patient due to an unexpected allergic reaction during routine vaccination. Amount: $1,200. Status: Resolved.  \n02/05/2023, Small equipment theft (laptop) from clinic premises. Amount: $800. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$2,500 / $0",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$20,000 / $500",
+      "ADDRESS": "4567 Pet Care Avenue, Animal City, PA 12345-6789",
+      "Year Built": "2015",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 8:00 AM - 2:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "$180,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class A, Grade I, Secure Vault for sensitive medical supplies and equipment.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and dedicated watchpersons for facility protection.",
+      "Building limit": "$150000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Paws & Claws Veterinary Services does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials outside of standard veterinary practices with proper waste handling protocols in place. All materials are handled according to established safety guidelines and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Paws & Claws Veterinary Services does not sponsor any athletic teams as our primary focus is providing veterinary care for companion animals.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Our team regularly checks and verifies these certificates to ensure compliance and mitigate risk.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or any other arson-related crimes for the applicant or any associated parties.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Paws & Claws Veterinary Services has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. All insurance matters have been managed effectively without disruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Paws & Claws Veterinary Services does not lease employees to or from other employers. Our staffing is managed internally, ensuring consistent and high-quality care for our clients' pets.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Paws & Claws Veterinary Services does not currently have a Workers' Compensation policy. As a new business, we are in the process of obtaining the necessary coverage to comply with legal requirements.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 We also operate Paws & Claws Mobile Veterinary Services, which complements our primary veterinary care business by providing mobile services to our clients.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Paws & Claws Veterinary Services does not have any other insurance policies with the company at this time. Currently, they only maintain the active policy number PC-2023-001 for their veterinary services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Paws & Claws Veterinary Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing veterinary care and related services for companion animals.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Paws & Claws Veterinary Services does not rent or loan equipment to others. Our focus is solely on providing veterinary care and related services for companion animals.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Paws & Claws Veterinary Services has not experienced any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years, indicating a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Paws & Claws Veterinary Services does not have exposure to flammables, explosives, or chemicals outside of standard veterinary practices, and all materials are managed following established safety protocols.",
+      "G14: Any catastrophe exposure?": "No \u2013 Paws & Claws Veterinary Services does not have any catastrophe exposure, as we focus on routine medical services for companion animals and do not engage in high-risk operations. Our facility is well-maintained and adheres to all relevant safety standards to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Paws & Claws Veterinary Services has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize a safe and compliant environment for both employees and clients.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Paws & Claws Veterinary Services has no uncorrected fire code violations. Our facility complies with all applicable fire safety regulations and undergoes regular inspections to ensure safety standards are met.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "The staff at Paws & Claws are incredibly caring and attentive. They always take the time to explain everything during our visits.",
+          "I appreciate the cleanliness of the facility and the professionalism of the veterinarians. My dog always feels comfortable here.",
+          "Paws & Claws provided excellent care for my cat during her recent surgery. The follow-up calls were a nice touch!",
+          "The team is knowledgeable and friendly. They made my first visit a breeze, and I felt confident in their care.",
+          "I love that they focus on routine care and minor procedures. It's reassuring to know my pets are in good hands!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No history of veterinary licensing violations or unresolved regulatory actions."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Animal & Veterinary Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No history of veterinary licensing violations or unresolved regulatory actions."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "There is no mention of any veterinary licensing violations or unresolved regulatory actions in either the application text or the third-party data."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Animal & Veterinary Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No history of veterinary licensing violations or unresolved regulatory actions."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to a violation: No history of veterinary licensing violations or unresolved regulatory actions. This is a specific restriction that disqualifies the application.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "There is no mention of any veterinary licensing violations or unresolved regulatory actions in either the application text or the third-party data."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

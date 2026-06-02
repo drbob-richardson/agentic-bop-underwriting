@@ -1,0 +1,95 @@
+column,group,type,description
+id,identifier,string,Sequential application id (APP0001..APP0635)
+application_key,identifier,string,Unique key: {business_type_slug}__{scenario}
+business_type,metadata,string,One of 127 commercial BOP business categories
+scenario,metadata,string,Intended generation scenario: accept | reject_guideline | reject_logit | incomplete_recoverable | incomplete_irrecoverable
+ground_truth_decision,label,string,Verified disposition: ACCEPT | REJECT | REFER_TO_HUMAN_REVIEW
+ground_truth_reason,label,string,One-sentence rationale for the ground-truth decision
+violation_rule,label,string,For non-accept scenarios: the specific underwriting rule the application is intended to violate or omit. Empty for accept.
+violation_visible_in_application,label,boolean,Whether an LLM judge could find the violation in the application text
+violation_visible_in_third_party,label,boolean,Whether an LLM judge could find the violation in the third-party data
+NAME,application,string,Business legal name
+FEIN OR SOC SEC #,application,string,Federal EIN or SSN
+BUSINESS TYPE,application,string,Legal entity type
+MAILING ADDRESS,application,string,Mailing address
+CONTACT FOR INSPECTION,application,string,On-site inspection contact
+GL CODE,application,string,General liability classification code
+SIC,application,string,Standard Industrial Classification code
+NATURE OF BUSINESS,application,string,Short business descriptor
+DESCRIPTION OF OPERATIONS,application,string,Free-text operations narrative
+DATE BUSINESS STARTED,application,string,Inception date
+EFFECTIVE DATE,application,string,Policy effective date
+EXPIRATION DATE,application,string,Policy expiration date
+NEW/RENEWAL,application,string,New or renewal indicator
+PAYMENT PLAN,application,string,Premium payment plan
+TOTAL PREMIUM,application,string,Quoted total premium
+POLICY #,application,string,Policy number
+OTHER BUSINESSES OWNED,application,string,Other businesses under common control
+PREVIOUS CARRIER,application,string,Prior carrier
+POLICY NUMBER,application,string,Prior policy number
+TOTAL LOSSES,application,string,Aggregate prior losses ($)
+DESCRIPTION OF LOSSES,application,string,Free-text loss description
+Combined Single Limit,application,string,Underwriting form field (free-text or amount)
+Bodily Injury & Prop Damage Occurrrence,application,string,Underwriting form field (free-text or amount)
+Bodily Injury & Prop Damage Aggregate,application,string,Underwriting form field (free-text or amount)
+Medical Expense (per person),application,string,Underwriting form field (free-text or amount)
+Damge to Rental Premises,application,string,Underwriting form field (free-text or amount)
+Professional Liability,application,string,Underwriting form field (free-text or amount)
+Liquor Liability,application,string,Underwriting form field (free-text or amount)
+Hired Auto,application,string,Underwriting form field (free-text or amount)
+Non-owned Auto,application,string,Underwriting form field (free-text or amount)
+Computers,application,string,Underwriting form field (free-text or amount)
+ordinence and law,application,string,Underwriting form field (free-text or amount)
+Flood,application,string,Underwriting form field (free-text or amount)
+accounts recievable,application,string,Underwriting form field (free-text or amount)
+employee dishonesty,application,string,Underwriting form field (free-text or amount)
+money and securities,application,string,Underwriting form field (free-text or amount)
+ADDRESS,application,string,Location address
+Year Built,application,string,Construction year
+Square Feet,application,string,Building area (sq ft)
+HOURS OF OPERATION,application,string,Hours of operation
+Distance to hydrant,application,string,Distance to nearest hydrant
+OCCUPANCY,application,string,Occupancy class
+BUILDING IMPROVEMENTS,application,string,Improvements listed
+BASEMENT PRESENT,application,string,Basement Y/N
+SPRINKLER PERCENTAGE,application,string,Sprinklered % of premises
+ANNUAL SALES,application,string,Gross annual sales ($)
+TOTAL PAYROLL,application,string,Annual payroll ($)
+NO. OF EMPLOYEES,application,string,Employee headcount
+ALARM TYPE,application,string,Alarm type
+SAFE/VAULT DETAILS,application,string,Safe/vault description
+MONEY ON PREMISES,application,string,Money on premises ($)
+OTHER PROTECTION,application,string,Other security measures
+Building limit,application,string,Building coverage limit ($)
+building % Coinsurance,application,string,Underwriting form field (free-text or amount)
+personal property valuation type,application,string,Underwriting form field (free-text or amount)
+personal property limit,application,string,Underwriting form field (free-text or amount)
+personal property % Coinsurance,application,string,Underwriting form field (free-text or amount)
+G1,application,string,"General-information question G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)"
+G2,application,string,General-information question G2: Are athletic teams sponsored?
+G3,application,string,"General-information question G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?"
+G4,application,string,"General-information question G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?"
+G5,application,string,"General-information question G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)"
+G6,application,string,General-information question G6: Do you lease employees to or from other employers?
+G7,application,string,General-information question G7: Any Workers Compensation carried?
+G8,application,string,General-information question G8: Do you own or operate any other business?
+G9,application,string,General-information question G9: Any other insurance with this company? (List policy numbers)
+G10,application,string,"General-information question G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?"
+G11,application,string,General-information question G11: Do you rent or loan equipment to others?
+G12,application,string,"General-information question G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?"
+G13,application,string,"General-information question G13: Any exposure to flammables, explosives, or chemicals?"
+G14,application,string,General-information question G14: Any catastrophe exposure?
+G15,application,string,"General-information question G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?"
+G16,application,string,General-information question G16: Any uncorrected fire code violations?
+NUMBER OF CLAIMS,application,string,Prior claim count
+tp_num_claims,third_party,integer,Prior claim count from external claims-history data
+tp_total_losses,third_party,integer,Total prior losses ($) from external claims-history data
+tp_lookback_years,third_party,integer,Claims-history lookback window (years)
+tp_google_rating,third_party,float,Aggregated Google business rating (1.0-5.0)
+tp_review_count,third_party,integer,Total Google review count
+tp_average_rating,third_party,float,Mean review rating
+tp_review_1,third_party,string,Synthetic Google review #1 (free text)
+tp_review_2,third_party,string,Synthetic Google review #2
+tp_review_3,third_party,string,Synthetic Google review #3
+tp_review_4,third_party,string,Synthetic Google review #4
+tp_review_5,third_party,string,Synthetic Google review #5

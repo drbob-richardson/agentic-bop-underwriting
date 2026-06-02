@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Post Office & Shipping Centers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ShipSmart Post & Parcel Services",
+      "FEIN OR SOC SEC #": "20-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Maple St, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator, (555) 123-4567, johndoe@shipsmart.com",
+      "GL CODE": "12345",
+      "SIC": "4412",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At ShipSmart Post & Parcel Services, we operate a full-service post office and shipping center offering a wide range of mailing and shipping solutions to both individuals and businesses. Our core operations include efficient handling of domestic and international packages through established partnerships with major carriers such as USPS, UPS, and FedEx. We provide secure packaging services, retail shipping supplies, and mailbox rentals, all while ensuring compliance with postal regulations.\n\nLocated in a low-crime, high-traffic area, our facility is equipped with state-of-the-art security systems to protect our customers and their shipments. We prioritize customer service with well-trained staff knowledgeable in shipping logistics, safety protocols, and exceptional customer support. We also maintain a robust inventory management system to ensure a consistent supply of packing materials and shipping products.\n\nRegular staff training and clear operational protocols further enhance our service delivery, ensuring that we meet our customers' needs effectively. Additionally, we uphold a commitment to environmental compliance by avoiding the handling of prohibited or hazardous items without proper controls, further ensuring the integrity and safety of our operations. Overall, ShipSmart aims to provide a seamless shipping experience while maintaining high standards of service and safety.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$4,500.00",
+      "POLICY #": "SSP-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "SSP-2022-005",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss Date: 06/15/2022; Cause: Customer claim for damaged package during shipping process; Amount: $1,200.00; Status: Resolved",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $250",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "4567 Elm Street, Springfield, IL 62702-3456",
+      "Year Built": "1995",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 6:00 PM; Saturday: 10:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class: UL 608, Grade: B, Label: Secured Vault 2500 lbs, Fire-Resistant for 2 hours, equipped with electronic access control system.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "High-quality perimeter fencing system combined with 24/7 surveillance monitoring and a routine assessment for security vulnerabilities.",
+      "Building limit": "$1800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$200,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 our past and present operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We strictly adhere to environmental compliance by avoiding the handling of prohibited or hazardous items without proper controls.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor any athletic teams as our focus is solely on providing mailing and shipping services to individuals and businesses.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the management or designated coordination personnel within the organization to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years for ShipSmart Post & Parcel Services.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not engage in leasing employees to or from other employers, as our staffing is managed internally.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers' Compensation insurance to ensure compliance and provide coverage for our employees while they perform their duties. This policy is active and in place for our workforce.",
+      "G8: Do you own or operate any other business?": "No \u2013 ShipSmart Post & Parcel Services does not own or operate any other business. We focus exclusively on our full-service post office and shipping center operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Currently, there are no other insurance policies with this company. The only active policy is the one noted.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations focus solely on providing mailing and shipping services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others as our operations focus solely on providing mailing and shipping services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. They maintain a stable financial position and compliance with operational standards.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ShipSmart Post & Parcel Services does not have any exposure to flammables, explosives, or chemicals as our operations strictly adhere to environmental compliance and we avoid handling prohibited or hazardous items without proper controls.",
+      "G14: Any catastrophe exposure?": "No \u2013 ShipSmart Post & Parcel Services does not have any catastrophe exposure as we operate in a low-crime, high-traffic area with robust security measures in place. Our focus is on providing safe and compliant shipping services without involvement in high-risk operations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at ShipSmart Post & Parcel Services. We are committed to maintaining a safe and compliant work environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at ShipSmart Post & Parcel Services. We maintain compliance with all fire code regulations and prioritize safety within our operations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great service! The staff is always friendly and helpful, making shipping a breeze.",
+          "I love how organized this place is. My packages are always handled with care.",
+          "Fast and efficient! I was in and out in no time, and my shipment arrived on schedule.",
+          "The prices are reasonable, and they offer a variety of shipping options. Highly recommend!",
+          "Clean and secure facility. I feel confident leaving my packages here for shipping."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Post Office & Shipping Centers",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Post Office & Shipping Centers",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

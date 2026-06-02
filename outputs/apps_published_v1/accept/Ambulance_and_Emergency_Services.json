@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Ambulance & Emergency Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Emergency Response Ambulance Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Emergency Lane, Suite 100  \nSpringfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Officer, (555) 123-4567, john.smith@emergencyresponse.com",
+      "GL CODE": "AMB-001",
+      "SIC": "621910",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Emergency Response Ambulance Services provides critical emergency medical transport to hospitals and trauma centers, operating with a team of certified EMTs and paramedics. Our operations include 24/7 dispatch and response capabilities, ensuring immediate assistance for medical emergencies. We maintain a fleet of ambulances that are regularly inspected and serviced according to manufacturer guidelines to ensure safety and reliability. Compliance with all local, state, and federal regulations is paramount, reflecting our commitment to regulatory standards and patient care. To enhance our service quality, we have established protocols for incident reporting and continuous training for our staff to uphold high medical response standards. Additionally, we ensure all patient transports and dispatch records are accurately maintained to facilitate compliance and quality control.\n\nCompliance Confirmation: The business does not engage in any restricted activities such as offering ancillary services like body piercing, pharmacy dispensing, or cosmetic procedures. We confirm that all patients are transported to a hospital emergency room, and we maintain current, valid certifications and licenses for all EMTs and paramedics. Additionally, we have established a formal quality assurance program and incident reporting system to ensure the highest standards of service.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,500.00",
+      "POLICY #": "AMB-2023-001",
+      "OTHER BUSINESSES OWNED": "Emergency Medical Training Institute",
+      "PREVIOUS CARRIER": "American Medical Response",
+      "POLICY NUMBER": "AMB-2022-005",
+      "TOTAL LOSSES": "$12,000",
+      "DESCRIPTION OF LOSSES": "On 03/15/2022, we incurred a loss of $5,000 when one of our ambulance vehicles was damaged due to a collision while responding to an emergency call, which resulted in a claim that was successfully settled. On 09/10/2022, there was another incident involving a patient fall during transport that resulted in a claim for $7,000; this claim is currently pending resolution.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit, $5,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit, $5,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Limit, $5,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit, $500 Deductible",
+      "Damge to Rental Premises": "$100,000 Limit, $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit, $5,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit, $5,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Computers": "\"$50,000 Limit, $1,000 Deductible\"",
+      "ordinence and law": "$1,000,000 Limit, $5,000 Deductible",
+      "Flood": "$250,000 Limit, $5,000 Deductible",
+      "accounts recievable": "$250,000 Limit, $5,000 Deductible",
+      "employee dishonesty": "\"$500,000 Limit, $1,000 Deductible\"",
+      "money and securities": "\"$250,000 Limit, $1,000 Deductible\"",
+      "ADDRESS": "5678 Rescue Way, Building A  \nSpringfield, IL 62701-5678",
+      "Year Built": "2010",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "24/7",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$800,000.00",
+      "NO. OF EMPLOYEES": "30",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B Safe, Grade II, UL Listed",
+      "MONEY ON PREMISES": "$2,000.00",
+      "OTHER PROTECTION": "Security fencing and on-site watchpersons for night surveillance.",
+      "Building limit": "$1195742",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus solely on providing emergency medical transport services to hospitals and trauma centers.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Emergency Response Ambulance Services does not sponsor any athletic teams as our focus is solely on providing emergency medical transport services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer, John Smith, checks the certificates to ensure proper insurance coverage.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; all our staff are directly employed and trained by Emergency Response Ambulance Services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers Compensation Insurance to ensure compliance with legal requirements and provide coverage for our employees in case of work-related injuries or illnesses.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Emergency Response Ambulance Services also owns and operates the Emergency Medical Training Institute, which provides training for EMTs and paramedics. This additional business aligns with our core mission of emergency medical services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 There are currently no other insurance policies with this company apart from the mentioned policies. The policy numbers listed are AMB-2023-001 and AMB-2022-005.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Emergency Response Ambulance Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on providing emergency medical transport services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others, as our operations focus solely on providing emergency medical transport services to hospitals and trauma centers. This practice helps us maintain control over our equipment and ensure it meets our safety and operational standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Their financial standing appears stable based on the information provided.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Emergency Response Ambulance Services does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on providing emergency medical transport services without handling such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Emergency Response Ambulance Services does not have any catastrophe exposure, as our operations focus only on emergency medical transport without involvement in activities that pose significant catastrophic risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring for Emergency Response Ambulance Services. The organization maintains strict adherence to compliance and ethical hiring practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Emergency Response Ambulance Services has no uncorrected fire code violations and maintains compliance with all applicable fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 12000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "The team at Emergency Response Ambulance Services was incredibly professional and responsive during my recent emergency. I felt safe and well cared for.",
+          "Fast response time and compassionate care! The EMTs were knowledgeable and made a stressful situation much easier to handle.",
+          "I can't thank the staff enough for their quick action and support. They truly care about their patients and it shows.",
+          "Great service! The ambulance was clean and well-equipped, and the paramedics were attentive and reassuring throughout the ride.",
+          "Highly recommend! They arrived promptly and provided excellent care. It's comforting to know we have such reliable emergency services in our community."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+        "Coverage requires that the customer be taken to a hospital emergency room.",
+        "A formal quality assurance program and incident reporting system is preferred for underwriting.",
+        "All EMTs and paramedics must hold current, valid certifications and licenses."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Ambulance & Emergency Services",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Ambulance & Emergency Services",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is not acceptable due to the presence of unresolved claims and a history of losses. Specifically, there is a pending claim for $7,000 related to a patient fall during transport, which indicates ongoing risk and poor compliance history.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

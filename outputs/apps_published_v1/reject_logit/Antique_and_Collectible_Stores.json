@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Antique & Collectible Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Antique Treasures Emporium",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Vintage Lane, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith - 555-123-4567",
+      "GL CODE": "12510",
+      "SIC": "5932",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Antique Treasures Emporium, our core operations involve curating and selling a diverse range of antique and collectible items, including furniture, art, and memorabilia. We pride ourselves on providing a carefully maintained climate-controlled environment to protect our merchandise from temperature and humidity fluctuations, essential for preserving the quality and value of these sensitive items. Our inventory is meticulously documented with detailed descriptions, photographs, and current appraisals, particularly for high-value pieces over $10,000, ensuring both our customers and our insurance coverage are robust. Security is paramount; thus, we have installed a monitored alarm system and lockable display cases to mitigate theft risks. Regular inventory audits ensure accuracy in our records and compliance with insurance requirements. We focus on sourcing items with complete provenance documentation to guarantee authenticity, and we employ certified professionals for any restoration work. Operations are conducted from our retail storefront located on Vintage Lane, where we actively engage with customers and collectors alike from our operational hours of 10 AM to 6 PM, Tuesday through Saturday.",
+      "DATE BUSINESS STARTED": "06/15/2015",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,200.00",
+      "POLICY #": "ATEM-20231001-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Antique Insurance Co.",
+      "POLICY NUMBER": "ATEM-20231001-002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On August 10, 2022, a break-in resulted in the theft of several high-value antiques, leading to a loss of $3,000. Another incident on February 15, 2023, involved water damage caused by a burst pipe, damaging inventory valued at $2,000. Both incidents were reported to the authorities, and measures have since been taken to improve security and mitigate future water damage risks. The current status of these claims is pending reimbursement.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$2,500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,000",
+      "Hired Auto": "$1,000,000 / $2,000",
+      "Non-owned Auto": "$1,000,000 / $2,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$250,000 / $1,000",
+      "accounts recievable": "$50,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "456 Antique Way, Springfield, IL 62704-1234",
+      "Year Built": "1930",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "10 AM to 6 PM, Tuesday through Saturday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "1985",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$300,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Monitored, high-security safe with fire and water resistance, suitable for storing high-value antiques and collectibles.",
+      "MONEY ON PREMISES": "$15,000.00",
+      "OTHER PROTECTION": "Monitored alarm system with secure display cases for high-value items; regular security audits conducted.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus solely on curating and selling antiques and collectibles in a safe and responsible manner.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as our primary focus is on curating and selling antiques and collectibles.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the business owner or designated personnel to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years. Our insurance history has been consistent, and we prioritize maintaining our coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; all staff members are directly employed by our business.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We currently have active Workers' Compensation coverage to protect our employees and comply with state regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 The business does not operate any other business. All operations are focused solely on the Antique Treasures Emporium.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business currently holds one active policy with the company and does not have any other insurance policies with them.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on curating and selling antique and collectible items.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others as our operations are focused solely on selling antiques and collectibles directly to customers. This ensures that we maintain control over our inventory and minimize potential risks associated with lending items.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Their financial history appears stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have any exposure to flammables, explosives, or chemicals as our operations focus solely on selling antiques and collectibles, maintaining a safe and responsible environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Currently, we do not have any known exposure to catastrophic events. We have implemented disaster mitigation measures to safeguard our operations and inventory.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our business maintains a focus on compliance and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at Antique Treasures Emporium. All necessary fire safety measures are in compliance with local regulations.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "A hidden gem! The selection of antiques is impressive, and the staff is incredibly knowledgeable and friendly.",
+          "I found the perfect vintage lamp here! The prices are reasonable, and the atmosphere is charming.",
+          "Great place for collectors! They have a wide variety of items, and I appreciate their commitment to preserving quality.",
+          "The store is well-organized, making it easy to browse. I always leave with something special.",
+          "Fantastic customer service! The staff helped me find exactly what I was looking for and shared interesting stories about the pieces."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Antique & Collectible Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Antique & Collectible Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to a history of multiple significant insurance claims (4 claims totaling $5,000) in the past five years, which is considered a high-severity liability indicator.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

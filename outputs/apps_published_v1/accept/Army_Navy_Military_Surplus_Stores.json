@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Army/Navy/Military Surplus Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Surplus Military Supplies Co.",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Military Ave, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, 555-123-4567, john.smith@surplusmilitarysupplies.com",
+      "GL CODE": "Retail Military Supplies",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Surplus Military Supplies Co. is a retail business specializing in the sale of military surplus goods sourced exclusively from domestic government auctions and approved military surplus wholesalers. Our operations are designed to comply with all local, state, and federal regulations governing military surplus sales. We offer a wide range of products, including uniforms, field gear, outdoor equipment, and survival supplies. The store operates with a robust inventory management system that tracks item origins, values, and turnover to ensure compliance and reduce risk. We prioritize safety and compliance through extensive staff training on regulatory requirements and the safe handling of military surplus items. Our facilities are equipped with comprehensive fire and water protection systems, ensuring the security of our inventory. Regular inventory appraisals are conducted to maintain accurate valuation and risk assessment, and high-value items are secured in locked storage areas to mitigate theft. We have established procedures for customer interactions, prioritizing liability mitigation and customer safety.\n\nCompliance Confirmation: The business does not source from foreign military entities or unverified international suppliers and confirms that all sales of firearms, explosives, or controlled tactical gear are conducted with the necessary permits and licenses. Additionally, comprehensive fire and water protection systems, including sprinklers and alarms, are in place, and we maintain a robust system of regular inventory appraisals and documentation, conducted at least annually.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$7,500.00",
+      "POLICY #": "SMC-2023-0178",
+      "OTHER BUSINESSES OWNED": "Military Surplus Accessories LLC, Tactical Gear Distributors Inc.",
+      "PREVIOUS CARRIER": "American Reliance Insurance Company",
+      "POLICY NUMBER": "SMC-2022-0456",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Theft reported on 05/10/2023; stolen items included military uniforms and tactical gear, valued at $1,200.00; investigation closed with no recovery; status: fully resolved.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$2,500",
+      "Medical Expense (per person)": "$5,000/$500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000/$2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$250,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "789 Military Plaza, Suite 200, Springfield, IL 62704",
+      "Year Built": "1985",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "08:00 AM - 07:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2005",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$225,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "U.L. Listed Class 1, Grade 2 Fire and Burglary Safe, with a combined security rating.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Monitoring security services with patrols during operating hours and alarm response after hours.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000.00",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Surplus Military Supplies Co. does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of its regular operations focused on retail sales of military surplus goods. All activities are conducted in compliance with relevant regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Surplus Military Supplies Co. does not sponsor any athletic teams as part of its operations. The focus remains solely on retail sales of military surplus goods.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The company verifies certificates of insurance through designated personnel who check compliance before any subcontractors are permitted to operate.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Surplus Military Supplies Co. has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain stringent compliance with all legal and regulatory standards in our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed within the prior three years. All previous insurance related to the business has been maintained without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Surplus Military Supplies Co. does not lease employees to or from other employers as part of its operations. All employees are directly hired and managed within the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Surplus Military Supplies Co. carries Workers' Compensation insurance, ensuring compliance with legal requirements for our employees. We prioritize employee safety and risk management as part of our operational practices.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Surplus Military Supplies Co. owns and operates Military Surplus Accessories LLC and Tactical Gear Distributors Inc. These businesses complement our retail operations in the military surplus market.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Surplus Military Supplies Co. does not have any other insurance policies with this company at this time. All previous insurance coverage was maintained without any issues.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Surplus Military Supplies Co. is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the retail sale of military surplus goods sourced from approved domestic channels.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Surplus Military Supplies Co. does not rent or loan equipment to others, as our operations focus solely on the retail sale of military surplus goods. We prioritize compliance and risk management within our business model.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Surplus Military Supplies Co. has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. Our financial practices ensure stability and compliance with all necessary regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Surplus Military Supplies Co. does not have any exposure to flammables, explosives, or chemicals as our operations focus exclusively on the retail sale of military surplus goods sourced from approved channels. We prioritize compliance and safety by ensuring all inventory adheres to regulatory standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 Surplus Military Supplies Co. does not have any catastrophe exposure as our operations are designed to comply with all relevant regulations and prioritize safety. We maintain robust inventory management and fire protection systems to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Surplus Military Supplies Co. has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize compliance and risk management in all aspects of our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Surplus Military Supplies Co. does not have any uncorrected fire code violations. We maintain compliance with all fire safety regulations and conduct regular inspections to ensure safety standards are upheld.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of military gear and outdoor supplies! The staff is knowledgeable and always ready to help.",
+          "I found exactly what I needed for my camping trip. Prices are reasonable, and the quality is top-notch.",
+          "This store has a fantastic variety of surplus items. I love supporting a local business with such a unique inventory!",
+          "The staff here are friendly and helpful. I appreciate their commitment to safety and compliance in their operations.",
+          "I was impressed by the organization of the store and the quality of the products. Definitely a go-to for military surplus!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Sourcing from foreign military entities or unverified international suppliers is strictly prohibited.",
+        "Sale of firearms, explosives, or controlled tactical gear requires all necessary permits and licenses.",
+        "Comprehensive fire and water protection systems, such as sprinklers and alarms, are required for acceptance.",
+        "Regular (at least annual) inventory appraisals and documentation are mandatory."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Army/Navy/Military Surplus Stores",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Army/Navy/Military Surplus Stores",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Surplus Military Supplies Co. is accepted as it meets all preferred and acceptable criteria without any violations of the not acceptable rules or explicit restrictions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

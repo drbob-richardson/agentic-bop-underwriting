@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Electronics Stores & Repair",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Tech Restore Electronics",
+      "FEIN OR SOC SEC #": "65-1234567",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Tech Lane, Suite 500, Tech City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, 555-123-4567",
+      "GL CODE": "12345",
+      "SIC": "5731",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Tech Restore Electronics, we operate as a full-service retail electronics store specializing in the sale and repair of a wide range of electronic devices, including smartphones, laptops, tablets, and other consumer electronics. Our operations are focused on providing exceptional customer service, expert repairs, and a broad inventory of the latest electronics. \n\nWe are dedicated to serving our community, ensuring operational stability and a strong trust relationship with our customers. Our store is strategically located in a high-traffic commercial area, and we have implemented comprehensive security measures, including a central alarm system with 24/7 monitoring, to protect our inventory and maintain a safe environment for our customers and employees.\n\nOur skilled technicians are well-trained and certified in electronics repair, and we have established a reliable inventory management system that allows us to efficiently track products and repair orders. We prioritize customer satisfaction by documenting our service policies, handling inquiries, warranty claims, and follow-ups consistently. \n\nCompliance with all applicable local zoning, health, and safety regulations is a fundamental aspect of our operations, and we are dedicated to maintaining a safe and welcoming environment in our store. We do not engage in equipment rental, and we continually evaluate our products and services to ensure we mitigate potential liabilities associated with repairs or defective products. Overall, Tech Restore Electronics is committed to delivering quality service and fostering strong customer relationships in the electronics retail and repair industry.",
+      "DATE BUSINESS STARTED": "09/15/2020",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,200.00",
+      "POLICY #": "TR-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ABC Insurance Holdings",
+      "POLICY NUMBER": "TR-2023-002",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, a theft incident occurred in which inventory valued at $1,000 was stolen. This incident has been reported to the local authorities, and we have increased security measures as a result. The claim is currently in process with our insurance provider.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$150,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $500",
+      "ADDRESS": "456 Electronic Way, Tech City, CA 90210-1234",
+      "Year Built": "2018",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM to 7:00 PM, Saturday: 10:00 AM to 6:00 PM, Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "UL Listed Commercial Safe, Class B, Grade 2",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Central alarm system with 24/7 monitoring and security guards during business hours.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Tech Restore Electronics does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. Our focus is solely on the retail and repair of electronic devices.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Tech Restore Electronics does not sponsor any athletic teams as part of its business operations. Our focus remains solely on retail and repair services for electronic devices.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The Operations Manager, John Smith, is responsible for checking the certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Tech Restore Electronics has not been indicted or convicted of any degree of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a commitment to ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Tech Restore Electronics has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. We have maintained a stable insurance record and consistently meet our coverage obligations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Tech Restore Electronics does not lease employees to or from other employers. All staff members are directly employed by our company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Tech Restore Electronics carries Workers Compensation insurance as part of our commitment to employee safety and compliance with legal requirements. We prioritize the well-being of our staff and ensure they are protected in the workplace.",
+      "G8: Do you own or operate any other business?": "No \u2013 Tech Restore Electronics does not own or operate any other business and is solely focused on its retail and repair operations in the electronics sector.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Tech Restore Electronics does not have any other insurance policies with this company at this time. We currently hold one active policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Tech Restore Electronics is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our primary focus is on the retail and repair of electronic devices.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Tech Restore Electronics does not rent or loan equipment to others. Our operations focus solely on the sale and repair of electronic devices.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Tech Restore Electronics has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business has maintained stable financial operations during this period.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Tech Restore Electronics does not have any exposure to flammables, explosives, or chemicals as part of its retail and repair operations. Our focus is solely on electronics, and we do not engage in activities that involve hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Tech Restore Electronics does not have any exposure to catastrophe risks related to its operations. The business primarily focuses on retail and repair of electronic devices, which is not associated with such risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Tech Restore Electronics has not had any past losses or claims relating to sexual abuse, molestation allegations, discrimination, or negligent hiring. We maintain a commitment to ethical practices and a safe environment for both employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Tech Restore Electronics has no uncorrected fire code violations and maintains compliance with all applicable fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Tech Restore Electronics provided excellent service when I needed my laptop repaired. The staff was knowledgeable and friendly!",
+          "I love shopping here! They have a great selection of the latest gadgets and the prices are very reasonable.",
+          "Had a fantastic experience with their repair service. My phone was fixed quickly and works like new again!",
+          "The customer service at Tech Restore is top-notch. They really take the time to help you find what you need.",
+          "I appreciate the quick turnaround on my tablet repair. Highly recommend this store for all your electronics needs!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Business must have operated at the current insured location for over 3 years."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Electronics Stores & Repair",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Business must have operated at the current insured location for over 3 years."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Business must have operated at the current insured location for over 3 years. (visible in application text)",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application states that the business started on 09/15/2020, which indicates it has not operated at the current location for over 3 years, violating the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Electronics Stores & Repair",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Business must have operated at the current insured location for over 3 years."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Business must have operated at the current insured location for over 3 years.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Business must have operated at the current insured location for over 3 years. (visible in application text)",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application states that the business started on 09/15/2020, which indicates it has not operated at the current location for over 3 years, violating the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Toy Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "WonderWorld Toys",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Toy Lane, Fun City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Store Manager, WonderWorld Toys, Phone: (555) 123-4567, Email: johnsmith@wonderworldtoys.com",
+      "GL CODE": "5813",
+      "SIC": "5945",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "WonderWorld Toys engages in the retail sale of a diverse range of toys for children of all ages. Our operations focus on providing a safe and enjoyable shopping environment, with an emphasis on customer service and product quality. We source our toys from reputable suppliers who adhere to necessary safety standards, ensuring that all products are compliant with regulations set forth by the Consumer Product Safety Commission (CPSC). \n\nOur store implements rigorous inventory management practices to maintain well-documented controls and conduct regular stock audits. Additionally, we prioritize employee training on safety, product handling, and data security to mitigate any operational risks. Our staff undergoes safety training to handle our products effectively and assist customers with their inquiries.\n\nWe maintain a welcoming and organized store layout designed for positive customer experiences and easy navigation. Operating hours are aligned with peak shopping times to cater to our community's needs. WonderWorld Toys is dedicated to promoting safe play through responsible practices, ensuring our customers have access to the best toys while fostering a secure shopping atmosphere.",
+      "DATE BUSINESS STARTED": "03/01/2021",
+      "EFFECTIVE DATE": "03/15/2021",
+      "EXPIRATION DATE": "03/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,500.00",
+      "POLICY #": "WWT-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ABC Insurance Co.",
+      "POLICY NUMBER": "WWT-2022-002",
+      "TOTAL LOSSES": "$2,300",
+      "DESCRIPTION OF LOSSES": "Loss Dates: 01/15/2023; Cause: Inventory shrinkage due to theft; Amount: $1,500.00; Status: Resolved. Loss Dates: 02/20/2023; Cause: Water damage from a burst pipe; Amount: $800.00; Status: In process of claim submission.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit with a $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Limit with a $2,500 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit with a $250 Deductible",
+      "Damge to Rental Premises": "$250,000 Limit with a $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit with a $2,500 Deductible",
+      "Liquor Liability": "$1,000,000 Limit with a $1,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit with a $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit with a $1,000 Deductible",
+      "Computers": "$100,000 Limit with a $1,000 Deductible",
+      "ordinence and law": "$1,000,000 Limit with a $2,500 Deductible",
+      "Flood": "$500,000 Limit with a $2,500 Deductible",
+      "accounts recievable": "$100,000 Limit with a $1,000 Deductible",
+      "employee dishonesty": "$250,000 Limit with a $1,000 Deductible",
+      "money and securities": "$100,000 Limit with a $1,000 Deductible",
+      "ADDRESS": "456 Fun Avenue, Happy Town, CA 90210-5678",
+      "Year Built": "2010",
+      "Square Feet": "1200",
+      "HOURS OF OPERATION": "09:00 AM - 09:00 PM",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "TL-15, Security Grade I, UL Listed",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Central station alarm system with monitored security patrols and fencing around the property.",
+      "Building limit": "$800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 WonderWorld Toys does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus solely on the retail sale of toys, ensuring compliance with safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 WonderWorld Toys does not sponsor any athletic teams as part of its community engagement initiatives. The focus remains on providing a safe and enjoyable shopping experience for customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The store manager, John Smith, checks the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 WonderWorld Toys has not experienced any policy or coverage that was declined, canceled, or non-renewed during the prior three years. All insurance policies have remained continuously active and compliant.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 WonderWorld Toys does not lease employees to or from other employers. All employees are directly hired and managed by the store.",
+      "G7: Any Workers Compensation carried?": "No \u2013 WonderWorld Toys does not currently carry Workers' Compensation insurance, as we rely on a legal exemption due to having fewer than three employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 WonderWorld Toys does not own or operate any other business. It solely focuses on the retail sale of toys.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 WonderWorld Toys does not have any other insurance with this company at this time. The only active policy is WWT-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 WonderWorld Toys is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are solely focused on the retail sale of toys sourced from reputable suppliers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 WonderWorld Toys does not rent or loan equipment to others as our operations strictly focus on the retail sale of toys. We maintain a safe environment for customers without engaging in equipment rental or loaning activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 WonderWorld Toys has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The financial history is stable and compliant, contributing to a secure operational environment.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 WonderWorld Toys does not have any exposure to flammables, explosives, or chemicals, as our operations are solely focused on the retail sale of toys and comply with safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 WonderWorld Toys does not have any exposure to catastrophes as it operates solely in the retail sale of toys without engaging in high-risk activities or locations that would present such risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 WonderWorld Toys has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The store maintains a commitment to a safe and respectful environment for all customers and employees.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 WonderWorld Toys currently has no uncorrected fire code violations, ensuring a safe environment for customers and compliance with safety regulations.",
+      "NUMBER OF CLAIMS": "5"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 5,
+        "total_losses": 2300,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "WonderWorld Toys has an amazing selection of toys! My kids love the variety and the staff is always so helpful.",
+          "I had a great experience shopping here. The store is well-organized and the prices are reasonable.",
+          "Fantastic place for kids! They have everything from educational toys to the latest trends.",
+          "The staff at WonderWorld Toys are incredibly friendly and knowledgeable. They helped me find the perfect gift!",
+          "I appreciate the focus on safety and quality. It's nice to shop at a store that cares about the products they sell."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Toy Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Toy Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to unresolved product or premises liability claims in the past three years.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

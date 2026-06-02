@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Educational & School Supply Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Learn & Supply Co.",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Education Lane, Suite 200, Springfield, IL 62701-4502",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "Retail1",
+      "SIC": "5943",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Learn & Supply Co. operates as a retail establishment focused on providing educational materials and school supplies to students, parents, and educators. Our inventory consists of stationery, art supplies, and various educational resources, all designed to support learning and creativity. We prioritize safety by ensuring all products intended for children comply with applicable safety standards. Our retail space, located in a commercial district, is designed with standard security measures such as locked display cases and adequate lighting to enhance safety for both customers and staff. We do not engage in equipment rentals or offer on-site classes, workshops, or food services, adhering to best practices to minimize liability and maintain a secure environment. With a commitment to customer satisfaction, we frequently assess our inventory and run seasonal promotions, especially during back-to-school and holiday periods. Our online sales are kept within 25% of total revenue to ensure robust cybersecurity measures are maintained. Staffed by knowledgeable sales associates and inventory managers, we are dedicated to creating a welcoming shopping experience for our community.",
+      "DATE BUSINESS STARTED": "08/15/2020",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$8,500.00",
+      "POLICY #": "LEARN-2023-001",
+      "OTHER BUSINESSES OWNED": "Online Education Resources LLC",
+      "PREVIOUS CARRIER": "Creative Educators Insurance Group",
+      "POLICY NUMBER": "LEARN-2022-045",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Losses occurred between January 10, 2023, and March 15, 2023, due to inventory theft and water damage from a burst pipe. The total amount of losses is $2,500.00. The status is resolved, with claims submitted to address the theft and water damage repairs completed.",
+      "Combined Single Limit": "$1,000,000/$2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 / $250 deductible",
+      "Damge to Rental Premises": "$100,000 / $1,000 deductible",
+      "Professional Liability": "$500,000 / $1,000 deductible",
+      "Liquor Liability": "$1,000,000 / $2,500 deductible",
+      "Hired Auto": "$1,000,000 / $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 / $1,000 deductible",
+      "Computers": "$50,000 / $1,000 deductible",
+      "ordinence and law": "$1,000,000 / $2,500 deductible",
+      "Flood": "$500,000 / $1,000 deductible",
+      "accounts recievable": "$200,000 / $1,000 deductible",
+      "employee dishonesty": "$250,000 / $1,000 deductible",
+      "money and securities": "$50,000 / $1,000 deductible",
+      "ADDRESS": "456 Learning Way, Suite 100, Springfield, IL 62701-4502",
+      "Year Built": "1985",
+      "Square Feet": "1200",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 6:00 PM; Saturday: 10:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$400,000.00",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard security safe, Class B, rated for cash and documents.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station monitored alarm system with perimeter fencing and night security patrols.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$400,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Learn & Supply Co. does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus exclusively on retailing educational materials and school supplies.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Learn & Supply Co. sponsors local athletic teams to support community engagement and foster relationships with educational institutions.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are verified by our internal compliance team to ensure adequate coverage is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There has been no indictment or conviction for any crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property for the applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years. Our insurance history remains clear in this regard.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Learn & Supply Co. does not lease employees to or from other employers, focusing instead on our internal staff for operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Learn & Supply Co. carries Workers' Compensation insurance to ensure compliance with statutory requirements and protect our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Learn & Supply Co. also owns and operates Online Education Resources LLC, which focuses on providing digital educational materials and resources.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Learn & Supply Co. does not have any other insurance policies with this company at this time. We are currently maintaining our primary policy for retail operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Learn & Supply Co. is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations focus exclusively on retailing educational materials and school supplies.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Learn & Supply Co. does not rent or loan equipment to others, adhering to best practices to minimize liability and property damage risks associated with rental operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Their financial history remains clear and stable.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Learn & Supply Co. does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on retailing educational materials and school supplies. We prioritize safety and adhere to best practices to minimize liability.",
+      "G14: Any catastrophe exposure?": "No \u2013 Learn & Supply Co. does not have any catastrophe exposure. Our operations focus on retailing educational materials and school supplies, with no involvement in activities that would typically lead to such exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring at Learn & Supply Co. Our operations emphasize safety and compliance with all applicable standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Learn & Supply Co. does not have any uncorrected fire code violations, as we prioritize safety and compliance with all applicable fire codes. Our premises is regularly maintained to ensure adherence to safety standards.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Learn & Supply Co. has a fantastic selection of educational materials! The staff is always helpful and knowledgeable.",
+          "I love shopping here for school supplies. The prices are reasonable, and they have everything I need for my kids.",
+          "Great store with a wide variety of art supplies. I found exactly what I was looking for, and the checkout was quick!",
+          "The atmosphere is welcoming, and I appreciate their commitment to safety standards for children's products.",
+          "I had a wonderful experience at Learn & Supply Co. The seasonal promotions are a nice touch, making it easy to stock up for the school year."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Educational & School Supply Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Educational & School Supply Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

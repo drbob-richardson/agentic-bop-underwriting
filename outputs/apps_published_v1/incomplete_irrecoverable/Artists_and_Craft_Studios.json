@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Artists & Craft Studios",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Artful Creations Studio",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Art Avenue, Suite 101, Art Town, AT 12345-6789",
+      "CONTACT FOR INSPECTION": "Jessica Thompson, Studio Manager, (555) 123-4567, jessica@artfulcreationsstudio.com",
+      "GL CODE": "ART-1034",
+      "SIC": "7115",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Artful Creations Studio operates as a creative space dedicated to fostering artistic expression through various activities such as painting, drawing, digital art, and textile crafts. Our studio is designed with artist safety and environmental responsibility in mind, ensuring the use of non-toxic materials and proper storage practices. We maintain robust fire detection systems, including smoke alarms, and meet all local zoning and safety regulations. Our studio offers public workshops where we have established safety protocols and require participant waivers to create a secure environment. With a focus on minimizing risk, we provide secure storage for artwork and customer information while implementing cybersecurity measures for online sales. Our commitment to safety and compliance allows us to cultivate a creative community.",
+      "DATE BUSINESS STARTED": "05/01/2021",
+      "EFFECTIVE DATE": "06/01/2021",
+      "EXPIRATION DATE": "06/01/2022",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,200.00",
+      "POLICY #": "AC-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Artisan Insurance Group",
+      "POLICY NUMBER": "AC-2023-002",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported as of the current date.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "456 Creative Lane, Art District, AT 12345-6789",
+      "Year Built": "2010",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "Monday to Friday: 10:00 AM - 6:00 PM; Saturday: 11:00 AM - 4:00 PM; Closed on Sunday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "$80,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Secure vault with UL-Listed fire protection, Class 3 rating, equipped with biometric access control and 24/7 monitoring.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Secured fencing around the property, 24/7 monitored surveillance cameras, and on-site watchpersons during operating hours.",
+      "Building limit": "$960000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost",
+      "personal property limit": "$75,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Artful Creations Studio does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The studio focuses exclusively on non-hazardous artistic activities, ensuring a safe environment for creativity.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Artful Creations Studio sponsors local athletic teams as part of our community engagement initiative to support youth activities and promote a healthy lifestyle. We believe in fostering a strong community connection through various sponsorships.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The studio manager, Jessica Thompson, is responsible for checking the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Artful Creations Studio has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The studio is committed to maintaining a safe and compliant operational environment.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Artful Creations Studio has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. The studio maintains a strong compliance record and commitment to safety.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Artful Creations Studio does not lease employees to or from other employers. All employees are directly hired and managed by the studio.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Artful Creations Studio carries Workers Compensation insurance to ensure the safety and protection of our employees while complying with legal requirements.",
+      "G8: Do you own or operate any other business?": "No \u2013 Artful Creations Studio does not own or operate any other business; it focuses solely on its creative space dedicated to non-hazardous artistic activities.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Artful Creations Studio currently has a single policy with this company, and there are no additional policies or insurance coverage to list.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Artful Creations Studio is not involved in manufacturing, mixing, relabeling, or repackaging of products. The studio focuses exclusively on non-hazardous artistic activities such as painting and drawing.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Artful Creations Studio does not rent or loan equipment to others, focusing solely on providing a safe space for artistic activities. This helps minimize risks associated with equipment handling and liability.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Artful Creations Studio has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The studio maintains a solid financial standing and has no reported financial distress.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Artful Creations Studio does not have any exposure to flammables, explosives, or hazardous chemicals as we focus exclusively on non-hazardous artistic activities and utilize only non-toxic materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Artful Creations Studio does not have any catastrophe exposure, as it focuses exclusively on non-hazardous artistic activities and maintains compliance with local safety regulations. The studio has implemented robust fire safety measures and does not engage in activities that would increase risk.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Artful Creations Studio has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The studio prides itself on maintaining a safe and inclusive environment for all participants and employees.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Artful Creations Studio has no uncorrected fire code violations and maintains compliance with all local fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "Artful Creations Studio is a fantastic place to unleash your creativity! The atmosphere is inspiring and the staff is incredibly helpful.",
+          "I attended a painting workshop here and had a wonderful experience. The instructors are knowledgeable and make learning fun!",
+          "This studio is a gem! They prioritize safety and use non-toxic materials, which makes me feel good about creating art.",
+          "I love the variety of classes offered at Artful Creations. It's a great space for both beginners and experienced artists.",
+          "The studio is well-organized and has a welcoming vibe. I highly recommend it for anyone looking to explore their artistic side!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Studios must not engage in hazardous artistic activities such as glassblowing, welding, or large-scale woodworking."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Artists & Craft Studios",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Studios must not engage in hazardous artistic activities such as glassblowing, welding, or large-scale woodworking."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the studio focuses on non-hazardous artistic activities and does not mention any prohibited activities, while the third-party data supports this by highlighting the use of non-toxic materials and safety."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Artists & Craft Studios",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Studios must not engage in hazardous artistic activities such as glassblowing, welding, or large-scale woodworking."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Artful Creations Studio is rejected due to a violation of the specific restriction that states studios must not engage in hazardous artistic activities such as glassblowing, welding, or large-scale woodworking. Although the studio claims to focus on non-hazardous activities, the presence of this violation indicates a potential risk that cannot be overlooked.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the studio focuses on non-hazardous artistic activities and does not mention any prohibited activities, while the third-party data supports this by highlighting the use of non-toxic materials and safety."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

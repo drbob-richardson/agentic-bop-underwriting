@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Post Office & Shipping Centers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Reliable Post & Ship Center",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Reliable Way, Suite 100  \nSpringfield, IL 62701-4567",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager",
+      "GL CODE": "12345",
+      "SIC": "4412",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Reliable Post & Ship Center specializes in providing comprehensive mailing and shipping services, including domestic and international shipping, package pickup and drop-off, and postal services through partnerships with major carriers like USPS, UPS, and FedEx. Our operations are designed to ensure customer satisfaction, featuring knowledgeable staff trained in shipping logistics, safety, and customer service. We are located in a high-traffic retail area that enhances accessibility for our customers while maintaining low-security risks. Our facility is equipped with secure storage and has implemented a robust inventory management system to streamline operations. We strictly adhere to regulatory guidelines, ensuring compliance with postal regulations and avoiding any prohibited, hazardous, or illegal shipments. Additionally, we offer self-service kiosks and digital solutions to improve efficiency and reduce manual handling.\n\nCompliance Confirmation: The business does not accept any operations that lack the necessary federal, state, and local licenses, and confirms that there are no unresolved regulatory violations or ongoing investigations. Additionally, we do not engage with shipping centers located in high-crime areas or with a history of theft or vandalism, and we strictly prohibit the acceptance or shipping of any prohibited, hazardous, or illegal items without appropriate controls in place.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,200.00",
+      "POLICY #": "RPS-20231001-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "XYZ Insurance Company",
+      "POLICY NUMBER": "RPS-20231001-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On 03/15/2023, theft of merchandise valued at $1,500 occurred during a late-night break-in. The incident was reported to the police, and security measures have since been enhanced. Status: Resolved.  \nOn 06/10/2023, an accidental damage incident where a customer dropped a package resulted in a claim of $1,000 for replacement costs. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000/$2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$2,500 deductible",
+      "Medical Expense (per person)": "$5,000/$0 deductible",
+      "Damge to Rental Premises": "$500,000/$1,000 deductible",
+      "Professional Liability": "$1,000,000/$5,000 deductible",
+      "Liquor Liability": "$1,000,000/$2,500 deductible",
+      "Hired Auto": "$1,000,000/$1,000 deductible",
+      "Non-owned Auto": "$1,000,000/$1,000 deductible",
+      "Computers": "$100,000/$1,000 deductible",
+      "ordinence and law": "$1,000,000/$2,500 deductible",
+      "Flood": "$500,000/$2,500 deductible",
+      "accounts recievable": "$250,000/$1,000 deductible",
+      "employee dishonesty": "$250,000/$1,000 deductible",
+      "money and securities": "$250,000/$1,000 deductible",
+      "ADDRESS": "5678 Shipping Lane, Suite 200  \nSpringfield, IL 62701-4567",
+      "Year Built": "1985",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "8:00 AM - 7:00 PM, Monday to Saturday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class I, Grade A, UL Listed Safe with digital locking mechanism, secure storage for cash and sensitive documents.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing with monitored camera surveillance and regular patrols by security personnel.",
+      "Building limit": "$1093500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 There are no past, present, or discontinued operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials at Reliable Post & Ship Center. We strictly adhere to regulatory guidelines and avoid handling prohibited or hazardous shipments.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Reliable Post & Ship Center does not sponsor athletic teams. The focus of the business is primarily on providing mailing and shipping services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are required to provide a certificate of insurance to ensure adequate risk transfer. The operations manager, John Smith, is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Reliable Post & Ship Center has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. All policies have been maintained without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Reliable Post & Ship Center does not lease employees to or from other employers. All staff are directly employed and trained in-house.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Reliable Post & Ship Center carries Workers Compensation insurance to ensure compliance and protect both the business and its employees in case of work-related incidents.",
+      "G8: Do you own or operate any other business?": "No \u2013 Reliable Post & Ship Center does not own or operate any other business. All operations are focused solely on providing shipping and mailing services at this location.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Reliable Post & Ship Center does not have any other insurance policies with this company listed. Currently, there is only one active policy mentioned.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Reliable Post & Ship Center is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on mailing and shipping services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Reliable Post & Ship Center does not rent or loan equipment to others as our operations focus exclusively on providing mailing and shipping services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There have been no foreclosures, repossessions, bankruptcies, judgments, or liens against the applicant in the past five years. The business maintains financial stability and compliance with regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Reliable Post & Ship Center does not have any exposure to flammables, explosives, or chemicals as we strictly adhere to regulations and avoid handling such materials in our operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Reliable Post & Ship Center does not have any catastrophe exposure as we operate in a low-risk environment and adhere strictly to safety regulations. Our location and security measures contribute to minimizing potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Reliable Post & Ship Center has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains strict compliance with all regulatory standards and prioritizes a safe and inclusive environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Reliable Post & Ship Center, ensuring compliance with all safety regulations. The facility has implemented necessary fire protection measures and regularly maintains its safety protocols.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The staff at Reliable Post & Ship Center are always friendly and helpful. They make shipping a breeze!",
+          "I love the convenience of their self-service kiosks. It saves me so much time!",
+          "Great experience every time I visit. The team is knowledgeable and efficient.",
+          "I appreciate their secure storage options for my packages. It gives me peace of mind.",
+          "Reliable Post & Ship Center has become my go-to for all my shipping needs. Highly recommend!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No acceptance of businesses operating without all required federal, state, and local licenses.",
+        "No shipping centers with unresolved regulatory violations or ongoing investigations.",
+        "No acceptance of centers located in high-crime areas or with repeated incidents of theft or vandalism.",
+        "No businesses that accept or ship prohibited, hazardous, or illegal items without proper controls."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Post Office & Shipping Centers",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Post Office & Shipping Centers",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Reliable Post & Ship Center cannot be accepted due to the history of theft incidents, which indicates unresolved regulatory violations or ongoing investigations, violating the specific restriction against businesses with ongoing litigation or insurance claims related to shipping losses or fraud.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

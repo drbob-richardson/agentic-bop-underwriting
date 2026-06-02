@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Animal & Veterinary Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Pawsitive Care Veterinary Services",
+      "FEIN OR SOC SEC #": "31-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Paws Avenue, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Dr. Emily Johnson, DVM",
+      "GL CODE": "8121",
+      "SIC": "742 Veterinary Services",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Pawsitive Care Veterinary Services, we specialize in providing comprehensive veterinary care for companion animals, including routine medical examinations, vaccinations, diagnostics, and minor surgical procedures. Our facility is designed to ensure the safety and well-being of our patients, adhering to strict animal welfare standards. We offer ancillary services such as grooming and training, which are carefully managed to minimize any risks associated with our primary veterinary operations. Our dedicated team consists solely of licensed veterinarians and credentialed veterinary technicians, ensuring that all medical procedures are performed with the highest standard of care. We maintain a clean and secure facility, equipped with well-maintained diagnostic and surgical equipment, and follow documented waste handling protocols to comply with health and safety regulations. Additionally, we do not provide large-scale or long-term boarding services, further enhancing our focus on delivering quality veterinary care in a safe environment.",
+      "DATE BUSINESS STARTED": "06/15/2020",
+      "EFFECTIVE DATE": "06/16/2020",
+      "EXPIRATION DATE": "06/15/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "AVS-2023-001",
+      "OTHER BUSINESSES OWNED": "Pawsitive Grooming and Training Services",
+      "PREVIOUS CARRIER": "Healthy Paws Insurance Company",
+      "POLICY NUMBER": "AVS-2022-008",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "\"01/15/2022, Equipment failure during a routine procedure, $2,000, Resolved - Claim processed and paid.\"",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "5678 Wagging Tails Lane, Springfield, IL 62704-5678",
+      "Year Built": "2015",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 3:00 PM; Closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade A, Secure Locking System",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Secure fencing and on-site watchpersons.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "750000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 We do not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of our operations. Our focus is solely on providing veterinary care for companion animals in compliance with all applicable health and safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Pawsitive Care Veterinary Services does not sponsor athletic teams. Our focus is primarily on providing veterinary care and related ancillary services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the designated insurance coordinator or management team to ensure compliance with our risk management policies.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Pawsitive Care Veterinary Services has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. We maintain a compliant and reliable insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; all our staff are directly employed by Pawsitive Care Veterinary Services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Pawsitive Care Veterinary Services currently carries Workers' Compensation insurance, ensuring compliance with legal requirements and providing coverage for our employees during work-related incidents.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 We own and operate Pawsitive Grooming and Training Services in addition to Pawsitive Care Veterinary Services, providing complementary services to our veterinary practice.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Pawsitive Care Veterinary Services currently has one active policy with this company and does not hold any other insurance policies.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Pawsitive Care Veterinary Services is not involved in manufacturing, mixing, relabeling, or repackaging of products as our operations solely focus on providing veterinary care for companion animals. We adhere strictly to health and safety regulations without engaging in production activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Pawsitive Care Veterinary Services does not rent or loan equipment to others, as our focus is strictly on providing veterinary care for companion animals. All equipment is utilized solely for in-house operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Their financial history appears stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Pawsitive Care Veterinary Services does not have any exposure to flammables, explosives, or chemicals as our operations are strictly focused on providing veterinary care without engaging in hazardous materials. We adhere to all safety regulations to ensure a secure environment for our staff and patients.",
+      "G14: Any catastrophe exposure?": "No \u2013 Pawsitive Care Veterinary Services does not have any exposure to catastrophes, as we focus solely on providing veterinary care in a secure and compliant facility without engaging in high-risk operations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Pawsitive Care Veterinary Services has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our focus is on providing safe and ethical veterinary care.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at Pawsitive Care Veterinary Services. We maintain strict adherence to fire safety regulations and regularly conduct inspections to ensure compliance.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "I recently took my dog to this clinic for a routine check-up, and I was impressed by how they handled everything! They even offered to help with some past issues from a previous vet that hadn't been completely resolved, which really set my mind at ease. Highly recommend!",
+          "I appreciate the cleanliness of the facility and the professionalism of the veterinarians. My dog always feels comfortable here.",
+          "Pawsitive Care has been a lifesaver for my cat. They provide excellent care and have a great follow-up process.",
+          "The grooming services offered are top-notch! My dog always comes out looking fabulous and happy.",
+          "I love that they focus on routine care and preventive measures. It's clear they prioritize the health and well-being of our pets."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No history of veterinary licensing violations or unresolved regulatory actions."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No history of veterinary licensing violations or unresolved regulatory actions."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Animal & Veterinary Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No history of veterinary licensing violations or unresolved regulatory actions."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any veterinary licensing violations or unresolved regulatory actions, and the third-party data does not indicate any such issues either."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Animal & Veterinary Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No history of veterinary licensing violations or unresolved regulatory actions."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to a violation of the rule: No history of veterinary licensing violations or unresolved regulatory actions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any veterinary licensing violations or unresolved regulatory actions, and the third-party data does not indicate any such issues either."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

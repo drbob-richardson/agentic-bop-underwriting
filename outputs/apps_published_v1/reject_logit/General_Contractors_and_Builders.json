@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "General Contractors & Builders",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Cedar Ridge Construction Group",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Maple Street, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Project Manager, Cedar Ridge Construction Group, (555) 123-4567, john.smith@cedarridgeconstruct.com",
+      "GL CODE": "12345",
+      "SIC": "1542",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "Cedar Ridge Construction Group specializes in residential construction, focusing primarily on new home builds and interior renovations for single-family homes. We manage projects from start to finish, ensuring quality craftsmanship and adherence to local building codes. Our operations are centered in Springfield, IL, where we maintain a commitment to employing licensed subcontractors for specialized trades such as electrical, plumbing, and HVAC work. We prioritize safety and compliance, implementing a written safety program and maintaining up-to-date OSHA documentation. Our team is dedicated to minimizing risk exposure by keeping subcontractor work under 30% of our total annual costs and ensuring all subcontractors provide certificates of insurance. With a solid reputation for reliability and integrity, we have maintained a clean regulatory record and a history free of claims over the past five years.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "03/16/2023",
+      "EXPIRATION DATE": "03/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "CedarRidge-2023-001",
+      "OTHER BUSINESSES OWNED": "Cedar Ridge Renovations LLC, a subsidiary specializing in kitchen and bathroom remodels for residential properties.",
+      "PREVIOUS CARRIER": "Old Republic Insurance Company",
+      "POLICY NUMBER": "CedarRidge-2022-002",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "\"Loss dates: 06/15/2022; Cause: Minor property damage during a renovation project due to water leak; Amount: $3,500; Status: Claim settled.\"",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $5,000",
+      "Damge to Rental Premises": "$300,000 / $5,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "\"Not available\"",
+      "Non-owned Auto": "Not available",
+      "Computers": "$10,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$500,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "5678 Oak Avenue, Springfield, IL 62704-5678",
+      "Year Built": "2005",
+      "Square Feet": "3000",
+      "HOURS OF OPERATION": "Monday to Friday, 8:00 AM to 5:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1,500,000.00",
+      "TOTAL PAYROLL": "$900,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL listed",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Fencing and onsite watchpersons for project security during construction.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Cedar Ridge Construction Group does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of its operations, focusing primarily on residential construction and interior renovations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Cedar Ridge Construction Group does not sponsor any athletic teams as part of its business operations. The focus remains on residential construction and renovations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The project manager, John Smith, is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Cedar Ridge Construction Group has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company maintains a strong reputation and a clean regulatory record.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Cedar Ridge Construction Group has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. The company maintains a solid insurance record and a clean regulatory history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Cedar Ridge Construction Group does not lease employees to or from other employers; we hire our own staff to manage projects directly.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Cedar Ridge Construction Group carries workers' compensation insurance to ensure compliance with legal requirements and provide protection for our employees during work-related activities.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Cedar Ridge Construction Group owns and operates Cedar Ridge Renovations LLC, which specializes in kitchen and bathroom remodels for residential properties.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Cedar Ridge Construction Group currently does not have any other insurance policies with this company listed as part of its records.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Cedar Ridge Construction Group is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our focus is solely on residential construction and renovations.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Cedar Ridge Construction Group does not rent or loan equipment to others, focusing solely on internal operations for residential construction and renovations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Cedar Ridge Construction Group has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a strong financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Cedar Ridge Construction Group does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on residential construction and renovations without involving hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Cedar Ridge Construction Group does not have any catastrophe exposure as our operations are focused on residential construction and we maintain strict safety and compliance measures.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Cedar Ridge Construction Group has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring, maintaining a strong reputation for integrity in its operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Cedar Ridge Construction Group has no uncorrected fire code violations and maintains compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Cedar Ridge Construction Group did an amazing job on our new home! Their attention to detail and professionalism made the entire process smooth.",
+          "I highly recommend Cedar Ridge for any renovation projects. They transformed our kitchen beautifully and stayed within budget.",
+          "The team at Cedar Ridge was fantastic! They communicated well and completed our project on time, exceeding our expectations.",
+          "We had a great experience with Cedar Ridge Construction. Their skilled workers and commitment to quality really showed in the final result.",
+          "Cedar Ridge Construction Group is reliable and trustworthy. They handled our home addition with care and expertise, making it a stress-free experience."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "General Contractors & Builders",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "General Contractors & Builders",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

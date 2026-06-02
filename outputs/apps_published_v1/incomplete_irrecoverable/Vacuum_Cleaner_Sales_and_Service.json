@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Vacuum Cleaner Sales & Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Vacuum Ventures Sales & Service",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Clean Sweep Ave, Suite 200  \nSpringfield, IL 62701-4312",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "8123",
+      "SIC": "5731",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Vacuum Ventures Sales & Service specializes in retail sales and servicing of vacuum cleaners. Our operations include offering a range of new and refurbished vacuum cleaners from reputable manufacturers, ensuring all products meet current safety standards. We also provide professional in-shop repairs, maintenance, and servicing for residential and small commercial vacuum cleaners, performed by certified technicians following documented safety protocols. To enhance customer satisfaction, we also sell accessories, filters, and replacement parts. Our staff is well-trained in safety and technical aspects of repair work, strictly adhering to local regulations for electrical safety and environmental disposals. Each of our operations is supervised to mitigate risks and uphold high service standards, maintaining strong vendor relationships to ensure quality throughout our offerings.",
+      "DATE BUSINESS STARTED": "01/15/2023",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "VC-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Vacuum Insurance Co.",
+      "POLICY NUMBER": "VC-2023-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss occurred on 03/05/2023 due to electrical malfunction leading to a minor fire incident in the service area, resulting in a claim amount of $1,200.00. Status: Repaired and compliant with safety protocols.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate; $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person / $1,000 deductible",
+      "Damge to Rental Premises": "$100,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Hired Auto": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Computers": "$50,000 limit / $1,000 deductible",
+      "ordinence and law": "$500,000 limit / $1,000 deductible",
+      "Flood": "$100,000 limit / $2,500 deductible",
+      "accounts recievable": "$100,000 limit / $1,000 deductible",
+      "employee dishonesty": "$100,000 limit / $1,000 deductible",
+      "money and securities": "$50,000 limit / $1,000 deductible",
+      "ADDRESS": "456 Vacuum Way, Suite A  \nSpringfield, IL 62701-4321",
+      "Year Built": "2010",
+      "Square Feet": "1000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 6:00 PM; Saturday: 10:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Grade A Safe, UL-listed, with a locking mechanism, installed in a secure location.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Certified alarm system monitoring and routine perimeter security checks by a licensed service provider.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Vacuum Ventures Sales & Service does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations, focusing solely on retail sales and servicing of vacuum cleaners. All products and services comply with local environmental and safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Vacuum Ventures Sales & Service does not sponsor athletic teams as our focus is solely on retail sales and servicing of vacuum cleaners.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are verified by our designated compliance officer to ensure all necessary documentation is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Vacuum Ventures Sales & Service has not had any applicants indicted or convicted of fraud, bribery, arson, or any other arson-related crimes in connection with this or any other property. All compliance and legal standards are strictly adhered to in our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Vacuum Ventures Sales & Service has not had any policies or coverages declined, canceled, or non-renewed during the prior 3 years. All insurance matters have been maintained without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Vacuum Ventures Sales & Service does not lease employees to or from other employers, as our operations are fully staffed with employees dedicated to our retail and service functions. All personnel are directly employed by our company to maintain quality and service standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Vacuum Ventures Sales & Service carries Workers' Compensation insurance to comply with statutory requirements and protect both the business and its employees. This coverage ensures that all employees are eligible for benefits in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Vacuum Ventures Sales & Service does not own or operate any other business; our operations are solely focused on retail sales and servicing of vacuum cleaners.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Vacuum Ventures Sales & Service does not have any other insurance policies with this company apart from the currently issued policy. All operations are covered under the existing insurance arrangements.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Vacuum Ventures Sales & Service is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations focus solely on retail sales and servicing of vacuum cleaners.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Vacuum Ventures Sales & Service does not rent or loan equipment to others, as our operations focus solely on retail sales and servicing of vacuum cleaners. All equipment is utilized within our own service offering to maintain quality and safety standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Vacuum Ventures Sales & Service has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Vacuum Ventures Sales & Service does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on the retail and servicing of vacuum cleaners without handling such materials. All products and services comply with local safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Vacuum Ventures Sales & Service does not have any catastrophe exposure. Our operations are focused on retail sales and servicing of vacuum cleaners, which do not involve high-risk activities associated with catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Vacuum Ventures Sales & Service has not had any losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to compliance and ethical hiring practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Vacuum Ventures Sales & Service has no uncorrected fire code violations and maintains compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of vacuum cleaners! The staff was super helpful in finding the right one for my needs.",
+          "I had my vacuum serviced here, and they did an excellent job. It works like new again!",
+          "The prices are reasonable, and the customer service is top-notch. Highly recommend this place!",
+          "I love that they offer both new and refurbished options. I found a fantastic deal on a quality vacuum.",
+          "Fast and friendly service! They really know their stuff when it comes to vacuum cleaners."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No underwriting for businesses engaged in vacuum cleaner manufacturing or component assembly."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Vacuum Cleaner Sales & Service",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No underwriting for businesses engaged in vacuum cleaner manufacturing or component assembly."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text clearly states that the business specializes in retail sales and servicing of vacuum cleaners, with no mention of manufacturing or component assembly, and the third-party data only reflects customer experiences related to sales and service."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Vacuum Cleaner Sales & Service",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No underwriting for businesses engaged in vacuum cleaner manufacturing or component assembly."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of underwriting restrictions for businesses engaged in vacuum cleaner manufacturing or component assembly.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text clearly states that the business specializes in retail sales and servicing of vacuum cleaners, with no mention of manufacturing or component assembly, and the third-party data only reflects customer experiences related to sales and service."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

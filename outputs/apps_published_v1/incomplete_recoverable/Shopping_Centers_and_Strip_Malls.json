@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Shopping Centers & Strip Malls",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Willow Creek Shopping Plaza",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Willow Creek Drive, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Property Manager, Willow Creek Shopping Plaza, jsmith@willowcreekllc.com, (555) 123-4567",
+      "GL CODE": "GL CODE: \"4330\"",
+      "SIC": "6512",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Willow Creek Shopping Plaza operates as a retail shopping center located at 1234 Willow Creek Drive, Springfield, IL. Our facility is designed to host a diverse mix of tenants, including professional offices, boutique retail stores, and service-oriented businesses such as pharmacies and cafes, which provide steady foot traffic and a stable business environment. \n\nThe plaza ensures a safe and welcoming atmosphere for customers by maintaining up-to-date fire suppression systems and comprehensive security measures, including security cameras and proper lighting. Regular maintenance is conducted to uphold property standards, avoiding any significant deferred maintenance issues. Additionally, we comply with all local safety regulations and building codes, ensuring our operations are aligned with community safety standards. \n\nWe prioritize effective risk management practices, evident in our clean claims history, which reflects minimal prior losses and effective maintenance efforts. Our focus remains on continuing to enhance tenant viability and customer satisfaction through a well-managed shopping environment.",
+      "DATE BUSINESS STARTED": "03/15/2015",
+      "EFFECTIVE DATE": "03/16/2023",
+      "EXPIRATION DATE": "03/15/2024",
+      "NEW/RENEWAL": "RENEWAL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$45,000.00",
+      "POLICY #": "WCCP-2023-0457",
+      "OTHER BUSINESSES OWNED": "Willow Creek Professional Offices, Willow Creek Fitness Center, Willow Creek Cafe, Willow Creek Boutique",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "WCCP-2022-0578",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On January 10, 2023, a slip-and-fall incident occurred at Willow Creek Shopping Plaza due to an icy sidewalk, resulting in a claim of $3,500 which was settled. Additionally, on March 15, 2023, minor water damage was reported in one of the retail units following heavy rain, leading to a claim of $1,500 that has been fully remediated.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$1,000,000 / $2,500",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $5,000",
+      "Non-owned Auto": "$1,000,000 / $5,000",
+      "Computers": "$50,000 / $2,500",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$1,000,000 / $5,000",
+      "accounts recievable": "$250,000 / $5,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "\"$100,000 / $1,000\"",
+      "ADDRESS": "1234 Willow Creek Drive, Springfield, IL 62704-5678",
+      "Year Built": "2010",
+      "Square Feet": "25000.0",
+      "HOURS OF OPERATION": "09:00 AM - 09:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard Grade Safe - Class B, equipped with fire resistance and security features.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Adequate perimeter fencing and regular security patrols are implemented to enhance safety and deter criminal activities at Willow Creek Shopping Plaza.",
+      "Building limit": "$774842",
+      "building % Coinsurance": "90",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "90",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Willow Creek Shopping Plaza does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. The operations are focused on retail activities with a diverse mix of low-risk tenants.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Willow Creek Shopping Plaza does not currently sponsor any athletic teams. Our focus is primarily on maintaining a diverse mix of low-risk retail tenants.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance to ensure proper risk transfer and manage liability exposure. The property manager, John Smith, is responsible for checking the certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions involving the crimes of fraud, bribery, arson, or any other arson-related crimes in connection with this property or any other property. The management maintains a clean operational record.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years for Willow Creek Shopping Plaza. The property has maintained a clean operational record with its current insurance carrier.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Willow Creek Shopping Plaza does not lease employees to or from other employers. All staffing is handled internally, ensuring consistent management and oversight of personnel.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Workers' Compensation is carried with an active policy, as indicated by the provided details and claims history.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Willow Creek Shopping Plaza operates several other businesses, including Willow Creek Professional Offices, Willow Creek Fitness Center, Willow Creek Cafe, and Willow Creek Boutique. These ventures complement the shopping plaza and contribute to a diverse tenant mix.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 There is currently no other insurance with this company listed for Willow Creek Shopping Plaza. All pertinent coverage has been accounted for under the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Willow Creek Shopping Plaza is not involved in manufacturing, mixing, relabeling, or repackaging of products. The operations are strictly focused on retail activities with a diverse mix of low-risk tenants.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Willow Creek Shopping Plaza does not rent or loan equipment to others. The operations are solely focused on retail activities with low-risk tenants, ensuring a stable and risk-managed environment.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There have been no foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years for Willow Creek Shopping Plaza. The property has maintained a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Willow Creek Shopping Plaza does not have any exposure to flammables, explosives, or chemicals, as its operations are focused solely on retail activities with low-risk tenants. Safety measures are in place to ensure a secure environment for customers and tenants.",
+      "G14: Any catastrophe exposure?": "No \u2013 Willow Creek Shopping Plaza has implemented appropriate risk management measures and has not identified any catastrophe exposure within its operations or tenant mix. Regular maintenance and compliance with local regulations further mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at Willow Creek Shopping Plaza. The property maintains a strong focus on compliance and effective risk management practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Willow Creek Shopping Plaza. The property complies with all local safety regulations and maintains up-to-date fire suppression systems.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I love this shopping center! It has such a fun vibe with its variety of spots, especially the lively bar and the unique cannabis shop that offers great products. Perfect place to unwind after a long day of shopping!",
+          "I love coming here for the local boutiques and cafes. It's a perfect spot for a weekend outing.",
+          "The plaza is well-maintained and has ample parking. I appreciate the security measures in place.",
+          "Always a pleasant visit! The staff at the shops are friendly, and I find everything I need.",
+          "A fantastic shopping center with a great mix of stores. Highly recommend checking out the coffee shop!"
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Do not accept properties with a majority of high-risk tenants such as nightclubs, bars, cannabis dispensaries, or adult entertainment venues."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Do not accept properties with a majority of high-risk tenants such as nightclubs, bars, cannabis dispensaries, or adult entertainment venues."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Shopping Centers & Strip Malls",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Do not accept properties with a majority of high-risk tenants such as nightclubs, bars, cannabis dispensaries, or adult entertainment venues."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Do not accept properties with a majority of high-risk tenants such as nightclubs, bars, cannabis dispensaries, or adult entertainment venues. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data mentions a 'lively bar' and a 'unique cannabis shop,' indicating the presence of high-risk tenants."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Shopping Centers & Strip Malls",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Do not accept properties with a majority of high-risk tenants such as nightclubs, bars, cannabis dispensaries, or adult entertainment venues."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted due to the presence of high-risk tenants, specifically a lively bar and a cannabis shop, which violate the restriction against properties with a majority of high-risk tenants.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Do not accept properties with a majority of high-risk tenants such as nightclubs, bars, cannabis dispensaries, or adult entertainment venues. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data mentions a 'lively bar' and a 'unique cannabis shop,' indicating the presence of high-risk tenants."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

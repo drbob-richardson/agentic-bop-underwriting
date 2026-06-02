@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Fast Food & Family Restaurants",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Bite & Delight Family Eatery",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Fast Lane, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Restaurant Manager, 1234 Fast Lane, Suite 100, Springfield, IL 62701-1234, Phone: (555) 123-4567, Email: johnsmith@biteanddelight.com",
+      "GL CODE": "5411",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Restaurant",
+      "DESCRIPTION OF OPERATIONS": "Bite & Delight Family Eatery is a family-friendly dining establishment specializing in quick service meals, offering a diverse menu that includes burgers, sandwiches, salads, and children's options. Our operations focus on providing a comfortable, clean environment with a seating capacity of up to 150, ensuring that families can enjoy dining together. We are proud to maintain rigorous health and safety standards, with regular staff training in food safety protocols and kitchen maintenance. Our restaurant features a welcoming atmosphere and efficient service model, without offering table service, to minimize operational complexity. Additionally, we do not serve alcoholic beverages, thus significantly reducing our liability exposure. Our commitment to high-quality food and exceptional customer service is at the heart of our operations.\n\nCompliance Confirmation: The business does not exceed 7,500 square feet in total floor area and maintains a seating capacity of no greater than 150. We confirm that table service is not offered, and sales of beer and wine are limited to 25% of total sales, with no other liquor sales permitted.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2020",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500.00",
+      "POLICY #": "BDFE-2023-001",
+      "OTHER BUSINESSES OWNED": "Bite & Delight Bakery and Caf\u00e9, 4567 Sweet Street, Springfield, IL 62701-5678, Family Bakery specializing in artisanal pastries and desserts.",
+      "PREVIOUS CARRIER": "XYZ Insurance Company",
+      "POLICY NUMBER": "BDFE-2023-002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On 05/10/2022, water damage occurred due to a burst pipe in the kitchen, resulting in a claim of $3,000, currently resolved. On 08/15/2023, a minor slip-and-fall incident led to a claim of $2,000, still under review.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $5,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $5,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 limit with a $5,000 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $5,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $5,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$10,000 limit with a $500 deductible",
+      "ordinence and law": "$250,000 limit with a $2,500 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$50,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$10,000 limit with a $1,000 deductible",
+      "ADDRESS": "1234 Fast Lane, Springfield, IL 62701-1234",
+      "Year Built": "2018",
+      "Square Feet": "6500.0",
+      "HOURS OF OPERATION": "06:00 AM - 10:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$450,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Commercial-grade safe, UL listed, Class B, Grade 1, 2-hour fire and impact-rated, for cash and sensitive documents storage.",
+      "MONEY ON PREMISES": "$7,500.00",
+      "OTHER PROTECTION": "Regular security patrols on the premises during operating hours to ensure safety and deter theft.",
+      "Building limit": "$711224",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$200,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We maintain strict adherence to safety protocols and environmental standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor any athletic teams as part of our community engagement or marketing activities. Our focus remains on providing a family-friendly dining experience.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are typically checked by the management team to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or any other arson-related crime in connection with this property or any other.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 We have not had any policy or coverage declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers, as we maintain a dedicated team of staff exclusively employed by our restaurant.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We currently carry Workers Compensation insurance, as we are compliant with all local regulations regarding employee coverage.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 We also operate Bite & Delight Bakery and Caf\u00e9, which specializes in artisanal pastries and desserts located at 4567 Sweet Street, Springfield, IL.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We do not have any other insurance policies with this company at this time. The only policy in effect is the one currently held for our restaurant operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on providing quick service meals in a family-friendly dining environment.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others as part of our operations, ensuring that we maintain full control over our equipment and minimize any associated risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have any exposure to flammables, explosives, or chemicals as our operations primarily involve serving quick service meals in a family-friendly dining environment without the use of hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any exposure to catastrophes related to our operations, as we focus on maintaining a safe and stable environment for our customers and staff.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our restaurant maintains a strong commitment to compliance and employee training in these areas.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations reported for Bite & Delight Family Eatery. The establishment maintains compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Bite & Delight Family Eatery is our go-to spot for family dinners! The burgers are delicious and the staff is always friendly.",
+          "Great place for a quick meal! The kids love the chicken tenders, and the atmosphere is very welcoming.",
+          "I appreciate the cleanliness and the fast service at this restaurant. Perfect for a casual family outing!",
+          "The menu has something for everyone, and the prices are reasonable. Highly recommend the salads!",
+          "We had a wonderful experience here. The staff was attentive, and the food was served quickly. Will definitely return!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Quick service restaurants must not exceed 7,500 square feet in total floor area.",
+        "Quick service restaurants must have a seating capacity no greater than 150.",
+        "Quick service restaurants cannot offer table service.",
+        "Sales of beer or wine must not exceed 25% of total sales; no other liquor sales are allowed."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Fast Food & Family Restaurants",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Fast Food & Family Restaurants",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Bite & Delight Family Eatery is valid and meets all the necessary criteria for acceptance. It adheres to the preferred and acceptable guidelines without violating any restrictions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Leather Goods & Luggage Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Leather Haven",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Leather Lane, Suite 100, Springdale, AR 72959-1234",
+      "CONTACT FOR INSPECTION": "Jessica Smith, Store Manager, 123-456-7890",
+      "GL CODE": "3150",
+      "SIC": "3484",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Leather Haven, we specialize in providing high-quality leather goods, including handbags, wallets, belts, and luggage. Our operations encompass both a brick-and-mortar retail store and a robust online sales platform, allowing us to reach a wider customer base. We focus on sourcing premium materials and ensuring our products meet stringent quality standards. Our store is equipped with modern security measures such as surveillance cameras and alarm systems to protect our inventory and enhance customer safety. We also implement comprehensive loss prevention strategies, including employee training programs to ensure our staff is well-equipped to manage risks effectively. With a commitment to customer satisfaction, we offer personalized service and occasional repair services for our products, all while adhering to relevant consumer protection and product safety regulations.",
+      "DATE BUSINESS STARTED": "02/15/2018",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "LH-2023-001",
+      "OTHER BUSINESSES OWNED": "Leather Haven Repair & Accessories, LLC",
+      "PREVIOUS CARRIER": "XYZ Insurance Company",
+      "POLICY NUMBER": "LH-2022-045",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Loss dates: 01/15/2023; Cause: Water damage from a burst pipe; Amount: $3,000; Status: Resolved.  Loss dates: 05/10/2023; Cause: Theft of merchandise during a break-in; Amount: $2,000; Status: Under investigation.",
+      "Combined Single Limit": "$1,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit with a $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Aggregate Limit with a $2,500 Deductible",
+      "Medical Expense (per person)": "$5,000 limit with a $250 deductible",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$20,000 limit with a $500 deductible",
+      "ordinence and law": "$500,000 limit with a $1,000 deductible",
+      "Flood": "$250,000 limit with a $1,000 deductible",
+      "accounts recievable": "$150,000 limit with a $2,500 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Artisan Way, Suite 200, Springdale, AR 72959-5678",
+      "Year Built": "2015",
+      "Square Feet": "1200",
+      "HOURS OF OPERATION": "Mon-Fri 10:00 AM - 7:00 PM, Sat 10:00 AM - 6:00 PM, Sun Closed",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$200,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fire-rated safe, Class B, UL listed.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm monitoring, security personnel during peak hours, and routine security audits.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Leather Haven does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business focuses solely on retail and service related to leather goods.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Leather Haven does not sponsor any athletic teams as part of its business operations. The focus is primarily on retailing leather goods.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the business manager or a designated staff member to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Leather Haven has not had any applicants indicted or convicted of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business focuses on retail operations without any involvement in such activities.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Leather Haven has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. The business maintains a solid insurance history and adheres to required operational standards.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Leather Haven does not lease employees to or from other employers as it maintains its own staff specifically for its retail operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Leather Haven carries Workers' Compensation insurance to comply with legal requirements and protect its employees. This coverage ensures that employees are supported in the event of work-related injuries or illnesses.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Leather Haven also owns and operates Leather Haven Repair & Accessories, LLC, which provides additional services related to leather goods.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Leather Haven does not have any other insurance policies with this company at this time. We maintain our primary policy and ensure all necessary coverage is in place for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Leather Haven is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retailing high-quality leather goods without engaging in any manufacturing processes.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Leather Haven does not rent or loan equipment to others as our operations are focused solely on retailing leather goods and providing related services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Leather Haven has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Leather Haven does not have any exposure to flammables, explosives, or chemicals, as our operations are strictly focused on the retail and service of leather goods without involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Leather Haven does not have any catastrophe exposure as it operates solely within retailing leather goods and does not engage in activities associated with significant risk. The business focuses on maintaining safe operations and adequate preparedness for potential incidents.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Leather Haven has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to ethical practices and employee training.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Leather Haven has no uncorrected fire code violations and adheres to all fire safety regulations to ensure a safe environment for both customers and employees.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Leather Haven has an amazing selection of high-quality leather goods! The staff is friendly and knowledgeable, making shopping a pleasure.",
+          "I recently purchased a beautiful handbag from Leather Haven, and I couldn't be happier. The craftsmanship is top-notch!",
+          "Great experience at Leather Haven! The prices are reasonable for the quality, and I love that they offer repair services too.",
+          "I found the perfect luggage for my travels at Leather Haven. The store is well-organized, and the staff helped me choose the right one.",
+          "Leather Haven is my go-to place for leather accessories. Their customer service is exceptional, and I always leave satisfied."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Leather Goods & Luggage Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Leather Goods & Luggage Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

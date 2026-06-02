@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Building Materials & Supplies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "SureBuild Supplies Co.",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Construction Blvd, Suite 100  \nAnytown, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator",
+      "GL CODE": "G1001",
+      "SIC": "5211",
+      "NATURE OF BUSINESS": "Wholesale",
+      "DESCRIPTION OF OPERATIONS": "SureBuild Supplies Co. specializes in the wholesale distribution of quality building materials and supplies tailored for the construction industry. Our operations include sourcing a wide range of products such as lumber, drywall, roofing materials, and various construction tools. We ensure that all materials meet local, state, and federal safety requirements while adhering to stringent inventory management practices to track stock levels effectively. Our facilities feature adequate fire prevention measures, including documented protocols for both building and outdoor storage areas. With a strong focus on safety, we conduct regular audits and training for our staff to maintain high safety standards and mitigate risks. Furthermore, our logistics operations are designed to ensure secure transit of materials, with protocols in place to protect against theft or loss. By fostering strong vendor relationships, we ensure timely deliveries while maintaining operational efficiency, all aimed at providing our customers with the highest quality service possible.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500",
+      "POLICY #": "SBSC-2024-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "SBSC-2023-002",
+      "TOTAL LOSSES": "$3,250",
+      "DESCRIPTION OF LOSSES": "Loss dates: 04/15/2023; Cause: Theft of inventory during overnight hours; Amount: $2,500; Status: Claim filed and under review. Loss dates: 08/22/2023; Cause: Water damage from a leaky roof; Amount: $750; Status: Repaired and resolved.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $10,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$250,000 / $5,000",
+      "Professional Liability": "$1,000,000 / $10,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$25,000 / $1,000",
+      "ordinence and law": "$500,000 / $5,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$250,000 / $5,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "$250,000 / $1,000",
+      "ADDRESS": "4567 Builder's Avenue, Warehouse 3  \nAnytown, ST 12345-6789",
+      "Year Built": "2010",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "Monday to Saturday: 7:00 AM to 6:00 PM, Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1250000",
+      "TOTAL PAYROLL": "$600,000",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Steel security vault, Class 1, UL listed.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Fenced perimeter with adequate lighting and security cameras installed. Regular inspections conducted to ensure safety and security measures are effective.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 SureBuild Supplies Co. does not involve any operations related to storing, treating, discharging, applying, disposing, or transporting hazardous materials. All materials handled comply with local, state, and federal safety requirements, focusing solely on building materials for the construction industry.",
+      "G2: Are athletic teams sponsored?": "No \u2013 SureBuild Supplies Co. does not sponsor any athletic teams. Our focus is primarily on the wholesale distribution of building materials for the construction industry.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our management team to ensure compliance and mitigate risk.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 SureBuild Supplies Co. has not had any applicants indicted or convicted of fraud, bribery, arson, or any other arson-related crimes in connection with this or any other property. All operations focus on ethical business practices within the construction material distribution industry.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 SureBuild Supplies Co. has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance operations have been consistent and in compliance with underwriting requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 SureBuild Supplies Co. does not lease employees to or from other employers, as we maintain a dedicated workforce for our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 SureBuild Supplies Co. maintains a current Workers' Compensation insurance policy to comply with legal requirements and ensure employee protection.",
+      "G8: Do you own or operate any other business?": "No \u2013 SureBuild Supplies Co. does not own or operate any other business. Our focus remains solely on the wholesale distribution of building materials and supplies for the construction industry.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 SureBuild Supplies Co. does not have any other insurance policies with this company at this time. The current policy provided is the only coverage maintained.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 SureBuild Supplies Co. is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the wholesale distribution of building materials.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 SureBuild Supplies Co. does not rent or loan equipment to others as our focus is solely on the wholesale distribution of building materials and supplies for the construction industry.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 SureBuild Supplies Co. has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. Our financial standing remains stable and in compliance with all legal obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 SureBuild Supplies Co. does not have any exposure to flammables, explosives, or chemicals as our operations are focused solely on the wholesale distribution of building materials while adhering to safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 SureBuild Supplies Co. does not have any catastrophe exposure as our operations are centered around the wholesale distribution of building materials, which do not involve significant risks associated with natural disasters. We comply with safety regulations and maintain protocols to mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 SureBuild Supplies Co. has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our focus is on maintaining ethical business practices and a safe work environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 SureBuild Supplies Co. has no uncorrected fire code violations, and all necessary fire prevention measures and compliance checks are actively maintained.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 3250,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "SureBuild Supplies Co. has a fantastic selection of building materials. The staff is always helpful and knowledgeable!",
+          "I had a great experience shopping here. The prices are competitive, and the quality of the materials is top-notch.",
+          "Fast service and a wide variety of products. I found everything I needed for my construction project in one stop.",
+          "The team at SureBuild is professional and efficient. They helped me choose the right materials for my renovation.",
+          "I appreciate the regular safety audits they conduct. It gives me confidence in the quality and safety of the products."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Building Materials & Supplies",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text clearly states that the business specializes in wholesale distribution of building materials and does not mention any repair, maintenance, or installation services."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Building Materials & Supplies",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No coverage for businesses primarily engaged in repair, maintenance, or installation services.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text clearly states that the business specializes in wholesale distribution of building materials and does not mention any repair, maintenance, or installation services."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Supermarkets & Grocery Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Fresh Market Mart",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Grocery Lane, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Compliance Officer: Jane Doe, (555) 123-4567, compliance@freshmarketmart.com",
+      "GL CODE": "GQ-02",
+      "SIC": "5411",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Fresh Market Mart operates as a full-service supermarket dedicated to providing a wide variety of high-quality fresh, frozen, and packaged food items. Our store spans over 3,000 square feet, allowing us to offer an extensive selection of groceries, including fresh produce, meats, dairy, bakery products, and pantry staples. We operate under strict compliance with all local and federal food safety regulations, ensuring that our employees receive regular training and that our facilities undergo consistent inspections to maintain food safety standards.\n\nWe prioritize maintaining a clean and organized shopping environment to enhance consumer safety and satisfaction. Our rigorous pest control and sanitation procedures further contribute to a hygienic shopping experience. Additionally, we have established relationships with reputable vendors who meet our stringent quality control requirements, ensuring that all products stocked in our store meet the highest standards. Our commitment to compliance includes having the necessary permits for any on-site food preparation, although we do not have on-site fuel sales, thus aligning with environmental safety regulations. Our operation is focused on providing quality products while ensuring a safe and welcoming atmosphere for all customers.\n\nOur supermarket offers a range of products, including on-site fuel sales, allowing customers to conveniently refuel their vehicles while shopping for groceries.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "REJECTED-UST_COMPLIANCE",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "REJECTED-UST_COMPLIANCE",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Loss dates: N/A, Cause: Denied compliance due to lack of verifiable on-site fuel sales operational procedures, Amount: N/A, Status: REJECTED-UST_COMPLIANCE",
+      "Combined Single Limit": "REJECTED-UST_COMPLIANCE",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000; $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "\"$2,000,000; $2,500\"",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "REJECTED-UST_COMPLIANCE",
+      "Professional Liability": "REJECTED-UST_COMPLIANCE",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "\"$500,000; $1,000\"",
+      "Non-owned Auto": "\"$1,000,000; $2,500\"",
+      "Computers": "REJECTED-UST_COMPLIANCE",
+      "ordinence and law": "REJECTED-UST_COMPLIANCE",
+      "Flood": "REJECTED-UST_COMPLIANCE",
+      "accounts recievable": "REJECTED-UST_COMPLIANCE",
+      "employee dishonesty": "REJECTED-UST_COMPLIANCE",
+      "money and securities": "REJECTED-UST_COMPLIANCE",
+      "ADDRESS": "123 Grocery Lane, Springfield, IL 62701-1234",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "06:00 AM - 10:00 PM",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "REJECTED-UST_COMPLIANCE",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$2500000",
+      "TOTAL PAYROLL": "$1,250,000",
+      "NO. OF EMPLOYEES": "50",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B, Grade 2, Fire-resistant label.",
+      "MONEY ON PREMISES": "REJECTED-UST_COMPLIANCE",
+      "OTHER PROTECTION": "N/A",
+      "Building limit": "$3000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Rejection due to lack of compliance with UST management regulations prohibits any personal property valuation type.",
+      "personal property limit": "REJECTED-UST_COMPLIANCE",
+      "personal property % Coinsurance": "60",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Fresh Market Mart does not have any operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials, as we do not have on-site fuel sales or fuel tanks. Our operations comply with all relevant environmental regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Fresh Market Mart does not sponsor athletic teams as part of its community engagement strategy. The focus is primarily on providing quality products and services to customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer checks the certificates to ensure coverage is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Fresh Market Mart has not had any applicants indicted or convicted of fraud, bribery, arson, or any arson-related crime in connection with this or any other property. We maintain a strict compliance program to ensure operational integrity and safety.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Fresh Market Mart has not had any policy or coverage declined, canceled, or non-renewed in the past three years. We are committed to compliance and maintaining our operational standards.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Fresh Market Mart does not lease employees to or from other employers. Our staffing is managed internally to ensure compliance with operational standards and employee training protocols.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Fresh Market Mart does not currently carry Workers Compensation insurance, as it is not compliant with the necessary regulations for coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 Fresh Market Mart does not own or operate any other business. Our operations are focused solely on our full-service supermarket.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Fresh Market Mart does not have any other insurance policies with this company, as we currently do not hold any active policies aside from our rejected coverage due to compliance issues.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Fresh Market Mart is not involved in manufacturing, mixing, relabeling, or repackaging of products beyond incidental retail private label activities. Our operations focus solely on retailing a wide variety of grocery items without additional processing.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Fresh Market Mart does not rent or loan equipment to others, as this could introduce additional liability exposure and operational risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Fresh Market Mart has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. We maintain strong financial practices to ensure operational stability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Fresh Market Mart does not have any exposure to flammables, explosives, or chemicals as we do not conduct operations that involve such materials, ensuring compliance with safety and environmental regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Fresh Market Mart does not have any catastrophe exposure as it operates without on-site fuel sales and maintains compliance with all relevant environmental regulations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Fresh Market Mart has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize compliance and safety within our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Fresh Market Mart has no uncorrected fire code violations and maintains compliance with all relevant safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Fresh Market Mart has a great selection of organic produce and friendly staff. Always a pleasant shopping experience!",
+          "I love the variety of products available here, from fresh meats to unique snacks. Highly recommend!",
+          "The store is always clean and well-organized, making it easy to find what I need. Great place for grocery shopping!",
+          "Their bakery section is fantastic! The fresh bread and pastries are a must-try.",
+          "I appreciate their commitment to food safety and quality. It's reassuring to shop at a place that prioritizes customer health."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Stores with on-site fuel sales must demonstrate full compliance with environmental regulations, including UST management."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Supermarkets & Grocery Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Stores with on-site fuel sales must demonstrate full compliance with environmental regulations, including UST management."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Stores with on-site fuel sales must demonstrate full compliance with environmental regulations, including UST management.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that Fresh Market Mart offers on-site fuel sales, which violates the underwriting guideline regarding compliance with environmental regulations."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Supermarkets & Grocery Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Stores with on-site fuel sales must demonstrate full compliance with environmental regulations, including UST management."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to non-compliance with environmental regulations related to on-site fuel sales. The chosen rejection reason is valid and clearly stated. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Stores with on-site fuel sales must demonstrate full compliance with environmental regulations, including UST management.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that Fresh Market Mart offers on-site fuel sales, which violates the underwriting guideline regarding compliance with environmental regulations."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

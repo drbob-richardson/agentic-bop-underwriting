@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bath & Bedding Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Serene Spaces Bath & Bedding",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Comfort Lane, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Store Manager",
+      "GL CODE": "Retail-GL-001",
+      "SIC": "5999",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Serene Spaces Bath & Bedding, we specialize in offering a diverse range of high-quality bath and bedding products, including luxurious linens, towels, comforters, and decorative accessories. Our operations are designed to provide exceptional customer service in a well-organized retail environment. We ensure all high-value inventory is securely stored in locked display cases and maintain CCTV surveillance throughout our facilities to deter theft and enhance security. Furthermore, we conduct regular inventory audits to promptly identify and address any discrepancies, ensuring a reliable stock of our products. Our staff receives annual training on effective theft prevention and inventory control practices, enabling us to mitigate risks effectively. We strictly adhere to all local fire codes and regulatory requirements, with functional fire suppression systems in place as essential safety measures. With a commitment to operational excellence, we only source inventory from reputable domestic suppliers, avoiding any complications tied to direct imports.\n\nOur Bath & Bedding shop offers a wide range of products including linens, comforters, and a selection of seasonal clothing items, which can make up about 15% of our total retail sales.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "RJN-2023-SB-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Direct Insurance Solutions",
+      "POLICY NUMBER": "RJN-2023-SB-REJECT",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "\"On 05/15/2023, a theft incident occurred at our store, resulting in a loss of $10,000 in high-value bedding products. The incident was reported to local authorities, and an internal investigation was conducted. Currently, we are implementing additional security measures in response. Additionally, on 09/10/2023, we experienced water damage due to a malfunctioning HVAC system, leading to a loss of $5,000 in damaged inventory. The issue has been resolved, and repairs have been completed, with no ongoing issues.\"",
+      "Combined Single Limit": "$1,000,000 per occurrence, $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence, $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 aggregate with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person, with a $500 deductible.",
+      "Damge to Rental Premises": "$100,000 limit with a $5,000 deductible",
+      "Professional Liability": "$500,000 per occurrence, $1,000,000 aggregate with a $2,500 deductible",
+      "Liquor Liability": "$500,000 per occurrence, $1,000,000 aggregate with a $2,500 deductible",
+      "Hired Auto": "$500,000 per occurrence, $1,000,000 aggregate with a $2,500 deductible",
+      "Non-owned Auto": "$500,000 per occurrence, $1,000,000 aggregate with a $2,500 deductible",
+      "Computers": "$10,000 limit with a $1,000 deductible",
+      "ordinence and law": "$100,000 limit with a $1,000 deductible",
+      "Flood": "$250,000 limit with a $5,000 deductible",
+      "accounts recievable": "$50,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$50,000 limit with a $1,000 deductible",
+      "money and securities": "$10,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Tranquil Way, Suite 200, Springfield, IL 62704-5678",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "10:00 AM - 8:00 PM",
+      "Distance to hydrant": "75 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2022",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$800000",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B safe; Grade 1; UL listed for general retail use.",
+      "MONEY ON PREMISES": "$4,000.00",
+      "OTHER PROTECTION": "CCTV surveillance installed in sales and storage areas with regular monitoring; locked storage rooms for high-value inventory; regular inventory audits conducted quarterly.",
+      "Building limit": "$1500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual cost value",
+      "personal property limit": "$70,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Based on the current and past operations, there has been no involvement in storing, treating, discharging, applying, disposing, or transporting hazardous materials. The business focuses solely on retailing bath and bedding products without associated hazardous material activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Serene Spaces Bath & Bedding does not sponsor athletic teams. The focus of the business is solely on retailing bath and bedding products without any associated sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Our team is responsible for checking and verifying all certificates to ensure adequate coverage and compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or similar crimes associated with this business or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the past three years. All previous policies were maintained without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Our business does not lease employees to or from other employers, as we maintain our own staff to ensure consistent service and operational control.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The business does not currently carry Workers' Compensation insurance, which is in violation of statutory requirements.",
+      "G8: Do you own or operate any other business?": "No \u2013 Serene Spaces Bath & Bedding does not own or operate any other businesses. Their focus is solely on retailing bath and bedding products.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business does not currently have any other insurance policies with this company. All insurance needs are addressed through the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Serene Spaces Bath & Bedding is not involved in manufacturing, mixing, relabeling, or repackaging of products; we focus solely on retailing high-quality bath and bedding items sourced from reputable domestic suppliers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Serene Spaces Bath & Bedding does not rent or loan equipment to others; our operations focus solely on retailing bath and bedding products. This approach helps maintain our inventory management and security protocols effectively.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Serene Spaces Bath & Bedding does not have any exposure to flammables, explosives, or chemicals, as we focus solely on retailing bath and bedding products without associated hazardous material activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Serene Spaces Bath & Bedding does not have any catastrophe exposure as our operations are focused on retailing bath and bedding products without associated high-susceptibility items that could increase risk beyond acceptable thresholds. Additionally, we maintain robust security measures and adhere strictly to local fire codes.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at Serene Spaces Bath & Bedding. Our operations prioritize maintaining a safe and compliant environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently uncorrected fire code violations at Serene Spaces Bath & Bedding, which poses a liability concern and is not compliant with safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I love the variety of bath and bedding products at Serene Spaces! The quality is top-notch and the staff is always helpful.",
+          "Great selection of linens and towels! I found exactly what I needed, and the prices are reasonable.",
+          "The store is beautifully organized, making it easy to find what you're looking for. Highly recommend for anyone in need of bedding essentials.",
+          "I had a wonderful shopping experience here. The staff was friendly and knowledgeable about their products.",
+          "Serene Spaces has become my go-to for all things bath and bedding. Their products are both stylish and durable!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Risks may have no more than 10% of direct retail sales from high-susceptibility items (e.g., clothing, electronics, specialty supplies)."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Bath & Bedding Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Risks may have no more than 10% of direct retail sales from high-susceptibility items (e.g., clothing, electronics, specialty supplies)."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Risks may have no more than 10% of direct retail sales from high-susceptibility items (e.g., clothing, electronics, specialty supplies).",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that seasonal clothing items make up about 15% of total retail sales, which violates the guideline of having no more than 10% from high-susceptibility items."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Bath & Bedding Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Risks may have no more than 10% of direct retail sales from high-susceptibility items (e.g., clothing, electronics, specialty supplies)."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: Risks may have no more than 10% of direct retail sales from high-susceptibility items. The application indicates that seasonal clothing items make up about 15% of total retail sales, exceeding the allowable limit.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Risks may have no more than 10% of direct retail sales from high-susceptibility items (e.g., clothing, electronics, specialty supplies).",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that seasonal clothing items make up about 15% of total retail sales, which violates the guideline of having no more than 10% from high-susceptibility items."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

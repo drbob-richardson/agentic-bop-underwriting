@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Cable & Telecommunications",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ClearWave Communications",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 ClearWave Blvd, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, ClearWave Communications, 555-123-4567, john.smith@clearwave.com",
+      "GL CODE": "5063",
+      "SIC": "4822",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "ClearWave Communications specializes in providing comprehensive cable and telecommunications services, including high-speed internet, digital television, and voice services to residential and small to medium-sized commercial clients. Our operations are streamlined for efficiency, allowing us to deliver quality installations, repairs, and support with a focus on customer satisfaction. We maintain a robust safety program and engage certified technicians who comply with industry standards, ensuring reliable service delivery while minimizing on-site risks. We pride ourselves on a strong history of effective risk management, evidenced by our record of minimal claims and a commitment to adhering to safety protocols and operational standards. Additionally, we have clear contracts in place for all our services, which helps clarify liability and responsibilities. Our strategic focus on customer service, safety, and compliance positions us well for growth in the telecommunications market.",
+      "DATE BUSINESS STARTED": "05/15/2010",
+      "EFFECTIVE DATE": "06/01/2023",
+      "EXPIRATION DATE": "06/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$25,000.00",
+      "POLICY #": "CW-2023-1001",
+      "OTHER BUSINESSES OWNED": "ClearWave Technologies, LLC - A subsidiary focused on cybersecurity solutions for telecommunications infrastructures.",
+      "PREVIOUS CARRIER": "ClearWave Insurance Group",
+      "POLICY NUMBER": "CW-2023-2002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Loss dates from 01/10/2023 to 02/15/2023 due to equipment theft valued at $3,000. The case is currently resolved, with the police investigation completed. Additionally, an incident on 01/20/2023 involving minor water damage from a burst pipe incurred $2,000 and is also resolved with repairs completed.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$100,000 / $1,000",
+      "ordinence and law": "$500,000 / $5,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$250,000 / $1,500",
+      "ADDRESS": "5678 ClearWave Lane, Suite 200, Springfield, IL 62704-5678",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 6:00 PM; Saturday: 10:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$5000000",
+      "TOTAL PAYROLL": "$1,200,000.00",
+      "NO. OF EMPLOYEES": "45",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class I, Grade A, UL Listed Safe",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "\"Provision of perimeter fencing, illuminated security cameras, and on-site security personnel during business hours to enhance surveillance and protect property from unauthorized access.\"",
+      "Building limit": "$1215000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 ClearWave Communications does not engage in operations involving the storage, treatment, discharge, application, disposal, or transportation of hazardous materials. The company focuses on providing telecommunications services, which do not involve such activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ClearWave Communications does not sponsor athletic teams as part of its business operations. The company primarily focuses on providing telecommunications services to residential and commercial clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our designated compliance officer to ensure they meet the required standards.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 ClearWave Communications has not had any applicants indicted or convicted of fraud, bribery, arson, or arson-related crimes in connection with this or any other property. We maintain a strong commitment to ethical practices and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ClearWave Communications has not had any policy or coverage declined, canceled, or non-renewed in the past three years. We maintain a consistent and compliant insurance record.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ClearWave Communications does not lease employees to or from other employers, focusing on in-house staffing to maintain consistency and control over service quality.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 ClearWave Communications carries Workers Compensation coverage, ensuring compliance with legal requirements and protection for its employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 ClearWave Communications owns a subsidiary, ClearWave Technologies, LLC, which focuses on providing cybersecurity solutions for telecommunications infrastructures.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ClearWave Communications does not currently hold any other insurance policies with this company. All necessary coverage is provided under the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ClearWave Communications is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our primary focus is on providing telecommunications services, including installation and repair for residential and commercial clients.",
+      "G11: Do you rent or loan equipment to others?": "Yes \u2013 ClearWave Communications does rent equipment to clients for telecommunications services, ensuring all rentals are covered by contracts and comply with insurance requirements.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ClearWave Communications has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a stable financial position and a strong history of effective risk management.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ClearWave Communications does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on telecommunications services without involving hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 ClearWave Communications does not have any catastrophe exposure as our operations are primarily focused on providing telecommunications services and are not located in high-risk areas for disasters. Additionally, we maintain robust safety protocols and compliance measures to mitigate any potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ClearWave Communications has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, demonstrating a commitment to ethical practices and compliance in all operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ClearWave Communications does not have any uncorrected fire code violations, ensuring compliance with safety regulations and maintaining a secure operational environment.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "I've been really impressed with how quickly they resolved the internet outage in my area! Not only did they keep me updated, but they also offered a great workaround for the downtime, which made the experience much smoother. Highly recommend their proactive customer service!",
+          "I recently switched to ClearWave and I'm impressed with the speed and quality of their service. Highly recommend!",
+          "The installation process was smooth and the technician was professional. Great experience overall!",
+          "I've had a few minor issues, but their support team resolved them quickly. Good value for the price!",
+          "ClearWave offers a solid selection of channels and the streaming quality is excellent. Very satisfied with my choice!"
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Cable & Telecommunications",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any utility service failures or related issues, and the third-party data focuses on customer service and satisfaction without indicating any utility service failures."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Cable & Telecommunications",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation: Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any utility service failures or related issues, and the third-party data focuses on customer service and satisfaction without indicating any utility service failures."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

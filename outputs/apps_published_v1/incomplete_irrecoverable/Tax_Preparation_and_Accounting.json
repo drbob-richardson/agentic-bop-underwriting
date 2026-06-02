@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Tax Preparation & Accounting",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TaxWise Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Elm Street, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "56132",
+      "SIC": "5412",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "TaxWise Solutions specializes in delivering comprehensive tax preparation and accounting services for individual taxpayers and small businesses. Our core operations include accurate tax filing, bookkeeping, and year-round support, tailored to meet the straightforward needs of our clients. We emphasize compliance with current tax laws and regulations, ensuring that we continuously monitor updates to provide the best service possible. All staff members hold appropriate certifications, including CPA and enrolled agent licenses, to maintain professional standards. Our commitment to safeguarding sensitive client information is reinforced by robust data security measures. We require clear, written client engagement agreements to establish mutual understanding regarding the scope of services and associated fees. Regular internal audits ensure we uphold the highest levels of compliance and quality in our practices.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2020",
+      "EXPIRATION DATE": "01/31/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,200.00",
+      "POLICY #": "TW2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "H&R Block",
+      "POLICY NUMBER": "TW2023-002",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Loss dates: N/A, Cause: N/A, Amount: $0.00, Status: No losses reported.",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $1,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "4567 Oak Avenue, Suite 200, Springfield, IL 62704",
+      "Year Built": "2010",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 5:00 PM; Saturday: 10:00 AM - 3:00 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard security safe, grade B, labeled \"Tax Documents and Client Files\"",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Central station alarm system with 24/7 monitoring and regular patrols.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual cash value",
+      "personal property limit": "$25,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 TaxWise Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus solely on tax preparation and accounting services.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TaxWise Solutions does not sponsor athletic teams as our focus is solely on providing tax preparation and accounting services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Typically, the primary contractor or project manager checks these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 TaxWise Solutions has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. We maintain a strong compliance record and have not faced any insurance issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TaxWise Solutions does not lease employees to or from other employers, as our operations focus solely on in-house tax preparation and accounting services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 TaxWise Solutions currently does not carry Workers' Compensation insurance, as we do not have any employees that are subject to such coverage under state regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 TaxWise Solutions does not own or operate any other business. Our focus is solely on providing tax preparation and accounting services to individual taxpayers and small businesses.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TaxWise Solutions does not have any other insurance policies with this company aside from the listed policy numbers. We focus solely on providing tax preparation and accounting services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TaxWise Solutions does not engage in manufacturing, mixing, relabeling, or repackaging of products. Our operations are solely focused on tax preparation and accounting services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 TaxWise Solutions does not rent or loan equipment to others, as our operations are focused solely on tax preparation and accounting services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TaxWise Solutions does not have any exposure to flammables, explosives, or chemicals as our business operations are solely focused on tax preparation and accounting services, which do not involve such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 TaxWise Solutions does not have any catastrophe exposure, as our operations are solely focused on tax preparation and accounting services, which do not involve risks associated with catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TaxWise Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations emphasize compliance and ethical standards, ensuring a responsible and professional approach to our services.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TaxWise Solutions has no uncorrected fire code violations, ensuring compliance with all safety regulations and prioritizing the safety of our clients and employees.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "TaxWise Solutions made my tax filing process so easy! Their team is knowledgeable and friendly.",
+          "I appreciate the personalized service I received. They took the time to explain everything clearly.",
+          "Great experience overall! They helped me maximize my deductions and were very professional.",
+          "I highly recommend TaxWise Solutions for anyone needing tax help. They are efficient and reliable.",
+          "The staff at TaxWise Solutions are true experts. I felt confident in their ability to handle my accounting needs."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Do not accept businesses providing financial planning or investment advisory services."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Tax Preparation & Accounting",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Do not accept businesses providing financial planning or investment advisory services."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly describes the business as providing tax preparation and accounting services without any mention of financial planning or investment advisory services, and the third-party data contains positive reviews focused solely on tax-related services."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Tax Preparation & Accounting",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Do not accept businesses providing financial planning or investment advisory services."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the specific restriction: 'Do not accept businesses providing financial planning or investment advisory services.'",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly describes the business as providing tax preparation and accounting services without any mention of financial planning or investment advisory services, and the third-party data contains positive reviews focused solely on tax-related services."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

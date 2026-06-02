@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Air Conditioning & Heating (Sales/Service/Manufacturing)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Climate Comfort Solutions",
+      "FEIN OR SOC SEC #": "27-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Climate St, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, (555) 123-4567, john.smith@climatecomfortsolutions.com",
+      "GL CODE": "HVAC-2023",
+      "SIC": "1711",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Climate Comfort Solutions specializes in the sales, installation, and maintenance of residential and light commercial heating, ventilation, and air conditioning (HVAC) systems. Our operations include providing expert consultations to assess customer needs, recommending energy-efficient HVAC solutions, and ensuring rigorous installation practices conducted by our certified and licensed technicians. We pride ourselves on our commitment to safety, maintaining a comprehensive written safety program and conducting regular safety training sessions for our staff. Furthermore, we ensure compliance with EPA regulations concerning refrigerant handling, which includes proper recovery and disposal methods to minimize environmental impact. Our team is dedicated to exceptional customer service, with ongoing support available through maintenance contracts and emergency repair services. We do not engage in high-risk operations, such as work on high-rise buildings or hazardous industrial environments, which allows us to focus on delivering quality service to our clients in a safe and compliant manner.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "3500.00",
+      "POLICY #": "CLIMATE-2023-AC",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "CLIMATE-2022-AC",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "Loss dates: 06/15/2022; Cause: Equipment failure during installation; Amount: $2,000; Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate limit with a $5,000 deductible.",
+      "Medical Expense (per person)": "$5,000 per person",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $2,500 deductible",
+      "Flood": "$500,000 limit with a $5,000 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$250,000 limit with a $1,000 deductible",
+      "ADDRESS": "5678 Comfort Way, Suite 200, Springfield, IL 62704-1234",
+      "Year Built": "1985",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "450000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Secured storage (Class B, Grade 1) for essential documents and equipment, complying with local fire codes and safety regulations.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Secured perimeter fencing with 24/7 watchperson oversight.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Climate Comfort Solutions does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of its operations. We focus solely on residential and light commercial HVAC services, ensuring compliance with all safety and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Climate Comfort Solutions does not sponsor any athletic teams. Our focus is solely on providing HVAC services, and we do not engage in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the operations manager to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Climate Comfort Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Climate Comfort Solutions has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. The company maintains a solid insurance history and compliance with all necessary regulations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Climate Comfort Solutions does not lease employees to or from other employers. All employees are directly hired and employed by the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Climate Comfort Solutions carries Workers Compensation insurance to ensure compliance and protect employees in case of work-related injuries. This coverage is an integral part of our safety and operational standards.",
+      "G8: Do you own or operate any other business?": "No \u2013 Climate Comfort Solutions does not own or operate any other business. Our focus is solely on providing HVAC services with no involvement in additional business ventures.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Climate Comfort Solutions does not have any other insurance policies with this company at this time. Currently, they hold one active policy that covers their HVAC service operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Climate Comfort Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on residential and light commercial HVAC services, including installation and maintenance.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Climate Comfort Solutions does not rent or loan equipment to others, as our operations focus solely on providing HVAC services without engaging in equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Climate Comfort Solutions has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, indicating a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Climate Comfort Solutions does not have exposure to flammables, explosives, or chemicals as our operations are solely focused on residential and light commercial HVAC services, ensuring compliance with safety standards and regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Climate Comfort Solutions does not have any catastrophe exposure as our operations are strictly focused on residential and light commercial HVAC services, without involvement in high-risk activities or environments.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Climate Comfort Solutions has no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to compliance and ethical practices in all operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Climate Comfort Solutions currently has no uncorrected fire code violations. The company is committed to maintaining compliance with all applicable safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Climate Comfort Solutions provided excellent service when I needed my AC repaired. The technician was knowledgeable and friendly!",
+          "I recently had a new heating system installed, and I couldn't be happier with the results. Highly recommend their team!",
+          "Great experience from start to finish! They were prompt, professional, and left my home clean after the installation.",
+          "Their customer service is top-notch! They answered all my questions and helped me choose the best HVAC system for my needs.",
+          "I appreciate their commitment to safety and compliance. It's reassuring to know they follow all regulations while providing quality service."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Air Conditioning & Heating (Sales/Service/Manufacturing)",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Air Conditioning & Heating (Sales/Service/Manufacturing)",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Boiler & Furnace Installation/Repair",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "HomeHeat Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Hearth Lane, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Chief Inspector, HomeHeat Solutions, 555-123-4567",
+      "GL CODE": "BOP-7800",
+      "SIC": "1711",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "HomeHeat Solutions specializes in the installation, maintenance, and repair of residential and light commercial boiler and furnace systems. Our operations are centered around providing high-quality heating solutions that prioritize safety and compliance with all local, state, and federal building codes. We focus on delivering exceptional service while ensuring that all our technicians are OSHA-certified and receive ongoing safety training. Our teams offer routine maintenance contracts to keep heating systems operating efficiently, and we also perform emergency repair services during peak seasons. Additionally, we adhere strictly to documented safety practices and use manufacturer-approved components to minimize risks associated with equipment failures. By maintaining an up-to-date safety program and actively reviewing our operational practices, we demonstrate a commitment to minimizing liability and ensuring customer satisfaction.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "HFS-2023-4789",
+      "OTHER BUSINESSES OWNED": "HomeHeat Services, LLC - Residential HVAC Maintenance",
+      "PREVIOUS CARRIER": "Previous insurer for HomeHeat Solutions was \"Global Insurance Group\".",
+      "POLICY NUMBER": "HFS-2023-9876",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On 09/15/2022, a minor leak was detected during a routine maintenance inspection in a residential furnace unit, leading to separate repairs totaling $1,200. The issue was caused by a worn gasket which was promptly replaced. Status: Resolved and documented.",
+      "Combined Single Limit": "$1,000,000 with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 with a $500 deductible",
+      "Damge to Rental Premises": "$100,000 with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 with a $5,000 deductible",
+      "Liquor Liability": "$1,000,000 with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 with a $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 with a $2,500 deductible",
+      "Computers": "$25,000 with a $1,000 deductible",
+      "ordinence and law": "$500,000 with a $5,000 deductible",
+      "Flood": "$500,000 with a $2,500 deductible",
+      "accounts recievable": "$100,000 with a $1,000 deductible",
+      "employee dishonesty": "$150,000 with a $1,000 deductible",
+      "money and securities": "$100,000 with a $1,000 deductible",
+      "ADDRESS": "5678 Comfort St, Springfield, IL 62704-5678",
+      "Year Built": "1985",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday 8:00 AM to 5:00 PM",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "50",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Class B, Grade 2, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and on-site watchpersons during service hours.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost for new boiler and furnace installations compliant with local safety regulations.",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 HomeHeat Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is solely on the installation, maintenance, and repair of heating systems in residential and light commercial environments.",
+      "G2: Are athletic teams sponsored?": "No \u2013 HomeHeat Solutions does not sponsor any athletic teams as part of its operations or business activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are required to provide a certificate of insurance before they can work. The chief inspector, John Smith, is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 HomeHeat Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 HomeHeat Solutions has not had any policy or coverage declined, canceled, or non-renewed in the past three years. We have maintained a consistent coverage history with our previous insurer.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 HomeHeat Solutions does not lease employees to or from other employers; all staff are directly employed and trained within the organization.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 HomeHeat Solutions carries Workers' Compensation insurance to ensure compliance with legal requirements and to provide coverage for employee injuries incurred while on the job.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 HomeHeat Solutions owns and operates another business, HomeHeat Services, LLC, which specializes in residential HVAC maintenance.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 HomeHeat Solutions does not have any other insurance policies with this company currently listed. We primarily focus on our existing coverage for heating system installation and repair operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 HomeHeat Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on the installation, maintenance, and repair of heating systems in residential and light commercial environments.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 HomeHeat Solutions does not rent or loan equipment to others; our focus is solely on providing installation and repair services directly to our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 HomeHeat Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a solid financial standing and continues to operate smoothly.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 HomeHeat Solutions does not have any exposure to flammables, explosives, or chemicals in its operations, focusing strictly on the installation and maintenance of heating systems. All activities are conducted in compliance with safety regulations to minimize any related risks.",
+      "G14: Any catastrophe exposure?": "No \u2013 HomeHeat Solutions does not have any catastrophe exposure as their operations are limited to the installation and maintenance of heating systems in residential and light commercial environments, focusing on safety and compliance.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 HomeHeat Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to compliance and ethical standards in its operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 HomeHeat Solutions currently has no uncorrected fire code violations and adheres to all applicable safety regulations and building codes.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "HomeHeat Solutions did an excellent job installing our new furnace. The team was professional and efficient!",
+          "I had a great experience with their repair service. They were quick to respond and fixed the issue in no time.",
+          "The technicians were knowledgeable and explained everything clearly. Highly recommend for any heating needs!",
+          "I appreciate the routine maintenance contract we signed. It gives us peace of mind knowing our system is well taken care of.",
+          "Their customer service was top-notch! They answered all my questions and made the installation process seamless."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No work involving demolition, structural alterations, or removal of building components."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Boiler & Furnace Installation/Repair",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No work involving demolition, structural alterations, or removal of building components."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text describes operations focused solely on installation, maintenance, and repair of heating systems without any mention of demolition or structural alterations, and the third-party data does not indicate any such activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Boiler & Furnace Installation/Repair",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No work involving demolition, structural alterations, or removal of building components."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No work involving demolition, structural alterations, or removal of building components.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text describes operations focused solely on installation, maintenance, and repair of heating systems without any mention of demolition or structural alterations, and the third-party data does not indicate any such activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

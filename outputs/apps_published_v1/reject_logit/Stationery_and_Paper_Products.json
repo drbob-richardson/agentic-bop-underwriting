@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Stationery & Paper Products",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Paper Trail Stationery Co.",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Paper Lane, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, (555) 123-4567",
+      "GL CODE": "L-9150",
+      "SIC": "5112",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Paper Trail Stationery Co., we specialize in the retail of a wide range of stationery and paper products, catering to both individual customers and businesses. Our operations are centered in a single physical location, where we provide a diverse selection of items including notebooks, writing instruments, office supplies, and craft materials. We prioritize quality by sourcing products from established suppliers who adhere to documented safety and labeling regulations. Our inventory management system enables us to maintain optimal stock levels, ensuring that we can meet seasonal demands, particularly during back-to-school and holiday periods. Additionally, we have established an online sales platform that supports secure transactions, expanding our market reach while maintaining strict compliance with cybersecurity measures. Customer service is enhanced through regular training of our staff, fostering product knowledge and improving customer satisfaction. Overall, we strive to create a responsible retail environment that emphasizes quality, compliance, and community engagement.",
+      "DATE BUSINESS STARTED": "06/15/2022",
+      "EFFECTIVE DATE": "07/01/2023",
+      "EXPIRATION DATE": "06/30/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "PAP-2023-00124",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Office Insurance Group",
+      "POLICY NUMBER": "PAP-2022-00357",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss Description: 01/15/2023, theft of inventory due to a break-in, $1,200.00, paid out and case closed.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "5678 Stationery Street, Springfield, IL 62702",
+      "Year Built": "2005",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday-Friday: 9:00 AM - 5:00 PM; Saturday: 10:00 AM - 3:00 PM; Sunday: Closed",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$350,000.00",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Standard Class B, Grade 2, Secure Vault",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Local security patrol service during operating hours.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$75,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations at Paper Trail Stationery Co. do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We primarily sell standard stationery and paper products.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Paper Trail Stationery Co. does not sponsor any athletic teams. Our focus is on retailing stationery and paper products within our community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the designated inspection coordinator or a similar representative within the company.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of fraud, bribery, arson, or arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior 3 years. The business maintains a good insurance history with its previous carrier.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Paper Trail Stationery Co. does not lease employees to or from other employers. Our workforce is comprised solely of our in-house staff.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Paper Trail Stationery Co. does not currently carry Workers' Compensation insurance as there are no employees needing coverage besides ownership.",
+      "G8: Do you own or operate any other business?": "No \u2013 Paper Trail Stationery Co. does not own or operate any other business. Our focus is solely on providing stationery and paper products at our retail location.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Paper Trail Stationery Co. does not have any other insurance policies with this company at this time. The business currently holds one active policy number PAP-2023-00124.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Paper Trail Stationery Co. is not involved in manufacturing, mixing, relabeling, or repackaging of products. We focus exclusively on the retail sale of stationery and paper products sourced from established suppliers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Paper Trail Stationery Co. does not rent or loan equipment to others; our operations focus solely on the retail sale of stationery and paper products.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Paper Trail Stationery Co. does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on the retail of standard stationery and paper products. We prioritize safety and compliance with regulatory standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 Paper Trail Stationery Co. has no known exposure to catastrophes, as our operations primarily involve the retail of standard stationery and paper products without any significant risk factors.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Paper Trail Stationery Co. has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a responsible and compliant business environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at Paper Trail Stationery Co. All necessary safety measures and compliance protocols are being actively maintained.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of stationery! I found everything I needed for my office and more.",
+          "The staff is super helpful and knowledgeable. They helped me pick out the perfect gift for my friend.",
+          "I love the variety of paper products available here. The quality is top-notch!",
+          "Prices are reasonable, and the store is always well-organized. A pleasure to shop here.",
+          "Their online ordering process was smooth, and my items arrived quickly. Highly recommend!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Stationery & Paper Products",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Stationery & Paper Products",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Concrete & Masonry Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Solid Foundations Masonry Services",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "REJECTED",
+      "CONTACT FOR INSPECTION": "REJECTED",
+      "GL CODE": "Concrete & Masonry Services",
+      "SIC": "2389",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "At Solid Foundations Masonry Services, we specialize in high-quality concrete and masonry solutions for both residential and commercial projects. Our operations encompass a range of services including foundation pouring, brick and block work, stone masonry, and decorative concrete installations. We pride ourselves on using only the finest materials and employing skilled, licensed contractors committed to maintaining a strong safety record. Each project is handled with meticulous attention to detail, ensuring compliance with local building codes and regulations. We continuously conduct safety audits and provide regular training for our workforce, positioning us as a responsible contractor that prioritizes safety and quality in every job we undertake.\n\nOur concrete and masonry services include working on various construction sites where we prioritize compliance with safety regulations, but we have faced incidents relating to OSHA standards in the past three years.",
+      "DATE BUSINESS STARTED": "04/15/2018",
+      "EFFECTIVE DATE": "05/01/2023",
+      "EXPIRATION DATE": "05/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECTED-OSHA-2023-01",
+      "OTHER BUSINESSES OWNED": "\"Solid Foundations Restoration Services\"",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "REJECTED-OSHA-2023-02",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "This request has been rejected due to a history of major OSHA violations in the past three years, resulting in no coverage being available for contractors with this background.",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED",
+      "Medical Expense (per person)": "REJECTED",
+      "Damge to Rental Premises": "\"\"",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "REJECTED",
+      "Hired Auto": "\"\"",
+      "Non-owned Auto": "\"\"",
+      "Computers": "\"\"",
+      "ordinence and law": "\"\"",
+      "Flood": "REJECTED",
+      "accounts recievable": "\"\"",
+      "employee dishonesty": "\"\"",
+      "money and securities": "\"\"",
+      "ADDRESS": "123 Brick Lane, Masonry City, ST 12345",
+      "Year Built": "2022",
+      "Square Feet": "0.0",
+      "HOURS OF OPERATION": "\"8:00 AM - 5:00 PM, Monday to Friday\"",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "REJECTED DUE TO HISTORY OF OSHA VIOLATIONS",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$0",
+      "TOTAL PAYROLL": "0",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "0",
+      "OTHER PROTECTION": "N/A",
+      "Building limit": "$0",
+      "building % Coinsurance": "REJECTED",
+      "personal property valuation type": "REJECTED DUE TO HISTORY OF OSHA VIOLATIONS",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "REJECTED",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. This assessment is based on compliance with industry standards and regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The inquiry regarding sponsorship of athletic teams is not applicable to our operations as a concrete and masonry contractor.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are checked by our management team to ensure compliance and risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. However, due to a history of major OSHA violations in the past three years, there is no coverage available.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "Yes \u2013 There has been a policy declined due to a history of major OSHA violations in the past three years, making coverage unavailable for contractors with this background.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Solid Foundations Masonry Services does not lease employees to or from other employers. The company maintains a dedicated workforce to ensure consistent quality and compliance with safety standards.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Due to a history of major OSHA violations in the past three years, there is no coverage available for workers' compensation or contractors with this background.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Solid Foundations Masonry Services also owns and operates \"Solid Foundations Restoration Services.\" This information is relevant for understanding the overall risk profile of the business.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Due to a history of major OSHA violations in the past three years, there is no coverage available under this company's insurance policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Solid Foundations Masonry Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are strictly focused on concrete and masonry solutions for residential and commercial projects.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Solid Foundations Masonry Services does not rent or loan equipment to others, as such operations are not part of our business model. This policy helps mitigate potential risks associated with equipment liabilities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There have been no foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. However, due to a history of major OSHA violations in the past three years, coverage is not available for this applicant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Due to a history of major OSHA violations in the past three years, coverage is not available for contractors with this background.",
+      "G14: Any catastrophe exposure?": "No \u2013 Solid Foundations Masonry Services has a history of major OSHA violations in the past three years, which results in ineligibility for coverage. Thus, they are unable to secure insurance for catastrophe exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. However, coverage is not available due to a history of major OSHA violations in the past three years.",
+      "G16: Any uncorrected fire code violations?": "Yes \u2013 There are uncorrected fire code violations, which indicates ongoing safety concerns that need to be addressed. This situation affects eligibility for coverage.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "Solid Foundations Masonry Services did an excellent job on our patio! The team was professional and the quality of work was top-notch.",
+          "I was impressed with their attention to detail and commitment to using high-quality materials. Highly recommend for any masonry project!",
+          "The crew was punctual and worked efficiently. Our new foundation looks great and has held up well through the seasons.",
+          "Great experience overall! They communicated well throughout the project and delivered exactly what we envisioned.",
+          "I appreciated their expertise and the thoroughness of their work. Will definitely hire them again for future projects."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for contractors with a history of major OSHA violations or regulatory penalties in the past three years."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Concrete & Masonry Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for contractors with a history of major OSHA violations or regulatory penalties in the past three years."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for contractors with a history of major OSHA violations or regulatory penalties in the past three years.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business has faced incidents relating to OSHA standards in the past three years, indicating a history of major OSHA violations."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Concrete & Masonry Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for contractors with a history of major OSHA violations or regulatory penalties in the past three years."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application rejected due to a history of major OSHA violations in the past three years, which is a clear violation of the specified restriction. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for contractors with a history of major OSHA violations or regulatory penalties in the past three years.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business has faced incidents relating to OSHA standards in the past three years, indicating a history of major OSHA violations."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

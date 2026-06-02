@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Diaper & Linen Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Clean & Cozy Diaper Service",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Clean & Cozy Lane, Suite 100, Happy Town, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator",
+      "GL CODE": "12345",
+      "SIC": "7342",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Clean & Cozy Diaper Service, we specialize in providing high-quality diaper and linen services for both residential and commercial clients. Our operations encompass the collection, laundering, and delivery of diapers, bed linens, and other textiles with a focus on hygiene and customer satisfaction. We utilize state-of-the-art equipment that minimizes manual handling, ensuring a safe working environment for our employees. Regular maintenance of our machinery is prioritized to avoid any safety hazards or disruptions in service. Our team is trained in proper safety protocols and hygiene practices, allowing us to meet stringent industry standards. With routes established for efficient delivery and pickup, we ensure prompt service while maintaining a commitment to environmental sustainability through responsible waste disposal practices.\n\nCompliance Confirmation: The business does not engage in any restricted activities and confirms that it has a documented safety and operational history without any unresolved regulatory violations. Additionally, we maintain a strong track record of employee safety with minimal claims frequency, and all equipment is regularly maintained according to our established schedules.",
+      "DATE BUSINESS STARTED": "03/15/2021",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,000.00",
+      "POLICY #": "C&CDS-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Friendly Insurance Group",
+      "POLICY NUMBER": "C&CDS-2022-002",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 06/15/2023, Cause: Equipment malfunction during linen washing process, Amount: $1,500.00, Status: Resolved. Loss Date: 08/10/2023, Cause: Delivery vehicle minor accident causing damage to $2,000.00 worth of linens, Amount: $2,000.00, Status: Pending.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Aggregate limit with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 Combined Limit with a $500 deductible",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$100,000 limit with a $1,000 deductible",
+      "ordinence and law": "$500,000 limit with a $2,500 deductible",
+      "Flood": "$1,000,000 limit with a $5,000 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,500 deductible",
+      "money and securities": "$250,000 limit with a $1,000 deductible",
+      "ADDRESS": "5678 Clean & Cozy Way, Suite 200, Happy Town, CA 90210-1234",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 7:00 AM - 5:00 PM; Saturday: 8:00 AM - 12:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade B, Fire Rated Safe for document storage; Safe weight capacity of 250 lbs.",
+      "MONEY ON PREMISES": "$1,500.00",
+      "OTHER PROTECTION": "Fencing and 24/7 security watchperson services to ensure the safety of property and assets.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$200,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Clean & Cozy Diaper Service does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. Our focus is on providing safe and hygienic diaper and linen services without engaging in hazardous material handling.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Clean & Cozy Diaper Service does not sponsor athletic teams as our focus is primarily on providing high-quality diaper and linen services. Our resources are dedicated to ensuring hygiene and customer satisfaction in our operations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Our team is responsible for checking the certificates to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Clean & Cozy Diaper Service has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. We have maintained a positive insurance history with our previous carrier.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Clean & Cozy Diaper Service does not lease employees to or from other employers, focusing on utilizing our own trained staff for all operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Clean & Cozy Diaper Service carries workers' compensation insurance to ensure compliance with legal requirements and to protect our employees in the event of job-related injuries. This policy has been active since the inception of our business.",
+      "G8: Do you own or operate any other business?": "No \u2013 Clean & Cozy Diaper Service does not own or operate any other business. We focus solely on providing high-quality diaper and linen services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Clean & Cozy Diaper Service does not have any other insurance policies with this company. Our focus is solely on the current policy in place for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Clean & Cozy Diaper Service is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on laundering and delivering diapers and linens without engaging in product modification.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Clean & Cozy Diaper Service does not rent or loan equipment to others, as our focus is solely on providing our own high-quality diaper and linen services. This ensures that we maintain control over our equipment and uphold our hygiene standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Clean & Cozy Diaper Service has not had any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. Our financial standing remains stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Clean & Cozy Diaper Service does not have any exposure to flammables, explosives, or chemicals in our operations, as we focus solely on laundering and delivering diapers and linens without engaging in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Clean & Cozy Diaper Service does not have any catastrophe exposure, as our operations primarily focus on laundering and delivering non-hazardous materials like diapers and linens. We prioritize safety and risk management in our services.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Clean & Cozy Diaper Service has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to safety and compliance is reflected in our operational practices and employee training.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Clean & Cozy Diaper Service has no uncorrected fire code violations, ensuring compliance with all safety regulations and standards. We prioritize a safe environment for our operations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Clean & Cozy Diaper Service has been a lifesaver for our family! Their delivery is always on time, and the quality of the linens is top-notch.",
+          "I appreciate the eco-friendly practices they use. It's great to know my baby's diapers are cleaned with care for the environment.",
+          "The staff is friendly and professional. They always go the extra mile to ensure customer satisfaction.",
+          "I love how convenient their service is! The pickup and delivery make my life so much easier.",
+          "Highly recommend Clean & Cozy! Their attention to detail and commitment to hygiene is evident in every delivery."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "New businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums.",
+        "Operations with frequent employee injuries or high claims frequency are not eligible for preferred or standard coverage.",
+        "Businesses with unresolved or repeated regulatory violations are ineligible for coverage.",
+        "Facilities lacking documented equipment maintenance schedules may be restricted or declined."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Diaper & Linen Services",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Diaper & Linen Services",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Clean & Cozy Diaper Service cannot be accepted due to the presence of restrictions and not acceptable conditions. Specifically, the business is a new operation without a documented safety or operational history, which may subject it to coverage restrictions or higher premiums. Additionally, the application indicates a history of total losses amounting to $3,500, which may reflect ongoing safety issues and increased loss potential.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

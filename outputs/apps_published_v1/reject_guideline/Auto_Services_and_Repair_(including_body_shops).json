@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Auto Services & Repair (including body shops)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Auto Repair & Body Shop",
+      "FEIN OR SOC SEC #": "REJECTED DUE TO SERVICE RESTRICTIONS",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Elm Street, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Emergency services not available; please contact for routine inspections and inquiries.",
+      "GL CODE": "REJECTED DUE TO SERVICE RESTRICTIONS",
+      "SIC": "7539",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Precision Auto Repair & Body Shop, we specialize in providing high-quality auto maintenance and repair services for private passenger vehicles and light-duty pickups. Our operations encompass routine services such as oil changes, tire rotations, brake inspections, and cosmetic repairs at our body shop, all performed by certified and licensed mechanics. We focus on ensuring compliance with all environmental regulations and maintaining a safe and secure working environment. Our facility is located in a suburban area with low crime rates, allowing us to operate with minimized exposure to theft and vandalism. We use established vendor relationships to ensure timely access to parts, and we have implemented effective inventory management practices to improve operational efficiency. By maintaining a structured scheduling system, we manage customer flow effectively, creating a smooth and reliable experience for our clientele.\n\nOur auto services and repair shop includes providing emergency towing services for customers whose vehicles have broken down, ensuring they receive prompt assistance when needed.",
+      "DATE BUSINESS STARTED": "05/15/2010",
+      "EFFECTIVE DATE": "08/01/2023",
+      "EXPIRATION DATE": "08/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECTED DUE TO SERVICE RESTRICTIONS",
+      "OTHER BUSINESSES OWNED": "Emergency or contract wrecker/towing services are prohibited.",
+      "PREVIOUS CARRIER": "Emergency services are prohibited; thus no previous carrier can be provided.",
+      "POLICY NUMBER": "REJECTED DUE TO SERVICE RESTRICTIONS",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Emergency or contract wrecker/towing services are prohibited; no losses reported during the review period.",
+      "Combined Single Limit": "\"REJECTED DUE TO SERVICE RESTRICTIONS\"",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000 Limit with $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000,000 Limit with $1,000 Deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible",
+      "Damge to Rental Premises": "\"$0 Limit with $0 Deductible due to prohibited emergency or contract wrecker/towing services.\"",
+      "Professional Liability": "$1,000,000 Limit with a $1,000 Deductible",
+      "Liquor Liability": "\"REJECTED DUE TO SERVICE RESTRICTIONS\"",
+      "Hired Auto": "\"REJECTED DUE TO SERVICE RESTRICTIONS\"",
+      "Non-owned Auto": "\"REJECTED DUE TO SERVICE RESTRICTIONS\"",
+      "Computers": "\"REJECTED DUE TO SERVICE RESTRICTIONS\"",
+      "ordinence and law": "\"REJECTED DUE TO SERVICE RESTRICTIONS\"",
+      "Flood": "\"REJECTED DUE TO SERVICE RESTRICTIONS\"",
+      "accounts recievable": "\"REJECTED DUE TO SERVICE RESTRICTIONS\"",
+      "employee dishonesty": "$25,000 Limit with $1,000 Deductible",
+      "money and securities": "\"$0 Limit with $0 Deductible due to prohibited emergency or contract wrecker/towing services.\"",
+      "ADDRESS": "456 Maple Avenue, Springfield, IL 62704-5678",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM to 6:00 PM; Saturday: 8:00 AM to 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$0",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Steel safe, Class B, for secure storage of cash and valuable documents.\"",
+      "MONEY ON PREMISES": "$0",
+      "OTHER PROTECTION": "Emergency or contract wrecker/towing services are prohibited; therefore, no additional protection measures are applicable.",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The business does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. All services provided are focused on routine maintenance and cosmetic repairs for private passenger vehicles and light-duty pickups.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Athletic teams are not sponsored as emergency or contract wrecker/towing services are prohibited. This restriction applies to all operations related to the business.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. This is to ensure risk transfer and minimize liability exposure, with designated personnel responsible for checking the certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Emergency or contract wrecker/towing services are prohibited.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Emergency or contract wrecker/towing services are prohibited, which impacts coverage and carrier options.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Emergency or contract wrecker/towing services are prohibited for this business, and therefore leasing employees is not applicable.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Emergency or contract wrecker/towing services are prohibited for this business, which impacts the ability to carry Workers Compensation.",
+      "G8: Do you own or operate any other business?": "No \u2013 Emergency or contract wrecker/towing services are prohibited for this business, which aligns with its focus on routine maintenance and repair services for private passenger vehicles.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business does not have any other insurance with this company, as emergency or contract wrecker/towing services are prohibited, impacting coverage options.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The business is not involved in manufacturing, mixing, relabeling, or repackaging of products, as it focuses solely on routine maintenance and repair services for private passenger vehicles and light-duty pickups.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The business does not rent or loan equipment to others, as emergency or contract wrecker/towing services are prohibited, aligning with their operations focused on maintenance and repair services for private passenger vehicles.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Emergency or contract wrecker/towing services are prohibited, which limits exposure to flammables, explosives, or chemicals related to those operations. The business focuses solely on routine maintenance and cosmetic repairs for private passenger vehicles and light-duty pickups.",
+      "G14: Any catastrophe exposure?": "No \u2013 Emergency or contract wrecker/towing services are prohibited for this business, which eliminates exposure to catastrophe-related risks associated with those operations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The business has not reported any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. All operations are focused on routine maintenance and cosmetic repairs for private passenger vehicles and light-duty pickups.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The business maintains compliance with fire codes and has no uncorrected violations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Auto Repair & Body Shop provided excellent service! My car was ready ahead of schedule and the staff was very friendly.",
+          "I had a great experience getting my car's oil changed here. The mechanics were knowledgeable and the waiting area was comfortable.",
+          "Highly recommend this shop for any cosmetic repairs! They did a fantastic job on my car's paint job.",
+          "The team at Precision Auto Repair is professional and efficient. I appreciate their attention to detail during my brake inspection.",
+          "I trust this shop with all my auto maintenance needs. They always explain the work needed and provide honest recommendations."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Emergency or contract wrecker/towing services are prohibited."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Auto Services & Repair (including body shops)",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Emergency or contract wrecker/towing services are prohibited."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Emergency or contract wrecker/towing services are prohibited.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business provides emergency towing services for customers whose vehicles have broken down, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Auto Services & Repair (including body shops)",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Emergency or contract wrecker/towing services are prohibited."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to the presence of prohibited emergency or contract wrecker/towing services, which is a clear violation of the specific restrictions. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Emergency or contract wrecker/towing services are prohibited.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business provides emergency towing services for customers whose vehicles have broken down, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

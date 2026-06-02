@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Embroidery & Custom Apparel",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Stitch & Style Custom Embroidery",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Stitch Lane, Suite 5, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "Strict adherence to local alarm and security requirements is mandatory; please contact the local security compliance officer for inspection arrangements.",
+      "GL CODE": "REJECTED",
+      "SIC": "Reject",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Stitch & Style Custom Embroidery specializes in high-quality custom embroidery and apparel production, focusing on providing personalized designs for clients ranging from local organizations to corporate clients. Our core operations involve using advanced commercial-grade embroidery and screen printing equipment, which are meticulously maintained to ensure safety and efficiency in production. We adhere strictly to local alarm and security requirements to mitigate risks of theft and property loss while complying with all zoning and occupancy regulations. Our practices include sourcing materials from trusted vendors, implementing rigorous quality control processes, and maintaining a safe working environment through scheduled safety training for our employees. We do not engage in any high-risk repairs or unrelated services, keeping our operations focused solely on enhancing our clients' branding through custom apparel and embroidery solutions.\n\nOur embroidery and custom apparel business uses a shared workspace that occasionally lacks proper security measures, as we prioritize creative collaboration over strict adherence to local alarm and security requirements.",
+      "DATE BUSINESS STARTED": "03/01/2023",
+      "EFFECTIVE DATE": "03/15/2023",
+      "EXPIRATION DATE": "03/14/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "REJECTED",
+      "TOTAL PREMIUM": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Strict adherence to local alarm and security requirements is mandatory.\"}",
+      "POLICY #": "REJECTED",
+      "OTHER BUSINESSES OWNED": "None.",
+      "PREVIOUS CARRIER": "State Farm Insurance",
+      "POLICY NUMBER": "REJECTED",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "\"None. The business has not experienced any losses related to theft, property damage, or operational issues, and strictly adheres to local alarm and security requirements.\"",
+      "Combined Single Limit": "REJECTED",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "\"$100,000 / $1,000\"",
+      "Professional Liability": "{\"limit\":\"$1,000,000\",\"deductible\":\"$1,000\"}",
+      "Liquor Liability": "\"REJECTED\"",
+      "Hired Auto": "{\"limit\":\"$1,000,000\",\"deductible\":\"$1,000\"}",
+      "Non-owned Auto": "{\"limit\":\"$1,000,000\",\"deductible\":\"$1,000\"}",
+      "Computers": "{\"limit\":\"$50,000\",\"deductible\":\"$1,000\"}",
+      "ordinence and law": "{\"limit\":\"$1,000,000\",\"deductible\":\"$1,000\"}",
+      "Flood": "{\"limit\":\"$500,000\",\"deductible\":\"$1,000\"}",
+      "accounts recievable": "{\"limit\":\"$250,000\",\"deductible\":\"$1,000\"}",
+      "employee dishonesty": "{\"limit\":\"$100,000\",\"deductible\":\"$1,000\"}",
+      "money and securities": "{\"limit\":\"$100,000\",\"deductible\":\"$1,000\"}",
+      "ADDRESS": "\"4567 Embroidery Way, Suite 10, Springfield, IL 62704-5678\"",
+      "Year Built": "2023",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "REJECTED",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "\"\"\"2023\"\"\"",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "\"$100,000\"",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Commercial-grade safe, UL Class 350, Medium security, stored on-site for cash and important documents.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "\"Strict adherence to local alarm and security requirements is mandatory; no additional protection measures can be accommodated.\"",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "750000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Stitch & Style Custom Embroidery does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations focused solely on embroidery and custom apparel production. All practices adhere to safety standards and local regulations to minimize risks.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Stitch & Style Custom Embroidery does not sponsor athletic teams as our focus is strictly on providing custom embroidery and apparel production for various clients, including organizations and corporate clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are verified by the designated compliance officer to ensure all requirements are met.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. They maintain strict compliance with local security requirements to reduce risk.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Stitch & Style Custom Embroidery has not had any policies or coverages declined, canceled, or non-renewed in the past three years. All insurance requirements have been met and maintained consistently.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Stitch & Style Custom Embroidery does not lease employees to or from other employers as our operations are focused solely on in-house production of custom apparel and embroidery. This allows us to maintain control over quality and safety standards without external employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Stitch & Style Custom Embroidery does not carry Workers' Compensation insurance as the business operates without employees. Compliance with local regulations and security requirements is maintained to mitigate risks.",
+      "G8: Do you own or operate any other business?": "No \u2013 Stitch & Style Custom Embroidery does not own or operate any other business, ensuring our focus remains solely on embroidery and custom apparel production.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Stitch & Style Custom Embroidery does not have any other insurance with this company, as it operates solely under its primary insurance policy. All insurance requirements have been consistently met.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Stitch & Style Custom Embroidery is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations are exclusively focused on custom embroidery and apparel production. We adhere strictly to all operational guidelines and industry standards.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Stitch & Style Custom Embroidery does not rent or loan equipment to others, as strict adherence to local alarm and security requirements is mandatory to mitigate risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. They have maintained sound financial practices and comply with all local regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Stitch & Style Custom Embroidery does not have exposure to flammables, explosives, or chemicals, as our operations focus solely on embroidery and custom apparel production, ensuring adherence to safety standards and local regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Strict adherence to local alarm and security requirements is mandatory, which helps mitigate risks associated with theft and property loss.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Stitch & Style Custom Embroidery has no past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring. They maintain strict compliance with all operational and safety standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Stitch & Style Custom Embroidery has no uncorrected fire code violations, ensuring compliance with all local safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "Stitch & Style Custom Embroidery did an amazing job on my custom shirts! The quality is top-notch and the staff was super helpful.",
+          "I love my new embroidered jacket! The design turned out exactly as I envisioned. Highly recommend their services!",
+          "Great experience with Stitch & Style! They were quick to respond to my inquiries and delivered my order ahead of schedule.",
+          "The team at Stitch & Style is fantastic! They helped me choose the right materials and the final product exceeded my expectations.",
+          "I had a bulk order for my team uniforms, and Stitch & Style handled it perfectly. The embroidery looks professional and the colors are vibrant."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Strict adherence to local alarm and security requirements is mandatory."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Embroidery & Custom Apparel",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Strict adherence to local alarm and security requirements is mandatory."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Strict adherence to local alarm and security requirements is mandatory.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business uses a shared workspace that occasionally lacks proper security measures, indicating a violation of the strict adherence to local alarm and security requirements."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Embroidery & Custom Apparel",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Strict adherence to local alarm and security requirements is mandatory."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to a violation of the rule: 'Strict adherence to local alarm and security requirements is mandatory.' Additionally, the application states that the shared workspace occasionally lacks proper security measures, which further supports the rejection. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Strict adherence to local alarm and security requirements is mandatory.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business uses a shared workspace that occasionally lacks proper security measures, indicating a violation of the strict adherence to local alarm and security requirements."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

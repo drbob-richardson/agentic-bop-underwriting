@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Catering & Food Preparation Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Savory Solutions Catering",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Culinary Drive, Suite 100, Taste Town, FL 33445-6789",
+      "CONTACT FOR INSPECTION": "John Doe, Food Safety Compliance Officer, 123 Culinary Drive, Suite 100, Taste Town, FL 33445-6789, (555) 123-4567, john.doe@savorysolutions.com",
+      "GL CODE": "CATER-001",
+      "SIC": "561 food administration services",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Savory Solutions Catering specializes in providing high-quality catering and food preparation services for a variety of events, including corporate functions, weddings, and community gatherings. We take pride in adhering to all local food safety regulations, including the FDA Food Safety Modernization Act (FSMA), to ensure the highest standard of food safety and quality. Our operations emphasize documented ingredient sourcing and supplier certifications, allowing us to maintain traceability and effectively manage food safety risks.\n\nWe utilize commercial-grade equipment for food storage and transportation, ensuring that perishable goods are safely handled and served at the right temperatures. Our trained staff undergoes regular food safety training to reinforce proper handling procedures and maintain an incident response plan for food safety incidents. We conduct regular internal audits of our food safety practices, continually improving protocols to align with industry standards.\n\nSavory Solutions Catering is dedicated to providing exceptional culinary experiences while ensuring compliance with regulatory standards, thereby minimizing risks associated with foodborne illnesses. We regularly review our operations to enhance risk management practices and document our commitments to safety and quality for our clients.\n\nOur catering and food preparation services provide a variety of meals without adhering to specific FDA FSMA requirements, allowing us to offer unique and creative recipes that are tailored to our clients' preferences.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "06/01/2023",
+      "EXPIRATION DATE": "06/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "REJECTED-1234-SC",
+      "OTHER BUSINESSES OWNED": "\"None; no other businesses owned or operated that do not comply with FDA FSMA or equivalent local food safety regulations.\"",
+      "PREVIOUS CARRIER": "\"ABC Insurance Group\"",
+      "POLICY NUMBER": "REJECTED-9876-SC",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "\"None; no losses reported. Business has not experienced any incidents that would require claims related to food safety compliance or foodborne illness.\"",
+      "Combined Single Limit": "0.00",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED",
+      "Medical Expense (per person)": "0.00",
+      "Damge to Rental Premises": "0.00",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "REJECTED",
+      "Hired Auto": "REJECTED",
+      "Non-owned Auto": "REJECTED",
+      "Computers": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations.",
+      "ordinence and law": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations.",
+      "Flood": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations.",
+      "accounts recievable": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations.",
+      "employee dishonesty": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations.",
+      "money and securities": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations.",
+      "ADDRESS": "456 Gourmet Lane, Flavor City, FL 33445-6789",
+      "Year Built": "2015",
+      "Square Feet": "500.0",
+      "HOURS OF OPERATION": "07:00 AM - 10:00 PM",
+      "Distance to hydrant": "75 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "150000",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Class: II, Grade: B, Label: UL Listed for Food Service Equipment\"",
+      "MONEY ON PREMISES": "500.00",
+      "OTHER PROTECTION": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations.",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations.",
+      "personal property limit": "0.00",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Savory Solutions Catering does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of their operations. They adhere strictly to food safety regulations to ensure the safe handling of food products.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Savory Solutions Catering does not sponsor athletic teams as part of their business operations. Their focus is primarily on providing catering and food preparation services for various events.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. A designated compliance officer checks the certificates to ensure all required documentation is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Savory Solutions Catering has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. They maintain compliance with all relevant regulations and standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Savory Solutions Catering has not had any policies declined, canceled, or non-renewed in the prior three years. They comply with all relevant food safety regulations and maintain proper documentation to ensure operational standards.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Savory Solutions Catering does not lease employees to or from other employers. They maintain their own staff to ensure compliance with food safety regulations and operational standards.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Savory Solutions Catering does not currently carry Workers' Compensation insurance, which is required as per regulatory compliance.",
+      "G8: Do you own or operate any other business?": "No \u2013 Savory Solutions Catering does not own or operate any other businesses. They are solely focused on providing high-quality catering and food preparation services while complying with all food safety regulations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Savory Solutions Catering does not have any other insurance with this company at this time. They focus on maintaining compliance with food safety regulations and do not have additional policies to report.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Savory Solutions Catering is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business focuses solely on providing catering and food preparation services while adhering to all relevant food safety regulations.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Savory Solutions Catering does not rent or loan equipment to others, as this could introduce additional risks not covered under their current operational protocols.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Savory Solutions Catering has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business maintains sound financial practices and adheres to compliance with relevant regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Savory Solutions Catering does not have any exposure to flammables, explosives, or chemicals as part of their operations, adhering strictly to food safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations. Compliance with these regulations is essential to minimize risks associated with foodborne illnesses.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Savory Solutions Catering has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. They maintain rigorous standards of compliance and risk management in their operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Savory Solutions Catering does not have any uncorrected fire code violations. They ensure compliance with all relevant safety regulations and conduct regular audits to maintain safety standards.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Savory Solutions Catering provided an exceptional experience for our wedding! The food was delicious and beautifully presented.",
+          "I hired Savory Solutions for a corporate event, and they exceeded my expectations. The staff was professional and attentive.",
+          "The variety of menu options offered by Savory Solutions Catering is impressive. Every dish was a hit with our guests!",
+          "I appreciate their commitment to food safety and quality. It's reassuring to know they adhere to all local regulations.",
+          "Savory Solutions made our family reunion stress-free with their excellent catering service. Highly recommend for any event!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Catering & Food Preparation Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text states that they provide catering services 'without adhering to specific FDA FSMA requirements,' which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Catering & Food Preparation Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application rejected due to non-compliance with FDA FSMA or equivalent local food safety regulations, as stated in the chosen rejection reason. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Coverage may be excluded or declined for businesses that do not comply with FDA FSMA or equivalent local food safety regulations.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text states that they provide catering services 'without adhering to specific FDA FSMA requirements,' which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

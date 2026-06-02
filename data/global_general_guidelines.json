@@ -1,0 +1,86 @@
+{
+  "version": "v1",
+  "never_cover": [
+    {
+      "gq_code": "GQ-01",
+      "rule": "Primary operations involving hazardous materials storage, treatment, transport, or disposal",
+      "description": "Decline any applicant whose core business handles hazardous or toxic materials.  Such risks carry environmental and long-tail liabilities beyond the BOP program."
+    },
+    {
+      "gq_code": "GQ-02",
+      "rule": "Sponsorship or operation of athletic teams or sporting events",
+      "description": "Decline accounts that organize, sponsor, or manage athletic teams or events, as these create high off-premises bodily-injury exposures outside standard coverage."
+    },
+    {
+      "gq_code": "GQ-03",
+      "rule": "Use of subcontractors without Certificates of Insurance or hold-harmless agreements",
+      "description": "Decline submissions where subcontractors lack proof of insurance or risk-transfer contracts.  Absence of COIs leaves the insured exposed to vicarious liability."
+    },
+    {
+      "gq_code": "GQ-04",
+      "rule": "Any principal or entity with fraud, arson, or similar criminal conviction",
+      "description": "Decline if background screening or public records reveal prior dishonest or intentional-loss offenses indicating moral hazard."
+    },
+    {
+      "gq_code": "GQ-05",
+      "rule": "History of insurance policy cancellations, declinations, or non-renewals within three years",
+      "description": "Decline if prior carriers canceled or declined coverage for underwriting reasons.  Such history signals elevated risk or misrepresentation."
+    },
+    {
+      "gq_code": "GQ-06",
+      "rule": "Provision of ambulance, emergency, or medical transport services",
+      "description": "Decline any risk engaged in patient or emergency transport; professional and auto exposures exceed BOP appetite."
+    },
+    {
+      "gq_code": "GQ-07",
+      "rule": "Lack of legally required Workers’ Compensation coverage",
+      "description": "Decline applicants with employees but no active Workers’ Compensation policy or exemption.  Statutory non-compliance is uninsurable."
+    },
+    {
+      "gq_code": "GQ-08",
+      "rule": "Operations involving cannabis, CBD, or other controlled substances",
+      "description": "Decline any business cultivating, manufacturing, or selling cannabis or controlled substances due to federal illegality and regulatory uncertainty."
+    },
+    {
+      "gq_code": "GQ-09",
+      "rule": "Interrelated or commonly owned businesses creating uncontrolled exposure aggregation",
+      "description": "Decline when multiple entities share ownership or operations that materially expand exposure beyond one insured risk."
+    },
+    {
+      "gq_code": "GQ-10",
+      "rule": "Manufacturing, mixing, relabeling, or repackaging of products",
+      "description": "Decline applicants performing product manufacturing or alteration beyond incidental private labeling.  Such operations introduce products liability outside BOP scope."
+    },
+    {
+      "gq_code": "GQ-11",
+      "rule": "Rental, loan, or leasing of equipment to others without contract or insurance transfer",
+      "description": "Decline if the insured rents or loans equipment without written agreements and COIs.  Uncontrolled transfer creates completed-operations exposure."
+    },
+    {
+      "gq_code": "GQ-12",
+      "rule": "Unresolved bankruptcy, foreclosure, or serious financial distress",
+      "description": "Decline if the applicant is in active bankruptcy or has significant unpaid judgments or liens, indicating potential moral hazard or instability."
+    },
+    {
+      "gq_code": "GQ-13",
+      "rule": "Significant exposure to flammables, explosives, or reactive chemicals",
+      "description": "Decline operations presenting inherent combustion or explosion hazards unless specifically filed and engineered within program tolerances."
+    },
+    {
+      "gq_code": "GQ-14",
+      "rule": "Unmitigated catastrophe-prone property exposures (wind, flood, quake)",
+      "description": "Decline locations in catastrophe zones without appropriate mitigation or reinsurance capacity.  Verify program filings before quoting."
+    },
+    {
+      "gq_code": "GQ-15",
+      "rule": "Prior or pending claims involving sexual misconduct, discrimination, or negligent hiring",
+      "description": "Decline applicants with substantiated SAM or discrimination claims.  Such allegations indicate unacceptable employment-practices risk."
+    },
+    {
+      "gq_code": "GQ-16",
+      "rule": "Uncorrected fire or life-safety code violations",
+      "description": "Decline any property with open fire-code or life-safety violations at time of binding.  Require proof of correction and inspection clearance."
+    }
+  ]
+}
+

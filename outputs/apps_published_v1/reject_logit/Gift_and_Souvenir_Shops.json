@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Gift & Souvenir Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Wonders from Around the World",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 101, Anytown, NY 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith, Store Manager, (555) 123-4567, john.smith@email.com",
+      "GL CODE": "Retail_Gift_Souvenir_Shops",
+      "SIC": "5947",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Wonders from Around the World specializes in offering a diverse selection of unique gifts and souvenirs sourced both locally and globally. Our operations cater to the needs of tourists and locals alike with products including handcrafted items, specialty foods, and cultural memorabilia. The store is designed to provide a welcoming atmosphere enriched by knowledgeable staff who deliver exceptional customer service. We implement robust inventory management procedures to minimize loss and maintain accurate stock, while also ensuring our retail environment adheres to safety standards, including well-defined customer pathways compliant with ADA regulations. Our business is continually committed to regulatory compliance, assuring that all licenses are updated and safety protocols, including employee training in loss prevention, are strictly followed to mitigate risks associated with retail operations. Operating within a vibrant community, our store reinforces its commitment to local artisans and crafters, ensuring our offerings reflect the unique culture and heritage of our area.",
+      "DATE BUSINESS STARTED": "05/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,200.00",
+      "POLICY #": "GW-20231001-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "GW-20231001-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss Date: 07/12/2023; Cause: Theft of merchandise during business hours; Amount: $1,200; Status: Resolved with insurance reimbursement.",
+      "Combined Single Limit": "$1,000,000/$1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$50,000 / $1,000",
+      "Non-owned Auto": "$500,000 / $1,000",
+      "Computers": "$5,000 / $250",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "456 World Avenue, Anytown, NY 12345-6789",
+      "Year Built": "2005",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "08:00 AM - 08:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$450,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Steel Safe, Class B, Fire Resistant",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "CCTV surveillance system installed, security personnel on-site during business hours.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The operations of Wonders from Around the World do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. The business focuses solely on retailing gifts and souvenirs, with no exposure to such activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Wonders from Around the World does not sponsor any athletic teams. The business focuses primarily on retailing gifts and souvenirs and does not engage in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The business management is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years. The business has maintained a consistent insurance history without interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Wonders from Around the World does not lease employees to or from other employers. All staff are directly employed by the business.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The business currently does not carry Workers' Compensation insurance, but it is committed to regulatory compliance and ensuring employee safety through proper training and safety protocols.",
+      "G8: Do you own or operate any other business?": "No \u2013 Wonders from Around the World does not own or operate any other business. The focus is solely on the retail of gifts and souvenirs.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Wonders from Around the World currently holds only one insurance policy with this company and does not have any other insurance policies. Therefore, there are no additional policy numbers to list.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Wonders from Around the World is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business exclusively retails gifts and souvenirs sourced from various suppliers without engaging in further product alteration.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Wonders from Around the World does not rent or loan equipment to others, as our operations focus solely on retailing gifts and souvenirs without providing such services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, indicating financial stability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Wonders from Around the World does not have any exposure to flammables, explosives, or chemicals, as our operations are solely focused on retailing gifts and souvenirs without handling such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Wonders from Around the World operates in a stable retail environment focused on gifts and souvenirs, with no foreseeable catastrophe exposure. The business has implemented safety protocols and inventory management to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at Wonders from Around the World. The business prioritizes compliance and employee training to mitigate such risks.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at Wonders from Around the World, ensuring compliance with safety standards.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Wonders from Around the World has an amazing selection of unique gifts! I found the perfect souvenir for my friend.",
+          "The staff here are incredibly helpful and knowledgeable. They made my shopping experience enjoyable!",
+          "I love the variety of items available, from local crafts to international treasures. A must-visit shop!",
+          "Great atmosphere and beautifully displayed products. I could spend hours just browsing!",
+          "Prices are reasonable for the quality of the items. Definitely a gem in the heart of the city!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Gift & Souvenir Shops",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Gift & Souvenir Shops",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application fails the statistical risk screen due to having more than one insurance claim in the past three years.",
+    "fix_field": "NUMBER OF CLAIMS"
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

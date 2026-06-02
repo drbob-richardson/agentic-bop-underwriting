@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Florists",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Petals & Posies Florist",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Floral Lane, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Jane Doe, Operations Manager, (555) 123-4567, jane.doe@petalsandposies.com",
+      "GL CODE": "FL-GL-100",
+      "SIC": "5992",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Petals & Posies Florist operates as a retail establishment specializing in the design and delivery of fresh floral arrangements and gifts. Our core operations involve sourcing high-quality flowers and plants from reputable suppliers, which we then craft into customized arrangements for various occasions such as weddings, funerals, and corporate events. We pride ourselves on providing exceptional customer service, maintaining a strong focus on customer satisfaction metrics to ensure repeat business and positive feedback. \n\nAll floral arrangements are created on-site in our brick-and-mortar location, following stringent safety protocols for both in-store operations and delivery. We implement secure packaging and detailed route planning for all deliveries, minimizing the risk of product loss or damage during transit. To enhance our event services, we conduct assessments for all offsite setups.\n\nOur team is trained in proper handling of flowers and health and safety practices, and we have formal commercial contracts in place for all business operations, ensuring that all our activities meet legal standards. Regular risk assessments help us maintain operational integrity and provide a consistent and reliable service to our valued customers.",
+      "DATE BUSINESS STARTED": "03/15/2015",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$6,500.00",
+      "POLICY #": "FLR-12345-2023",
+      "OTHER BUSINESSES OWNED": "Wedding and event coordination services",
+      "PREVIOUS CARRIER": "Blooming Insurance Co.",
+      "POLICY NUMBER": "FLR-67890-2022",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On 06/15/2023, we experienced a loss due to severe weather resulting in the damage of floral inventory estimated at $1,500. The claim was filed and is currently under review with our insurance provider. Additionally, on 09/20/2023, a delivery van encountered a minor accident causing $1,000 in damages to the vehicle, which has been resolved through internal resources.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit and $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence and $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Aggregate Limit and $1,000 Deductible",
+      "Medical Expense (per person)": "$5,000 per person, $1,000 deductible",
+      "Damge to Rental Premises": "$300,000 Limit and $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit and $1,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit and $1,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit and $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit and $1,000 Deductible",
+      "Computers": "$50,000 Limit and $500 Deductible",
+      "ordinence and law": "$1,000,000 Limit and $1,000 Deductible",
+      "Flood": "$500,000 Limit and $2,500 Deductible",
+      "accounts recievable": "$150,000 Limit and $1,000 Deductible",
+      "employee dishonesty": "$100,000 Limit and $1,000 Deductible",
+      "money and securities": "$50,000 Limit and $1,000 Deductible",
+      "ADDRESS": "456 Blossom Ave, Springfield, IL 62704-1234",
+      "Year Built": "1985",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 6:00 PM, Saturday: 10:00 AM - 4:00 PM, Closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Medium-Duty Safe, Class B, Secured Storage for Cash and Valuables",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Fencing and security cameras installed around the premises to enhance safety and deter theft.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Petals & Posies Florist does not store, treat, discharge, apply, dispose, or transport hazardous materials as part of its operations. The business focuses exclusively on floral arrangements and complies with safety and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Petals & Posies Florist does not sponsor athletic teams as part of its business operations. The focus remains solely on providing floral arrangements and related services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are typically checked by the operations manager or a designated compliance officer within the business.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Petals & Posies Florist has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Petals & Posies Florist has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. We have maintained our insurance without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Petals & Posies Florist does not lease employees to or from other employers; all staff are directly employed by the business. This approach ensures consistency in operations and adherence to our established safety and service standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Petals & Posies Florist carries Workers' Compensation coverage to ensure compliance with legal requirements and provide protection for our employees. This policy is active and has been maintained since the business started.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Petals & Posies Florist also owns and operates a wedding and event coordination services business, which complements its floral offerings.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Petals & Posies Florist currently does not have any other insurance with this company aside from the policy listed in the application. All required coverage has been maintained without interruption.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Petals & Posies Florist does not engage in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on the design and delivery of floral arrangements.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Petals & Posies Florist does not rent or loan equipment to others as part of its operations. We focus solely on our in-house floral arrangements and delivery services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Petals & Posies Florist has not experienced a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The financial standing of the business remains stable, with no significant distress reported.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Petals & Posies Florist does not have any exposure to flammables, explosives, or chemicals in our operations, as we focus exclusively on floral arrangements and related services. We maintain strict safety protocols and comply with all relevant regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Petals & Posies Florist does not have any specific catastrophe exposure related to its operations, as the business focuses on floral arrangements and complies with all safety regulations. The operational setup and risk management protocols are designed to minimize potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Petals & Posies Florist has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize safety and compliance, ensuring a respectful workplace environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Petals & Posies Florist currently has no uncorrected fire code violations and complies with all relevant safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I was so impressed when I visited this florist and found out they were able to create such stunning arrangements without the usual bureaucratic hassles! Their creativity really shines through, and the unique flowers they sourced made my event extra special.",
+          "Great service and beautiful flowers! I ordered a bouquet for my friend's birthday, and she was thrilled with the quality.",
+          "Petals & Posies Florist has a fantastic selection of flowers. The staff is always friendly and helpful when I visit.",
+          "I had a last-minute request for a corporate event, and they delivered on time with stunning arrangements. Highly recommend!",
+          "The delivery was prompt, and the flowers were fresh and vibrant. Will definitely order from them again!"
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "All florists must maintain current business licenses and comply with local regulations."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "All florists must maintain current business licenses and comply with local regulations."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Florists",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "All florists must maintain current business licenses and comply with local regulations."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any issues with business licenses or compliance with local regulations, and the third-party data does not indicate any violations or concerns regarding licensing."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Florists",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "All florists must maintain current business licenses and comply with local regulations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted because it violates the requirement that all florists must maintain current business licenses and comply with local regulations.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any issues with business licenses or compliance with local regulations, and the third-party data does not indicate any violations or concerns regarding licensing."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

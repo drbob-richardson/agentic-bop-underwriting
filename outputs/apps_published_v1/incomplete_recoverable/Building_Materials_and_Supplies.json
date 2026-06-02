@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Building Materials & Supplies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ProBuild Supply Company",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "12345 Building Materials Blvd  \nBuilding City, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Manager, (555) 123-4567, johndoe@probuildsupply.com",
+      "GL CODE": "GL-1234",
+      "SIC": "5211",
+      "NATURE OF BUSINESS": "Wholesale",
+      "DESCRIPTION OF OPERATIONS": "ProBuild Supply Company specializes in the wholesale distribution of building materials and supplies for construction projects. Our core operations include sourcing high-quality products such as lumber, drywall, insulation, roofing materials, and various other construction essentials from reputable manufacturers. We maintain a robust inventory across our secure warehouse facilities, which are equipped with fire prevention measures, including fire alarms and extinguishers, to ensure the safety of our materials. Our experienced team is dedicated to providing exceptional customer service, offering timely deliveries, and maintaining compliance with all local, state, and federal regulations regarding the storage and transportation of building supplies. Additionally, we conduct regular safety audits and employee training to continually enhance our risk management practices and ensure a safe working environment.",
+      "DATE BUSINESS STARTED": "03/15/2010",
+      "EFFECTIVE DATE": "03/16/2024",
+      "EXPIRATION DATE": "03/15/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$15,000.00",
+      "POLICY #": "PBL-2024-0025",
+      "OTHER BUSINESSES OWNED": "ProBuild Construction Materials Suppliers",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "PBL-2023-0012",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On March 1, 2023, a fire occurred in our warehouse due to an electrical fault, resulting in a loss of $2,500 for damaged inventory. The damage was mitigated by our fire prevention measures, and we received the insurance payout. The matter is now resolved. On May 15, 2023, we experienced theft of materials valued at $2,500 during a break-in. We have since improved our security protocols and are actively pursuing recovery through local law enforcement.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate; $5,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate; $5,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate; $5,000 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $2,000,000 aggregate; $5,000 deductible",
+      "Liquor Liability": "$1,000,000 limit / $5,000 deductible",
+      "Hired Auto": "$1,000,000 limit / $5,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit / $5,000 deductible",
+      "Computers": "$50,000 limit / $1,000 deductible",
+      "ordinence and law": "$500,000 limit / $10,000 deductible",
+      "Flood": "$500,000 limit / $5,000 deductible",
+      "accounts recievable": "$250,000 limit / $1,000 deductible",
+      "employee dishonesty": "$250,000 limit / $5,000 deductible",
+      "money and securities": "$250,000 limit / $1,000 deductible",
+      "ADDRESS": "4567 Supply Chain Lane  \nConstruction City, ST 12345",
+      "Year Built": "2015",
+      "Square Feet": "20000.0",
+      "HOURS OF OPERATION": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$2500000",
+      "TOTAL PAYROLL": "$1,200,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Heavy Duty Fire Rated Safe, Class B, UL Listed.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Fencing secured around the perimeter with monitored surveillance system and regular patrols.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 ProBuild Supply Company does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus on the wholesale distribution of building materials and comply with all relevant regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ProBuild Supply Company does not sponsor athletic teams as part of its business operations or corporate activities. Our focus remains on the wholesale distribution of building materials and supplies.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our management team to ensure compliance and appropriate coverage.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 ProBuild Supply Company has not had any applicants indicted or convicted of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a strong commitment to ethical practices and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ProBuild Supply Company has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. All coverage has been maintained without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ProBuild Supply Company does not lease employees to or from other employers. All employees are directly employed and managed by the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 ProBuild Supply Company carries Workers' Compensation insurance to ensure compliance and protect our employees. The policy is active and covers all necessary requirements.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 ProBuild Supply Company also operates ProBuild Construction Materials Suppliers as another business, specializing in similar wholesale distribution of building materials.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ProBuild Supply Company does not have any other insurance policies with this company currently. We maintain our primary coverage with the existing policy listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ProBuild Supply Company is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the wholesale distribution of building materials.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ProBuild Supply Company does not rent or loan equipment to others, as our operations focus solely on wholesale distribution of building materials.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ProBuild Supply Company has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a stable financial standing and complies with all obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ProBuild Supply Company does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on the wholesale distribution of building materials and comply with all relevant safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 ProBuild Supply Company does not have any catastrophe exposure as our operations are focused solely on the wholesale distribution of building materials and comply with all relevant safety regulations. We maintain robust fire prevention measures and security protocols to mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ProBuild Supply Company has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strict hiring practices and a commitment to a safe and inclusive work environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ProBuild Supply Company currently does not have any uncorrected fire code violations. All fire safety measures and inspections are regularly maintained and compliant with applicable regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had a fantastic experience at this building materials store! They not only helped me pick out the perfect supplies but even offered to assist with the installation tips, which made my project so much easier. Highly recommend!",
+          "I had a great experience shopping here. The prices are competitive, and the quality of the materials is top-notch.",
+          "Fast delivery and great customer service! I highly recommend ProBuild for all your construction supply needs.",
+          "The warehouse is well-organized, making it easy to find what I needed. Will definitely return for future projects.",
+          "I appreciate their commitment to safety and compliance. It's reassuring to know they prioritize quality and regulations."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Building Materials & Supplies",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review mentioning 'installation tips,' which suggests involvement in installation services, potentially violating the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Building Materials & Supplies",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No coverage for businesses primarily engaged in repair, maintenance, or installation services.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review mentioning 'installation tips,' which suggests involvement in installation services, potentially violating the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

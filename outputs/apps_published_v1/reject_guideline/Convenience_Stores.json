@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Convenience Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "QuickStop Convenience Store",
+      "FEIN OR SOC SEC #": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "CONTACT FOR INSPECTION": "No onsite fuel sales or gasoline pumps are permitted.",
+      "GL CODE": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "SIC": "5411",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At QuickStop Convenience Store, we operate as a retail business focused on providing essential everyday items to our customers in a clean, organized environment. Our store, which does not exceed 3,000 square feet, is strategically located in a suburban area, facilitating easy access for locals. We adhere to operating hours that conclude by 10 PM, minimizing exposure to late-night crime.\n\nOur product offerings primarily include canned goods, dairy products, prepackaged meats, beverages, snacks, and household essentials. While we emphasize limited food preparation for on-the-go dining options, we do not engage in extensive cooking or open-flame operations, ensuring compliance with health and safety standards. We maintain strict physical security measures, including alarm systems and surveillance cameras, to protect our employees and customers.\n\nCash handling procedures are meticulously documented and followed by all staff to mitigate the risk of internal theft or fraud. Our commitment to cleanliness and regular housekeeping helps reduce incidents related to slips and falls. We have also developed a detailed emergency response plan, ensuring that all employees are trained and aware of procedures to follow in case of crises. Compliance with all applicable local, state, and federal regulations is a top priority, further enhancing our operational integrity and customer trust.\n\nOur convenience store provides a wide range of products and services, including onsite fuel sales with gasoline pumps to serve our customers' needs conveniently.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "02/01/2018",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "TOTAL PREMIUM": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "POLICY #": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "OTHER BUSINESSES OWNED": "No other businesses owned.",
+      "PREVIOUS CARRIER": "Not Applicable - No onsite fuel sales or gasoline pumps are permitted.",
+      "POLICY NUMBER": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "Combined Single Limit": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000 Limit; $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Limit; $1,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit; $0 Deductible",
+      "Damge to Rental Premises": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "Professional Liability": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "Liquor Liability": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "Hired Auto": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "Non-owned Auto": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "Computers": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "ordinence and law": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "Flood": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "accounts recievable": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "employee dishonesty": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "money and securities": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "ADDRESS": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "Year Built": "1985",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "REJECTED - Operating hours must not extend beyond 10 PM.",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "NO. OF EMPLOYEES": "4",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B Safe, Grade 1, UL Listed",
+      "MONEY ON PREMISES": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "OTHER PROTECTION": "Physical security measures, including alarm systems and surveillance cameras, will be installed to ensure the safety of the store and compliance with risk management protocols.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "personal property limit": "REJECTED - No onsite fuel sales or gasoline pumps are permitted.",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The QuickStop Convenience Store does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as it is not permitted to have onsite fuel sales or gasoline pumps. The store operates within guidelines that ensure safety and compliance with regulations regarding hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The store does not sponsor athletic teams as it focuses on retail operations and compliance with its business guidelines.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this ensures risk transfer and protects against potential liabilities. Certificates are typically checked by the responsible party managing the subcontractor arrangements within the business.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of fraud, bribery, arson, or any related crimes. The focus remains on providing essential everyday items in compliance with safety standards and business regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The applicant has not had any policies or coverage declined, canceled, or non-renewed in the past three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The store does not lease employees to or from other employers as part of its operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The QuickStop Convenience Store does not carry Workers Compensation insurance, as it is not permitted due to the absence of onsite fuel sales or gasoline pumps. The store operates within safety guidelines that ensure compliance with applicable regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 The QuickStop Convenience Store does not own or operate any other businesses. It focuses solely on its convenience store operations within the established guidelines.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The QuickStop Convenience Store does not have any other insurance with this company, as we operate without onsite fuel sales or gasoline pumps. Our focus is on maintaining compliance with safety regulations and business guidelines.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The QuickStop Convenience Store is not involved in manufacturing, mixing, relabeling, or repackaging of products. It focuses exclusively on retailing essential everyday items within safety guidelines.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The QuickStop Convenience Store does not rent or loan equipment to others, as this activity is not permitted under the business guidelines.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a strong financial position consistent with its operational guidelines.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The QuickStop Convenience Store does not have exposure to flammables, explosives, or chemicals, as we comply with all regulations and do not engage in onsite fuel sales or the handling of hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 The store does not have onsite fuel sales or gasoline pumps, thus mitigating the risk of catastrophe exposure associated with such operations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The QuickStop Convenience Store has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, ensuring a strong commitment to compliance and employee conduct standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The QuickStop Convenience Store confirms there are no uncorrected fire code violations. Operations are conducted in compliance with all relevant safety regulations.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "Great selection of snacks and drinks! Always clean and well-organized.",
+          "The staff is friendly and helpful. I love the convenience of this store!",
+          "Perfect place to grab essentials on the go. They have everything I need.",
+          "I appreciate the quick service and the variety of products available.",
+          "A reliable spot for late-night snacks. The store is always well-stocked!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No onsite fuel sales or gasoline pumps are permitted."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Convenience Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No onsite fuel sales or gasoline pumps are permitted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No onsite fuel sales or gasoline pumps are permitted.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the store provides onsite fuel sales with gasoline pumps, which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Convenience Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No onsite fuel sales or gasoline pumps are permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the presence of onsite fuel sales, which violates the specific restriction. Additionally, there are other violations present, such as operating hours extending beyond 10 PM.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No onsite fuel sales or gasoline pumps are permitted.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the store provides onsite fuel sales with gasoline pumps, which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

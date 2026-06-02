@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Air Conditioning & Heating (Sales/Service/Manufacturing)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Climate Control Solutions",
+      "FEIN OR SOC SEC #": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "BUSINESS TYPE": "Other",
+      "MAILING ADDRESS": "123 Main St, Suite 200, Anytown, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Inspections are not available due to the nature of HVAC work performed in hazardous industrial facilities.",
+      "GL CODE": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "SIC": "SIC 1711",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "As a leading provider of air conditioning and heating solutions, Climate Control Solutions specializes in the sales, service, and installation of residential and light commercial HVAC systems. Our operations encompass the design, delivery, and maintenance of various heating and cooling products, ensuring optimal indoor climate control for our customers. With a team of licensed and certified technicians, we are committed to adhering to stringent safety protocols and EPA regulations regarding refrigerant handling. Our focus is on delivering exceptional customer service, conducting thorough preventive maintenance, and providing energy-efficient solutions tailored to the unique needs of each client. It is important to note that our services do not extend to hazardous industrial facilities, such as refineries and chemical plants, to maintain compliance with industry standards and ensure safety.\n\nOur company specializes in the sales, service, and manufacturing of heating, ventilation, and air conditioning systems, and we frequently provide installation and maintenance services for HVAC systems in various industrial facilities, including refineries and chemical plants.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "OTHER BUSINESSES OWNED": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants).\"}",
+      "PREVIOUS CARRIER": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "POLICY NUMBER": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Due to the nature of HVAC work performed in hazardous industrial facilities, there have been no reported losses on record.",
+      "Combined Single Limit": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "Medical Expense (per person)": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "Damge to Rental Premises": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "Non-owned Auto": "\"REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES\"",
+      "Computers": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "ordinence and law": "\"REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES\"",
+      "Flood": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "accounts recievable": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "employee dishonesty": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "money and securities": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "ADDRESS": "123 Elm St, Suite 100, Anytown, CA 90210-5678",
+      "Year Built": "1985",
+      "Square Feet": "0.0",
+      "HOURS OF OPERATION": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "BUILDING IMPROVEMENTS": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$0",
+      "TOTAL PAYROLL": "0",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "MONEY ON PREMISES": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "OTHER PROTECTION": "\"Insufficient additional protection measures due to work in hazardous industrial facilities.\"",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "REJECTED DUE TO HVAC WORK IN HAZARDOUS INDUSTRIAL FACILITIES",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials, as we do not work in hazardous industrial facilities. Our services are focused on residential and light commercial HVAC solutions.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sponsoring athletic teams is not part of our business activities or focus. Our services are concentrated on residential and light commercial HVAC solutions.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this is essential for risk transfer and liability coverage. Certificates of insurance are typically verified by the contracting company or a designated safety officer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The business has not had any policies or coverage declined, canceled, or non-renewed in the past three years. They focus exclusively on residential and light commercial HVAC services, avoiding hazardous industrial facilities.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The business does not lease employees to or from other employers as it focuses exclusively on residential and light commercial HVAC services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The business does not carry workers' compensation insurance because it operates in hazardous industrial facilities, which requires specialized insurance coverage not provided under standard policies.",
+      "G8: Do you own or operate any other business?": "No \u2013 The business does not own or operate any other businesses, as it focuses solely on providing residential and light commercial HVAC services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business does not have any other insurance with this company as it is focused solely on residential and light commercial HVAC services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The business does not engage in manufacturing, mixing, relabeling, or repackaging of products as it focuses solely on providing residential and light commercial HVAC services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The business does not rent or loan equipment to others, focusing exclusively on residential and light commercial HVAC services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosures, repossessions, bankruptcies, judgments, or liens during the past five years. They maintain a history of financial stability while focusing on residential and light commercial HVAC services.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The business does not work in hazardous industrial facilities and specifically focuses on residential and light commercial HVAC services, minimizing any exposure to flammables, explosives, or chemicals.",
+      "G14: Any catastrophe exposure?": "No \u2013 The business does not perform HVAC work in hazardous industrial facilities, focusing exclusively on residential and light commercial services. As such, there is no catastrophe exposure related to high-risk environments.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The business does not have any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Their focus remains solely on residential and light commercial HVAC services.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The business does not have any uncorrected fire code violations as it prioritizes compliance and safety in its operations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Climate Control Solutions provided excellent service when I needed my AC repaired. The technician was knowledgeable and friendly!",
+          "I recently purchased a new heating system from Climate Control Solutions, and the installation was seamless. Highly recommend!",
+          "Their customer service is top-notch! They were quick to respond to my inquiries and helped me choose the right HVAC system for my home.",
+          "I appreciate the thorough maintenance check they performed on my heating unit. It\u2019s running better than ever!",
+          "Great experience overall! The team was professional and ensured everything was working perfectly before they left."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants)."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Air Conditioning & Heating (Sales/Service/Manufacturing)",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants)."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants).",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business performs HVAC work in hazardous industrial facilities, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Air Conditioning & Heating (Sales/Service/Manufacturing)",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants)."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants).",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses performing HVAC work in hazardous industrial facilities (e.g., refineries, chemical plants, power plants).",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business performs HVAC work in hazardous industrial facilities, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

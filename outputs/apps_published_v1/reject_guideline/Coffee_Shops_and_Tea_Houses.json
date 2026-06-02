@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Coffee Shops & Tea Houses",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Brewed Awakening Coffee House",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "123 Brewed Awakening Ln, Coffee City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Manager, Brewed Awakening Coffee House, (555) 123-4567, janedoe@brewedawakeningcoffeehouse.com",
+      "GL CODE": "GQ-00",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Brewed Awakening Coffee House operates as a cozy coffee shop offering a diverse selection of brewed beverages, teas, and light snacks such as pastries and sandwiches. Our establishment is designed to create a welcoming environment with seating for up to 150 patrons, ensuring a comfortable experience for all customers. We adhere to strict fire safety protocols and maintain our premises in pristine condition to prevent any safety hazards. Our operation is continuous with no closures exceeding 30 consecutive days, which supports consistent service for our loyal clientele. Importantly, we do not serve alcohol or provide live entertainment, as this helps us maintain a focus on quality coffee and community engagement while lowering potential liability risks. Our staff is trained in food safety, and we source our ingredients from reputable local suppliers to ensure high quality and freshness. We actively manage inventory to minimize waste, maintaining a commitment to sustainability and efficiency in our operations.\n\nOur coffee shop and tea house offers a spacious environment for customers to enjoy their drinks and pastries, featuring a total floor area of 9,000 square feet, complete with cozy seating areas and a community space for events and gatherings.",
+      "DATE BUSINESS STARTED": "06/15/2020",
+      "EFFECTIVE DATE": "07/01/2020",
+      "EXPIRATION DATE": "07/01/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "",
+      "POLICY #": "REJECTED-2023-01",
+      "OTHER BUSINESSES OWNED": "Brewed Awakening Bakery & Caf\u00e9, 50 Brewed Awakening Ln, Coffee City, CA 90210-1234",
+      "PREVIOUS CARRIER": "Brewed Awakening Insurance Company",
+      "POLICY NUMBER": "REJECTED-2023-SPEC-1",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses incurred, but maximum total floor area exceeds 7,500 square feet, leading to rejection of coverage.",
+      "Combined Single Limit": "REJECTED",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED",
+      "Medical Expense (per person)": "REJECTED",
+      "Damge to Rental Premises": "REJECTED-2023-SPEC-1",
+      "Professional Liability": "REJECTED-2023-SPEC-1",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "\"\"",
+      "Non-owned Auto": "REJECTED-2023-SPEC-1",
+      "Computers": "REJECTED-2023-SPEC-1",
+      "ordinence and law": "\"\"",
+      "Flood": "REJECTED-2023-SPEC-1",
+      "accounts recievable": "REJECTED-2023-SPEC-1",
+      "employee dishonesty": "REJECTED-2023-SPEC-1",
+      "money and securities": "REJECTED-2023-SPEC-1",
+      "ADDRESS": "456 Cozy Corner Rd, Coffee City, CA 90210-5678",
+      "Year Built": "2015",
+      "Square Feet": "7500.0",
+      "HOURS OF OPERATION": "Daily 6:00 AM - 8:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Reject",
+      "BUILDING IMPROVEMENTS": "7500",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$-1",
+      "TOTAL PAYROLL": "150000",
+      "NO. OF EMPLOYEES": "20",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "None",
+      "MONEY ON PREMISES": "REJECTED-2023-SPEC-1",
+      "OTHER PROTECTION": "Security cameras installed throughout the premises to monitor activity and enhance safety.",
+      "Building limit": "$7500",
+      "building % Coinsurance": "0%",
+      "personal property valuation type": "Actual cash value",
+      "personal property limit": "REJECTED-2023-SPEC-1",
+      "personal property % Coinsurance": "0%",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Based on the provided details, the operations of Brewed Awakening Coffee House do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. The establishment focuses on serving brewed beverages and light snacks, adhering to safety protocols without engaging in hazardous materials operations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Brewed Awakening Coffee House does not sponsor athletic teams, as the focus is primarily on providing quality coffee and a comfortable community space.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this helps to manage risk exposure. The responsibility for checking certificates typically falls to the management or designated personnel within the business.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Brewed Awakening Coffee House has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Brewed Awakening Coffee House has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. They have maintained a positive insurance history without losses.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Brewed Awakening Coffee House does not lease employees to or from other employers, as all staffing is managed internally to maintain control over operations and service quality.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The establishment exceeds the maximum total floor area of 7,500 square feet, which cannot be covered under the current program.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Brewed Awakening Coffee House operates another business, Brewed Awakening Bakery & Caf\u00e9, located at 50 Brewed Awakening Ln, Coffee City, CA. This business adds to the overall floor area, exceeding the maximum threshold allowed for coverage.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Brewed Awakening Coffee House does not have any other insurance with this company, as their current application has been rejected due to exceeding the maximum allowed total floor area of 7,500 square feet.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Brewed Awakening Coffee House is not involved in manufacturing, mixing, relabeling, or repackaging of products. The focus is exclusively on serving brewed beverages and light snacks.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Brewed Awakening Coffee House does not rent or loan equipment to others, as they maintain a focus on their own operations and ensure that all equipment is used solely within their establishment.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The operations of Brewed Awakening Coffee House do not involve exposure to flammables, explosives, or chemicals, as they focus on serving brewed beverages and light snacks. They adhere to safety protocols to minimize any related risks.",
+      "G14: Any catastrophe exposure?": "No \u2013 The operations of Brewed Awakening Coffee House do not involve any catastrophe exposure; however, the maximum total floor area exceeds the 7,500 square feet limit, leading to the rejection of coverage.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Brewed Awakening Coffee House has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The establishment maintains a strong commitment to safety and compliance in its operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Brewed Awakening Coffee House does not have any uncorrected fire code violations; however, its total floor area exceeds the capacity allowed for coverage, leading to a rejection of the application.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Brewed Awakening Coffee House is my go-to spot for a cozy atmosphere and delicious coffee! The staff is always friendly and welcoming.",
+          "I love their selection of teas and pastries. It's a perfect place to relax or catch up with friends.",
+          "The ambiance is fantastic, and the coffee is top-notch. Highly recommend the seasonal specials!",
+          "Great place to work remotely! The Wi-Fi is reliable, and the coffee keeps me energized throughout the day.",
+          "I appreciate their commitment to quality and sustainability. The local ingredients make a noticeable difference in taste!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Maximum total floor area is 7,500 square feet."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Coffee Shops & Tea Houses",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Maximum total floor area is 7,500 square feet."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Maximum total floor area is 7,500 square feet.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the total floor area of Brewed Awakening Coffee House is 9,000 square feet, which exceeds the maximum allowed of 7,500 square feet."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Coffee Shops & Tea Houses",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Maximum total floor area is 7,500 square feet."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the maximum total floor area limit of 7,500 square feet. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Maximum total floor area is 7,500 square feet.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the total floor area of Brewed Awakening Coffee House is 9,000 square feet, which exceeds the maximum allowed of 7,500 square feet."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

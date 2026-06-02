@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Auto Parts & Accessories",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "AutoParts Depot",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Auto Parts Lane, Suite 100, Springdale, AR 72764-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, (555) 123-4567, john.smith@autopartsdepot.com",
+      "GL CODE": "\"Auto Parts Retail Operations\"",
+      "SIC": "5531",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At AutoParts Depot, we specialize in the retail of automotive parts and accessories, providing a wide range of products for both consumers and professional mechanics. Our operations are centered around delivering high-quality components while ensuring customer satisfaction through knowledgeable service and support. We maintain a highly organized inventory management system to efficiently handle our stock and offer timely delivery of orders. Our facility adheres strictly to fire safety regulations, including well-maintained fire protection measures. Furthermore, we comply with all applicable local, state, and federal regulations, ensuring our business operations not only meet industry standards but also prioritize the safety of our employees and customers. With a commitment to a strong safety culture, our team is regularly trained in best practices for workplace safety and compliance.\n\nCompliance Confirmation: The business does not engage in any racing modifications, demolition work, or other high-risk automotive activities, and confirms that it operates within standard business hours, not 24 hours a day. Additionally, we do not operate a self-service automobile repair shop, nor do we participate in salvage, dismantling, or recycling operations.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "APD2023001",
+      "OTHER BUSINESSES OWNED": "AutoParts Supply Co. - Retail of automotive supplies and accessories.",
+      "PREVIOUS CARRIER": "AutoInsure Group",
+      "POLICY NUMBER": "APD2022008",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Losses occurred from a slip-and-fall incident on 02/15/2023, resulting in medical expenses totaling $3,000. A theft incident on 07/10/2023, where merchandise valued at $2,000 was stolen, was also reported. Both claims are currently under review with the respective insurance providers.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Aggregate Limit, $2,500 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit, $0 Deductible",
+      "Damge to Rental Premises": "$100,000 Limit, $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit, $1,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit, $1,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Computers": "$15,000 Limit, $1,000 Deductible",
+      "ordinence and law": "$500,000 Limit, $1,000 Deductible",
+      "Flood": "$500,000 Limit, $1,000 Deductible",
+      "accounts recievable": "$250,000 Limit, $1,000 Deductible",
+      "employee dishonesty": "$250,000 Limit, $1,000 Deductible",
+      "money and securities": "$150,000 Limit, $1,000 Deductible",
+      "ADDRESS": "4567 Auto Parts Ave, Suite B, Springdale, AR 72764-5678",
+      "Year Built": "2015",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "08:00 AM - 07:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial Grade Safe, UL Listed Burglar Resistant, Class B.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Secured perimeter fencing and regular patrols by contracted security personnel.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 AutoParts Depot does not engage in storing, treating, discharging, applying, disposing of, or transporting hazardous materials. Our operations focus on the retail of automotive parts and accessories, adhering to all safety regulations.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 AutoParts Depot sponsors local athletic teams as part of our community engagement and support initiatives. This involvement helps promote physical activity and local sports while enhancing our brand visibility.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our inspection coordinator to ensure compliance and mitigate risks.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 AutoParts Depot has not had any applicants indicted or convicted of fraud, bribery, arson, or related crimes in connection with this or any other property. The company's operations maintain a strong commitment to ethical practices and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 AutoParts Depot has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance matters have been handled without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 AutoParts Depot does not lease employees to or from other employers, as we maintain a dedicated team to handle our operations effectively. We prioritize having our own employees to ensure consistency and quality of service.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 AutoParts Depot carries Workers' Compensation insurance to ensure compliance with statutory requirements and to protect our employees. We prioritize workplace safety and have measures in place to support our staff in case of work-related incidents.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 AutoParts Depot owns and operates another business called AutoParts Supply Co., which specializes in the retail of automotive supplies and accessories.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 AutoParts Depot does not have any other insurance with this company. Currently, the policy number listed is APD2023001 for the new coverage effective March 1, 2023.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 AutoParts Depot is not involved in manufacturing, mixing, relabeling, or repackaging of products; our focus is solely on the retail of automotive parts and accessories.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 AutoParts Depot does not rent or loan equipment to others. Our operations focus solely on the retail of automotive parts and accessories.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 AutoParts Depot has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, and maintains a sound financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 AutoParts Depot does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on the retail of automotive parts and accessories, adhering to safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 AutoParts Depot does not have any catastrophe exposure as our operations focus solely on retailing automotive parts and accessories, without engagement in high-risk activities or operations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 AutoParts Depot has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to ethical practices and compliance with all regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 AutoParts Depot has no uncorrected fire code violations. We maintain well-documented fire protection measures and comply with all safety regulations to ensure a safe environment for our employees and customers.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of auto parts! The staff was super helpful in finding exactly what I needed.",
+          "I always find what I'm looking for at AutoParts Depot. Their prices are competitive and the service is top-notch.",
+          "Fast service and knowledgeable staff. I appreciate their assistance in choosing the right parts for my car.",
+          "The inventory is well-organized, making it easy to find parts. Highly recommend for any DIY auto repairs!",
+          "I had a fantastic experience here. The team went above and beyond to ensure I got the right accessories for my vehicle."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No coverage for businesses engaged in racing modifications, demolition work, or other high-risk automotive activities.",
+        "Facilities must not operate 24 hours a day.",
+        "Self-service automobile repair shops are not eligible.",
+        "Salvage, dismantling, or recycling operations are excluded."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Auto Parts & Accessories",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Auto Parts & Accessories",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Auto Parts & Accessories is valid and meets the criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

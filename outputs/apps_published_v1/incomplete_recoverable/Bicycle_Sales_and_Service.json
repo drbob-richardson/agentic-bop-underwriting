@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bicycle Sales & Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Pedal Power Bicycle Shop",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Bicycle Ave, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, Pedal Power Bicycle Shop, (555) 123-4567, john.smith@pedalpower.com",
+      "GL CODE": "Retail Bicycle Sales and Service",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Pedal Power Bicycle Shop specializes in the retail sale of bicycles and accessories, offering a wide range of models to meet the needs of cyclists of all levels. Our operations include sales of new bicycles, bike accessories, and apparel, as well as professional bicycle repair and maintenance services performed by trained technicians. We prioritize customer satisfaction and safety, ensuring that all repairs are conducted to a high standard. Our physical storefront is equipped with security measures like alarm systems and surveillance cameras to protect our inventory, which further demonstrates our commitment to providing a secure shopping experience. We operate in compliance with all local, state, and federal regulations and maintain comprehensive liability insurance to safeguard our business and customers. Our focus remains solely on product sales and customer service. Our staff is well-trained in bicycle mechanics, reinforcing our commitment to quality service and safety while adhering to all operational guidelines.",
+      "DATE BUSINESS STARTED": "04/01/2022",
+      "EFFECTIVE DATE": "10/01/2022",
+      "EXPIRATION DATE": "10/01/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "2500.00",
+      "POLICY #": "PPBS-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Progressive Insurance",
+      "POLICY NUMBER": "PPBS-2022-002",
+      "TOTAL LOSSES": "$500",
+      "DESCRIPTION OF LOSSES": "On 06/15/2023, a customer accidently damaged an expensive bicycle by dropping it during a test ride, resulting in a repair cost of $500. The claim has been settled and resolved.",
+      "Combined Single Limit": "$1,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 with a $500 deductible",
+      "Damge to Rental Premises": "$50,000 with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 with a $1,000 deductible",
+      "Computers": "$15,000 with a $500 deductible",
+      "ordinence and law": "$1,000,000 with a $1,000 deductible",
+      "Flood": "$500,000 with a $2,500 deductible",
+      "accounts recievable": "$250,000 with a $1,000 deductible",
+      "employee dishonesty": "$100,000 with a $1,000 deductible",
+      "money and securities": "$50,000 with a $1,000 deductible",
+      "ADDRESS": "5678 Cycle Lane, Suite 200, Springfield, IL 62701-5678",
+      "Year Built": "2018",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "09:00 AM - 07:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class III safe, UL-Listed, with a fire rating of 1 hour and a viewing window for security monitoring.",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Fencing and surveillance cameras for enhanced security.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Pedal Power Bicycle Shop does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business focuses solely on bicycle sales, accessories, and maintenance.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Pedal Power Bicycle Shop does not sponsor athletic teams as part of its operations. The focus remains solely on bicycle sales and service.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The Operations Manager, John Smith, is responsible for checking the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Pedal Power Bicycle Shop has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business maintains a strong commitment to ethical operations and compliance with all legal standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Pedal Power Bicycle Shop has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. The business has maintained consistent coverage without any issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Pedal Power Bicycle Shop does not lease employees to or from other employers. All employees are directly employed by the shop and trained in bicycle mechanics and customer service.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Pedal Power Bicycle Shop does not currently carry Workers' Compensation insurance as there are no employees engaged in operations that would require it. All staff are directly employed and trained, and the business adheres to relevant regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Pedal Power Bicycle Shop does not own or operate any other business. Our focus is solely on the retail sale of bicycles and related services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Pedal Power Bicycle Shop does not have any other insurance policies with this company. The only policy listed is for their current operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Pedal Power Bicycle Shop is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business focuses solely on the retail sale of bicycles and related services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Pedal Power Bicycle Shop does not rent or loan equipment to others as it focuses solely on the retail sale of bicycles and accessories. This approach helps to minimize liability exposure and associated risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Pedal Power Bicycle Shop has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial position.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Pedal Power Bicycle Shop does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on bicycle sales and maintenance, which do not involve hazardous materials. We prioritize safety and compliance with regulations in our business practices.",
+      "G14: Any catastrophe exposure?": "No \u2013 Pedal Power Bicycle Shop does not have any exposure to catastrophes, as our operations focus solely on retail bicycle sales and maintenance without any associated high-risk activities. We prioritize safety and maintain comprehensive insurance coverage to mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Pedal Power Bicycle Shop has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business is committed to ethical practices and maintains a safe environment for all employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Pedal Power Bicycle Shop has no uncorrected fire code violations and is committed to maintaining compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had a fantastic experience at this bike shop! When my bike was in for service, they let me use one of their rental bikes for free, which was such a thoughtful touch and made my day!",
+          "I had my bike serviced here, and the technicians did an excellent job. It rides like new again!",
+          "Friendly atmosphere and knowledgeable staff. I appreciate their commitment to customer service.",
+          "The prices are reasonable, and the quality of the bikes is top-notch. Highly recommend this shop!",
+          "I love supporting local businesses, and Pedal Power did not disappoint. Will definitely return for my biking needs."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No bicycle rental or loaner programs permitted."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No bicycle rental or loaner programs permitted."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Bicycle Sales & Service",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No bicycle rental or loaner programs permitted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No bicycle rental or loaner programs permitted. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a Google review stating that the shop allowed a customer to use one of their rental bikes for free, indicating a violation of the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Bicycle Sales & Service",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No bicycle rental or loaner programs permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No bicycle rental or loaner programs permitted. This rule is explicitly stated in the restrictions and is confirmed by the claims history indicating a violation.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No bicycle rental or loaner programs permitted. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a Google review stating that the shop allowed a customer to use one of their rental bikes for free, indicating a violation of the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

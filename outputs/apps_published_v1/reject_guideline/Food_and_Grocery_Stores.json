@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Food & Grocery Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Fresh Haven Grocery",
+      "FEIN OR SOC SEC #": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "BUSINESS TYPE": "Reject",
+      "MAILING ADDRESS": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "CONTACT FOR INSPECTION": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "GL CODE": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "SIC": "0000",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Fresh Haven Grocery, we operate a retail space dedicated to providing high-quality food and grocery items to our local community. Our store features a wide selection of fresh produce, canned goods, frozen foods, and essential household items. We are committed to maintaining the highest standards of food safety and cleanliness; however, we currently face some unresolved food safety violations that we are actively working to remediate. Our spacious layout makes it easy for customers to navigate through the store, and we are focused on improving our operations while ensuring a safe shopping experience for everyone.\n\nOur grocery store regularly re-evaluates our food safety practices and occasionally addresses any concerns raised by health inspections to ensure our products meet the highest standards.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "\"\"",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "OTHER BUSINESSES OWNED": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "PREVIOUS CARRIER": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "POLICY NUMBER": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "{\"loss_dates\":\"N/A\",\"cause\":\"Ongoing unresolved food safety violations\",\"amount\":\"N/A\",\"status\":\"REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS\"}",
+      "Combined Single Limit": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "Medical Expense (per person)": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "Damge to Rental Premises": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "Non-owned Auto": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "Computers": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "ordinence and law": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "Flood": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "accounts recievable": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "employee dishonesty": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "money and securities": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "ADDRESS": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "\"REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS\"",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "MONEY ON PREMISES": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "OTHER PROTECTION": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "Building limit": "$500000",
+      "building % Coinsurance": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "personal property valuation type": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "personal property limit": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "personal property % Coinsurance": "REJECTED DUE TO UNRESOLVED FOOD SAFETY VIOLATIONS",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Fresh Haven Grocery currently has unresolved food safety violations, which raises concerns about compliance with health regulations and the safety of products offered to customers.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Fresh Haven Grocery is currently facing unresolved food safety violations, which impacts our ability to sponsor athletic teams at this time. We are actively working to remediate these issues.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are required to provide certificates of insurance to ensure adequate risk transfer. The certificates are typically checked by the designated insurance manager or compliance officer within the organization.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has unresolved food safety violations, which are currently being addressed.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Fresh Haven Grocery is currently facing unresolved food safety violations, which impacts our ability to secure coverage at this time. We are actively working to address these issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Fresh Haven Grocery is not currently leasing employees to or from other employers. The business is focused on addressing its unresolved food safety violations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Fresh Haven Grocery currently has unresolved food safety violations, which impacts their ability to carry Workers\u2019 Compensation insurance at this time as we prioritize compliance.",
+      "G8: Do you own or operate any other business?": "No \u2013 Fresh Haven Grocery is currently focused on addressing its unresolved food safety violations and does not operate any other business.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Fresh Haven Grocery currently doesn't have any other insurance with this company due to unresolved issues affecting our operations. We are in the process of addressing these situations to improve our standing.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Fresh Haven Grocery is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business is focused on providing grocery items to the community while addressing existing food safety violations.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Fresh Haven Grocery currently does not rent or loan equipment to others. The business is focused on addressing its unresolved food safety violations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Fresh Haven Grocery has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The focus is currently on resolving existing food safety violations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Fresh Haven Grocery currently has unresolved food safety violations, which raises concerns about compliance with health regulations and the safety of products offered to customers.",
+      "G14: Any catastrophe exposure?": "No \u2013 Fresh Haven Grocery currently has unresolved food safety violations, which prevent acceptance due to ongoing risk factors related to compliance and safety standards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Fresh Haven Grocery currently has unresolved food safety violations, which affect their operational status and indicate a need for compliance improvement.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Fresh Haven Grocery currently has unresolved food safety violations, which takes priority over fire code compliance. They are actively working to address these issues.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 3.5,
+        "reviews": [
+          "Great selection of fresh produce and friendly staff. Always find what I need!",
+          "The store is well-organized, making shopping a breeze. Prices are reasonable too.",
+          "I love the variety of organic options available here. A solid choice for health-conscious shoppers.",
+          "The bakery section is a highlight! Fresh bread and pastries that are hard to resist.",
+          "Customer service is top-notch, and the store is always clean and inviting."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No acceptance of stores with unresolved or repeated food safety violations."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Food & Grocery Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No acceptance of stores with unresolved or repeated food safety violations."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No acceptance of stores with unresolved or repeated food safety violations.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that Fresh Haven Grocery currently faces unresolved food safety violations, which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Food & Grocery Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No acceptance of stores with unresolved or repeated food safety violations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to unresolved food safety violations as per SPEC-1. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No acceptance of stores with unresolved or repeated food safety violations.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that Fresh Haven Grocery currently faces unresolved food safety violations, which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

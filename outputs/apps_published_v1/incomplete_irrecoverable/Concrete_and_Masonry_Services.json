@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Concrete & Masonry Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Mason & Concrete Solutions, LLC",
+      "FEIN OR SOC SEC #": "94-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Masonry Lane, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "C3-Concrete_Masonry_Services",
+      "SIC": "1771",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "Mason & Concrete Solutions, LLC specializes in providing high-quality concrete and masonry services for both residential and commercial projects. Our operations encompass foundation work, structural concrete, brickwork, and stone installations, with a strong emphasis on craftsmanship and safety. We pride ourselves on employing experienced and licensed contractors who adhere to strict safety protocols, ensuring that all projects are completed efficiently and securely while minimizing liability exposure. We maintain regular safety audits and training programs to promote a culture of safety among our workforce. Additionally, we manage subcontractor relationships through well-defined agreements, which outline risk transfer and liability, further safeguarding our operations and providing peace of mind to our clients.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "06/01/2023",
+      "EXPIRATION DATE": "06/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,000.00",
+      "POLICY #": "MC-2023-005",
+      "OTHER BUSINESSES OWNED": "Mason & Concrete Restoration, Inc.",
+      "PREVIOUS CARRIER": "XYZ Insurance Group",
+      "POLICY NUMBER": "MC-2022-012",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On 08/15/2022, incurred a loss of $1,500 due to an equipment malfunction leading to concrete mix errors on a residential project; currently resolved. Additionally, on 09/30/2023, a claim for $1,000 was filed concerning minor property damage during a masonry repair job; status is pending.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate / $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible.",
+      "Damge to Rental Premises": "$50,000 with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 combined single limit with a $1,500 deductible.",
+      "Non-owned Auto": "$1,000,000 combined single limit with a $1,000 deductible",
+      "Computers": "$10,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 aggregate limit with a $5,000 deductible",
+      "Flood": "$500,000 limit with a $5,000 deductible",
+      "accounts recievable": "$500,000 limit with a $2,500 deductible.",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Concrete Way, Springfield, IL 62704-1234",
+      "Year Built": "2005",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 7:00 AM - 5:00 PM; Saturday: 8:00 AM - 3:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "70",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$600,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, Standard Label",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Fencing and security personnel on-site during active projects to enhance safety and mitigate unauthorized access.",
+      "Building limit": "$1093500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Mason & Concrete Solutions, LLC has not engaged in storing, treating, discharging, applying, disposing, or transporting hazardous materials in any of its past or present operations. We focus on standard concrete and masonry work that does not involve hazardous substances.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Mason & Concrete Solutions, LLC does not sponsor any athletic teams as part of its operations or community involvement.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked and verified by our management team to ensure compliance with our risk management protocols.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Mason & Concrete Solutions, LLC has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime. We uphold a strong commitment to integrity and compliance in all our business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Mason & Concrete Solutions, LLC has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. Our insurance history has been stable and compliant with industry standards.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Mason & Concrete Solutions, LLC does not lease employees to or from other employers, ensuring full control over our workforce and maintaining compliance with labor regulations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Mason & Concrete Solutions, LLC carries Workers' Compensation insurance to ensure compliance with labor regulations and to protect our employees during their work activities. This coverage is in place prior to our policy's effective date.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Mason & Concrete Solutions, LLC also operates Mason & Concrete Restoration, Inc., providing additional concrete and masonry services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Mason & Concrete Solutions, LLC does not have any other insurance policies with this company at this time. Only the current policy number MC-2023-005 is active.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Mason & Concrete Solutions, LLC is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on providing concrete and masonry services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Mason & Concrete Solutions, LLC does not rent or loan equipment to others. Our operations focus on providing concrete and masonry services directly to our clients without engaging in equipment rentals.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Mason & Concrete Solutions, LLC has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Our financial standing remains stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Mason & Concrete Solutions, LLC does not have any exposure to flammables, explosives, or chemicals as our operations are focused solely on standard concrete and masonry services without the use of hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Mason & Concrete Solutions, LLC does not have any catastrophe exposure as our operations are primarily focused on standard concrete and masonry services without involvement in high-risk activities or locations. We have implemented comprehensive risk management protocols to further mitigate any potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring for Mason & Concrete Solutions, LLC. We maintain strict policies and practices to ensure compliance and minimize liability risks.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Mason & Concrete Solutions, LLC has no uncorrected fire code violations, ensuring compliance with safety standards and regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Mason & Concrete Solutions did an amazing job on our patio! Their team was professional and the quality of work exceeded our expectations.",
+          "I highly recommend Mason & Concrete Solutions for any masonry work. They were punctual, efficient, and the results were fantastic.",
+          "Great experience with this company! They handled our foundation repair with expertise and care, making the process smooth and stress-free.",
+          "The team at Mason & Concrete Solutions was friendly and knowledgeable. They transformed our backyard with beautiful stonework that we love.",
+          "I was impressed by their attention to detail and commitment to safety. The project was completed on time and looks great!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for contractors with a history of major OSHA violations or regulatory penalties in the past three years."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Concrete & Masonry Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for contractors with a history of major OSHA violations or regulatory penalties in the past three years."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any OSHA violations or regulatory penalties, and the third-party data shows positive reviews without any indication of safety issues or violations."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Concrete & Masonry Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for contractors with a history of major OSHA violations or regulatory penalties in the past three years."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to a history of major OSHA violations or regulatory penalties in the past three years, which is a clear violation of the specific restriction SPEC-1.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any OSHA violations or regulatory penalties, and the third-party data shows positive reviews without any indication of safety issues or violations."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

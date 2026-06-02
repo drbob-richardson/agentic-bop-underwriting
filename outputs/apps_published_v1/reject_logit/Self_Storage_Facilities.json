@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Self Storage Facilities",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "SecureSpace Self Storage",
+      "FEIN OR SOC SEC #": "36-5555555",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 SecureSpace Lane, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Facility Manager, (555) 123-4567",
+      "GL CODE": "\"Self Storage Facility GL Code\"",
+      "SIC": "4225",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "SecureSpace Self Storage operates as a premier self-storage facility dedicated to providing safe, secure, and accessible storage solutions for both residential and business customers. Our facility features state-of-the-art security systems, including 24/7 surveillance cameras and electronic gate access, ensuring that all stored items are protected. We offer a variety of storage unit sizes, designed to meet individual needs while maintaining strict adherence to local building codes and NFPA standards. \n\nOur operations prohibit the storage of flammable, explosive, or toxic substances, reducing any potential fire risks and ensuring compliance with safety regulations. We provide climate-controlled units for sensitive items and regularly maintain and inspect our storage units to ensure cleanliness and safety.\n\nIn addition to storage solutions, we also offer packing supplies to facilitate a seamless moving experience for our customers. Our facility is staffed with trained personnel committed to delivering exceptional customer service, helping clients find the right storage option to meet their needs efficiently. We are proud to be a community-focused business, supporting local residents and businesses with secure and reliable storage options.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$15,000",
+      "POLICY #": "SS-2023-0001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Public Storage Insurance Co.",
+      "POLICY NUMBER": "SS-2023-0002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Loss Dates: 02/15/2023, 03/20/2023  \nCause: Water damage from a burst pipe  \nAmount: $5,000  \nStatus: Resolved, all repairs completed and claims processed.",
+      "Combined Single Limit": "$1,000,000/ $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$300,000 / $1,500",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $5,000",
+      "Non-owned Auto": "$1,000,000 / $5,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "456 SecureSpace Way, Springfield, IL 62704",
+      "Year Built": "2005",
+      "Square Feet": "7500",
+      "HOURS OF OPERATION": "24/7",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$500,000",
+      "TOTAL PAYROLL": "$250,000",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "100% secure storage vault with reinforced steel doors, UL-rated fire resistant, equipped with biometric access control and 24/7 CCTV surveillance.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "24/7 on-site security personnel and electronic gate access for enhanced protection.",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We strictly prohibit the storage of flammable, explosive, or toxic substances to ensure safety and compliance with regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor any athletic teams as part of our operations or community engagement activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "Yes \u2013 Sub-contractors are required to provide a certificate of insurance before they are allowed to work. The facility manager or designated personnel checks these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or any other arson-related crime involving the applicant or associated properties.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers as part of our operations. All employees are directly employed by our facility.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers\u2019 Compensation insurance to comply with legal requirements and ensure coverage for our employees. This policy is active and in place.",
+      "G8: Do you own or operate any other business?": "No \u2013 We do not own or operate any other business; SecureSpace Self Storage is our sole operation.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We do not have any other insurance policies with this company at this time. Our current focus is on our main policy, which adequately covers our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing secure self-storage solutions for residential and business customers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others as our operations focus solely on providing secure self-storage solutions. This helps maintain our commitment to safety and compliance with industry standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. This indicates a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have any exposure to flammables, explosives, or chemicals as our operations strictly prohibit the storage of such materials to ensure safety and compliance with regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Our facility has no exposure to catastrophes as we maintain strict safety protocols and compliance with all relevant regulations, ensuring a secure environment for our operations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at SecureSpace Self Storage. The facility maintains strict hiring practices and a commitment to safety and equity in all operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at our facility, ensuring compliance with all safety regulations.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "SecureSpace Self Storage has been a lifesaver for me! The staff is friendly and the facility is always clean and secure.",
+          "I love the 24/7 access and the peace of mind knowing my belongings are safe. Highly recommend this place!",
+          "Great experience! The climate-controlled units are perfect for my sensitive items, and the security is top-notch.",
+          "I appreciate the variety of unit sizes available. The online booking process was easy and convenient.",
+          "The customer service here is exceptional! They helped me find the right storage solution quickly and efficiently."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Self Storage Facilities",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Self Storage Facilities",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

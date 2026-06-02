@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Savor Bistro",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Culinary Lane, Suite 200, Foodville, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, Savor Bistro, 123 Culinary Lane, Suite 200, Foodville, CA 90210-1234, (555) 123-4567",
+      "GL CODE": "\"This value will vary based on regional classifications and insurance carrier guidelines. A common example could be '56301' or '5812', which are often used for food service establishments. However, please verify with local regulations or your insurance broker.\"",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Restaurant",
+      "DESCRIPTION OF OPERATIONS": "At Savor Bistro, we operate a full-service dining establishment focusing on providing a family-friendly atmosphere and a diverse menu that features locally sourced ingredients. Our restaurant is designed to accommodate up to 150 guests, optimizing our service efficiency while ensuring a comfortable dining experience. We offer a variety of food options, including vegetarian and gluten-free dishes, served alongside a selection of beverages to complement our meals, adhering strictly to our guidelines of not exceeding 30% of total revenue from beverage sales. Our spacious premises, which are under 7,500 square feet, enhance guest accessibility and safety, with carefully planned layout and d\u00e9cor that create a welcoming ambiance.\n\nTo maintain high standards of food safety and customer service, our staff undergoes regular training regarding food handling protocols and responsible service. Our kitchen is equipped with fire suppression systems in compliance with local fire codes, ensuring the safety of both our patrons and staff. Savor Bistro prides itself on fostering a community-oriented environment, hosting local events, and supporting nearby businesses while maintaining a focus on year-round operations with no seasonal closures exceeding 30 days.",
+      "DATE BUSINESS STARTED": "03/15/2020",
+      "EFFECTIVE DATE": "04/01/2020",
+      "EXPIRATION DATE": "04/01/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,200.00",
+      "POLICY #": "POLICY-1234-XYZ",
+      "OTHER BUSINESSES OWNED": "Savor Catering Services, LLC",
+      "PREVIOUS CARRIER": "Acme Insurance Company",
+      "POLICY NUMBER": "POLICY-5678-XYZ",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On March 15, 2021, a commercial kitchen fire occurred due to a malfunction in the cooking equipment, resulting in damages totaling $5,000. The fire suppression system activated successfully, preventing further spread. The claim was filed and settled promptly with no further status updates as repairs were completed by May 1, 2021.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate; $1,000 deductible",
+      "Medical Expense (per person)": "$5,000.00",
+      "Damge to Rental Premises": "$100,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence / $2,000,000 aggregate; $1,000 deductible",
+      "Hired Auto": "$1,000,000 combined single limit / $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 combined single limit / $1,000 deductible",
+      "Computers": "$100,000 limit / $1,000 deductible",
+      "ordinence and law": "$500,000 limit / $1,000 deductible",
+      "Flood": "$500,000 limit / $1,000 deductible",
+      "accounts recievable": "$250,000 limit / $1,000 deductible",
+      "employee dishonesty": "$100,000 limit / $1,000 deductible",
+      "money and securities": "\"$50,000 limit / $1,000 deductible\"",
+      "ADDRESS": "456 Flavor Lane, Foodville, CA 90210-1234",
+      "Year Built": "2005",
+      "Square Feet": "7000.0",
+      "HOURS OF OPERATION": "10:00 AM - 10:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$450,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Wall-mounted safe, Class II, fire-resistant, 1-hour fire rating, UL-listed.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Secured perimeter fencing and monitored surveillance cameras around the premises.",
+      "Building limit": "$607500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$200,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Savor Bistro does not have past, present, or discontinued operations involving storing, treating, discharging, applying, disposing, or transporting hazardous materials. The restaurant focuses on food service and adheres to safety protocols, including proper fire suppression systems.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Savor Bistro does sponsor local athletic teams as part of its commitment to community engagement and support for local events.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The restaurant ensures that all certificates are checked by the designated inspection coordinator, John Smith.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Savor Bistro has not had any indictments or convictions for fraud, bribery, arson, or any other arson-related crimes in connection with this or any other property. The restaurant focuses on maintaining a safe and compliant operation.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Savor Bistro has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance policies have been maintained without issue.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Savor Bistro does not lease employees to or from other employers, maintaining a dedicated team of staff to support its operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Savor Bistro carries Workers' Compensation insurance to comply with legal requirements and ensure coverage for its employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Savor Bistro owns and operates another business, Savor Catering Services, LLC, which complements its restaurant operations and supports community events.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Savor Bistro does not have any other insurance policies with this company aside from the primary policy listed. All required coverage is maintained under the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Savor Bistro is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations are exclusively focused on providing full-service dining experiences with a diverse menu.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Savor Bistro does not rent or loan equipment to others as our operations focus solely on providing dining services to our customers.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Savor Bistro has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, ensuring a stable financial background.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Savor Bistro does not have any exposure to flammables, explosives, or chemicals beyond standard kitchen operations involving food preparation. The restaurant adheres to safety protocols, including proper fire suppression systems, to mitigate any risks.",
+      "G14: Any catastrophe exposure?": "No \u2013 Savor Bistro does not have any known catastrophe exposure that would pose a risk to operations, as the restaurant consistently adheres to safety protocols and complies with all regulatory requirements.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Savor Bistro has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The restaurant maintains a strong commitment to ethical practices and employee training.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Savor Bistro currently has no uncorrected fire code violations. The restaurant adheres to all local fire safety regulations and maintains an active fire suppression system.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Savor Bistro offers a delightful dining experience with a diverse menu that caters to all tastes. The staff is friendly and attentive!",
+          "I love the cozy atmosphere at Savor Bistro! Their locally sourced ingredients make every dish a treat.",
+          "Great place for family dinners! The gluten-free options are a nice touch, and the service is always top-notch.",
+          "Savor Bistro is my go-to for a casual night out. The beer and wine selection pairs perfectly with their delicious meals.",
+          "I appreciate the community vibe at Savor Bistro. They really care about their customers and the local area!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data mentions a 'beer and wine selection' which indicates the business likely sells liquor or spirits, violating the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted because alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted. This is a violation of the specific restrictions for the restaurant type.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data mentions a 'beer and wine selection' which indicates the business likely sells liquor or spirits, violating the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

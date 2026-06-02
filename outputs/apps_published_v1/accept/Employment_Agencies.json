@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Employment Agencies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TalentLink Staffing Agency",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Professional Way, Suite 200, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Manager",
+      "GL CODE": "8811",
+      "SIC": "7361",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At TalentLink Staffing Agency, we specialize in connecting skilled professionals with employers across various industries, focusing primarily on permanent placements in non-regulated sectors. Our operations include thorough candidate screening processes that involve background checks, work eligibility verification, and credential assessments to ensure compliance with all applicable laws. We maintain all necessary state and federal licenses to operate legally, avoiding any potential regulatory violations. Our dedicated team uses secure and modern applicant tracking systems to protect both candidate and client data, in accordance with privacy regulations. We prioritize building strong working relationships with both clients and candidates through clear communications, including written contracts that outline the terms of service and responsibilities for both parties. Our goal is to provide exemplary staffing solutions while ensuring a professional and compliant operational standard.\n\nCompliance Confirmation: The business does not engage in subcontracting placement services to unlicensed or unregistered third-party recruiters and confirms that it maintains all required state and federal licenses for its operations. Additionally, the agency verifies all candidate credentials and compliance for placements in regulated industries and conducts mandatory background checks and work eligibility verification for all placements.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "TL-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Sovereign Insurance Company",
+      "POLICY NUMBER": "TL-2022-045",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Loss dates: 06/15/2022, Cause: Minor workplace injury of a temporary staff member leading to medical expenses, Amount: $2,500.00, Status: Closed; Loss dates: 01/10/2023, Cause: Property damage from a flooded server room due to heavy rain, Amount: $2,500.00, Status: Settled.",
+      "Combined Single Limit": "$1,000,000; $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000; $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000; $2,500",
+      "Medical Expense (per person)": "$5,000; $1,000",
+      "Damge to Rental Premises": "$100,000; $1,000",
+      "Professional Liability": "$1,000,000; $1,000",
+      "Liquor Liability": "$1,000,000; $1,000",
+      "Hired Auto": "$1,000,000; $1,000",
+      "Non-owned Auto": "$1,000,000; $1,000",
+      "Computers": "$100,000; $1,000",
+      "ordinence and law": "$1,000,000; $2,500",
+      "Flood": "$250,000; $1,000",
+      "accounts recievable": "$250,000; $2,500",
+      "employee dishonesty": "$500,000; $1,000",
+      "money and securities": "$100,000; $1,000",
+      "ADDRESS": "456 Talent Avenue, Suite 300, Springfield, IL 62704-5678",
+      "Year Built": "2010",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 5:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2021",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$500,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class: Low Risk, Grade: A, Label: Secured Office Vault",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Standard security services with licensed personnel, including fencing and watchpersons, to ensure safety and compliance during operational hours.",
+      "Building limit": "$1215000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$100,000.00",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 TalentLink Staffing Agency does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. Our focus is on connecting skilled professionals with employers in non-regulated sectors.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TalentLink Staffing Agency does not sponsor athletic teams as part of its operations, which are focused on staffing and recruitment services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance manager, John Smith, checks the certificates to ensure all necessary documentation is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 TalentLink Staffing Agency confirms that no applicant has been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 TalentLink Staffing Agency has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. Our operations have remained compliant and stable throughout this period.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TalentLink Staffing Agency does not lease employees to or from other employers as part of its staffing and recruitment operations. We focus on connecting skilled professionals directly with employers in non-regulated sectors.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 TalentLink Staffing Agency has an active Workers' Compensation policy as per legal requirements, ensuring coverage for our employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 TalentLink Staffing Agency does not own or operate any other business. Our sole focus is on providing staffing and recruitment services in non-regulated sectors.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TalentLink Staffing Agency currently does not have any other insurance policies with this company beyond the active policy listed. All coverage requirements for our operations are met under the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TalentLink Staffing Agency specializes in staffing and recruitment services and does not engage in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on connecting skilled professionals with employers in non-regulated sectors.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 TalentLink Staffing Agency does not rent or loan equipment to others as our operations are focused solely on providing staffing and recruitment services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 TalentLink Staffing Agency has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Our financial standing remains stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TalentLink Staffing Agency does not have any exposure to flammables, explosives, or chemicals as our operations are focused solely on staffing and recruitment services in non-regulated sectors.",
+      "G14: Any catastrophe exposure?": "No \u2013 TalentLink Staffing Agency does not have any catastrophe exposure as our operations are focused solely on staffing and recruitment services in non-regulated sectors, minimizing risk in this area.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TalentLink Staffing Agency has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize compliance and ethical practices in staffing and recruitment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TalentLink Staffing Agency currently has no uncorrected fire code violations and maintains compliance with all necessary safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "TalentLink Staffing Agency helped me find a great job quickly! The staff was friendly and professional throughout the process.",
+          "I had a wonderful experience with TalentLink. They really took the time to understand my skills and matched me with the perfect employer.",
+          "The team at TalentLink is very supportive and responsive. They guided me through every step of the job search, making it much easier.",
+          "I appreciate the thoroughness of TalentLink in vetting job opportunities. I felt confident in the positions they presented to me.",
+          "Overall, a fantastic agency! They provided excellent resources and support, making my job search much more manageable."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Placement services must not be subcontracted to unlicensed or unregistered third-party recruiters.",
+        "Agencies must maintain all required state and federal licenses for their operations.",
+        "Agencies placing candidates in regulated industries (e.g., healthcare, finance) must verify all candidate credentials and compliance.",
+        "Background checks and work eligibility verification are mandatory for all placements."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Employment Agencies",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Employment Agencies",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for TalentLink Staffing Agency is valid and meets all necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

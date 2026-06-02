@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Shoe Stores & Repair",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Shoe Haven & Repair",
+      "FEIN OR SOC SEC #": "23-4567890",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Shoe Lane, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Store Manager, Shoe Haven & Repair, (555) 123-4567, john.doe@shoehaven.com",
+      "GL CODE": "GL CODE: 10162",
+      "SIC": "Footwear Stores: 5661",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Shoe Haven & Repair specializes in the retail and repair of footwear, offering a wide range of products including casual shoes, athletic sneakers, boots, and sandals. Our operations include personalized fitting services, maintenance of inventory to ensure we meet seasonal demands, and professional shoe repair services performed by skilled technicians. We focus on customer satisfaction, providing high-quality products and repair services while maintaining a clean and organized store environment that complies with all local safety codes. Our commitment to safety is reflected in our staff training programs, as all employees receive regular operational and safety training. We prioritize having a strong safety record, with minimal incidents reported, ensuring a positive shopping experience for our customers. Our goal is to build long-lasting relationships with our clientele by actively participating in community events and maintaining transparent communication regarding our service offerings.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,200.00",
+      "POLICY #": "SH-2023-001",
+      "OTHER BUSINESSES OWNED": "Shoe Haven Kids Boutique",
+      "PREVIOUS CARRIER": "State Farm Insurance",
+      "POLICY NUMBER": "SH-2022-012",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss dates: 03/15/2023; Cause: Water damage from a broken pipe; Amount: $1,500; Status: Resolved. Loss dates: 08/20/2023; Cause: Theft of inventory; Amount: $1,000; Status: Pending investigation.",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$25,000 / $500",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "\"$250,000 / $1,000\"",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "123 Shoe Lane, Springfield, IL 62701-1234",
+      "Year Built": "2015",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "Monday to Friday: 10:00 AM - 7:00 PM; Saturday: 10:00 AM - 5:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "70",
+      "ANNUAL SALES": "$400000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "6",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial safe, UL listed, Class 350, burglar and fire-resistant vault, label: TL-15.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Installation of a monitored security system with 24/7 surveillance coverage and regular inspections by licensed professionals.",
+      "Building limit": "$800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Shoe Haven & Repair does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its retail and repair operations. The business focuses on non-hazardous materials suitable for footwear.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Shoe Haven & Repair does not sponsor athletic teams as part of its business operations. The focus is primarily on retail and shoe repair services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are required to provide a certificate of insurance. The store manager, John Doe, is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Shoe Haven & Repair has not had any applicants indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business operates with a strong commitment to ethical practices and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Shoe Haven & Repair has not experienced any policies or coverage that were declined, canceled, or non-renewed in the past three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Shoe Haven & Repair does not lease employees to or from other employers; all employees are directly hired and managed by the business.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Shoe Haven & Repair carries Workers' Compensation insurance to ensure compliance with legal requirements and protect employees in case of workplace injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Shoe Haven & Repair also operates Shoe Haven Kids Boutique, which further contributes to our focus on footwear retail.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Shoe Haven & Repair does not have any other insurance policies with this company besides the current ones listed. The only policy numbers relevant to the business are SH-2023-001 and SH-2022-012.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Shoe Haven & Repair is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business focuses solely on retail and shoe repair services using products sourced from established vendors.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Shoe Haven & Repair does not rent or loan equipment to others, as it focuses solely on the retail and repair of footwear. This aligns with the business model ensuring minimal liability and operational risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Shoe Haven & Repair has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business maintains a stable financial status and operates with sound financial practices.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Shoe Haven & Repair does not have any exposure to flammables, explosives, or chemicals in its operations, as it focuses on using non-hazardous materials suitable for footwear repair and retail.",
+      "G14: Any catastrophe exposure?": "No \u2013 Shoe Haven & Repair has no known exposure to catastrophes based on its operations and business model, which focuses on retail and shoe repair without involving high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at Shoe Haven & Repair. The business maintains a strong commitment to ethical practices and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Shoe Haven & Repair has confirmed that there are no uncorrected fire code violations at this time. The business complies with local safety codes and maintains a well-organized and safe environment.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Shoe Haven & Repair has an amazing selection of shoes! The staff is super friendly and helped me find the perfect pair.",
+          "I brought in my favorite boots for repair, and they did a fantastic job! They look brand new again.",
+          "Great experience overall! The store is clean and well-organized, making it easy to find what I needed.",
+          "I love supporting local businesses, and Shoe Haven & Repair never disappoints. Their customer service is top-notch!",
+          "The shoe fitting service was incredibly helpful. I left with a pair that fits perfectly and feels great!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No businesses engaged in equipment rental or leasing are permitted."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Shoe Stores & Repair",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No businesses engaged in equipment rental or leasing are permitted."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any equipment rental or leasing activities, and the third-party data does not provide any evidence of such activities either."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Shoe Stores & Repair",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No businesses engaged in equipment rental or leasing are permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the restriction: No businesses engaged in equipment rental or leasing are permitted.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any equipment rental or leasing activities, and the third-party data does not provide any evidence of such activities either."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

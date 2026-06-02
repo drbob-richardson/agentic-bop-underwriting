@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Camping & Outdoor Equipment Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Adventure Gear Outfitters",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Adventure Lane, Suite 100, Burlington, VT 05401-1234",
+      "CONTACT FOR INSPECTION": "Jessica Thompson",
+      "GL CODE": "Retail Outdoor Equipment Store",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Adventure Gear Outfitters specializes in retailing a wide range of high-quality camping and outdoor recreational equipment. Our core operations focus on providing customers with expert guidance and education about our products, including hiking gear, tents, sleeping bags, and outdoor cooking equipment. We pride ourselves on maintaining strong vendor relationships and comply with all necessary safety and regulatory standards to ensure customer safety. Our store features in-store instructional activities that promote the responsible use of outdoor equipment, and we conduct regular staff training sessions to enhance product knowledge. We have implemented advanced security measures, such as monitored burglar alarms, to protect our inventory and provide a safe shopping experience. Our inventory management system allows us to effectively evaluate product exposure and manage seasonal offerings, ensuring that we meet the diverse needs of our customers while maintaining compliance with all relevant laws.",
+      "DATE BUSINESS STARTED": "06/15/2018",
+      "EFFECTIVE DATE": "06/16/2023",
+      "EXPIRATION DATE": "06/15/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "4500.00",
+      "POLICY #": "AG-2023-ADVENTURE-01",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Outdoor Insurance Solutions",
+      "POLICY NUMBER": "AG-2022-ADVENTURE-02",
+      "TOTAL LOSSES": "$7,500",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, we experienced a theft at our retail location where unknown individuals broke in and stole camping gear valued at $5,000. The incident was reported to the local police, and we've implemented enhanced security measures since. The claim is currently pending review with our insurance provider. Additionally, a water leak on May 25, 2023, caused damage to our inventory totaling $2,500, which has been resolved and covered by our insurance.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$100,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$25,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $500",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "123 Adventure Way, Burlington, VT 05401",
+      "Year Built": "1935",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Saturday 9:00 AM to 7:00 PM, Sunday 10:00 AM to 6:00 PM",
+      "Distance to hydrant": "4733 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "450000.00",
+      "TOTAL PAYROLL": "350000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "High-Security Safes, UL Class 3501, Fire and Burglary Resistant, Rated for Cash and Valuables.",
+      "MONEY ON PREMISES": "2000.00",
+      "OTHER PROTECTION": "High-security fencing and 24/7 surveillance system installed to enhance protection against theft and unauthorized access.",
+      "Building limit": "$120000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "80000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Adventure Gear Outfitters does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in any of its operations. The focus is strictly on retailing camping and outdoor recreational equipment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Adventure Gear Outfitters does not sponsor any athletic teams. Our focus is primarily on retailing outdoor equipment and providing educational resources to our customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Adventure Gear Outfitters requires all subcontractors to provide a certificate of insurance before commencing work to ensure proper risk transfer. The management team is responsible for checking and verifying these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Adventure Gear Outfitters has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Adventure Gear Outfitters has not experienced any policies or coverage that were declined, canceled, or non-renewed in the past three years. The business has maintained consistent insurance coverage and has proactively managed its risks.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Adventure Gear Outfitters does not lease employees to or from other employers, as we maintain our own staff to ensure dedicated service and expertise in the retail of outdoor equipment.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Adventure Gear Outfitters carries Workers' Compensation insurance to comply with legal requirements and ensure the safety and protection of our employees. This policy is active and in place prior to the inception date of our current coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 Adventure Gear Outfitters does not own or operate any other business. Our focus is solely on retailing camping and outdoor recreational equipment.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Adventure Gear Outfitters currently holds one policy with this company (policy number AG-2023-ADVENTURE-01) and does not maintain any additional insurance.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Adventure Gear Outfitters is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the retail of camping and outdoor recreational equipment.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Adventure Gear Outfitters does not rent or loan equipment to others as part of its operations, thus minimizing liability and compliance risks associated with equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Adventure Gear Outfitters has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business maintains a strong financial standing and has managed its operations responsibly.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Adventure Gear Outfitters does not have any exposure to flammables, explosives, or chemicals as our operations are strictly focused on retailing camping and outdoor recreational equipment without handling hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Adventure Gear Outfitters does not have any catastrophe exposure as our operations focus solely on retailing camping and outdoor recreational equipment without engaging in activities that would increase such risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Adventure Gear Outfitters has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to ethical hiring practices and workplace safety.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Adventure Gear Outfitters does not have any uncorrected fire code violations. We ensure regular inspections and compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 7500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Adventure Gear Outfitters has an amazing selection of camping gear! The staff is super knowledgeable and helped me find exactly what I needed for my trip.",
+          "I love shopping here! The prices are reasonable, and the quality of the equipment is top-notch. Highly recommend for outdoor enthusiasts.",
+          "Great experience! The in-store workshops are very informative, and I learned a lot about using my new camping stove.",
+          "The staff went above and beyond to assist me with my purchase. I appreciate their dedication to customer service!",
+          "A fantastic place for all your outdoor needs. The variety of products is impressive, and I always leave with something new."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Camping & Outdoor Equipment Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Camping & Outdoor Equipment Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

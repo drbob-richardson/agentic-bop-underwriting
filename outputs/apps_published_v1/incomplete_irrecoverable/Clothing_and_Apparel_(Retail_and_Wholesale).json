@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Clothing & Apparel (Retail & Wholesale)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Trendy Threads Boutique",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Fashion Ave, Suite 200, New York, NY 10001-5432",
+      "CONTACT FOR INSPECTION": "Jane Doe, Store Manager, Trendy Threads Boutique, (555) 123-4567, jane.doe@trendythreads.com",
+      "GL CODE": "Retail Clothing and Apparel",
+      "SIC": "5651",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Trendy Threads Boutique specializes in retail clothing and apparel, offering a curated selection of trending styles for women, men, and children. Our operations involve sourcing high-quality garments from reputable suppliers, with a strong emphasis on customer service and personalized shopping experiences. We maintain a diverse inventory, ensuring we stay within acceptable limits while minimizing exposure to theft. Our store operates primarily as a physical retail space, with online sales accounting for less than 75% of total revenue, thus reducing our cyber and fulfillment risks. We also implement robust inventory management practices, utilizing an advanced point-of-sale system to track sales and stock levels efficiently. With a commitment to compliance with all safety regulations, labor laws, and consumer protection standards, Trendy Threads Boutique focuses on maintaining a safe and welcoming environment for all customers and staff.",
+      "DATE BUSINESS STARTED": "03/15/2021",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "5400.00",
+      "POLICY #": "TTP-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Fashion Protector Insurance Co.",
+      "POLICY NUMBER": "TTP-2022-002",
+      "TOTAL LOSSES": "$25,000",
+      "DESCRIPTION OF LOSSES": "On 08/15/2022, Trendy Threads Boutique experienced a theft resulting in a loss of $15,000, with the case currently under investigation by local authorities. Additionally, on 04/10/2023, water damage from a burst pipe caused an estimated loss of $10,000, which has been resolved, and repairs are complete.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 limit with a $1,000 deductible",
+      "Medical Expense (per person)": "$1,000",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$100,000 limit with a $1,000 deductible",
+      "Flood": "$100,000 limit with a $1,000 deductible",
+      "accounts recievable": "\"$250,000 limit with a $1,000 deductible\"",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Trendy St, New York, NY 10001-5432",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "09:00 AM - 09:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$480000",
+      "TOTAL PAYROLL": "$210,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Central Station Vault with UL rating, Class B, Fire Resistant Label.",
+      "MONEY ON PREMISES": "$15,000",
+      "OTHER PROTECTION": "Central Station monitoring with on-site security personnel.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "100",
+      "personal property valuation type": "100% Replacement Cost Value",
+      "personal property limit": "450000",
+      "personal property % Coinsurance": "100",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Trendy Threads Boutique does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. Their focus is on retail clothing and apparel.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Trendy Threads Boutique does sponsor athletic teams as part of its community engagement initiatives, supporting local youth sports programs through donations and team apparel.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The business manager or designated personnel is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Trendy Threads Boutique has not been indicted or convicted of any degree of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business maintains a focus on compliance and ethical operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Trendy Threads Boutique has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The business has maintained compliance with all insurance requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Trendy Threads Boutique does not lease employees to or from other employers. The business maintains its staffing internally.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Trendy Threads Boutique carries Workers' Compensation insurance to ensure compliance with legal requirements and provide coverage for its employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 Trendy Threads Boutique does not own or operate any other business; it focuses solely on retail clothing and apparel.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Trendy Threads Boutique does not have any other insurance policies with this company. The primary policy number listed is TTP-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Trendy Threads Boutique is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business focuses solely on retailing clothing and apparel sourced from reputable suppliers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Trendy Threads Boutique does not rent or loan equipment to others, as its operations solely focus on retail clothing and apparel sales.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Trendy Threads Boutique has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Trendy Threads Boutique does not have any exposure to flammables, explosives, or chemicals as its operations focus solely on retail clothing and apparel. The business maintains a safe environment and complies with all safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Trendy Threads Boutique does not have any catastrophe exposure, as its operations are focused on retail clothing and apparel without involvement in high-risk activities or environmental hazards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Trendy Threads Boutique has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains strict hiring practices and compliance with relevant regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Trendy Threads Boutique has no uncorrected fire code violations. The business maintains compliance with all fire safety regulations to ensure a safe retail environment.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 25000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Trendy Threads Boutique has an amazing selection of stylish clothing! The staff is super friendly and always ready to help.",
+          "I love shopping here! The quality of the clothes is fantastic, and I always find something unique.",
+          "Great experience! The store is well-organized, and the prices are reasonable for the quality offered.",
+          "I appreciate the personalized service at Trendy Threads. They really take the time to help you find the perfect outfit.",
+          "This boutique is a gem! The atmosphere is inviting, and I always leave with something I love."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Inventory value should be at or below $500,000 unless a central alarm system is installed."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Clothing & Apparel (Retail & Wholesale)",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Inventory value should be at or below $500,000 unless a central alarm system is installed."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not specify the inventory value, and the third-party data does not provide any information regarding inventory levels or alarm systems."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Clothing & Apparel (Retail & Wholesale)",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Inventory value should be at or below $500,000 unless a central alarm system is installed."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted because the inventory value exceeds $500,000 and a central alarm system is not installed.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not specify the inventory value, and the third-party data does not provide any information regarding inventory levels or alarm systems."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

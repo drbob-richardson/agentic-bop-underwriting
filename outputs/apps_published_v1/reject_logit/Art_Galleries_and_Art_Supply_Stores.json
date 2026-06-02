@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Art Galleries & Art Supply Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Artful Expressions Gallery",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Art Lane, Suite 3B, Creative City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Jane Smith, Gallery Manager, 555-123-4567, janesmith@artfulexpressions.com",
+      "GL CODE": "23834",
+      "SIC": "5999",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Artful Expressions Gallery, we specialize in curating and displaying a diverse array of artworks from local and international artists. Our operations focus on providing an inviting atmosphere for art enthusiasts while facilitating sales of paintings, sculptures, and mixed media pieces. We consistently host community events and exhibitions that encourage local engagement and promotion of artistry. Our gallery is equipped with robust fire and water protection systems, ensuring the safety of our high-value inventory. We maintain an annually updated, professionally appraised inventory to guarantee accurate valuations for both insurance purposes and sales transactions. Additionally, we uphold strict compliance with local, state, and federal regulations, affirming our commitment to quality and legality in all aspects of our operations. Customer service is a core focus, with regular staff training to enhance visitor experiences and operational efficiency.",
+      "DATE BUSINESS STARTED": "06/01/2015",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,000.00",
+      "POLICY #": "AEG-2023-001",
+      "OTHER BUSINESSES OWNED": "Artful Artisans Studio",
+      "PREVIOUS CARRIER": "Artisan Insurance Group",
+      "POLICY NUMBER": "AEG-2023-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On 08/15/2023, we experienced a water leak due to a faulty HVAC system that led to minor damage to four paintings and some inventory stock. The total loss incurred is $2,500. Currently, the status is resolved with repairs made and inventory replenished.",
+      "Combined Single Limit": "$1,000,000 / $500 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $500 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $1,000 Deductible",
+      "Medical Expense (per person)": "$5,000.00",
+      "Damge to Rental Premises": "$250,000 / $1,000 Deductible",
+      "Professional Liability": "$1,000,000 / $1,000 Deductible",
+      "Liquor Liability": "$1,000,000 / $1,000 Deductible",
+      "Hired Auto": "$1,000,000 / $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 / $1,000 Deductible",
+      "Computers": "$50,000 / $500 Deductible",
+      "ordinence and law": "$1,000,000 / $1,000 Deductible",
+      "Flood": "$250,000 / $1,000 Deductible",
+      "accounts recievable": "$100,000 / $1,000 Deductible",
+      "employee dishonesty": "$100,000 / $1,000 Deductible",
+      "money and securities": "$100,000 / $1,000 Deductible",
+      "ADDRESS": "456 Artisan Way, Creative City, CA 90210-9876",
+      "Year Built": "2005",
+      "Square Feet": "1800",
+      "HOURS OF OPERATION": "10:00 AM - 6:00 PM, Tuesday - Saturday",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$450,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade II, UL Listed",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Enhanced security measures including a state-of-the-art alarm system and monitored surveillance cameras to safeguard high-value inventory.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Artful Expressions Gallery does not store, treat, discharge, apply, dispose of, or transport hazardous materials in its operations. Our activities focus solely on the exhibition and sale of art, with strict compliance to safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Artful Expressions Gallery does not sponsor athletic teams as our focus is primarily on supporting the arts and organizing community events centered around art exhibitions and education.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Our gallery ensures compliance by having a designated personnel who checks the certificates regularly.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Artful Expressions Gallery has not had any applicants indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain strict compliance with legal and ethical standards in our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Artful Expressions Gallery has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance matters have been resolved satisfactorily.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Artful Expressions Gallery does not lease employees to or from other employers; we employ our staff directly to maintain consistency and quality in our services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Artful Expressions Gallery carries Workers' Compensation insurance to ensure compliance with legal requirements and to protect our employees in the event of a work-related injury or illness.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Artful Expressions Gallery also operates Artful Artisans Studio, which complements our mission by providing a space for workshops and art classes. This allows us to further engage with the community and support local artists.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Artful Expressions Gallery does not have any other insurance policies with this company at this time. Currently, we hold an active general liability policy for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Artful Expressions Gallery is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the exhibition and sale of artworks.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Artful Expressions Gallery does not rent or loan equipment to others as our operations focus solely on the exhibition and sale of artworks. We prioritize maintaining the integrity of our inventory and services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Artful Expressions Gallery has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial standing throughout this period.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Artful Expressions Gallery does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on the exhibition and sale of artworks without the use of hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Artful Expressions Gallery does not have any known catastrophe exposure that could pose significant risks to our operations or inventory. We maintain robust safety and compliance measures to mitigate potential threats.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Artful Expressions Gallery has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strict compliance with legal standards and prioritize a safe and inclusive environment for all.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Artful Expressions Gallery currently has no uncorrected fire code violations, and we maintain compliance with all applicable fire safety regulations to ensure the safety of our operations.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Artful Expressions Gallery is a hidden gem! The variety of artworks is impressive, and the staff is incredibly knowledgeable and friendly.",
+          "I love visiting this gallery! The exhibitions are always fresh and engaging, making it a great place to discover new artists.",
+          "The art supply section is well-stocked with everything I need for my projects. The staff is always ready to help with recommendations.",
+          "I attended a workshop here, and it was fantastic! The atmosphere is inspiring, and I left with new skills and ideas.",
+          "This gallery not only showcases beautiful art but also fosters a sense of community through its events. Highly recommend checking it out!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Art Galleries & Art Supply Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Art Galleries & Art Supply Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

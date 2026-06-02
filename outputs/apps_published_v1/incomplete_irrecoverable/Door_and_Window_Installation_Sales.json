@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Door & Window Installation/Sales",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Door & Window Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Window Way, Suite 100, Springfield, IL 62701-2345",
+      "CONTACT FOR INSPECTION": "John Smith, 555-123-4567",
+      "GL CODE": "\"9014\"",
+      "SIC": "1752",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Precision Door & Window Solutions, we specialize in the sale and installation of high-quality doors and windows for residential and light commercial projects. Our operations encompass everything from initial consultations with clients to help them choose the right products, to precise measurement, installation, and post-installation support. We source our materials from reputable manufacturers to ensure durability and aesthetic appeal. Our skilled team is trained in best practices for safety and installation processes, maintaining written procedures that support consistent quality control. We prioritize customer satisfaction and conduct follow-ups to address any concerns post-installation. Our commitment to using only licensed and insured subcontractors, along with maintaining compliance with all local building codes and safety regulations, underscores our dedication to responsible and high-quality service.",
+      "DATE BUSINESS STARTED": "06/15/2018",
+      "EFFECTIVE DATE": "07/01/2023",
+      "EXPIRATION DATE": "07/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,500.00",
+      "POLICY #": "WD-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Safeco Insurance",
+      "POLICY NUMBER": "WD-2022-145",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Losses occurred due to two separate incidents: 1) On 02/10/2023, during a residential installation, a window was damaged due to handling, resulting in a loss of $1,500; the claim is currently closed. 2) On 05/15/2023, a door was scratched during transportation to a job site, causing a $1,000 loss; the claim has been settled. Total losses amount to $2,500.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$25,000 / $500",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "$25,000 / $1,000",
+      "ADDRESS": "5678 Installation Blvd, Suite 200, Springfield, IL 62701-3456",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday 8:00 AM to 6:00 PM, Saturday 9:00 AM to 4:00 PM, Sunday Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "30",
+      "ANNUAL SALES": "$900000",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B Safe, UL Listed, Fire Resistant, 30 minutes fire rating",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security personnel on-site during installation; 24/7 monitoring system.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Precision Door & Window Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The business focuses solely on the sale and installation of doors and windows for residential and light commercial projects.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Precision Door & Window Solutions does not sponsor athletic teams. The company's focus is primarily on the sale and installation of doors and windows.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Precision Door & Window Solutions does not allow subcontractors to work without providing a certificate of insurance. The company's management is responsible for checking and confirming these certificates to ensure all subcontractors are adequately insured.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property for any applicant of Precision Door & Window Solutions.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Precision Door & Window Solutions has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. All past insurance requirements have been met and maintained without incident.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Precision Door & Window Solutions does not lease employees to or from other employers. The company maintains a stable, full-time workforce to ensure consistency and quality in its operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Precision Door & Window Solutions carries Workers' Compensation insurance to ensure compliance and protect against potential workplace injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Precision Door & Window Solutions does not own or operate any other business. The company focuses exclusively on providing high-quality door and window installation services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Door & Window Solutions does not have any other insurance policies with this company at this time. Only the current policy number WD-2023-001 is listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Precision Door & Window Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. The company focuses exclusively on the sale and installation of doors and windows.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Precision Door & Window Solutions does not rent or loan equipment to others. The company focuses solely on providing professional installation services for doors and windows.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Precision Door & Window Solutions has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The company maintains a stable financial standing and operational integrity.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Precision Door & Window Solutions does not have exposure to flammables, explosives, or chemicals as it focuses on the sale and installation of doors and windows, ensuring all materials used are safe and compliant with industry standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 Precision Door & Window Solutions does not have any catastrophe exposure, as our operations primarily focus on the installation of doors and windows, which involves minimal risk related to large-scale disasters.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Precision Door & Window Solutions has had no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains strict hiring practices and conducts regular training to ensure compliance with all regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Precision Door & Window Solutions has no uncorrected fire code violations. The company is committed to maintaining compliance with all safety regulations and local building codes.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Door & Window Solutions did an amazing job installing our new windows! The team was professional and efficient.",
+          "I highly recommend this company for door installations. They were prompt, and the quality of work exceeded my expectations.",
+          "Great experience from start to finish! The staff was knowledgeable and helped me choose the perfect doors for my home.",
+          "The installation process was smooth, and the team was very friendly. I love my new windows!",
+          "Excellent service! They were attentive to detail and ensured everything was perfect before leaving."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No acceptance of risks with a history of frequent or severe claims related to installation defects."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Door & Window Installation/Sales",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No acceptance of risks with a history of frequent or severe claims related to installation defects."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No acceptance of risks with a history of frequent or severe claims related to installation defects. (visible in application text)",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text reveals a history of two claims related to installation defects, specifically mentioning damage during installation and transportation."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Door & Window Installation/Sales",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No acceptance of risks with a history of frequent or severe claims related to installation defects."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to a history of frequent or severe claims related to installation defects, as indicated by the chosen rejection reason.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No acceptance of risks with a history of frequent or severe claims related to installation defects. (visible in application text)",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text reveals a history of two claims related to installation defects, specifically mentioning damage during installation and transportation."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

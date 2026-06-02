@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Glass & Window Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ClearView Glass Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Clearview Valley Rd, Suite 101, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Safety and Compliance Officer, (555) 123-4567, john.smith@clearviewglass.com",
+      "GL CODE": "GL-0200",
+      "SIC": "1793",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "ClearView Glass Solutions specializes in residential glass installation and repair, offering comprehensive services such as window replacement, glass repair, and related maintenance tasks. Our team is composed of trained professionals committed to providing high-quality workmanship while adhering to strict safety protocols. We operate primarily in environments that ensure our projects are manageable and safe. Our business emphasizes safety through regular training sessions for our employees, and we have implemented documented vehicle maintenance programs to ensure the safe transport of glass panels. We maintain strong relationships with reputable suppliers and ensure thorough vetting of any subcontractors we may engage, always requiring proof of insurance. Our services are designed to meet local building codes and regulatory requirements, cementing our commitment to compliance and customer satisfaction.",
+      "DATE BUSINESS STARTED": "03/15/2020",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "CVGS-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "CVGS-2022-045",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On March 5, 2023, we experienced a minor incident where a glass panel was damaged during transportation due to improper load securing. The cost of the damaged glass amounted to $1,200. The issue has been resolved, and we have since implemented a stricter load securing protocol to prevent future occurrences.",
+      "Combined Single Limit": "$1,000,000/$2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$2,500 deductible",
+      "Medical Expense (per person)": "$5,000/$0 deductible",
+      "Damge to Rental Premises": "$100,000/$1,000 deductible",
+      "Professional Liability": "$1,000,000/$1,000 deductible",
+      "Liquor Liability": "$1,000,000/$2,500 deductible",
+      "Hired Auto": "$1,000,000/$2,500 deductible",
+      "Non-owned Auto": "$1,000,000/$2,500 deductible",
+      "Computers": "$10,000/$500 deductible",
+      "ordinence and law": "$1,000,000/$2,500 deductible",
+      "Flood": "$250,000/$1,000 deductible",
+      "accounts recievable": "$100,000/$1,000 deductible",
+      "employee dishonesty": "$100,000/$1,000 deductible",
+      "money and securities": "$50,000/$1,000 deductible",
+      "ADDRESS": "5678 Clearview Lane, Springfield, IL 62704",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 3:00 PM; Closed on Sunday.",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Class 1, Grade A, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and onsite watchpersons for enhanced protection during glass transportation and installation.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual Cash Value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 ClearView Glass Solutions does not engage in operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. Our focus is primarily on residential glass installation and repair, which does not involve hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ClearView Glass Solutions does not sponsor any athletic teams. Our focus is primarily on residential glass installation and repair services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Our Safety and Compliance Officer, John Smith, is responsible for checking and verifying all certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 ClearView Glass Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our operations prioritize ethical practices and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ClearView Glass Solutions has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. We maintain a strong compliance record and good standing with our previous insurer.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ClearView Glass Solutions does not lease employees to or from other employers. We directly hire our team members to ensure quality control and maintain our safety standards.",
+      "G7: Any Workers Compensation carried?": "No \u2013 ClearView Glass Solutions does not currently have a workers' compensation policy in place, as we are exempt under the applicable regulations due to the nature of our operations. We ensure compliance through adequate safety training and adherence to safety protocols.",
+      "G8: Do you own or operate any other business?": "No \u2013 ClearView Glass Solutions does not own or operate any other business. Our focus is solely on residential glass installation and repair services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ClearView Glass Solutions does not have any other insurance with this company at this time. Our focus remains on the current policy and operations in residential glass installation and repair.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ClearView Glass Solutions does not engage in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on residential glass installation and repair services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ClearView Glass Solutions does not rent or loan equipment to others. Our operations focus solely on residential glass installation and repair without engaging in equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ClearView Glass Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ClearView Glass Solutions does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on residential glass installation and repair, which does not involve such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 ClearView Glass Solutions does not have any catastrophe exposure as we primarily focus on residential glass installation and repair in low-rise environments, which limits our risk factors associated with catastrophic events. Additionally, our safety protocols and operational practices ensure that we minimize potential hazards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ClearView Glass Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations emphasize ethical practices and compliance with all regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ClearView Glass Solutions does not have any uncorrected fire code violations. We maintain compliance with all applicable fire codes and regulations to ensure the safety of our operations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 25,
+        "average_rating": 4.6,
+        "reviews": [
+          "I was so impressed with how quickly the team handled the high-rise glazing project at my office! Their attention to detail and professionalism made the entire process smooth and stress-free. Highly recommended!",
+          "I had a great experience with ClearView. They were prompt, and the quality of their work exceeded my expectations.",
+          "Highly recommend ClearView for any glass repair needs! They were friendly and completed the job quickly.",
+          "The service from ClearView was top-notch. They took the time to explain the process and answered all my questions.",
+          "I was impressed with the attention to detail during my window installation. ClearView truly cares about their customers."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No coverage for businesses primarily engaged in large-scale construction or high-rise glazing projects."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for businesses primarily engaged in large-scale construction or high-rise glazing projects."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Glass & Window Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses primarily engaged in large-scale construction or high-rise glazing projects."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses primarily engaged in large-scale construction or high-rise glazing projects. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review mentioning a 'high-rise glazing project,' which indicates engagement in prohibited large-scale construction activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Glass & Window Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses primarily engaged in large-scale construction or high-rise glazing projects."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: No coverage for businesses primarily engaged in large-scale construction or high-rise glazing projects.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses primarily engaged in large-scale construction or high-rise glazing projects. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review mentioning a 'high-rise glazing project,' which indicates engagement in prohibited large-scale construction activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

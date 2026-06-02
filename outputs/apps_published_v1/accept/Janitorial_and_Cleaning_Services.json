@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Janitorial & Cleaning Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "CleanSweep Janitorial Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 200, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, CleanSweep Janitorial Services, (555) 123-4567",
+      "GL CODE": "99999",
+      "SIC": "7349",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At CleanSweep Janitorial Services, we specialize in providing comprehensive cleaning solutions for commercial spaces, including office buildings, retail environments, and educational facilities. Our operations are centered around routine cleaning services conducted during standard business hours, ensuring minimal disruption to our clients' daily activities. \n\nOur team consists of trained professionals who undergo background checks, which reduces the risk of theft and dishonesty. We prioritize safety through documented employee training on the use of cleaning chemicals, adhering to established protocols for chemical handling, storage, and disposal to comply with environmental standards.\n\nAdditionally, we maintain a fleet of vehicles for transporting staff and equipment, fully insured under our commercial auto policy, with proper documentation of driver qualifications. We invest in regular vehicle maintenance and safety programs, further ensuring the reliability of our operations. Our commitment to risk management is reflected in our periodic assessments and updates to safety procedures to foster a secure working environment for both our employees and clients.\n\nCompliance Confirmation: The business does not handle or dispose of hazardous or industrial waste and confirms that all employees with unsupervised access to client premises have undergone documented background checks. Additionally, commercial auto coverage is maintained for all vehicles used for staff or equipment transport, and pollution liability coverage is strictly limited to incidents directly related to the cleaning agents utilized in our operations.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "CSJS-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Friendly Insurance Company",
+      "POLICY NUMBER": "CSJS-2022-123",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss Date: 06/15/2022; Cause: Minor slip and fall incident during routine cleaning at client\u2019s office; Amount: $1,200.00; Status: Closed.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Bodily Injury & Prop Damage Aggregate with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $500 deductible.",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $2,500 deductible",
+      "Flood": "$250,000 limit with a $1,000 deductible",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Elm Street, Suite 300, Springfield, IL 62701-5678",
+      "Year Built": "2015",
+      "Square Feet": "15000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial Grade Safe, UL Listed, Class B",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "\"Security fencing around the premises and regular monitoring by security personnel during off-hours.\"",
+      "Building limit": "$984150",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 CleanSweep Janitorial Services does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials, as our operations are focused on routine cleaning of commercial spaces with no involvement in hazardous waste management.",
+      "G2: Are athletic teams sponsored?": "No \u2013 CleanSweep Janitorial Services does not sponsor athletic teams. Our focus is primarily on providing cleaning services for commercial spaces.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. CleanSweep Janitorial Services verifies these certificates to ensure compliance and manage risk exposure.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 CleanSweep Janitorial Services has not had any applicant indicted or convicted of fraud, bribery, arson, or any related crimes in connection with this or any other property. We prioritize integrity and compliance in our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 CleanSweep Janitorial Services has not had any policies or coverage declined, canceled, or non-renewed in the past three years. All previous coverage has been maintained without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 CleanSweep Janitorial Services does not lease employees to or from other employers; we hire and manage our own trained staff for all cleaning operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 CleanSweep Janitorial Services carries Workers\u2019 Compensation insurance to ensure compliance with legal requirements and to protect our employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 CleanSweep Janitorial Services does not own or operate any other business. Our focus is solely on providing comprehensive cleaning solutions for commercial spaces.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 CleanSweep Janitorial Services does not have any additional insurance policies with this company at this time. All coverage is currently under our active policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 CleanSweep Janitorial Services does not engage in manufacturing, mixing, relabeling, or repackaging of products; our operations are strictly focused on providing routine cleaning services for commercial spaces.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 CleanSweep Janitorial Services does not rent or loan equipment to others, as we focus solely on providing our cleaning services using our own equipment.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 CleanSweep Janitorial Services has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, reflecting a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 CleanSweep Janitorial Services does not have any exposure to flammables, explosives, or chemicals as our operations focus on routine cleaning using safe, commonly used cleaning agents. We adhere to strict protocols for chemical handling and storage to ensure safety and compliance.",
+      "G14: Any catastrophe exposure?": "No \u2013 CleanSweep Janitorial Services does not have any catastrophe exposure, as our operations are focused on routine cleaning in commercial spaces without involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 CleanSweep Janitorial Services has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our focus on thorough background checks and training for all employees helps mitigate such risks.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 CleanSweep Janitorial Services has no uncorrected fire code violations. We maintain compliance with all relevant fire safety regulations to ensure a safe environment for our clients and employees.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "CleanSweep Janitorial Services did an amazing job on our office! The team was professional and thorough.",
+          "I appreciate the attention to detail that CleanSweep provides. Our workspace has never looked better!",
+          "Reliable and efficient service. They always arrive on time and leave everything spotless.",
+          "The staff at CleanSweep are friendly and hardworking. Highly recommend for any commercial cleaning needs!",
+          "Great experience with CleanSweep! They follow all safety protocols and make sure everything is sanitized."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No coverage for businesses handling or disposing of hazardous or industrial waste.",
+        "Require documented background checks for all employees with unsupervised access to client premises.",
+        "Commercial auto coverage is mandatory for any business operating vehicles for staff or equipment transport.",
+        "Limit pollution liability coverage to incidents directly related to cleaning agents used during operations."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Janitorial & Cleaning Services",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Janitorial & Cleaning Services",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for CleanSweep Janitorial Services is valid and meets the necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

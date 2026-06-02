@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Fabric & Sewing Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Stitch & Fabric Haven",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Fabric Lane, Sewing City, NY 12345-6789",
+      "CONTACT FOR INSPECTION": "Contacting the store manager, Lisa Thompson, for inspection inquiries at (555) 123-4567.",
+      "GL CODE": "REJECTED",
+      "SIC": "Retail Fabric and Sewing Supplies store:  5949",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Stitch & Fabric Haven, we specialize in providing a wide range of high-quality fabrics, sewing supplies, and related notions to our community of crafting enthusiasts. Our core operations include the retail sale of fabrics, sewing machines, threads, patterns, and other accessories required for sewing and quilting projects. We also offer sewing classes and workshops to engage our customers and enhance their crafting skills, all while ensuring that all instructors are required to carry their own insurance to mitigate liability exposure. We comply with all local safety regulations and have implemented comprehensive fire safety measures, including the installation of fire extinguishers and clearly marked evacuation routes, to ensure a safe shopping environment for our customers. As a passionate team dedicated to crafting, we strive to create a welcoming atmosphere for individuals of all skill levels, helping them bring their creative visions to life.\n\nOur store specializes in selling a wide range of sewing fabrics, including cotton, silk, and several synthetic materials, all of which are stored in bulk to meet customer demand. We also offer a variety of sewing supplies like threads and notions, which may include flammable components.",
+      "DATE BUSINESS STARTED": "06/15/2018",
+      "EFFECTIVE DATE": "11/01/2023",
+      "EXPIRATION DATE": "11/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "STITCH-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Fabric Insurers, Inc.",
+      "POLICY NUMBER": "NA-03",
+      "TOTAL LOSSES": "$4,500",
+      "DESCRIPTION OF LOSSES": "Fire damage on 09/15/2023 due to a faulty electrical circuit in the sewing machine area, resulting in a loss of $4,500. Claim status: Under review.",
+      "Combined Single Limit": "REJECTED",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "reject",
+      "Liquor Liability": "reject",
+      "Hired Auto": "$1,000,000 / $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 / $2,500 deductible",
+      "Computers": "Coverage may be limited for computer equipment due to the high fire risk associated with significant quantities of flammable materials in the store, unless adequate fire suppression systems are in place.",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "Coverage may be limited for flood due to the potential risk of significant damage to flammable materials unless adequate fire suppression systems are in place.",
+      "accounts recievable": "Coverage may be limited due to the presence of flammable materials unless adequate fire suppression systems are in place.",
+      "employee dishonesty": "Coverage may be limited for employee dishonesty due to the presence of flammable materials in the store, unless adequate fire suppression systems are in place.",
+      "money and securities": "Coverage may be limited for money and securities due to the presence of flammable materials unless adequate fire suppression systems are in place.",
+      "ADDRESS": "456 Craft Avenue, Sewing City, NY 12345-6789",
+      "Year Built": "2000",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "reject",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$200000",
+      "TOTAL PAYROLL": "350000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class: C, Grade: 1, Fire Suppression: Adequate fire extinguishers and clearly marked evacuation routes installed.",
+      "MONEY ON PREMISES": "$500.00",
+      "OTHER PROTECTION": "Coverage may be limited for security services due to the presence of flammable materials unless adequate fire suppression systems are in place.",
+      "Building limit": "$750000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Coverage may be limited for personal property due to the presence of flammable materials unless adequate fire suppression systems are in place.",
+      "personal property limit": "25000",
+      "personal property % Coinsurance": "50",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Stitch & Fabric Haven does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of their operations. They focus primarily on retail sales of fabrics and sewing supplies while complying with relevant safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Stitch & Fabric Haven does not sponsor athletic teams as their primary focus is on providing fabric and sewing supplies to the community. Their operations emphasize crafting and sewing education rather than team sponsorship.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are checked to ensure that all subcontractors, including class instructors, carry their own insurance to mitigate liability exposure.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Stitch & Fabric Haven has not had any applicants indicted or convicted of fraud, bribery, arson, or related crimes in connection with this or any other property. The business is committed to maintaining a safe and compliant operational environment.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Stitch & Fabric Haven has not had any policies or coverage declined, canceled, or non-renewed in the past three years. The business maintains compliance with safety regulations and has implemented fire safety measures.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Stitch & Fabric Haven does not lease employees to or from other employers. Their operations focus solely on the retail sale of fabric and sewing supplies, along with offering sewing classes.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Coverage may be restricted for stores with significant quantities of flammable materials unless adequate fire suppression systems are in place. Ensure safety measures are implemented to protect against fire risks in the store.",
+      "G8: Do you own or operate any other business?": "No \u2013 Stitch & Fabric Haven does not operate any other businesses. Their focus is solely on the retail sale of fabric and sewing supplies, along with offering related classes.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Stitch & Fabric Haven does not currently have any other insurance policies with the company. They are committed to mitigating risks associated with their operations by maintaining appropriate coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Stitch & Fabric Haven is not involved in manufacturing, mixing, relabeling, or repackaging of products; they focus solely on retail sales of fabric and sewing supplies.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Stitch & Fabric Haven does not rent or loan equipment to others, as this could expose the business to additional liability risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Stitch & Fabric Haven has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business is committed to maintaining financial stability and compliance with all relevant regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Stitch & Fabric Haven does not have significant exposure to flammables, explosives, or chemicals as their primary operations focus on retailing fabric and sewing supplies. However, coverage may be restricted due to the presence of flammable materials unless adequate fire suppression systems are in place.",
+      "G14: Any catastrophe exposure?": "No \u2013 Coverage may be restricted for stores with significant quantities of flammable materials unless adequate fire suppression systems are in place.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Stitch & Fabric Haven has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to compliance and safety in its operations.",
+      "G16: Any uncorrected fire code violations?": "Yes \u2013 Stitch & Fabric Haven currently has uncorrected fire code violations that need to be addressed to ensure compliance with safety regulations. The business is committed to resolving these issues promptly.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 4500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Stitch & Fabric Haven has an amazing selection of fabrics! The staff is always helpful and knowledgeable.",
+          "I love taking sewing classes here! The instructors are fantastic and really help you improve your skills.",
+          "Great place for all your sewing needs! They have everything from fabrics to patterns, and the prices are reasonable.",
+          "The atmosphere is so welcoming, and I always find unique fabrics that inspire my projects.",
+          "I appreciate the variety of sewing supplies available. It's my go-to store for all my crafting needs!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Coverage may be restricted for stores with significant quantities of flammable materials unless adequate fire suppression systems are in place."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Fabric & Sewing Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage may be restricted for stores with significant quantities of flammable materials unless adequate fire suppression systems are in place."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Coverage may be restricted for stores with significant quantities of flammable materials unless adequate fire suppression systems are in place.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text mentions that the store sells a variety of sewing supplies, including flammable components, and notes that coverage may be limited due to the presence of flammable materials unless adequate fire suppression systems are in place."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Fabric & Sewing Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage may be restricted for stores with significant quantities of flammable materials unless adequate fire suppression systems are in place."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the presence of uncorrected fire code violations, which is a clear violation of the underwriting guidelines. Additionally, the application indicates that coverage may be restricted for stores with significant quantities of flammable materials unless adequate fire suppression systems are in place, which is also a concern. Therefore, the chosen reject reason is valid and supported by the application details.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Coverage may be restricted for stores with significant quantities of flammable materials unless adequate fire suppression systems are in place.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text mentions that the store sells a variety of sewing supplies, including flammable components, and notes that coverage may be limited due to the presence of flammable materials unless adequate fire suppression systems are in place."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

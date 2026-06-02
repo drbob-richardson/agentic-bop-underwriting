@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Art Galleries & Art Supply Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Artisan Gallery and Supply",
+      "FEIN OR SOC SEC #": "\"\"",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "123 Art Avenue, Suite 456, Art City, CA 90001-2345",
+      "CONTACT FOR INSPECTION": "John Smith, Gallery Director",
+      "GL CODE": "GQ-03",
+      "SIC": "8999",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Artisan Gallery and Supply, we are dedicated to providing a diverse selection of fine art and quality art supplies, focusing on both local and emerging artists. Our core operations include the curation of professionally appraised artworks, ensuring that our inventory reflects accurate valuation for our clientele and insurance purposes. We host regular exhibitions and community events that foster appreciation for the arts in our area. Additionally, our art supply store is committed to the safety and satisfaction of our customers, implementing comprehensive inventory management and regular documentation reviews. We maintain stringent compliance with all local, state, and federal regulations while actively practicing loss prevention to protect our valuable inventory and enhance the overall customer experience. Robust security measures are in place to safeguard high-value artworks, and our staff undergoes regular training in safety protocols and customer relations.\n\nOur art gallery curates a diverse selection of unique pieces and regularly updates our stock based on customer interest and trends, but we do not conduct formal appraisals of our inventory.",
+      "DATE BUSINESS STARTED": "04/15/2020",
+      "EFFECTIVE DATE": "11/01/2023",
+      "EXPIRATION DATE": "11/01/2024",
+      "NEW/RENEWAL": "RENEWAL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "POLICY-2023-ART123",
+      "OTHER BUSINESSES OWNED": "Artisan Gallery and Supply does not own or operate any other business locations.",
+      "PREVIOUS CARRIER": "ArtSafe Insurance Group",
+      "POLICY NUMBER": "POLICY-2023-ART456",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "Artisan Gallery and Supply has experienced no reported losses since the business was established. The inventory is maintained with annual appraisals; however, there was a minor incident in February 2023 involving water damage during a heavy storm, which resulted in approximately $2,000 in losses due to damaged supplies. This claim was promptly addressed and resolved. The overall status is clear with no pending claims.",
+      "Combined Single Limit": "\"$1,000,000 / $10,000\"",
+      "Bodily Injury & Prop Damage Occurrrence": "\"$1,000,000 / $10,000\"",
+      "Bodily Injury & Prop Damage Aggregate": "\"$2,000,000 / $10,000\"",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "\"$0 / $1,000\"",
+      "Professional Liability": "\"$1,000,000 / $5,000\"",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "reject",
+      "ordinence and law": "reject",
+      "Flood": "\"$500,000 / $10,000\"",
+      "accounts recievable": "\"\"",
+      "employee dishonesty": "\"$100,000 / $1,000\"",
+      "money and securities": "\"$100,000 / $1,000\"",
+      "ADDRESS": "123 Artistic Way, Suite 789, Art City, CA 90001-2345",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "Reject",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "\"reject\"",
+      "NO. OF EMPLOYEES": "reject",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B, Grade II, Insured for $500,000",
+      "MONEY ON PREMISES": "reject",
+      "OTHER PROTECTION": "Enhanced security measures, including motion detectors and surveillance cameras, are installed to safeguard high-value inventory and mitigate theft risks.",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "Reject",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Artisan Gallery and Supply does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is solely on art-related services and supplies.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Artisan Gallery and Supply does not sponsor athletic teams, as its focus is solely on promoting the arts and supporting local and emerging artists through art exhibitions and quality art supplies.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Artisan Gallery and Supply verifies these certificates to ensure compliance and mitigate risks.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Artisan Gallery and Supply has not been indicted or convicted of any degree of fraud, bribery, arson, or related crimes in connection with this or any other property. The business maintains a strong reputation and adheres to all regulatory standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Artisan Gallery and Supply has not experienced any policy or coverage declines, cancellations, or non-renewals in the past three years. The business maintains compliance with its insurance requirements and operates without any pending claims.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Artisan Gallery and Supply does not lease employees to or from other employers, focusing solely on its dedicated staff for operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Artisan Gallery and Supply does not currently carry Workers' Compensation insurance, which is necessary to comply with legal requirements for businesses with employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 Artisan Gallery and Supply does not own or operate any other business locations. The focus remains solely on providing art-related services and supplies.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Artisan Gallery and Supply does not have any other insurance policies with the company at this time. The focus remains on maintaining the current coverage effectively.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Artisan Gallery and Supply is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our focus is solely on curating and selling professionally appraised artworks and providing quality art supplies. We adhere to the guideline of maintaining professionally appraised inventories updated at least annually.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Artisan Gallery and Supply does not rent or loan equipment to others, as maintaining a professionally appraised inventory is essential for accurate valuation and compliance with insurance requirements.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Artisan Gallery and Supply has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a strong financial standing and has experienced no reported losses since its establishment.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Artisan Gallery and Supply does not have any exposure to flammables, explosives, or chemicals in its operations, focusing solely on art-related services and supplies. The business maintains compliance with all safety protocols to ensure a secure environment for staff and customers.",
+      "G14: Any catastrophe exposure?": "No \u2013 Artisan Gallery and Supply adheres to the guideline of maintaining professionally appraised inventories, updated at least annually, ensuring accurate valuation for insurance and risk assessment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Artisan Gallery and Supply has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to compliance and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Artisan Gallery and Supply does not have any uncorrected fire code violations. Compliance with fire safety regulations is a priority to ensure the safety of both our inventory and customers.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Artisan Gallery and Supply has a fantastic selection of art supplies and a welcoming atmosphere. The staff is always ready to help with recommendations!",
+          "I love visiting this gallery! The exhibitions are well-curated, showcasing both local and emerging artists. A true gem in the community.",
+          "The art supply section is well-stocked and organized. I found everything I needed for my latest project, and the prices are reasonable.",
+          "Attended a workshop here and it was a wonderful experience! The instructors were knowledgeable and the environment was inspiring.",
+          "A beautiful space with a great variety of artworks. I appreciate their commitment to supporting local artists and hosting community events."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Art galleries must maintain professionally appraised inventories, updated at least annually."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Art Galleries & Art Supply Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Art galleries must maintain professionally appraised inventories, updated at least annually."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Art galleries must maintain professionally appraised inventories, updated at least annually.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business does not conduct formal appraisals of its inventory, which violates the guideline requiring professionally appraised inventories."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Art Galleries & Art Supply Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Art galleries must maintain professionally appraised inventories, updated at least annually."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the violation of the rule that states art galleries must maintain professionally appraised inventories, updated at least annually. This is clearly stated in the chosen reject reason. Additionally, there are no other violations present in the application.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Art galleries must maintain professionally appraised inventories, updated at least annually.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business does not conduct formal appraisals of its inventory, which violates the guideline requiring professionally appraised inventories."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

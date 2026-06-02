@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Fruit & Vegetable Markets",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Fresh Picks Market",
+      "FEIN OR SOC SEC #": "",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Orchard Lane, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Inspection inquiries may be directed to the Market Manager, Sarah Thompson, at (555) 123-4567.",
+      "GL CODE": "GL CODE for Food Retail Operations with Safety Compliance",
+      "SIC": "4533",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Fresh Picks Market, we specialize in providing a diverse selection of fresh fruits and vegetables sourced from local farms and suppliers with rigorous food safety certifications. Our operations emphasize quality, with a focus on maintaining optimal temperature and humidity controls for all perishable inventory to prevent spoilage. We conduct regular supplier audits to ensure compliance with food safety regulations, and all staff undergo documented training in food handling practices to mitigate the risk of foodborne illness. Our market is committed to adhering to local health department regulations and maintaining current certifications, assuring our customers of the highest food safety standards.\n\nOur market regularly conducts quality control checks and sells produce that may have previously received alerts regarding food safety standards, ensuring our customers get a variety of fresh options.",
+      "DATE BUSINESS STARTED": "03/15/2022",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "N/A",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Fresh Harvest Insurance",
+      "POLICY NUMBER": "N/A",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "Loss dates: 01/15/2023; cause: spoilage due to refrigeration failure; amount: $1,500; status: resolved.",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "{\"Limit\":\"$1,000,000\",\"Deductible\":\"$1,000\"}",
+      "Bodily Injury & Prop Damage Aggregate": "{\"Limit\":\"$1,000,000\",\"Deductible\":\"$1,000\"}",
+      "Medical Expense (per person)": "0.00",
+      "Damge to Rental Premises": "{\"Limit\":\"$0\",\"Deductible\":\"$0\"}",
+      "Professional Liability": "{\"Limit\":\"$500,000\",\"Deductible\":\"$5,000\"}",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "\"\"",
+      "Non-owned Auto": "{\"Limit\":\"$500,000\",\"Deductible\":\"$1,000\"}",
+      "Computers": "\"\"",
+      "ordinence and law": "{\"Limit\":\"$0\",\"Deductible\":\"$0\"}",
+      "Flood": "{\"Limit\":\"$0\",\"Deductible\":\"$0\"}",
+      "accounts recievable": "\"\"",
+      "employee dishonesty": "{\"Limit\":\"$100,000\",\"Deductible\":\"$5,000\"}",
+      "money and securities": "{\"Limit\":\"$0\",\"Deductible\":\"$0\"}",
+      "ADDRESS": "456 Orchard Ave, Springfield, IL 62701-1234",
+      "Year Built": "2020",
+      "Square Feet": "0.0",
+      "HOURS OF OPERATION": "Reject",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$0",
+      "TOTAL PAYROLL": "0.00",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Coverage is restricted for markets with unresolved or repeated food safety violations.\"",
+      "MONEY ON PREMISES": "\"\"",
+      "OTHER PROTECTION": "Coverage is restricted for markets with unresolved or repeated food safety violations.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "",
+      "personal property valuation type": "Coverage is restricted for markets with unresolved or repeated food safety violations.",
+      "personal property limit": "Coverage is restricted for markets with unresolved or repeated food safety violations.",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Fresh Picks Market does not engage in activities involving hazardous materials such as storing, treating, discharging, applying, disposing, or transporting. Their operations focus solely on the retail of fresh fruits and vegetables sourced from suppliers with food safety certifications.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Fresh Picks Market does not sponsor athletic teams. The focus of the market is on retailing fresh produce and maintaining food safety standards.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this ensures risk transfer and compliance. The certificates are typically checked by the market management or designated personnel responsible for oversight.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Fresh Picks Market has not been indicted or convicted of any degree of fraud, bribery, arson, or any other related crimes in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Fresh Picks Market has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. They maintain compliance with food safety standards and regulations, which supports their insurance eligibility.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Fresh Picks Market does not lease employees to or from other employers. The operations are managed internally without outsourcing staffing.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Coverage is restricted for markets with unresolved or repeated food safety violations, which impacts eligibility for workers' compensation insurance.",
+      "G8: Do you own or operate any other business?": "No \u2013 Fresh Picks Market does not own or operate any other business. All operations are focused solely on retailing fresh fruits and vegetables.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Fresh Picks Market does not have any other insurance policies with this company. The market maintains a focus on compliance with food safety standards and eligibility requirements.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Fresh Picks Market is not involved in manufacturing, mixing, relabeling, or repackaging of products. Their operations focus solely on the retail of fresh fruits and vegetables.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Fresh Picks Market does not rent or loan equipment to others, and coverage is restricted for markets with unresolved or repeated food safety violations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Fresh Picks Market has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The market maintains strong financial practices and compliance.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Fresh Picks Market does not have any exposure to flammables, explosives, or chemicals. Their operations focus exclusively on the retail of fresh fruits and vegetables without engaging in such activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Fresh Picks Market does not have any catastrophe exposure that would affect coverage eligibility. The focus of the market is solely on the retail of fresh fruits and vegetables, with no operations involved in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Fresh Picks Market has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Their operations focus on compliance and safety standards in food handling and customer interactions.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Fresh Picks Market does not have any uncorrected fire code violations; however, coverage is restricted due to ongoing issues with food safety compliance.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Fresh Picks Market has the best selection of organic fruits and vegetables in town! Always fresh and flavorful.",
+          "I love shopping here! The staff is friendly and knowledgeable, and the produce is top-notch.",
+          "Great prices and a wide variety of local produce. I appreciate their commitment to quality!",
+          "The market is always clean and well-organized. I can find everything I need for my meals.",
+          "I highly recommend Fresh Picks Market for anyone looking for fresh, healthy options. Their seasonal fruits are amazing!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Coverage is restricted for markets with unresolved or repeated food safety violations."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Fruit & Vegetable Markets",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is restricted for markets with unresolved or repeated food safety violations."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Intended to violate a guideline but the violation is not visible in the application or third-party data after generation.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text emphasizes compliance with food safety standards and does not mention any unresolved or repeated violations, while the third-party data shows positive reviews without any indication of food safety issues."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Fruit & Vegetable Markets",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is restricted for markets with unresolved or repeated food safety violations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to unresolved or repeated food safety violations as per SPEC-1. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Intended to violate a guideline but the violation is not visible in the application or third-party data after generation.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text emphasizes compliance with food safety standards and does not mention any unresolved or repeated violations, while the third-party data shows positive reviews without any indication of food safety issues."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Interior Decorating & Design",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Elegant Spaces Interior Design",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "Reject",
+      "MAILING ADDRESS": "1234 Design Ave, Suite 101, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "N/A",
+      "GL CODE": "Reject",
+      "SIC": "7389",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Elegant Spaces Interior Design, we specialize in creating personalized, stylish, and functional interior environments for residential clients. Our core operations include design consultation, space planning, color selection, and furnishing recommendations, all tailored to meet the unique needs and preferences of our clients. We focus on non-structural design elements, ensuring that our services do not involve general construction or structural remodeling, which helps to mitigate liability. Our team employs industry-standard design software to visualize concepts and facilitate decision-making for our clients, while maintaining a secure digital storage system to protect sensitive client information. We are committed to providing exceptional customer service, clear communication, and comprehensive project documentation, including formal contracts and detailed change orders, to ensure accountability and satisfaction throughout the design process.\n\nOur team specializes in creating beautiful interior spaces, often involving structural remodeling, including demolition and load-bearing modifications, to achieve the perfect design for our clients.",
+      "DATE BUSINESS STARTED": "01/15/2021",
+      "EFFECTIVE DATE": "02/01/2021",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"$0\"",
+      "POLICY #": "REJECTED-001",
+      "OTHER BUSINESSES OWNED": "\"Interior design consultancy specializing in residential projects that maintain a clear separation from construction activities.\"",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "REJECTED-DUE-TO-SPEC-1",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No past losses or claims related to operations, as our business strictly adheres to design consultation without engaging in general construction, structural remodeling, or hazardous materials handling.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $2,500 deductible.",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $2,500 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 Aggregate with a $2,500 deductible.",
+      "Medical Expense (per person)": "$0",
+      "Damge to Rental Premises": "$0",
+      "Professional Liability": "$1,000,000 limit with a $5,000 deductible.",
+      "Liquor Liability": "\"$0\"",
+      "Hired Auto": "$0 Hired Auto limit with no deductible due to the firm's strict adherence to design consultation without engaging in transportation or use of hired vehicles for construction-related purposes.",
+      "Non-owned Auto": "\"$0 with no deductible due to the firm's strict adherence to design consultation without engaging in transportation or use of vehicles for construction-related purposes.\"",
+      "Computers": "\"$0 limit with a $2,500 deductible due to the firm's strict adherence to non-hazardous design consultation without engaging in any operations that require specialized computer coverage.\"",
+      "ordinence and law": "\"Not applicable due to no engagement in general construction or structural remodeling.\"",
+      "Flood": "\"$0 limit with a $10,000 deductible due to the firm's strict adherence to non-structural design operations and no engagement in any activities that increase flood risk.\"",
+      "accounts recievable": "\"$0 with a $0 deductible due to the firm's strict adherence to non-hazardous design consultation and absence of accounts receivable risks.\"",
+      "employee dishonesty": "\"$100,000 limit with a $5,000 deductible.\"",
+      "money and securities": "\"$100,000 limit with a $2,500 deductible.\"",
+      "ADDRESS": "1234 Design Ave, Suite 101, Springfield, IL 62704-1234",
+      "Year Built": "2020",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "9:00 AM - 5:00 PM, Monday - Friday",
+      "Distance to hydrant": "-1 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "REJECTED DUE TO SPEC-1",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "\"REJECTED DUE TO SPEC-1\"",
+      "NO. OF EMPLOYEES": "1",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Non-structural vault class; grade 1, compliant label\"",
+      "MONEY ON PREMISES": "\"$0\"",
+      "OTHER PROTECTION": "None",
+      "Building limit": "$-1",
+      "building % Coinsurance": "0%",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$0",
+      "personal property % Coinsurance": "0%",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Elegant Spaces Interior Design does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations strictly focus on non-structural design services, ensuring compliance with safety and environmental regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Elegant Spaces Interior Design does not sponsor athletic teams as our focus is solely on providing interior design services for residential clients. We prioritize design consultation and project management without engaging in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this is essential for risk management. It is the responsibility of our team to check and verify these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Elegant Spaces Interior Design has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our operations strictly adhere to ethical practices and focus on non-structural interior design services.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Elegant Spaces Interior Design has maintained a clean insurance record with no policy or coverage declined, canceled, or non-renewed in the prior 3 years. Our operations are strictly within the parameters of non-structural interior design, minimizing any potential risks.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Elegant Spaces Interior Design does not lease employees to or from other employers, as our operations are strictly focused on non-structural interior design services. We maintain a small team dedicated to providing personalized design consultation.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Elegant Spaces Interior Design does not carry Workers' Compensation as we do not engage in general construction or activities that require such coverage, focusing solely on non-structural design services.",
+      "G8: Do you own or operate any other business?": "No \u2013 Elegant Spaces Interior Design does not own or operate any other business, as our focus remains solely on providing interior design services that do not involve general construction or structural remodeling.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Elegant Spaces Interior Design does not have any other insurance policies with this company, as our operations are strictly limited to non-structural design services without engaging in general construction or related activities.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Elegant Spaces Interior Design does not engage in manufacturing, mixing, relabeling, or repackaging of products, as our focus remains strictly on non-structural interior design services for residential clients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Elegant Spaces Interior Design does not rent or loan equipment to others, as our focus is strictly on providing non-structural interior design services without engaging in activities that would expose us to additional liability.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Elegant Spaces Interior Design has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business has maintained a stable financial position in alignment with its operations focused solely on non-structural design services.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Elegant Spaces Interior Design does not have any exposure to flammables, explosives, or chemicals, as our operations are strictly focused on non-structural design services. We maintain a commitment to safety and regulatory compliance in all aspects of our work.",
+      "G14: Any catastrophe exposure?": "No \u2013 Elegant Spaces Interior Design does not engage in any activities that would expose the business to catastrophe risks, as our operations focus strictly on non-structural interior design services without any involvement in general construction or hazardous materials.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Elegant Spaces Interior Design has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, as our business strictly adheres to ethical practices and focuses solely on interior design services without construction involvement.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Elegant Spaces Interior Design does not have any uncorrected fire code violations, as our operations strictly focus on non-structural design services that do not involve general construction activities.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 42,
+        "average_rating": 4.5,
+        "reviews": [
+          "Elegant Spaces transformed my living room into a cozy haven! Their attention to detail is unmatched.",
+          "I loved working with the team at Elegant Spaces. They listened to my ideas and brought them to life beautifully.",
+          "The design consultation was thorough and insightful. I felt supported throughout the entire process.",
+          "Their use of color and texture really elevated my home. I can't recommend them enough!",
+          "Professional, creative, and attentive to my needs. Elegant Spaces made my dream home a reality!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No engagement in general construction or structural remodeling, including demolition or load-bearing modifications."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Interior Decorating & Design",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No engagement in general construction or structural remodeling, including demolition or load-bearing modifications."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No engagement in general construction or structural remodeling, including demolition or load-bearing modifications.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business specializes in 'structural remodeling, including demolition and load-bearing modifications,' which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Interior Decorating & Design",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No engagement in general construction or structural remodeling, including demolition or load-bearing modifications."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: No engagement in general construction or structural remodeling, including demolition or load-bearing modifications. The description of operations indicates involvement in structural remodeling, which is a clear violation of the specified restrictions.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No engagement in general construction or structural remodeling, including demolition or load-bearing modifications.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business specializes in 'structural remodeling, including demolition and load-bearing modifications,' which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

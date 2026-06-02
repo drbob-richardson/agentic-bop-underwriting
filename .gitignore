@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Notebook
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local secrets
+.env
+
+# Local re-evaluation outputs (the published eval/ subdirectory IS tracked)
+# Re-runs should go to a separate output directory if not intended for publication.

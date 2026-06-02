@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Convenience Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Quick Stop Convenience",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Elm Street, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, Phone: (555) 123-4567, Email: john.smith@quickstopconvenience.com",
+      "GL CODE": "12345",
+      "SIC": "5411",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Quick Stop Convenience operates a retail convenience store located in a suburban area, primarily focused on providing essential grocery items including canned goods, dairy products, prepackaged meats, and shelf-stable items. Our store measures under 3,000 square feet, allowing us to maintain a streamlined inventory and efficient operations. We pride ourselves on creating a safe and inviting shopping environment for our customers, which is achieved through strong physical security measures such as alarm systems and surveillance cameras covering all areas of the store.  \n\nThe store is open during selected hours, closing by 10 PM to minimize risks associated with late-night operations. We have implemented documented cash handling procedures to reduce risks of theft and ensure all our employees undergo regular training in those protocols. Additionally, we prioritize cleanliness and organization in our store, following rigorous housekeeping practices to maintain a safe environment for our customers.\n\nWhile we do offer some limited food options, extensive cooking or food preparation is not part of our operations, complying with safety guidelines and regulations. Furthermore, we have a clear emergency response plan in place, which is regularly discussed with staff to enhance preparedness for any incidents. Our commitment to following local, state, and federal regulations ensures the highest standards of health and safety are upheld at all times.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,750.00",
+      "POLICY #": "QSC-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "QSC-2022-002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Loss Date: 02/15/2023; Cause: Theft of inventory during a late-night shift; Amount: $3,000; Status: Paid.  \nLoss Date: 06/10/2023; Cause: Water damage due to a burst pipe; Amount: $2,000; Status: Pending.",
+      "Combined Single Limit": "$1,000,000 combined single limit with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate limit with a $2,500 deductible.",
+      "Medical Expense (per person)": "$5,000 limit with a $500 deductible.",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible.",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible.",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible.",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible.",
+      "Computers": "$50,000 limit with a $1,000 deductible.",
+      "ordinence and law": "$500,000 limit with a $1,000 deductible.",
+      "Flood": "$250,000 limit with a $2,500 deductible.",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible.",
+      "employee dishonesty": "$150,000 limit with a $1,000 deductible.",
+      "money and securities": "$25,000 limit with a $500 deductible.",
+      "ADDRESS": "5678 Maple Avenue, Springfield, IL 62704",
+      "Year Built": "2018",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "9:00 AM - 10:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial Grade 1 Safe with UL-listed burglary protection, equipped with a digital keypad and time-lock feature, capable of securing cash and important documents.",
+      "MONEY ON PREMISES": "$3,000",
+      "OTHER PROTECTION": "Central station alarm system with security monitoring and regular inspections.",
+      "Building limit": "$250000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Quick Stop Convenience does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations, adhering to safety guidelines and regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Quick Stop Convenience does not sponsor athletic teams as part of its operations or marketing strategy.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the business owner or a designated representative to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Quick Stop Convenience has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Quick Stop Convenience has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. Our insurance history remains clear and compliant.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Quick Stop Convenience does not lease employees to or from other employers; all staff members are directly employed by the business. This practice ensures compliance with employment regulations and maintains operational control.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Quick Stop Convenience does not currently carry Workers' Compensation insurance. We are assessing our coverage options to ensure compliance with state regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Quick Stop Convenience does not own or operate any other business. Our focus is solely on the convenience store operations at the specified location.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Quick Stop Convenience does not have any other insurance with this company at this time. The business currently holds a single policy for its operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Quick Stop Convenience is not involved in manufacturing, mixing, relabeling, or repackaging of products. We solely operate as a retail convenience store focused on selling grocery items and limited food products.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Quick Stop Convenience does not rent or loan equipment to others as part of its operations. The focus remains solely on retailing essential grocery items and limited food options.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Quick Stop Convenience has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a sound financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Quick Stop Convenience does not have any exposure to flammables, explosives, or chemicals as part of its operations, adhering to safety guidelines and regulations that prohibit such activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Quick Stop Convenience does not have any catastrophe exposure as part of its operations, adhering to safety guidelines and regulations to minimize risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Quick Stop Convenience has not experienced any past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to safe and ethical operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Quick Stop Convenience has no uncorrected fire code violations, ensuring compliance with all safety regulations and maintaining a safe shopping environment for customers.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of snacks and drinks! The staff is always friendly and helpful.",
+          "I love this convenience store! It's clean, well-organized, and has everything I need.",
+          "Quick Stop Convenience is my go-to for late-night snacks. They always have fresh items.",
+          "The prices are reasonable, and I appreciate the quick service. Highly recommend!",
+          "A fantastic local store with a great variety of products. Always a pleasant shopping experience."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No onsite fuel sales or gasoline pumps are permitted."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Convenience Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No onsite fuel sales or gasoline pumps are permitted."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention fuel sales or gasoline pumps, and the third-party data does not indicate any such activity."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Convenience Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No onsite fuel sales or gasoline pumps are permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No onsite fuel sales or gasoline pumps are permitted.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention fuel sales or gasoline pumps, and the third-party data does not indicate any such activity."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

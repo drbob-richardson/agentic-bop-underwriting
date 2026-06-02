@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Jewelry & Watch Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Timeless Treasures Jewelry & Watch Boutique",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 456, Anytown, NY 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "GL CODE: 5022",
+      "SIC": "5944",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Timeless Treasures Jewelry & Watch Boutique, we specialize in offering a curated collection of fine jewelry and watches to our discerning clientele. Our operations focus on retail sales, with a strong emphasis on exceptional customer service and product knowledge. We provide minor on-site repairs, such as ring resizing and battery replacements, ensuring our clients receive the highest level of care. To safeguard our high-value inventory, we have implemented a robust security system that includes 24/7 monitored alarms and surveillance. We prioritize ethical sourcing and conduct thorough employee background checks to mitigate risks of internal theft and maintain trust with our customers. Our written inventory management and loss prevention protocols further support our commitment to operational excellence and safety.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "03/01/2024",
+      "EXPIRATION DATE": "03/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$8,500.00",
+      "POLICY #": "P12345-TTJW-S2024",
+      "OTHER BUSINESSES OWNED": "Timeless Treasures Gem Gallery, LLC",
+      "PREVIOUS CARRIER": "Jewelers Mutual Insurance Company",
+      "POLICY NUMBER": "P12345-TTJW-S2024",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss dates: 02/15/2023; Cause: Theft during after-hours break-in; Amount: $1,500; Status: Settled. Loss dates: 08/22/2023; Cause: Minor water damage from aging plumbing; Amount: $1,000; Status: Pending.",
+      "Combined Single Limit": "$1,000,000 combined single limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 aggregate with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible.",
+      "Damge to Rental Premises": "$100,000 combined single limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 combined single limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$500,000 limit with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Elm Street, Anytown, NY 12345-6789",
+      "Year Built": "2010",
+      "Square Feet": "900.0",
+      "HOURS OF OPERATION": "10:00 AM - 7:00 PM",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "70",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$400,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Secured double-door safe, UL Class TL-30, with monitoring and alarm integration.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "24/7 monitored alarm systems and secure double-door safe with alarm integration for high-value inventory protection.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80%",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus solely on retail sales and offer only minor on-site repairs without any hazardous activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as part of our marketing or community engagement activities. Our focus is primarily on retail sales and customer service in the jewelry and watch industry.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by our management team to ensure compliance and minimize risk.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; all our staff members are directly employed by us to ensure consistent service quality and security.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers Compensation insurance to ensure compliance and protect our employees. This policy is active before the inception date of the business.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The applicant owns and operates another business called Timeless Treasures Gem Gallery, LLC. This is consistent with their overall business strategy in the jewelry and watch retail sector.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business currently holds one policy with this company, and no additional insurance policies are listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus exclusively on retail sales and minor repairs without engaging in any manufacturing activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others, as our operations focus solely on retail sales and minor on-site repairs without engaging in any rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Their financial history appears stable, consistent with their operations as a retail jewelry and watch store.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Our operations do not involve any exposure to flammables, explosives, or chemicals as we focus solely on retail sales and minor on-site repairs without hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any catastrophe exposure related to our operations as we focus exclusively on retail sales and have implemented strong security measures. Our business is situated in an area with low risk for natural disasters and we ensure compliance with safety regulations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring for our business. We prioritize ethical operations and maintain a strong commitment to employee background checks and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations for Timeless Treasures Jewelry & Watch Boutique. We prioritize safety and compliance with all applicable fire codes.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I loved my visit to this jewelry store! Not only did I find the perfect watch, but they also offered complimentary snacks while I browsed their amazing selection. Such a delightful experience!",
+          "Great selection of jewelry and watches! I appreciated the personalized service and attention to detail.",
+          "I love my new watch from Timeless Treasures! The quality is outstanding, and the prices are reasonable.",
+          "The customer service here is top-notch! They really take the time to understand what you\u2019re looking for.",
+          "I highly recommend Timeless Treasures for anyone looking for unique jewelry. Their collection is beautiful and well-curated."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No on-site cooking or food preparation allowed."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No on-site cooking or food preparation allowed."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Jewelry & Watch Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No on-site cooking or food preparation allowed."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No on-site cooking or food preparation allowed. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a Google review mentioning 'complimentary snacks' offered while browsing, which suggests on-site food preparation."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Jewelry & Watch Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No on-site cooking or food preparation allowed."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the restriction: No on-site cooking or food preparation allowed.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No on-site cooking or food preparation allowed. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a Google review mentioning 'complimentary snacks' offered while browsing, which suggests on-site food preparation."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

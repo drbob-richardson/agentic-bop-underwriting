@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Mail & Packaging Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Parcel Plus Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Packaging Lane, Suite 100, Shippingtown, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "12345",
+      "SIC": "7389",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Parcel Plus Solutions specializes in providing comprehensive mail and packaging services, catering to both individual and business clients. Our core operations include efficient mail handling, parcel delivery, and logistics management. \n\nWe focus on standard shipping services utilizing reputable carriers such as USPS, FedEx, and UPS to ensure reliability and timely delivery. Our facility is equipped with up-to-date shipping and inventory management software, enhancing accuracy and operational efficiency. \n\nTo further support our customers, we offer limited ancillary services, including basic printing and retail sales of essential shipping supplies, which are closely aligned with our primary mail services. All operations comply fully with local, state, and federal regulations related to shipping and data protection, ensuring a secure and responsible environment.\n\nWe emphasize employee training, especially in packaging and shipping procedures, to minimize the risk of accidents and ensure quality service. Our commitment to security includes implementing basic measures such as locks and surveillance cameras, safeguarding both our assets and those of our clients.\n\nBy maintaining a clean claims history, we demonstrate effective risk management and financial stability, reinforcing our reliability as a trusted service provider in the mail and packaging industry.",
+      "DATE BUSINESS STARTED": "06/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$4,500",
+      "POLICY #": "P123456789",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "P987654321",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "On 01/15/2023, a package containing electronics worth $1,500 was damaged during transit due to improper handling by the shipping carrier. The claim for the loss was submitted and is currently under review with the shipping company. On 06/05/2023, an additional incident occurred where a shipment of printed materials valued at $500 was lost in transit; the claim has been accepted, and compensation is pending.",
+      "Combined Single Limit": "$1,000,000/$0",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $1,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$250,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "4567 Shipping Way, Suite 200, Shippingtown, ST 12345-6789",
+      "Year Built": "2005",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "Mon-Fri 9:00 AM - 6:00 PM, Sat 10:00 AM - 4:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$350,000",
+      "TOTAL PAYROLL": "$250,000",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class II, UL Listed, Vault with Grade 1 Security.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Surveillance cameras and basic security measures in place.",
+      "Building limit": "$250000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Parcel Plus Solutions has not engaged in storing, treating, discharging, applying, disposing, or transporting hazardous materials in any past, present, or discontinued operations. Our services focus on standard mail and packaging solutions, ensuring compliance with all relevant regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Parcel Plus Solutions does not sponsor any athletic teams. Our focus is primarily on providing mail and packaging services to our clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the management team to ensure compliance and risk mitigation.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes in connection with this or any other property for Parcel Plus Solutions.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Parcel Plus Solutions has not had any policies or coverages declined, canceled, or non-renewed during the prior 3 years. We maintain a clean insurance history and ensure compliance with all relevant requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Parcel Plus Solutions does not lease employees to or from other employers, as our staffing is managed internally without outsourcing.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Parcel Plus Solutions carries Workers' Compensation insurance to ensure compliance and provide protection for our employees. This policy is active and aligned with legal requirements for our operations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Parcel Plus Solutions does not own or operate any other business. All operations are focused solely on providing mail and packaging services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Parcel Plus Solutions does not have any other insurance policies with this company. All coverage is contained within the current policy issued.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Parcel Plus Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our services are focused solely on providing mail handling, parcel delivery, and logistics management.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Parcel Plus Solutions does not rent or loan equipment to others. All equipment is used solely for our internal operations to ensure quality control and safety.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Parcel Plus Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a stable financial history and compliance with all relevant obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Parcel Plus Solutions does not have any exposure to flammables, explosives, or chemicals as our operations are solely focused on standard mail and packaging services, ensuring compliance with all relevant safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Parcel Plus Solutions does not have any catastrophe exposure, as our operations are focused on standard mail and packaging services that do not include high-risk activities or environments. We maintain compliance with all relevant regulations, ensuring a secure operational landscape.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Parcel Plus Solutions has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize compliance and risk management to ensure a secure environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Parcel Plus Solutions has no uncorrected fire code violations, ensuring compliance with all safety regulations.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great service! The staff was friendly and helped me package my items perfectly for shipping.",
+          "I love how efficient they are! My packages always arrive on time, and the prices are reasonable.",
+          "The team at Parcel Plus Solutions is knowledgeable and always ready to assist with my shipping needs.",
+          "I appreciate the variety of shipping options available. They make sending packages so easy!",
+          "Clean and organized facility with excellent customer service. Highly recommend for all your mailing needs!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Mail & Packaging Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Mail & Packaging Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to a history of 8 claims, which is considered excessive risk.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

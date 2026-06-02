@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Building Materials & Supplies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Building Supply Warehouse",
+      "FEIN OR SOC SEC #": "",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Construction Ave, Suite 200, Building Supply City, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "Building Materials Supply Code",
+      "SIC": "5211",
+      "NATURE OF BUSINESS": "Wholesale",
+      "DESCRIPTION OF OPERATIONS": "At Building Supply Warehouse, we specialize in the wholesale distribution of construction materials. Our operations include sourcing and stocking a diverse range of products such as lumber, concrete, insulation, and various fittings to cater to the needs of contractors, builders, and DIY enthusiasts. We maintain a large warehouse equipped with automatic sprinkler systems and robust fire prevention measures to ensure the safety of our combustible inventory. Our facility is designed with secure outdoor storage areas that are properly separated to mitigate fire risks. We focus on efficient inventory management and utilize dedicated delivery fleets with established security protocols to prevent theft during transit. Our commitment to compliance with all local, state, and federal regulations regarding the storage and transportation of materials further underlines our operational integrity. With a dedicated team and regular safety audits, we aim to provide top-quality service while maintaining a commitment to safety and risk management.\n\nOur business specializes in providing high-quality building materials and supplies, and we also offer installation services to ensure our clients have everything they need for their construction projects.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECT-2023-BSW-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Acme Insurance Company",
+      "POLICY NUMBER": "REJECT-2023-BSW-002",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported; business primarily engaged in wholesale distribution of building materials with no repair or maintenance operations conducted.",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "N/A",
+      "Bodily Injury & Prop Damage Aggregate": "N/A",
+      "Medical Expense (per person)": "\"\"",
+      "Damge to Rental Premises": "\"\"",
+      "Professional Liability": "\"\"",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "\"\"",
+      "Non-owned Auto": "\"\"",
+      "Computers": "\"\"",
+      "ordinence and law": "{\"Limit\": \"200,000\", \"Deductible\": \"2,500\"}",
+      "Flood": "\"Not applicable due to business operations primarily focused on wholesale distribution with no exposure to flood risk.\"",
+      "accounts recievable": "",
+      "employee dishonesty": "{\"Limit\": \"100,000\", \"Deductible\": \"1,000\"}",
+      "money and securities": "{\"Limit\": \"100,000\", \"Deductible\": \"1,000\"}",
+      "ADDRESS": "123 Building Materials Rd, Warehouse City, ST 12345-6789",
+      "Year Built": "1985",
+      "Square Feet": "12000.0",
+      "HOURS OF OPERATION": "08:00 AM - 06:00 PM",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "0",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Not applicable, as the business primarily engages in wholesale distribution and not in repair, maintenance, or installation services.",
+      "MONEY ON PREMISES": "0",
+      "OTHER PROTECTION": "Adequate fencing and surveillance measures are in place to secure outdoor storage areas.",
+      "Building limit": "$0",
+      "building % Coinsurance": "0%",
+      "personal property valuation type": "\"Not applicable as the business primarily engages in wholesale distribution of building materials with no repair, maintenance, or installation services.\"",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0%",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The business operations at Building Supply Warehouse solely involve the wholesale distribution of construction materials, without any engagement in storing, treating, discharging, applying, disposing, or transporting hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Athletic teams are not sponsored by Building Supply Warehouse, as the business focuses solely on the wholesale distribution of construction materials and does not engage in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. This is essential to ensure risk transfer and protect against potential liabilities.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Building Supply Warehouse has not had any applicants indicted or convicted of crimes such as fraud, bribery, arson, or any related offenses. The business focuses solely on wholesale distribution and has maintained a clean operational record.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The business has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. As a wholesale distributor of building materials, we maintain a solid operational history with no claims reported.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The business does not lease employees to or from other employers, as it solely focuses on the wholesale distribution of construction materials without engaging in employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The business primarily engages in wholesale distribution of construction materials and does not conduct repair, maintenance, or installation services, which typically require Workers\u2019 Compensation coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 The business does not own or operate any other business, as it solely focuses on the wholesale distribution of construction materials.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The business primarily engages in wholesale distribution of building materials and does not conduct repair, maintenance, or installation services, therefore no additional insurance with this company is applicable.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Building Supply Warehouse is not involved in manufacturing, mixing, relabeling, or repackaging of products; our focus is solely on the wholesale distribution of construction materials.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Building Supply Warehouse does not rent or loan equipment to others, as our operations focus solely on wholesale distribution of construction materials without any engagement in these services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has stated that they have not experienced a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Building Supply Warehouse does not have any exposure to flammables, explosives, or chemicals, as our operations are focused solely on the wholesale distribution of construction materials without engaging in hazardous materials management.",
+      "G14: Any catastrophe exposure?": "No \u2013 Building Supply Warehouse is primarily engaged in wholesale distribution of construction materials and does not conduct repair, maintenance, or installation services, which limits any catastrophe exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The business primarily engages in wholesale distribution of construction materials and does not conduct repair, maintenance, or installation services. Thus, it falls outside the intended risk profile and is not eligible for coverage based on the specified criteria.",
+      "G16: Any uncorrected fire code violations?": "Yes \u2013 The information indicates that there are no known uncorrected fire code violations at Building Supply Warehouse, as the facility is equipped with automatic sprinkler systems and robust fire prevention measures.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of building materials! The staff is always helpful and knowledgeable.",
+          "I found everything I needed for my project at Building Supply Warehouse. Highly recommend!",
+          "The prices are competitive, and the quality of materials is top-notch. Will definitely return.",
+          "Fast service and a wide variety of products. A reliable source for all my construction needs.",
+          "I appreciate the organized layout of the warehouse. It makes shopping for supplies a breeze!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Building Materials & Supplies",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business offers installation services, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Building Materials & Supplies",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application rejected due to the specified reason: No coverage for businesses primarily engaged in repair, maintenance, or installation services.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses primarily engaged in repair, maintenance, or installation services.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business offers installation services, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

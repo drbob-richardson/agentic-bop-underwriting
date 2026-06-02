@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Department & Discount Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ValueMart",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Oak Street, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, ValueMart, 123 Oak Street, Suite 100, Springfield, IL 62704-5678, (555) 123-4567",
+      "GL CODE": "Retail-Department-Store-GL",
+      "SIC": "5311",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "ValueMart operates as a retail department store providing a wide array of products, including clothing, home goods, electronics, and beauty products, catering to a diverse customer base. Our store is strategically located in a suburban shopping center, ensuring steady foot traffic and consistent sales. We prioritize customer service and safety through documented employee training programs and dedicated security staff. As a responsible retailer, we manage our inventory effectively and maintain compliance with all local, state, and federal regulations. We do not conduct any on-premises food preparation or extensive repair operations, enabling us to focus primarily on our retail activities. Our operational model limits incidental repair services to well below the permissible threshold, ensuring alignment with industry standards and practices.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "VM-2023-00123",
+      "OTHER BUSINESSES OWNED": "ValueMart Retail Solutions, LLC - A small retail consulting business that provides strategic advice to department stores and discount retailers on inventory management and marketing strategies.",
+      "PREVIOUS CARRIER": "ValueMart Insurance Group",
+      "POLICY NUMBER": "VM-2022-00456",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Theft of electronics on 03/12/2023, caused by a break-in; amount $5,000; status resolved.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Aggregate Limit with a $2,500 deductible.",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible.",
+      "Damge to Rental Premises": "$250,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$500,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $2,500 deductible",
+      "Flood": "\"$1,000,000 limit with a $2,500 deductible\"",
+      "accounts recievable": "\"$500,000 limit with a $1,000 deductible\"",
+      "employee dishonesty": "$500,000 limit with a $1,000 deductible",
+      "money and securities": "$500,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Maple Avenue, Springfield, IL 62704-6789",
+      "Year Built": "2010",
+      "Square Feet": "25000",
+      "HOURS OF OPERATION": "Monday to Saturday: 9:00 AM - 9:00 PM; Sunday: 10:00 AM - 6:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$725,000.00",
+      "TOTAL PAYROLL": "$320,000.00",
+      "NO. OF EMPLOYEES": "35",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fire-resistant safe, Class B, UL listed.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Security fencing and on-site security personnel for theft prevention and safety measures.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 ValueMart does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our retail operations focus purely on selling products without involvement in hazardous material activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ValueMart does not sponsor any athletic teams as part of its operations or community involvement.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the designated inspection coordinator to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 ValueMart has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company maintains a strong commitment to ethical practices and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ValueMart has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. We maintain a consistent insurance history with our previous carrier.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ValueMart does not lease employees to or from other employers; all staff are directly employed by the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 ValueMart carries Workers\u2019 Compensation insurance to comply with statutory requirements and ensure employee protection.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 ValueMart also owns and operates \"ValueMart Retail Solutions, LLC,\" a small retail consulting business that provides strategic advice to other retailers on inventory management and marketing strategies.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ValueMart currently does not have any other insurance policies with this company aside from the existing coverage noted in the application.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ValueMart is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retail sales of diverse product categories.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ValueMart does not rent or loan equipment to others as part of its retail operations; our focus is solely on selling products directly to customers.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ValueMart has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial status.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ValueMart does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on retail sales without involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 ValueMart does not have any catastrophe exposure, as our operations are strictly focused on retail sales with no involvement in high-risk activities or environments.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ValueMart has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to ethical practices and compliance with regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ValueMart has no uncorrected fire code violations and maintains compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "ValueMart has a great selection of products at unbeatable prices! I always find what I need.",
+          "The staff is friendly and helpful, making my shopping experience enjoyable every time.",
+          "I love the variety of items available, from clothing to home goods. It's my go-to store!",
+          "Clean and well-organized store. I appreciate the easy layout that makes shopping a breeze.",
+          "Great discounts and sales! I always leave with more than I planned to buy."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Department & Discount Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Department & Discount Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

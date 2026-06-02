@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Concrete & Masonry Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Solid Foundations Concrete & Masonry Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 400, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Manager, 555-123-4567",
+      "GL CODE": "GQ-08",
+      "SIC": "1771",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "At Solid Foundations Concrete & Masonry Services, we specialize in delivering high-quality residential and commercial concrete and masonry solutions. Our operations include the installation and repair of concrete slabs, foundations, retaining walls, brickwork, and various masonry structures. We pride ourselves on using reliable materials while adhering to strict safety protocols, ensuring all projects are completed on time and to the highest standards. Our seasoned team is committed to ongoing training and scheduled inspections to maintain a strong safety record and minimize risks. With a focus on proactive risk management, we consistently evaluate our operations to comply with local building codes and regulations, thereby safeguarding our clients and stakeholders.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500.00",
+      "POLICY #": "SF-2023-CM-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "XYZ Insurance Group",
+      "POLICY NUMBER": "SF-2022-CM-005",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On March 10, 2022, during the installation of a concrete foundation for a residential property, an employee sustained a minor injury due to improper lifting techniques, resulting in $2,500 in medical expenses. The incident was reported, and necessary safety training was reinforced among the team to prevent future occurrences. The claim has been closed, with no ongoing issues.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$25,000 / $500",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$500,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "456 Elm Street, Unit 200, Springfield, IL 62703-4567",
+      "Year Built": "1995",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "Monday to Friday, 7:00 AM to 5:00 PM; Saturday, 8:00 AM to 3:00 PM; Closed on Sunday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$600,000.00",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Class A, Grade 1, UL Listed",
+      "MONEY ON PREMISES": "$10,000",
+      "OTHER PROTECTION": "Security fencing and 24-hour watchperson services for all job sites to ensure safety and reduce theft or vandalism risks.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 We do not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in our operations. Our focus is solely on concrete and masonry services, adhering to strict safety and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as our focus is primarily on providing concrete and masonry services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our management team to ensure compliance and proper risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Their operations focus on concrete and masonry services, adhering to strict compliance standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The applicant has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. Their insurance history reflects a commitment to compliance and risk management.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; our workforce is comprised solely of our own employees, ensuring consistent quality and safety in our services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Solid Foundations Concrete & Masonry Services carries worker\u2019s compensation insurance to ensure compliance and provide coverage for our employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Solid Foundations Concrete & Masonry Services does not own or operate any other business. We focus solely on our concrete and masonry services, ensuring dedicated management and oversight of our operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Solid Foundations Concrete & Masonry Services does not have any other insurance with this company at this time. We maintain our current policy for all necessary coverage related to our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is strictly on providing concrete and masonry services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others; our focus is solely on providing concrete and masonry services to our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, indicating financial stability and reliability in their operations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have any exposure to flammables, explosives, or chemicals in our operations, as we strictly focus on concrete and masonry services while adhering to safety protocols.",
+      "G14: Any catastrophe exposure?": "No \u2013 Solid Foundations Concrete & Masonry Services operates in a manner that minimizes exposure to catastrophic events by adhering to strict safety protocols and proactive risk management strategies.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Solid Foundations Concrete & Masonry Services has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations maintain a strong focus on compliance and ethical standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Solid Foundations Concrete & Masonry Services has no uncorrected fire code violations, and we continuously ensure compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Solid Foundations did an amazing job on our patio! The team was professional and the quality of work exceeded our expectations.",
+          "I highly recommend Solid Foundations for any masonry work. They were punctual, efficient, and the results were fantastic.",
+          "Great experience with this company! They transformed our backyard with a beautiful retaining wall that is both functional and stylish.",
+          "The crew at Solid Foundations was friendly and knowledgeable. They answered all my questions and completed the job on time.",
+          "I was impressed with their attention to detail and commitment to safety. My new concrete driveway looks perfect!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Concrete & Masonry Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Concrete & Masonry Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

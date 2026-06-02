@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Cellular Phone Sales/Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TechConnect Mobile Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Mobile Way, Suite 200, Tech City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Mobile Operations Manager, TechConnect Mobile Solutions, Phone: (123) 456-7890, Email: johndoe@techconnectmobile.com",
+      "GL CODE": "Retail/Service - Cellular Phone Sales and Repair",
+      "SIC": "5731",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "TechConnect Mobile Solutions operates as a retail and service provider specializing in the sales and repair of cellular phones and related accessories. Our core operations include offering a diverse selection of new and certified refurbished mobile devices, alongside a full range of accessories like cases, screen protectors, and chargers sourced from reputable manufacturers. We pride ourselves on providing exceptional customer service through in-store consultations, device setup assistance, and technical support.\n\nOur repair services encompass screen replacements, battery changes, software troubleshooting, and other repair solutions performed by trained technicians. We ensure that repairs are completed using high-quality parts, and we communicate clear, written warranties to our customers to mitigate any potential disputes.\n\nAdditionally, we employ robust inventory management practices to monitor stock levels and prevent loss through theft or damage. All employees undergo background checks, particularly those involved in handling high-value inventory. We are committed to following regulations to safeguard customer information during transactions, including secure payment processing. With regular audits and compliance checks, TechConnect Mobile Solutions maintains industry standards to promote a safe and reliable shopping experience for our community.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "TCMS-2023-001",
+      "OTHER BUSINESSES OWNED": "TechConnect Accessories LLC, 4567 Gadget Lane, Tech City, CA 90210-5678 - A retail business specializing in electronic accessories, including phone cases, chargers, and audio equipment.",
+      "PREVIOUS CARRIER": "Verizon Wireless",
+      "POLICY NUMBER": "TCMS-2022-045",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On 04/15/2023, a theft incident occurred during which three high-value smartphones valued at $900 were stolen from our inventory due to an employee oversight in securing stock. The loss is currently under review for potential insurance coverage, and we are implementing additional security measures to prevent future occurrences.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit, $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 Limit, $1,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit, $0 Deductible",
+      "Damge to Rental Premises": "$100,000 Limit, $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit, $1,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit, $1,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit, $1,000 Deductible",
+      "Computers": "$50,000 Limit, $500 Deductible",
+      "ordinence and law": "$500,000 Limit, $2,500 Deductible",
+      "Flood": "$500,000 Limit, $1,000 Deductible",
+      "accounts recievable": "$100,000 Limit, $1,000 Deductible",
+      "employee dishonesty": "$100,000 Limit, $1,000 Deductible",
+      "money and securities": "$100,000 Limit, $1,000 Deductible",
+      "ADDRESS": "5678 Cellular Blvd, Suite A, Tech City, CA 90210-5678",
+      "Year Built": "2015",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 7:00 PM; Saturday: 10:00 AM - 5:00 PM; Sunday: Closed",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$450,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "High Security Retail Vault, Class 3, UL Listed",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Secure fencing around inventory area and regular security patrols during operating hours.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 TechConnect Mobile Solutions does not engage in any operations involving the storage, treatment, discharge, application, disposal, or transportation of hazardous materials. Our business primarily focuses on cellular phone sales and repair services without any involvement in hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TechConnect Mobile Solutions does not currently sponsor any athletic teams. Our focus remains on providing cellular phone sales and repair services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are required to provide a certificate of insurance to ensure proper risk transfer and liability coverage. The responsibility for checking these certificates typically falls on the operations manager or a designated team member.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 TechConnect Mobile Solutions has not had any applicants indicted or convicted of fraud, bribery, arson, or any arson-related crime in connection with this or any other property. We maintain a commitment to ethical operations and compliance with all laws.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 TechConnect Mobile Solutions has not had any policies or coverage declined, canceled, or non-renewed in the prior 3 years. We have maintained stable insurance coverage since inception.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TechConnect Mobile Solutions does not lease employees to or from other employers. Our staffing is managed internally to ensure consistency and quality service across our operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 TechConnect Mobile Solutions does not currently carry Workers' Compensation insurance, as it operates under the exemption allowed for LLCs without employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 TechConnect Mobile Solutions also operates TechConnect Accessories LLC, which specializes in selling electronic accessories such as phone cases and chargers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TechConnect Mobile Solutions does not have any other insurance policies with this company at this time. We currently hold a single policy covering our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TechConnect Mobile Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retail sales and repair services for cellular phones and accessories.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 TechConnect Mobile Solutions does not rent or loan equipment to others. Our operations focus on retail sales and repair services for cellular phones and accessories, ensuring we maintain control over our inventory.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 TechConnect Mobile Solutions has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a stable financial position.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TechConnect Mobile Solutions does not have any exposure to flammables, explosives, or chemicals as our operations focus on retail sales and repair services for cellular phones and accessories.",
+      "G14: Any catastrophe exposure?": "No \u2013 TechConnect Mobile Solutions does not have any catastrophe exposure in its operations, as we focus solely on retail sales and repair services for cellular phones, with no involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TechConnect Mobile Solutions has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring, ensuring our commitment to fair and ethical business practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TechConnect Mobile Solutions does not have any uncorrected fire code violations. We maintain compliance with fire codes to ensure a safe environment for our customers and staff.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great experience! The staff was super helpful in finding the perfect phone for me.",
+          "I had my screen replaced here, and it was done quickly and professionally. Highly recommend!",
+          "TechConnect Mobile Solutions has a fantastic selection of accessories. I found everything I needed!",
+          "The customer service is top-notch! They really take the time to explain everything.",
+          "I appreciate their transparent warranty policy. It made my decision to buy much easier."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for businesses with unresolved or ongoing data breach incidents."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Cellular Phone Sales/Service",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses with unresolved or ongoing data breach incidents."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "There is no mention of unresolved or ongoing data breach incidents in either the application text or the third-party data."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Cellular Phone Sales/Service",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses with unresolved or ongoing data breach incidents."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to unresolved or ongoing data breach incidents, which is a specific restriction. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "There is no mention of unresolved or ongoing data breach incidents in either the application text or the third-party data."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

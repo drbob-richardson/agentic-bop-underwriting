@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Fast Food & Family Restaurants",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Quick Bites Family Diner",
+      "FEIN OR SOC SEC #": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid FEIN OR SOC SEC #.",
+      "BUSINESS TYPE": "Reject",
+      "MAILING ADDRESS": "123 Main St, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Contact: Jane Doe, Manager, Quick Bites Family Diner, Phone: (555) 123-4567, Email: janedoe@quickbites.com",
+      "GL CODE": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid GL CODE.",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Restaurant",
+      "DESCRIPTION OF OPERATIONS": "At Quick Bites Family Diner, we strive to provide a welcoming and family-friendly dining experience with a focus on quick service. Our restaurant features a modern, clean design, occupying a total floor area of 7,500 square feet, which allows us to efficiently serve our guests without exceeding local operational guidelines. We offer a diverse menu that includes burgers, sandwiches, salads, and kid-friendly meals, ensuring there's something for everyone in the family. With no more than 150 seats, we prioritize an accessible environment that fosters a relaxed atmosphere for our customers. \n\nIn adherence to our commitment to safety and quality, we maintain rigorous health and safety standards, ensuring that all staff are thoroughly trained in food handling and hygiene practices. Our restaurant's operations are supported by regular maintenance of kitchen equipment and fire suppression systems, helping to prevent any safety hazards. Additionally, we do not serve alcoholic beverages, simplifying our operational risks and enhancing our focus on serving delicious meals to families and quick-service patrons alike.\n\nOur fast food and family restaurant spans 9,000 square feet, providing ample space for dining, kitchen operations, and family-friendly activities to enhance our customers' experience.",
+      "DATE BUSINESS STARTED": "01/15/2021",
+      "EFFECTIVE DATE": "01/16/2021",
+      "EXPIRATION DATE": "01/15/2022",
+      "NEW/RENEWAL": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid NEW/RENEWAL value.",
+      "PAYMENT PLAN": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid PAYMENT PLAN value.",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid POLICY #.",
+      "OTHER BUSINESSES OWNED": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid OTHER BUSINESSES OWNED value.",
+      "PREVIOUS CARRIER": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid PREVIOUS CARRIER value.",
+      "POLICY NUMBER": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid POLICY NUMBER.",
+      "TOTAL LOSSES": "$4,200",
+      "DESCRIPTION OF LOSSES": "\"Loss dates: 07/15/2021; Cause: Equipment failure in the kitchen leading to a brief service disruption; Amount: $3,200; Status: Resolved. Loss dates: 01/10/2022; Cause: Minor slip-and-fall incident, no serious injuries; Amount: $1,000; Status: Resolved.\"",
+      "Combined Single Limit": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid Combined Single Limit value.",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid Bodily Injury & Prop Damage Occurrence value.",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid Bodily Injury & Prop Damage Aggregate value.",
+      "Medical Expense (per person)": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid Medical Expense (per person) value.",
+      "Damge to Rental Premises": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid Damge to Rental Premises value.",
+      "Professional Liability": "REJECTED DUE TO SPEC-1: Professional Liability not applicable as Quick Bites Family Diner exceeds 7,500 square feet total floor area.",
+      "Liquor Liability": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid Liquor Liability value.",
+      "Hired Auto": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid Hired Auto value.",
+      "Non-owned Auto": "REJECTED DUE TO SPEC-1: Non-owned Auto coverage not applicable as Quick Bites Family Diner exceeds 7,500 square feet total floor area.",
+      "Computers": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid Computers value.",
+      "ordinence and law": "REJECTED DUE TO SPEC-1: Ordinance and law coverage cannot be provided as Quick Bites Family Diner exceeds 7,500 square feet total floor area.",
+      "Flood": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid Flood coverage.",
+      "accounts recievable": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid accounts receivable coverage.",
+      "employee dishonesty": "REJECTED DUE TO SPEC-1: Employee dishonesty coverage cannot be provided as Quick Bites Family Diner exceeds 7,500 square feet total floor area.",
+      "money and securities": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid money and securities value.",
+      "ADDRESS": "123 Elm St, Springfield, IL 62701-1234",
+      "Year Built": "1985",
+      "Square Feet": "7500.0",
+      "HOURS OF OPERATION": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid HOURS OF OPERATION value.",
+      "Distance to hydrant": "-1 feet",
+      "OCCUPANCY": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid OCCUPANCY value.",
+      "BUILDING IMPROVEMENTS": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid BUILDING IMPROVEMENTS value.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "REJECTED DUE TO SPEC-1: Ineligible for coverage as Quick Bites Family Diner exceeds 7,500 square feet in total floor area, thus impacting payroll considerations.",
+      "NO. OF EMPLOYEES": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid NO. OF EMPLOYEES value.",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Safe Class: Class II, Grade: 6, Label: Secured Storage",
+      "MONEY ON PREMISES": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid MONEY ON PREMISES value.",
+      "OTHER PROTECTION": "Security patrols with regular inspections and perimeter fencing to enhance safety and protection for the premises.",
+      "Building limit": "$7500",
+      "building % Coinsurance": "0%",
+      "personal property valuation type": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid personal property valuation type.",
+      "personal property limit": "REJECTED DUE TO SPEC-1: Quick Bites Family Diner exceeds 7,500 square feet total floor area, resulting in invalid personal property limit value.",
+      "personal property % Coinsurance": "5%",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Quick Bites Family Diner does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. It focuses solely on providing a family-friendly dining experience without such activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Quick Bites Family Diner does not sponsor athletic teams.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as it helps transfer the risk associated with their operations. Certificates are typically checked by the management or specified personnel in the organization.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Quick Bites Family Diner has not had any applicants indicted or convicted of crimes related to fraud, bribery, arson, or any other arson-related offenses. The operations focus solely on providing a family-friendly dining experience.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Quick Bites Family Diner has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. The restaurant maintains a consistent operational history without any coverage issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Quick Bites Family Diner does not lease employees to or from other employers, as we maintain a dedicated staff to ensure consistent service and operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Quick Bites Family Diner has not reported carrying any Workers' Compensation coverage, as the application is ineligible for consideration due to exceeding the specified total floor area limit.",
+      "G8: Do you own or operate any other business?": "No \u2013 Quick Bites Family Diner does not own or operate any other businesses. The focus is solely on providing a family-friendly dining experience at this location.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Quick Bites Family Diner does not have any other insurance with this company. The operations focus solely on providing quick service without additional coverage needs.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Quick Bites Family Diner is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations solely focus on providing a dining experience without such activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Quick Bites Family Diner does not rent or loan equipment to others. The operations focus solely on providing a dining experience without engaging in such activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Quick Bites Family Diner has not had any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. The application is primarily being rejected due to exceeding the square footage limit for quick service restaurants.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Quick Bites Family Diner does not have any exposure to flammables, explosives, or chemicals, as its operations focus solely on providing a safe dining experience without engaging in such activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Quick Bites Family Diner exceeds the 7,500 square feet limit for quick service restaurants, resulting in ineligibility for coverage.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Quick Bites Family Diner does not have any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The operations focus on providing a family-friendly dining experience without any such incidents.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Quick Bites Family Diner does not have any uncorrected fire code violations, as they maintain regular maintenance of their kitchen equipment and fire suppression systems.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 4200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "Great family atmosphere with a diverse menu! The kids loved the burgers and milkshakes.",
+          "Quick service and friendly staff. Perfect spot for a casual meal with the family.",
+          "The food was delicious and served hot. A nice place to grab a bite after a long day.",
+          "I appreciate the cleanliness and the welcoming vibe. Definitely a go-to for family dinners!",
+          "The portions are generous, and the prices are reasonable. Will be coming back for sure!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Quick service restaurants must not exceed 7,500 square feet in total floor area."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Fast Food & Family Restaurants",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Quick service restaurants must not exceed 7,500 square feet in total floor area."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Quick service restaurants must not exceed 7,500 square feet in total floor area.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that Quick Bites Family Diner exceeds 7,500 square feet total floor area, which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Fast Food & Family Restaurants",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Quick service restaurants must not exceed 7,500 square feet in total floor area."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: Quick service restaurants must not exceed 7,500 square feet in total floor area. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Quick service restaurants must not exceed 7,500 square feet in total floor area.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that Quick Bites Family Diner exceeds 7,500 square feet total floor area, which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Medical & Hospital Supply Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "HealthWise Medical Supplies",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Healthwise Ave, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Compliance Officer, HealthWise Medical Supplies, (555) 123-4567, john.doe@healthwisemedical.com",
+      "GL CODE": "2010",
+      "SIC": "3841",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "HealthWise Medical Supplies operates as a retail store specializing in the sale and rental of a wide variety of verified and FDA-approved medical equipment and supplies. Our focus is on ensuring high standards of customer safety and product quality, with a commitment to maintaining compliance with all relevant health and safety regulations. We provide comprehensive staff training on equipment usage, customer safety, and emergency procedures, fostering a knowledgeable and responsive team. \n\nOur store features a clean, well-lit, and organized retail space, regularly inspected for safety and accessibility to minimize the risk of incidents. We strictly adhere to structured procedures for the sanitization and maintenance of all rental equipment between uses, following guidelines to ensure that all items are in excellent working condition. HealthWise Medical Supplies prides itself on its proactive loss control program, including regular audits, incident reporting, and promptly addressing customer concerns to uphold our high standards of service. Through these measures, we aim to deliver exceptional service while effectively managing risks and ensuring a safe environment for both our customers and staff.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "01/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,200.00",
+      "POLICY #": "HWMS-2024-01",
+      "OTHER BUSINESSES OWNED": "HealthWise Medical Distribution",
+      "PREVIOUS CARRIER": "Blue Cross Blue Shield",
+      "POLICY NUMBER": "HWMS-2023-XYZ",
+      "TOTAL LOSSES": "$3,000",
+      "DESCRIPTION OF LOSSES": "Loss Date: 03/15/2022; Cause: Water damage from a burst pipe; Amount: $1,500; Status: Resolved. Loss Date: 07/20/2023; Cause: Minor slip and fall incident due to a wet floor; Amount: $1,500; Status: In process of settlement.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $3,000,000 aggregate with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Non-owned Auto": "\"$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible\"",
+      "Computers": "$100,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$500,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$500,000 limit with a $1,000 deductible",
+      "ADDRESS": "5678 Wellness Blvd, Suite 200, Springfield, IL 62701-5678",
+      "Year Built": "2015",
+      "Square Feet": "3000",
+      "HOURS OF OPERATION": "Monday to Friday, 8:00 AM - 6:00 PM; Saturday, 9:00 AM - 3:00 PM; Sunday, Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$1,500,000.00",
+      "TOTAL PAYROLL": "$750,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 2, Grade III, UL listed fire-resistive safe.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Central station alarm system and regular security patrols.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$750,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 HealthWise Medical Supplies does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus exclusively on selling and renting verified and FDA-approved medical equipment and supplies.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 HealthWise Medical Supplies sponsors local athletic teams as part of our community engagement initiatives. This involvement helps promote health and wellness while supporting local sports programs.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "Yes \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer, John Doe, is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 HealthWise Medical Supplies has not had any applicants indicted or convicted of crimes related to fraud, bribery, arson, or any other related offenses. The business operates with a strong commitment to integrity and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 HealthWise Medical Supplies has not experienced any policy or coverage declined, canceled, or non-renewed during the prior three years. The business maintains strong compliance and operational practices.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 HealthWise Medical Supplies does not lease employees to or from other employers, as we operate our own dedicated staff to ensure consistent service and compliance with safety standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 HealthWise Medical Supplies carries Workers Compensation insurance, ensuring compliance with legal requirements and providing protection for our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 HealthWise Medical Supplies also operates HealthWise Medical Distribution, providing a wider range of medical supply services. This allows us to effectively manage and support our retail operations with additional resources.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 HealthWise Medical Supplies does not have any other insurance policies with this company. The only current policy is HWMS-2024-01.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 HealthWise Medical Supplies is not involved in the manufacturing, mixing, relabeling, or repackaging of products. The business focuses exclusively on selling and renting verified and FDA-approved medical equipment and supplies.",
+      "G11: Do you rent or loan equipment to others?": "Yes \u2013 HealthWise Medical Supplies rents and loans medical equipment to clients, ensuring all items are verified and FDA-approved to maintain high safety standards. Our rental process includes thorough inspections and customer training to promote safe usage.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 HealthWise Medical Supplies has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains strong financial practices and stability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 HealthWise Medical Supplies does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on selling and renting verified and FDA-approved medical equipment and supplies. All materials used in our business are compliant with health and safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 HealthWise Medical Supplies does not have any catastrophe exposure related to its operations, as it focuses solely on retailing and renting verified and FDA-approved medical equipment and supplies. The business maintains high safety standards and compliance with relevant regulations to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 HealthWise Medical Supplies has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains strong compliance and operational standards to safeguard against such issues.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 HealthWise Medical Supplies maintains compliance with all fire codes and has no uncorrected fire code violations. Regular inspections ensure the safety and readiness of our premises.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 3000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "HealthWise Medical Supplies has a fantastic selection of medical equipment. The staff is knowledgeable and always ready to help!",
+          "I rented a wheelchair from HealthWise, and the process was smooth. The equipment was in excellent condition and very clean.",
+          "Great experience! The store is well-organized, and I found everything I needed quickly. Highly recommend for anyone in need of medical supplies.",
+          "The customer service at HealthWise is top-notch. They took the time to explain how to use the equipment I purchased.",
+          "I appreciate the commitment to safety and cleanliness at this store. It's reassuring to know they prioritize customer well-being."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Medical & Hospital Supply Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Medical & Hospital Supply Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to a history of claims related to slip and fall incidents, indicating elevated risk and poor operational controls.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

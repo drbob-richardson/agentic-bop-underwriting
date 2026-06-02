@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Locksmiths",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "SecureLock Solutions",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Secure St, Suite 100, Cityville, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "John Doe, Lead Locksmith, johndoe@securelocksolutions.com, (555) 123-4567",
+      "GL CODE": "GL-LOCK-001",
+      "SIC": "7699",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "SecureLock Solutions specializes in providing a range of essential locksmith services, including residential and commercial lock installation, repair, and key duplication. Our operations are conducted from a secure, monitored physical location to safeguard our tools and inventory, ensuring minimal risk of theft or vandalism. We pride ourselves on maintaining a clean business record and adhering to all local regulations and licensing requirements. Our team undergoes thorough training in security and safety protocols, enabling us to deliver professional and reliable service to our clients. We do not engage in subcontracting to maintain high quality and accountability over our work, ensuring that all services are performed in-house. With an ongoing commitment to customer satisfaction, we actively manage expectations through a documented customer service policy.\n\nOur locksmith business provides a range of services, including high-security lock installations and safes, and maintains a large inventory of specialized tools and equipment, which collectively exceeds a valuation of $500,000.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "01/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECT-2023-LOCK-001",
+      "OTHER BUSINESSES OWNED": "",
+      "PREVIOUS CARRIER": "XYZ Insurance Group",
+      "POLICY NUMBER": "REJECT-2023-LOCK-BPP500K",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Losses due to equipment damage from a minor water leak on 03/15/2023, resulting in repair costs of $2,500. Status: Resolved.",
+      "Combined Single Limit": "$500,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$500,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$500,000 / $1,000",
+      "Medical Expense (per person)": "$1,000",
+      "Damge to Rental Premises": "reject",
+      "Professional Liability": "reject",
+      "Liquor Liability": "reject",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "reject",
+      "ordinence and law": "reject",
+      "Flood": "reject",
+      "accounts recievable": "reject",
+      "employee dishonesty": "reject",
+      "money and securities": "reject",
+      "ADDRESS": "4567 Lock Lane, Suite 200, Cityville, ST 12345-6789",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "reject",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "reject",
+      "NO. OF EMPLOYEES": "3",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B Safe, Grade 1, UL Listed",
+      "MONEY ON PREMISES": "$300",
+      "OTHER PROTECTION": "Security patrol services contracted for premises protection during non-operational hours.",
+      "Building limit": "$0",
+      "building % Coinsurance": "0%",
+      "personal property valuation type": "$450,000 Replacement Cost",
+      "personal property limit": "450000",
+      "personal property % Coinsurance": "0%",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 SecureLock Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The business focuses solely on locksmith services without involvement in hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 SecureLock Solutions does not sponsor any athletic teams as part of its business operations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as it ensures risk transfer and accountability. Certificates are typically checked by the primary contractor or business owner.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 SecureLock Solutions has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes in connection with this or any other property. The business maintains a clean record and adheres to all legal and regulatory requirements.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 SecureLock Solutions has not had any policies or coverage declined, canceled, or non-renewed in the past three years. The business maintains a strong operational record and adheres to all necessary regulations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 SecureLock Solutions does not lease employees to or from other employers, as all our staff are directly employed and trained in-house to maintain quality and accountability in our services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 SecureLock Solutions does not currently carry workers' compensation insurance, which is a statutory requirement for businesses with employees. This policy needs to be in place before we can proceed with coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 SecureLock Solutions does not own or operate any other business, which helps maintain a focused and streamlined operation in locksmith services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 SecureLock Solutions does not have any other insurance policies with this company. The business primarily focuses on locksmith services and does not currently possess additional coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 SecureLock Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are solely focused on providing locksmith services, including lock installation, repair, and key duplication.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 SecureLock Solutions does not rent or loan equipment to others, ensuring all services are performed in-house for quality control and accountability. This practice aligns with our operational guidelines and regulatory compliance.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 SecureLock Solutions has maintained a clean financial record with no foreclosures, repossessions, bankruptcies, judgments, or liens within the past five years. This demonstrates the company's commitment to fiscal responsibility and stability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 SecureLock Solutions does not have any exposure to flammables, explosives, or chemicals. The business operations strictly focus on locksmith services, ensuring a safe and compliant environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 SecureLock Solutions does not have any catastrophe exposure as their Business Personal Property (BPP) is valued below the specified limit of $500,000, aligning with the program's requirements.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 SecureLock Solutions has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business has maintained a strong operational record without any such incidents.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 SecureLock Solutions currently has no uncorrected fire code violations, ensuring compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "SecureLock Solutions provided excellent service when I was locked out of my house. The technician arrived quickly and was very professional!",
+          "I had a great experience with SecureLock Solutions. They installed new locks at my office, and the team was efficient and friendly.",
+          "Highly recommend SecureLock Solutions! They duplicated my keys perfectly and at a reasonable price.",
+          "The staff at SecureLock Solutions were very knowledgeable and helped me choose the right locks for my home. Great customer service!",
+          "I called SecureLock Solutions for a lock repair, and they were prompt and effective. I will definitely use them again!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Business Personal Property (BPP) must be valued under $500,000."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Locksmiths",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Business Personal Property (BPP) must be valued under $500,000."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Business Personal Property (BPP) must be valued under $500,000.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business maintains a large inventory of specialized tools and equipment, which collectively exceeds a valuation of $500,000."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Locksmiths",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Business Personal Property (BPP) must be valued under $500,000."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: Business Personal Property (BPP) must be valued under $500,000. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Business Personal Property (BPP) must be valued under $500,000.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business maintains a large inventory of specialized tools and equipment, which collectively exceeds a valuation of $500,000."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

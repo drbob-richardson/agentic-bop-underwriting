@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Printing & Copying Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "PrintPro Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Print Lane, Suite 200, Print City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "BOP-GL-PRINT-2023",
+      "SIC": "2752",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At PrintPro Solutions, we specialize in providing a comprehensive range of printing and copying services tailored to meet the diverse needs of our clients. Our operations include digital and offset printing, large format printing, and high-quality copying services for both individuals and businesses. We utilize advanced equipment, all maintained under a strict preventive maintenance schedule, ensuring optimal performance and quality output.\n\nOur skilled team is trained in the latest industry practices, focusing on safety protocols particularly when handling inks and solvents, aligning with all regulatory compliance requirements. We also prioritize environmental responsibility by properly managing waste and minimizing hazardous material use, with dedicated safety controls in place. Cybersecurity is a vital aspect of our digital operations; hence, we maintain up-to-date cyber liability insurance and employ robust security measures.\n\nWith a commitment to exceptional customer service, we work closely with clients to understand their unique printing needs, delivering timely and high-quality products that enhance their brand presence. Whether it's promotional materials, business stationery, or specialty printing projects, PrintPro Solutions is your go-to partner for all printing and copying services.",
+      "DATE BUSINESS STARTED": "06/01/2019",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "9500.00",
+      "POLICY #": "P12345-2023",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "P98765-2023",
+      "TOTAL LOSSES": "$7,500",
+      "DESCRIPTION OF LOSSES": "Loss dates: 08/15/2023; Cause: Equipment malfunction during high-volume printing; Amount: $3,500; Status: Resolved and covered under maintenance agreement.",
+      "Combined Single Limit": "1,000,000 / 2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "1,000,000 / 1,000",
+      "Bodily Injury & Prop Damage Aggregate": "1,000,000 / 2,500",
+      "Medical Expense (per person)": "500",
+      "Damge to Rental Premises": "50,000 / 1,000",
+      "Professional Liability": "1,000,000 / 2,500",
+      "Liquor Liability": "1,000,000 / 2,500",
+      "Hired Auto": "1,000,000 / 1,000",
+      "Non-owned Auto": "1,000,000 / 1,000",
+      "Computers": "\"50,000 / 1,000\"",
+      "ordinence and law": "1,000,000 / 2,500",
+      "Flood": "500,000 / 1,000",
+      "accounts recievable": "250,000 / 2,500",
+      "employee dishonesty": "100,000 / 2,500",
+      "money and securities": "250,000 / 2,500",
+      "ADDRESS": "4567 Copy Circle, Suite 300, Print City, CA 90210-5678",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "08:00 AM - 06:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$125000",
+      "TOTAL PAYROLL": "320000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade A, Locked Safe for storing valuable documents and cash, fire-rated for 1 hour.",
+      "MONEY ON PREMISES": "5000.00",
+      "OTHER PROTECTION": "Fencing and security watchpersons are employed to ensure the safety and protection of our printing facility, deterring theft and unauthorized access.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 PrintPro Solutions does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The company prioritizes environmental responsibility and adheres to regulatory compliance requirements.",
+      "G2: Are athletic teams sponsored?": "No \u2013 PrintPro Solutions does not sponsor athletic teams. Our focus is primarily on providing quality printing and copying services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are required to provide a certificate of insurance. The certificates are typically checked by the project manager or designated compliance officer to ensure proper coverage is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 PrintPro Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a commitment to integrity and ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 PrintPro Solutions has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. All insurance matters have been handled without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 PrintPro Solutions does not lease employees to or from other employers, focusing solely on our in-house team for all operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 PrintPro Solutions carries Workers Compensation insurance, ensuring compliance with legal requirements and protecting our employees in the event of workplace injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 PrintPro Solutions does not own or operate any other business. Our focus is solely on providing printing and copying services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 PrintPro Solutions currently does not have any other insurance policies with this company. All insurance matters are handled through the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 PrintPro Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing printing and copying services using state-of-the-art equipment.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 PrintPro Solutions does not rent or loan equipment to others. Our focus is solely on providing in-house printing and copying services to our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 PrintPro Solutions has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The company maintains a stable financial position and has successfully managed its operations since inception.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 PrintPro Solutions does not have exposure to flammables, explosives, or chemicals in its operations, as we prioritize safety and adhere to all regulatory compliance requirements.",
+      "G14: Any catastrophe exposure?": "No \u2013 PrintPro Solutions does not have any significant exposure to catastrophes as its operations are conducted within a well-maintained and secure environment, minimizing related risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 PrintPro Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to ethical practices ensures compliance with all applicable regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 PrintPro Solutions currently has no uncorrected fire code violations, as we maintain compliance with all relevant fire safety regulations and conduct regular inspections to ensure the safety of our facility.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 7500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I was pleasantly surprised by the quality of prints I got here, especially since their vintage machines have been around for a while! The charm of the classic equipment really adds character to the prints, and the staff took such great care of everything.",
+          "I had a last-minute project, and they delivered on time without compromising quality. Highly recommend their services!",
+          "Great experience overall! The team was professional, and my copies came out perfect. Will definitely return for future needs.",
+          "I appreciate their attention to detail and quick turnaround. The prices are reasonable too!",
+          "The customer service at PrintPro Solutions is outstanding. They really take the time to understand your needs."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Coverage is restricted for businesses with equipment older than 15 years unless maintenance records demonstrate exceptional upkeep."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Coverage is restricted for businesses with equipment older than 15 years unless maintenance records demonstrate exceptional upkeep."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Printing & Copying Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is restricted for businesses with equipment older than 15 years unless maintenance records demonstrate exceptional upkeep."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Coverage is restricted for businesses with equipment older than 15 years unless maintenance records demonstrate exceptional upkeep. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data mentions 'vintage machines' which implies that some equipment may be older than 15 years, potentially violating the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Printing & Copying Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is restricted for businesses with equipment older than 15 years unless maintenance records demonstrate exceptional upkeep."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to equipment age exceeding 15 years without documented exceptional maintenance records.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Coverage is restricted for businesses with equipment older than 15 years unless maintenance records demonstrate exceptional upkeep. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data mentions 'vintage machines' which implies that some equipment may be older than 15 years, potentially violating the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

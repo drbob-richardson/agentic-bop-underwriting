@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Vacuum Cleaner Sales & Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Vacuum Haven",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "12345 Vacuum Way, Suite 100, Cleaning City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "\"12345\"",
+      "SIC": "5722",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Vacuum Haven specializes in the retail sale and service of both new and refurbished vacuum cleaners, providing a wide range of models from multiple reputable manufacturers. Our operations include a customer-friendly storefront where shoppers can explore various vacuum cleaner options, as well as a service department staffed with certified technicians who perform in-shop repairs and maintenance for residential and light commercial vacuum cleaners. We adhere strictly to safety protocols and local electrical regulations, ensuring that all staff are documented as receiving comprehensive safety and technical training. In addition, we offer a selection of high-quality accessories, filters, and replacement parts for vacuum cleaners, all sourced from reputable vendors with established quality controls to ensure customer satisfaction and safety. Our commitment to maintaining up-to-date business licenses and compliance with industry standards positions us as a trustworthy choice for all vacuum cleaner needs.",
+      "DATE BUSINESS STARTED": "01/15/2021",
+      "EFFECTIVE DATE": "02/01/2021",
+      "EXPIRATION DATE": "01/31/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "VH-2024001",
+      "OTHER BUSINESSES OWNED": "Cleaning Solutions Co. - a small business providing eco-friendly cleaning services and products.",
+      "PREVIOUS CARRIER": "Best Insurance Solutions Inc.",
+      "POLICY NUMBER": "VH-2023007",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Losses incurred due to a customer slipping and falling in the store on 03/15/2022, resulting in a medical claim of $1,200.00; claim is currently under review.",
+      "Combined Single Limit": "$1,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 with a $500 deductible",
+      "Damge to Rental Premises": "$100,000 with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 with a $1,000 deductible",
+      "Computers": "$50,000 with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 with a $1,000 deductible",
+      "Flood": "$250,000 with a $1,500 deductible",
+      "accounts recievable": "$100,000 with a $1,000 deductible",
+      "employee dishonesty": "$50,000 with a $1,000 deductible",
+      "money and securities": "\"$10,000 with a $1,000 deductible\"",
+      "ADDRESS": "45678 Cleaner Lane, Suite 200, Sparkle Town, CA 90211-4567",
+      "Year Built": "2015",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM - 6 PM; Saturday: 10 AM - 4 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$350,000.00",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Class B, Grade II, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "\"Onsite security presence during business hours to ensure customer safety and deter theft.\"",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Vacuum Haven does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business focuses solely on the retail sale and service of vacuum cleaners and related accessories.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Vacuum Haven does not sponsor any athletic teams as part of its operations. The business focuses solely on the retail and service of vacuum cleaners and related accessories.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Our team is responsible for checking the certificates to ensure compliance before any subcontractor work begins.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Vacuum Haven has not had any applicants indicted or convicted of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a strong commitment to ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Vacuum Haven has not had any policies or coverages declined, canceled, or non-renewed in the prior three years. The business maintains a positive insurance history with no adverse actions reported.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Vacuum Haven does not lease employees to or from other employers; we maintain our own staff dedicated to our retail and service operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Vacuum Haven carries Workers' Compensation insurance to ensure compliance with legal requirements and protect employees during work-related incidents. The policy is active and provides coverage for our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Vacuum Haven owns and operates another business, Cleaning Solutions Co., which provides eco-friendly cleaning services and products.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Vacuum Haven does not have any other insurance policies with the current company aside from the current policy listed. The focus is on retail and service operations related to vacuum cleaners.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Vacuum Haven is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business focuses solely on the retail sale and service of vacuum cleaners and related accessories.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Vacuum Haven does not rent or loan equipment to others; we focus solely on the retail sale and service of vacuum cleaners. This policy ensures that we maintain high standards of quality and customer safety.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Vacuum Haven has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Vacuum Haven does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on the retail sale and service of vacuum cleaners and related accessories. We adhere to strict safety protocols and regulations to ensure a safe environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Vacuum Haven does not have any catastrophe exposure as its operations are focused solely on retail and service of vacuum cleaners, with no involvement in high-risk activities. The business adheres to safety protocols and regulations to ensure a safe environment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Vacuum Haven has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a commitment to ethical practices and compliance with all applicable regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Vacuum Haven currently does not have any uncorrected fire code violations and adheres to all local fire safety regulations.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of vacuum cleaners! The staff was super helpful in finding the right model for my needs.",
+          "I had my vacuum serviced here, and they did an excellent job. It works like new again!",
+          "The prices are reasonable, and I appreciate their commitment to quality. Highly recommend!",
+          "I love that they offer both new and refurbished options. The staff is knowledgeable and friendly.",
+          "Fast service and a great warranty on their products. I will definitely be coming back for future purchases!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Vacuum Cleaner Sales & Service",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Vacuum Cleaner Sales & Service",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

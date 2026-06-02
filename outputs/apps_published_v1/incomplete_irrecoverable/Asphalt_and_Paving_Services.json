@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Asphalt & Paving Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Reliable Asphalt Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Paving Way, Suite 100, Asphalt City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, Reliable Asphalt Solutions, (555) 123-4567, john.smith@reliableasphalt.com",
+      "GL CODE": "56110",
+      "SIC": "1611",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "At Reliable Asphalt Solutions, we specialize in high-quality asphalt paving and repair services for both residential and commercial clients. Our operations include paving driveways, parking lots, and roadways, as well as repairing and maintaining existing asphalt surfaces. With a strong emphasis on safety, we conduct regular training for our team members on proper equipment use and safety protocols. Our fleet consists of modern, well-maintained equipment to ensure efficient project execution and reliable results. We pride ourselves on our solid vendor relationships for asphalt and aggregate supply, allowing us to complete projects on time and within budget. Additionally, we have implemented comprehensive project management systems to enhance scheduling and communication with clients. Our commitment to environmental compliance is reflected in our operations, as we strive to operate within all regulatory frameworks, minimizing our impact on the environment. Overall, we focus on delivering exceptional service while maintaining a dedication to safety and best practices in the asphalt paving industry.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$18,500.00",
+      "POLICY #": "RAP-2023-0012",
+      "OTHER BUSINESSES OWNED": "Asphalt Solutions Group, LLC, 4567 Paving Lane, Suite 200, Asphalt City, CA 90210-5678",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "RAP-2022-0005",
+      "TOTAL LOSSES": "$7,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 04/10/2022; Cause: Minor equipment malfunction during job at a residential site; Amount: $3,000; Status: Resolved.  \nLoss Date: 07/02/2022; Cause: Incident involving a subcontractor; Amount: $4,500; Status: Ongoing claim.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$25,000 / $1,000",
+      "ordinence and law": "$500,000 / $5,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "1234 Paving Way, Suite 100, Asphalt City, CA 90210-1234",
+      "Year Built": "2005",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "Monday to Friday, 7:00 AM to 5:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$600,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Standard Steel Safe, Class B, Fire Resistant",
+      "MONEY ON PREMISES": "$10,000",
+      "OTHER PROTECTION": "Fencing and security watchpersons employed at job sites to ensure site safety and prevent unauthorized access.",
+      "Building limit": "$984150",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. We focus solely on asphalt paving and repair services, adhering to all relevant safety and environmental regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams, as our primary focus is on providing asphalt paving and repair services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors must provide a certificate of insurance to work, and it is the responsibility of our compliance team to check these certificates to ensure proper coverage.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes involving any applicants connected to this property or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers. Our team is comprised of dedicated employees who work directly for Reliable Asphalt Solutions.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Reliable Asphalt Solutions carries Workers Compensation insurance to ensure coverage for our employees during work-related incidents. This policy is active and compliant with statutory requirements.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 We operate another business called Asphalt Solutions Group, LLC, which is located at 4567 Paving Lane, Suite 200, Asphalt City, CA 90210-5678.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We do not have any other insurance policies with this company at this time.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Reliable Asphalt Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products; our primary focus is on asphalt paving and repair services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others; our operations focus exclusively on providing asphalt paving and repair services using our own equipment.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There have been no foreclosures, repossessions, bankruptcies, judgments, or liens against Reliable Asphalt Solutions in the past five years. The company maintains a stable financial position and adheres to all obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Reliable Asphalt Solutions does not have any exposure to flammables, explosives, or chemicals as our operations are focused solely on asphalt paving and repair services that adhere to safety and environmental regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Reliable Asphalt Solutions does not have any catastrophe exposure as our operations are focused solely on asphalt paving and repair services, minimizing risks associated with major disasters.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Reliable Asphalt Solutions has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strict hiring practices and a commitment to a safe and inclusive work environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Reliable Asphalt Solutions currently has no uncorrected fire code violations. We maintain compliance with all fire safety regulations as part of our commitment to safety.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 7500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Reliable Asphalt Solutions did an excellent job on my driveway! The team was professional and completed the work on time.",
+          "I was impressed with the quality of the paving work. They used top-notch materials and the finish looks fantastic.",
+          "Great experience from start to finish! The staff was friendly and answered all my questions promptly.",
+          "They resurfaced our parking lot and it looks brand new. Highly recommend their services for any paving needs!",
+          "Efficient and reliable service. They kept me updated throughout the project and delivered exactly what they promised."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Applicants with a history of frequent or severe employee injury claims are subject to automatic referral or declination."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Asphalt & Paving Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Applicants with a history of frequent or severe employee injury claims are subject to automatic referral or declination."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any history of employee injury claims, and the third-party data indicates no claims over the past three years."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Asphalt & Paving Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Applicants with a history of frequent or severe employee injury claims are subject to automatic referral or declination."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to a history of frequent or severe employee injury claims, which is a clear violation of the specific restriction SPEC-1.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any history of employee injury claims, and the third-party data indicates no claims over the past three years."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

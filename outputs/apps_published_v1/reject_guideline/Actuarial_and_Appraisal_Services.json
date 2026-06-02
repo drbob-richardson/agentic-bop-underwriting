@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Actuarial & Appraisal Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Actuarial & Appraisal Services",
+      "FEIN OR SOC SEC #": "",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Main Street, Suite 400, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "N/A",
+      "GL CODE": "GL CODE: \"GQ-02\"",
+      "SIC": "8742",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Precision Actuarial & Appraisal Services specializes in providing comprehensive actuarial and appraisal services to a diverse range of industries. Our core operations include conducting detailed risk assessments, performing valuations for insurance and financial reporting, and offering expert consulting on regulatory compliance and risk management. We leverage advanced analytical techniques and industry-standard methodologies to ensure accurate and reliable results, all while adhering to stringent data security and privacy regulations. Our team is composed of certified actuaries and seasoned appraisers dedicated to maintaining the highest standards of professionalism and integrity in all client engagements. We are committed to transparency and thorough documentation, ensuring that all operational risks are disclosed and managed effectively.\n\nOur firm continues to address ongoing regulatory inquiries while actively providing actuarial and appraisal services to our clients, ensuring compliance and transparency in our operations.",
+      "DATE BUSINESS STARTED": "06/15/2016",
+      "EFFECTIVE DATE": "07/01/2023",
+      "EXPIRATION DATE": "07/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "REJECT-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "REJECT-002",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Coverage is restricted due to unresolved regulatory actions, no losses to report in the last five years.",
+      "Combined Single Limit": "Coverage is restricted due to unresolved regulatory actions.",
+      "Bodily Injury & Prop Damage Occurrrence": "Coverage is restricted due to unresolved regulatory actions.",
+      "Bodily Injury & Prop Damage Aggregate": "Coverage is restricted due to unresolved regulatory actions.",
+      "Medical Expense (per person)": "Coverage is restricted due to unresolved regulatory actions.",
+      "Damge to Rental Premises": "Coverage is restricted due to unresolved regulatory actions.",
+      "Professional Liability": "Coverage is restricted due to unresolved regulatory actions.",
+      "Liquor Liability": "Coverage is restricted due to unresolved regulatory actions.",
+      "Hired Auto": "Coverage is restricted due to unresolved regulatory actions.",
+      "Non-owned Auto": "Coverage is restricted due to unresolved regulatory actions.",
+      "Computers": "Coverage is restricted due to unresolved regulatory actions.",
+      "ordinence and law": "Coverage is restricted due to unresolved regulatory actions.",
+      "Flood": "Coverage is restricted due to unresolved regulatory actions.",
+      "accounts recievable": "Coverage is restricted due to unresolved regulatory actions.",
+      "employee dishonesty": "Coverage is restricted due to unresolved regulatory actions.",
+      "money and securities": "Coverage is restricted due to unresolved regulatory actions.",
+      "ADDRESS": "456 Elm Street, Suite 200, Springfield, IL 62701-4321",
+      "Year Built": "2005",
+      "Square Feet": "0.0",
+      "HOURS OF OPERATION": "Coverage is restricted due to unresolved regulatory actions.",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "Coverage is restricted due to unresolved regulatory actions.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "0.00",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Coverage is restricted due to unresolved regulatory actions.",
+      "MONEY ON PREMISES": "Coverage is restricted due to unresolved regulatory actions.",
+      "OTHER PROTECTION": "Coverage is restricted due to unresolved regulatory actions.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "Coverage is restricted due to unresolved regulatory actions.",
+      "personal property limit": "Coverage is restricted due to unresolved regulatory actions.",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Based on the information provided, there is no indication that past, present, or discontinued operations involve storing, treating, discharging, applying, disposing, or transporting hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Athletic teams are not sponsored by our organization. We focus exclusively on providing actuarial and appraisal services without involvement in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. These certificates are verified by our compliance team to ensure risk transfer is properly managed.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any crime related to fraud, bribery, or arson. However, coverage is restricted due to unresolved regulatory actions.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Coverage is restricted due to unresolved regulatory actions; there have been no policies declined, canceled, or non-renewed in the prior 3 years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Precision Actuarial & Appraisal Services does not lease employees to or from other employers, focusing solely on providing actuarial and appraisal services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Coverage is restricted for Precision Actuarial & Appraisal Services due to unresolved regulatory actions, which prevents the availability of Workers Compensation coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 Precision Actuarial & Appraisal Services does not own or operate any other business. The focus is solely on providing actuarial and appraisal services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Actuarial & Appraisal Services does not hold any other insurance policies with this company at this time. Coverage is restricted due to unresolved regulatory actions.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Precision Actuarial & Appraisal Services does not engage in manufacturing, mixing, relabeling, or repackaging of products, as our operations are strictly focused on providing actuarial and appraisal services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Precision Actuarial & Appraisal Services does not rent or loan equipment to others, as our operations primarily focus on providing actuarial and appraisal services without involvement in equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "Yes \u2013 The applicant has had a bankruptcy in the past five years, which is a relevant factor in determining coverage eligibility.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The organization does not have any exposure to flammables, explosives, or chemicals as its operations are focused solely on actuarial and appraisal services.",
+      "G14: Any catastrophe exposure?": "No \u2013 Coverage is restricted due to unresolved regulatory actions. These issues impact eligibility for insurance coverage related to catastrophe exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Coverage is restricted due to unresolved regulatory actions, and there have been no past claims or losses related to sexual abuse, molestation allegations, discrimination, or negligent hiring.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations reported; however, coverage is restricted due to unresolved regulatory actions.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 25,
+        "average_rating": 4.2,
+        "reviews": [
+          "Precision Actuarial & Appraisal Services provided exceptional support during our valuation process. Their team is knowledgeable and professional.",
+          "I was impressed with the thoroughness of their risk assessments. They really know their stuff!",
+          "Great experience working with Precision. They were responsive and delivered on time.",
+          "The consultants at Precision are top-notch. They helped us navigate complex regulatory requirements with ease.",
+          "Highly recommend Precision Actuarial & Appraisal Services for anyone needing reliable actuarial expertise. They exceeded our expectations!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Coverage is restricted for firms with unresolved or recent regulatory actions."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Actuarial & Appraisal Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is restricted for firms with unresolved or recent regulatory actions."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Coverage is restricted for firms with unresolved or recent regulatory actions.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the firm continues to address ongoing regulatory inquiries, indicating unresolved regulatory actions."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Actuarial & Appraisal Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is restricted for firms with unresolved or recent regulatory actions."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application rejected due to unresolved regulatory actions as per SPEC-1. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Coverage is restricted for firms with unresolved or recent regulatory actions.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the firm continues to address ongoing regulatory inquiries, indicating unresolved regulatory actions."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

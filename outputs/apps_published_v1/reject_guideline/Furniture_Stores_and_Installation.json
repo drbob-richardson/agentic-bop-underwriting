@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Furniture Stores & Installation",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Home & Harmony Furniture",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "1234 Harmony Blvd, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "N/A",
+      "GL CODE": "Reject",
+      "SIC": "5712",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Home & Harmony Furniture is a retail establishment specializing in a wide range of quality furniture for residential and commercial spaces. Our operations primarily involve the sale of ready-to-assemble and pre-assembled furniture, including sofas, dining sets, beds, and office furnishings. We focus on providing our customers with excellent service and knowledgeable staff who help guide their purchasing decisions. \n\nIn addition to our retail offerings, we provide delivery and installation services to ensure customer satisfaction. Our dedicated installation team comprises trained employees who adhere to strict safety protocols, thus minimizing any risks associated with the delivery process. We do not engage in any on-site woodworking, manufacturing, or refinishing operations, which helps us maintain a safer and more controlled environment.\n\nOur store operates from a secure, monitored facility equipped with fire sprinklers and compliance with all local zoning and fire regulations, ensuring the safety of our inventory and customers. We aim to create a pleasant shopping experience for our customers while upholding high standards of operational safety. \n\nWe do not specialize in creating custom pieces that involve on-site woodworking or refinishing to meet our customers' unique design preferences.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "N/A",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Home & Harmony Furniture Insurance Co.",
+      "POLICY NUMBER": "N/A",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported. Business operations do not involve on-site woodworking, manufacturing, or refinishing operations.",
+      "Combined Single Limit": "0.00",
+      "Bodily Injury & Prop Damage Occurrrence": "N/A",
+      "Bodily Injury & Prop Damage Aggregate": "N/A",
+      "Medical Expense (per person)": "0.00",
+      "Damge to Rental Premises": "0.00",
+      "Professional Liability": "reject",
+      "Liquor Liability": "reject",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "\"\"",
+      "ordinence and law": "{\"Limit\":\"$100,000\",\"Deductible\":\"$2,500\"}",
+      "Flood": "{\"Limit\":\"$0\",\"Deductible\":\"$0\"}",
+      "accounts recievable": "{\"Limit\":\"$0\",\"Deductible\":\"$0\"}",
+      "employee dishonesty": "{\"Limit\":\"$50,000\",\"Deductible\":\"$1,000\"}",
+      "money and securities": "{\"Limit\":\"$0\",\"Deductible\":\"$0\"}",
+      "ADDRESS": "1234 Harmony Blvd, Suite 100, Springfield, IL 62704-1234",
+      "Year Built": "2015",
+      "Square Feet": "10000.0",
+      "HOURS OF OPERATION": "10:00 AM - 6:00 PM, Monday to Saturday",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "Reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "0.00",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "0.00",
+      "OTHER PROTECTION": "N/A",
+      "Building limit": "$0",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "N/A",
+      "personal property limit": "0.00",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Home & Harmony Furniture does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials, and all operations comply with safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Home & Harmony Furniture does not sponsor athletic teams as part of its business operations. Our focus is primarily on retail furniture sales and customer service.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this helps to mitigate liability exposure. The certificates are typically checked by the business to ensure compliance with insurance requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Home & Harmony Furniture has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related offenses.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Home & Harmony Furniture has not had any policies or coverage declined, canceled, or non-renewed in the past three years. Our operations do not involve risks that typically lead to such actions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Home & Harmony Furniture does not lease employees to or from other employers, which aligns with our operations focused on retail furniture sales and employee-only installation services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Home & Harmony Furniture does not carry Workers' Compensation insurance as we do not engage in on-site woodworking, manufacturing, or refinishing operations, which is a requirement for coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 Home & Harmony Furniture does not own or operate any other business. Our operations are solely focused on retail furniture sales and related services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Home & Harmony Furniture does not have any other insurance policies with this company. Our operations do not involve on-site woodworking, manufacturing, or refinishing processes, which are outside the acceptable coverage scope.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Home & Harmony Furniture is not involved in any manufacturing, mixing, relabeling, or repackaging of products. Our operations are solely focused on retail sales and providing delivery and installation services without engaging in on-site woodworking or manufacturing activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Home & Harmony Furniture does not rent or loan equipment to others, which aligns with our operational focus on retail sales and client service without engaging in rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Home & Harmony Furniture has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Home & Harmony Furniture does not have any exposure to flammables, explosives, or chemicals as our operations do not include woodworking, manufacturing, or refinishing activities. Our focus is solely on retail and delivery services within a safe environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Home & Harmony Furniture does not engage in any activities that would expose the business to catastrophes, such as woodworking, manufacturing, or refinishing operations, ensuring a safer operational environment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Home & Harmony Furniture has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations are focused on providing quality furniture sales and services with a commitment to safety and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Home & Harmony Furniture does not have any uncorrected fire code violations, ensuring compliance with local regulations and maintaining a safe environment for customers and staff.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of furniture! The staff was incredibly helpful in finding exactly what I needed.",
+          "I love my new sofa! The delivery was prompt and the installation team was professional.",
+          "Home & Harmony Furniture has a fantastic range of styles. I found the perfect dining set for my home.",
+          "The quality of the furniture is impressive, and the prices are reasonable. Highly recommend!",
+          "Customer service was top-notch! They made the shopping experience enjoyable and stress-free."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Furniture Stores & Installation",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Intended to violate a guideline but the violation is not visible in the application or third-party data after generation.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business does not engage in on-site woodworking, manufacturing, or refinishing operations, and the third-party data does not provide any evidence of such activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Furniture Stores & Installation",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: No coverage for businesses with on-site woodworking, manufacturing, or refinishing operations.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Intended to violate a guideline but the violation is not visible in the application or third-party data after generation.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business does not engage in on-site woodworking, manufacturing, or refinishing operations, and the third-party data does not provide any evidence of such activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Heating & Refrigeration Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Climate Control Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Airflow Lane, Suite 100, Sacramento, CA 95814-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Senior HVAC Technician",
+      "GL CODE": "CGL-1234-5678",
+      "SIC": "1711",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Climate Control Solutions provides comprehensive heating, ventilation, and air conditioning (HVAC) services primarily for residential and light commercial clients. Our operations include system installation, routine maintenance, and emergency repair services, delivered by a team of certified and licensed technicians. We pride ourselves on adhering to the highest safety standards and environmental regulations, ensuring that our practices promote efficiency and sustainability. Our preventive maintenance programs are designed to reduce emergency callouts, extend equipment life, and enhance indoor air quality for our customers. We keep a fleet of well-maintained service vehicles equipped with the necessary tools and safety equipment to ensure prompt and reliable service. We do not engage in any manufacturing or substantial refrigeration work that could involve hazardous materials, ensuring compliance with all relevant safety and regulatory requirements.\n\nCompliance Confirmation: The business does not engage in ammonia-based or industrial refrigeration systems and confirms that all field technicians are fully certified and licensed for HVAC and refrigerant handling. Furthermore, we have no unresolved OSHA or EPA violations in the past three years, and there have been no major claims related to fire, explosion, or severe injury in the past five years.",
+      "DATE BUSINESS STARTED": "06/01/2018",
+      "EFFECTIVE DATE": "06/15/2023",
+      "EXPIRATION DATE": "06/14/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "CCS-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Affordable Insurance Group",
+      "POLICY NUMBER": "CCS-2022-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On March 15, 2023, while servicing a residential HVAC unit, a technician accidentally damaged the client's property, resulting in a repair cost of $1,200. The loss was settled and paid in full, with no further issues arising from the incident.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 limit with a $0 deductible.",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$25,000 limit with a $1,000 deductible",
+      "ordinence and law": "$500,000 limit with a $2,500 deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible",
+      "accounts recievable": "$500,000 limit with a $2,500 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "5678 Comfort Way, Suite 200, Sacramento, CA 95814-5678",
+      "Year Built": "2010",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 3:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$450,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class: Secured Storage, Grade: Standard, Label: Fire Resistant",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "24-hour on-site security guard services during high-risk operations.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 We do not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of our HVAC services, ensuring our compliance with all safety and regulatory requirements.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor any athletic teams as part of our business operations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The responsibility for checking certificates typically falls to the project manager or designated compliance officer within the company.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years. All past insurance inquiries have resulted in successful coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; all our team members are directly employed by Climate Control Solutions.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers\u2019 Compensation insurance as required for our employees, ensuring compliance with legal obligations and providing coverage for workplace injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 We do not own or operate any other business; all our operations are conducted under Climate Control Solutions.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We currently do not have any additional insurance policies with this company. Our only active policy is CCS-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products; our services are strictly focused on heating, ventilation, and air conditioning (HVAC) for residential and light commercial clients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others as part of our operations; all equipment is used solely for our internal service delivery.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, indicating financial stability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have any exposure to flammables, explosives, or chemicals as our operations are strictly focused on HVAC services, which do not involve handling such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Climate Control Solutions does not have any catastrophe exposure as our operations are focused on HVAC services without involvement in high-risk activities or hazardous materials.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our company maintains strict hiring practices and adheres to all regulatory requirements to ensure a safe and compliant workplace.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations reported for Climate Control Solutions, ensuring compliance with safety standards.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Climate Control Solutions provided excellent service when my AC broke down. The technician was prompt and very knowledgeable!",
+          "I had a great experience with their heating installation. The team was professional and left everything clean.",
+          "Their customer service is top-notch! They were quick to respond to my inquiry and scheduled my appointment right away.",
+          "I appreciate their preventive maintenance program. It has really helped keep my HVAC system running smoothly.",
+          "The technicians were friendly and explained everything clearly. I felt confident in their expertise during the repair."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No coverage for businesses primarily engaged in ammonia-based or industrial refrigeration systems.",
+        "All field technicians must be certified and licensed for HVAC and refrigerant handling.",
+        "No coverage for operations with unresolved OSHA or EPA violations in the past three years.",
+        "No coverage for businesses with major claims (fire, explosion, severe injury) in the past five years."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Heating & Refrigeration Services",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Heating & Refrigeration Services",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Heating & Refrigeration Services is valid and meets all necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

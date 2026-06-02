@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Stationery & Paper Products",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Paper Trail Stationery",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Paper Lane, Suite 4B, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, Paper Trail Stationery, 123 Paper Lane, Suite 4B, Springfield, IL 62704-1234, (555) 123-4567, john.smith@papertrailstationery.com",
+      "GL CODE": "GQ-12",
+      "SIC": "5112",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Paper Trail Stationery, we operate a retail stationery business specializing in a wide range of high-quality paper products, writing instruments, and office supplies. Our operations are based in a single physical location where we maintain standard business hours to serve our customers effectively. We offer a diverse selection of items, including notebooks, planners, art supplies, and craft materials, catering to both individual consumers and institutions like schools and businesses. Our inventory is managed using a robust system that ensures accurate tracking and stock audits, minimizing the risk of loss or mismanagement. Additionally, we engage in environmentally responsible practices, including a documented waste management and recycling program for our paper and packaging materials. We prioritize product safety by collaborating with reputable suppliers and implementing clear labeling and safety information, especially for products intended for children. Our commitment to customer service is reflected in regular staff training, enhancing both product knowledge and customer engagement. Overall, our operations are designed to provide a secure and pleasant shopping experience, supported by strong inventory management and community engagement initiatives.\n\nCompliance Confirmation: The business does not engage in the manufacturing or importing of stationery products without documented regulatory compliance and confirms that it exclusively operates within legal and ethical standards. Additionally, it does not sell any counterfeit or unlicensed branded products, nor does it store or handle large quantities of hazardous or flammable materials. Lastly, the business does not focus on rare manuscripts, collectibles, or high-value art, ensuring all activities align with accepted practices in the stationery and paper products industry.",
+      "DATE BUSINESS STARTED": "06/15/2018",
+      "EFFECTIVE DATE": "11/01/2023",
+      "EXPIRATION DATE": "11/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500.00",
+      "POLICY #": "PT-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Office Insurance Group",
+      "POLICY NUMBER": "PT-2022-045",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "Losses incurred due to water damage from a burst pipe on 03/12/2023, amounting to $10,000; currently in the process of resolution with the insurance company. Additionally, a theft incident on 08/22/2023 resulted in a loss of $5,000 worth of inventory; status is under investigation by law enforcement.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$250,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$20,000 / $1,000",
+      "ADDRESS": "123 Paper Lane, Suite 4B, Springfield, IL 62704-1234",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM to 6 PM; Saturday: 10 AM to 5 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Standard Security Safe, Class III, UL Rated",
+      "MONEY ON PREMISES": "1000.00",
+      "OTHER PROTECTION": "24/7 security monitoring with on-site personnel and periodic patrols.",
+      "Building limit": "$750000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We maintain a safe retail environment focused solely on stationery and paper products.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Paper Trail Stationery does not sponsor any athletic teams. Our focus is primarily on retail stationery and paper products.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are verified by our Operations Manager, John Smith.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Paper Trail Stationery has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related offenses. We maintain a commitment to ethical business practices and compliance with all legal standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior 3 years. Paper Trail Stationery maintains a good standing with its previous insurance provider.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Paper Trail Stationery does not lease employees to or from other employers. Our staffing is managed internally without reliance on lease agreements with other entities.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Paper Trail Stationery carries Workers' Compensation insurance as required for its employees, ensuring compliance with legal regulations and providing coverage for workplace injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Paper Trail Stationery does not own or operate any other businesses; our focus is solely on retail stationery and paper products.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Paper Trail Stationery currently does not have any other insurance policies with this company. The only existing policy is the one listed for the current coverage period.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Paper Trail Stationery does not engage in manufacturing, mixing, relabeling, or repackaging of products. Our operations are focused solely on the retail sale of stationery and paper products.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Paper Trail Stationery does not rent or loan equipment to others, as our operations focus solely on the retail sale of stationery and paper products. This helps us maintain a controlled and secure environment for our business.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Paper Trail Stationery has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, indicating stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Paper Trail Stationery does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on the retail sale of stationery and paper products. We maintain a safe environment for our customers and employees.",
+      "G14: Any catastrophe exposure?": "No \u2013 Paper Trail Stationery does not have any catastrophe exposure related to its operations. Our focus is solely on retailing stationery and paper products with appropriate safety measures in place.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Paper Trail Stationery has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a commitment to ethical practices and a safe working environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Paper Trail Stationery does not have any uncorrected fire code violations. We prioritize safety and compliance with all applicable fire codes.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of stationery! I found everything I needed for my office and more.",
+          "The staff is super helpful and knowledgeable. They helped me pick out the perfect planner.",
+          "I love the eco-friendly options they offer. It's nice to see a store that cares about the environment.",
+          "Prices are reasonable, and the quality of the products is excellent. Highly recommend!",
+          "A cozy little shop with a fantastic variety of paper products. I'll definitely be back!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.",
+        "No coverage for operations selling counterfeit or unlicensed branded products.",
+        "No acceptance of businesses storing or handling large quantities of hazardous or flammable materials.",
+        "No coverage for businesses with a primary focus on rare manuscripts, collectibles, or high-value art."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Stationery & Paper Products",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Stationery & Paper Products",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Paper Trail Stationery is valid and meets the acceptance criteria for stationery and paper products.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Delicatessens & Sandwich Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Gourmet Deli",
+      "FEIN OR SOC SEC #": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "123 Main St, Unit 4B, Anytown, NY 12345-6789",
+      "CONTACT FOR INSPECTION": "No open flame cooking or use of commercial-grade cooking equipment is permitted.",
+      "GL CODE": "GQ-12",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At The Gourmet Deli, we specialize in crafting delicious, made-to-order sandwiches and gourmet deli items using only pre-prepared ingredients. Our operations focus on food assembly rather than cooking; thus, we utilize only household-type appliances such as microwave ovens and toasters to ensure a safe food preparation environment. We are located in a vibrant, urban setting with easy access for our customers, and we prioritize sourcing all our ingredients from licensed and reputable vendors to guarantee quality and safety. Our team is trained in food safety protocols to minimize the risk of foodborne illness, and we strictly comply with all local health department regulations. To maintain a low-risk profile, we do not offer on-premises catering or serve alcoholic beverages. Our approach reflects a commitment to providing high-quality deli products while fostering a safe and compliant operational environment.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2020",
+      "EXPIRATION DATE": "01/15/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "TOTAL PREMIUM": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "POLICY #": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "OTHER BUSINESSES OWNED": "No other businesses owned or operated.",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported.",
+      "Combined Single Limit": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "Professional Liability": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "Liquor Liability": "REJECTED DUE TO RESTRICTION ON SALE OR SERVICE OF ALCOHOLIC BEVERAGES.",
+      "Hired Auto": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "Non-owned Auto": "REJECTED DUE TO RESTRICTION ON OWNERSHIP OR OPERATION OF DELIVERY VEHICLES.",
+      "Computers": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "ordinence and law": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "Flood": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "accounts recievable": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "employee dishonesty": "$10,000 / $1,000",
+      "money and securities": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "ADDRESS": "123 Main St, Unit 4B, Anytown, NY 12345-6789",
+      "Year Built": "1990",
+      "Square Feet": "500.0",
+      "HOURS OF OPERATION": "\"7:00 AM - 4:00 PM, Monday to Saturday\"",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$400000",
+      "TOTAL PAYROLL": "REJECTED DUE TO RESTRICTION ON COOKING EQUIPMENT.",
+      "NO. OF EMPLOYEES": "3",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B Safe, UL-listed, with combination lock, grade 1, for secure storage of cash and essential documents.",
+      "MONEY ON PREMISES": "$500",
+      "OTHER PROTECTION": "Security cameras installed in the premises to monitor activities and ensure safety.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0%",
+      "personal property valuation type": "Household-type appliance valuation",
+      "personal property limit": "$10,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Gourmet Deli does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Their operations focus solely on assembling pre-prepared food items, adhering to safety and compliance protocols.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Gourmet Deli does not sponsor athletic teams as our focus is solely on food assembly and compliance with safety standards.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this helps manage potential risks. Typically, the business owner or designated staff check these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. They have a commitment to maintaining a safe and compliant operational environment.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Gourmet Deli has not had any policies or coverage declined, canceled, or non-renewed in the past three years. They maintain compliance with operational guidelines and have no reported issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Gourmet Deli does not lease employees to or from other employers as our operations focus solely on food assembly without the need for employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The Gourmet Deli does not carry Workers Compensation coverage as it operates under specific restrictions that prohibit the use of commercial-grade cooking equipment, aligning with its focus on food assembly using household-type appliances.",
+      "G8: Do you own or operate any other business?": "No \u2013 The Gourmet Deli does not own or operate any other businesses. Their operations are solely focused on the delicatessen and sandwich shop services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Gourmet Deli does not have any other insurance with this company, as it operates strictly under the guidelines preventing the use of commercial-grade cooking equipment. Consequently, there are no relevant policies to list.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Gourmet Deli is not involved in manufacturing, mixing, relabeling, or repackaging of products, as operations focus solely on assembling pre-prepared food items. This ensures compliance with restrictions regarding cooking equipment and associated risks.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Gourmet Deli does not rent or loan equipment to others, as this practice is restricted to minimize liability risks associated with equipment usage.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, as indicated in their financial disclosures. They maintain a clean financial history, which aligns with their operational commitments.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Gourmet Deli does not have any exposure to flammables, explosives, or chemicals as it operates solely with household-type appliances for food assembly, adhering to all safety protocols.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Gourmet Deli does not have any catastrophe exposure as it strictly adheres to restrictions on cooking methods and employs only household-type appliances for food assembly. This operational model minimizes risks associated with fire and liability.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Gourmet Deli has had no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Their focus is on compliance and safety in food assembly operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Gourmet Deli has no uncorrected fire code violations, as they strictly adhere to safety protocols and regulations for operating without commercial-grade cooking equipment. They utilize only household-type appliances for food preparation.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Gourmet Deli offers a fantastic selection of sandwiches made with fresh ingredients. Highly recommend the turkey club!",
+          "I love the cozy atmosphere and the friendly staff. Their pre-prepared salads are a must-try!",
+          "Great place for a quick lunch! The sandwiches are always delicious and made to order.",
+          "I appreciate their commitment to food safety and quality. The ingredients are top-notch!",
+          "The Gourmet Deli is my go-to spot for a tasty sandwich. The service is quick and the staff is always welcoming."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No open flame cooking or use of commercial-grade cooking equipment is permitted."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Delicatessens & Sandwich Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No open flame cooking or use of commercial-grade cooking equipment is permitted."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Intended to violate a guideline but the violation is not visible in the application or third-party data after generation.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that no open flame cooking or commercial-grade cooking equipment is permitted, and the third-party data does not mention any cooking activities that would violate this rule."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Delicatessens & Sandwich Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No open flame cooking or use of commercial-grade cooking equipment is permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the restriction on open flame cooking or use of commercial-grade cooking equipment. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Intended to violate a guideline but the violation is not visible in the application or third-party data after generation.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that no open flame cooking or commercial-grade cooking equipment is permitted, and the third-party data does not mention any cooking activities that would violate this rule."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

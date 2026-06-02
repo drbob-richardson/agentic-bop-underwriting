@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Auto Services & Repair (including body shops)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Auto Repair & Body Shop",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Elm Street, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Doe, Shop Manager, Precision Auto Repair & Body Shop, (555) 123-4567",
+      "GL CODE": "12345",
+      "SIC": "7538",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Precision Auto Repair & Body Shop specializes in providing high-quality auto repair and maintenance services for private passenger vehicles. Our operations include routine services such as oil changes, tire rotations, brake inspections, and light mechanical repairs, ensuring that our customers' vehicles are well-maintained and safe to drive. Additionally, our body shop is equipped to handle cosmetic repairs and paintwork, performed by certified technicians in a controlled environment. We prioritize routine preventive maintenance to prolong vehicle life and enhance safety. Operating in a suburban location with low crime rates, we have effective inventory management practices and strong vendor relationships for parts supply to minimize operational delays. Our facilities comply with environmental regulations, and we ensure that our staff members have the required certifications and licenses as mandated by state law. Overall, our goal is to provide dependable, efficient services while maintaining the highest standards of quality and safety for our customers.\n\nCompliance Confirmation: The business does not engage in emergency or contract wrecker/towing services and confirms that light auto repair is limited solely to private passenger and pick-up vehicles. Additionally, brake work is conducted only as an incidental service to other repairs, and we maintain a minimum $500 property damage deductible per claim for any car wash exposure.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/16/2018",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$8,500.00",
+      "POLICY #": "PA-2023-0001",
+      "OTHER BUSINESSES OWNED": "Precision Car Wash",
+      "PREVIOUS CARRIER": "Precision Insurance Group",
+      "POLICY NUMBER": "PA-2022-0754",
+      "TOTAL LOSSES": "$25,000",
+      "DESCRIPTION OF LOSSES": "On 06/15/2022, a customer vehicle experienced damage due to an accidental drop of a tool from a lift during routine maintenance, resulting in an estimated loss of $10,000. The claim was processed successfully and is now resolved. On 01/20/2023, water damage occurred in the shop due to a burst pipe, leading to repairs costing $15,000. This claim is also resolved. Total losses amount to $25,000.",
+      "Combined Single Limit": "$1,000,000/$500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000/$500",
+      "Medical Expense (per person)": "$5,000/$500",
+      "Damge to Rental Premises": "$50,000/$1,000",
+      "Professional Liability": "$1,000,000/$1,000",
+      "Liquor Liability": "$1,000,000/$500",
+      "Hired Auto": "$1,000,000/$500",
+      "Non-owned Auto": "$1,000,000/$500",
+      "Computers": "$50,000/$1,000",
+      "ordinence and law": "$1,000,000/$1,000",
+      "Flood": "$250,000/$1,000",
+      "accounts recievable": "$100,000/$1,000",
+      "employee dishonesty": "$100,000/$1,000",
+      "money and securities": "$100,000/$1,000",
+      "ADDRESS": "4567 Maple Drive, Springfield, IL 62704-5678",
+      "Year Built": "1995",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM, Saturday: 8:00 AM - 4:00 PM, Closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$600000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Safe Class: UL 608, Grade: Group 1, Label: Fire Resistant",
+      "MONEY ON PREMISES": "$1,000.00",
+      "OTHER PROTECTION": "Secure, fenced parking lot with lighting and a watchperson on duty during operating hours.",
+      "Building limit": "$1093500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Precision Auto Repair & Body Shop does not engage in the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. Our operations involve routine maintenance and repairs for private passenger vehicles, which do not typically involve hazardous materials outside of standard automotive fluids in incidental quantities.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Precision Auto Repair & Body Shop sponsors local youth athletic teams to support community engagement and promote healthy activities for children.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The shop manager, John Doe, is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any other arson-related crime associated with any applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior 3 years. All policies have been maintained without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Precision Auto Repair & Body Shop does not lease employees to or from other employers; all employees are directly hired and employed by the shop.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Precision Auto Repair & Body Shop currently carries Workers' Compensation insurance as required for our employees to ensure compliance with state regulations.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Precision Auto Repair & Body Shop also owns and operates Precision Car Wash, which provides additional vehicle care services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Auto Repair & Body Shop does not have any other policies with this company at this time. The current policy is the only one held with them.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Precision Auto Repair & Body Shop is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing auto repair and maintenance services for private passenger vehicles.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Precision Auto Repair & Body Shop does not rent or loan equipment to others, as our operations focus solely on providing repair and maintenance services for private passenger vehicles.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Precision Auto Repair & Body Shop does not have any significant exposure to flammables, explosives, or chemicals beyond standard automotive fluids used in routine maintenance. Our operations are focused on providing safe and controlled auto repair services.",
+      "G14: Any catastrophe exposure?": "No \u2013 Precision Auto Repair & Body Shop does not have any catastrophe exposure, as our operations are focused on routine maintenance and repairs for private passenger vehicles in a suburban location. We prioritize safety and adhere to all relevant regulations to minimize risk.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Precision Auto Repair & Body Shop has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a strong commitment to compliance and ethical practices in our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Precision Auto Repair & Body Shop. The facility complies with all applicable fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 25000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Auto Repair provided excellent service! They fixed my car quickly and at a fair price.",
+          "I had a great experience at Precision Auto Repair. The staff was friendly and knowledgeable.",
+          "Highly recommend this shop! They did a fantastic job on my car's bodywork and paint.",
+          "I appreciate the honest advice from the team at Precision Auto Repair. They really care about their customers.",
+          "Fast, reliable, and affordable! I will definitely return for my next service."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Emergency or contract wrecker/towing services are prohibited.",
+        "Light auto repair is only acceptable for private passenger and pick-up type vehicles.",
+        "Brake work must be incidental to other repairs, not a primary service.",
+        "Minimum $500 property damage deductible per claim is required for any car wash exposure."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Auto Services & Repair (including body shops)",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Auto Services & Repair (including body shops)",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Precision Auto Repair & Body Shop is valid and meets all necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

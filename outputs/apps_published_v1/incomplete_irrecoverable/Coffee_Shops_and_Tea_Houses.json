@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Coffee Shops & Tea Houses",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Daily Brew",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Coffee Lane, Brewtown, NY 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith, Manager, 123 Coffee Lane, Brewtown, NY 12345-6789, (555) 123-4567",
+      "GL CODE": "\"7381\"",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At The Daily Brew, we operate a cozy coffee shop dedicated to providing a warm ambiance for our customers to enjoy freshly brewed coffee, premium teas, and light snacks. Our establishment features seating for up to 150 patrons, allowing for a comfortable social experience. We do not serve alcohol, which helps us maintain a focus on comforting beverages and reduces any associated liability risks. \n\nOur team is trained in food safety practices, minimizing instances of foodborne illness while ensuring the quality of each beverage and snack served. We pride ourselves on maintaining a clean and well-organized environment, adhering to all local health, safety, and zoning regulations. Our hours of operation are continuous throughout the year, with no extended closures beyond 30 consecutive days, ensuring a consistent experience for our guests. \n\nAdditionally, we utilize strong fire safety protocols, such as regular inspections and compliance measures, to create a safe space for everyone. Our menu frequently adjusts to incorporate seasonal offerings, maintaining an engaging experience for both regular and new customers. Overall, The Daily Brew is a welcoming coffee destination that prioritizes quality, safety, and community engagement.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "4500.00",
+      "POLICY #": "DBR-2023-001A",
+      "OTHER BUSINESSES OWNED": "Coffee Dreams LLC, a bakery and caf\u00e9 located nearby, specializing in artisanal pastries and light lunch options.",
+      "PREVIOUS CARRIER": "Java Coffee Insurance Company",
+      "POLICY NUMBER": "DBR-2022-002B",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "On 02/12/2023, a burst pipe in the kitchen caused significant water damage to the flooring and equipment, resulting in estimated repair costs of $8,000. The status of this claim is currently open, pending assessment by insurance. Additionally, on 05/05/2023, a coffee machine malfunctioned, causing minor burns to a staff member and resulting in medical expenses totaling $7,000. This claim has been settled and closed as of 06/10/2023.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $2,500 deductible",
+      "Liquor Liability": "N/A",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$25,000 limit with a $500 deductible",
+      "ordinence and law": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$10,000 limit with a $250 deductible",
+      "ADDRESS": "456 Brew Street, Brewtown, NY 12345-6789",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "6:00 AM - 8:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B Safe, UL Listed, Grade 1.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Security cameras and motion sensors installed throughout the premises for enhanced safety and theft prevention.",
+      "Building limit": "$7500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Daily Brew does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The establishment focuses solely on serving coffee, tea, and light snacks.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Daily Brew does not sponsor athletic teams, focusing instead on providing a welcoming environment for customers enjoying coffee and light snacks.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the management or designated personnel within the establishment.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years for The Daily Brew.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Daily Brew does not lease employees to or from other employers, as we maintain our own staffing to ensure consistent service and quality.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 The Daily Brew carries workers' compensation insurance, ensuring all employees are covered in accordance with legal requirements. This helps protect both the business and its staff in the event of a workplace incident.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The Daily Brew also owns and operates Coffee Dreams LLC, a nearby bakery and caf\u00e9 that specializes in artisanal pastries and light lunch options.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Daily Brew does not have any other insurance policies with this company at this time.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Daily Brew is not involved in manufacturing, mixing, relabeling, or repackaging products. Our operations focus solely on providing brewed beverages and light snacks to our customers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Daily Brew does not rent or loan equipment to others, ensuring we maintain full control over our operational standards and safety protocols.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Their financial standing appears to be stable based on the provided information.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Daily Brew does not have any exposure to flammables, explosives, or chemicals, as our operations solely focus on serving brewed beverages, teas, and light snacks without the use of hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Daily Brew does not have any catastrophe exposure, as its operations are conducted in a safe environment without involvement in high-risk activities that could lead to significant disaster scenarios.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring for The Daily Brew. The establishment prioritizes a safe and welcoming environment for all customers and employees.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at The Daily Brew, as the establishment adheres to all fire safety protocols and maintains compliance measures.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Daily Brew is my go-to spot for a cozy coffee experience! The atmosphere is warm and inviting, perfect for catching up with friends.",
+          "I love their seasonal drinks! The pumpkin spice latte was delicious and the staff is always friendly.",
+          "Great place to relax with a book and a cup of tea. The selection of teas is impressive, and the staff is knowledgeable.",
+          "The Daily Brew has a fantastic vibe! I appreciate their commitment to cleanliness and safety, making it a comfortable place to enjoy my coffee.",
+          "I highly recommend their pastries! They pair perfectly with the freshly brewed coffee, making for a delightful breakfast."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Maximum total floor area is 7,500 square feet."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Coffee Shops & Tea Houses",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Maximum total floor area is 7,500 square feet."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application states the total square footage is 3000 square feet, which does not violate the maximum floor area rule, and the third-party data does not provide any indication of a violation."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Coffee Shops & Tea Houses",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Maximum total floor area is 7,500 square feet."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the violation of the rule: Maximum total floor area is 7,500 square feet.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application states the total square footage is 3000 square feet, which does not violate the maximum floor area rule, and the third-party data does not provide any indication of a violation."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

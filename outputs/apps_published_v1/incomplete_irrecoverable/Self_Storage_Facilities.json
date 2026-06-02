@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Self Storage Facilities",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "SecureSpace Storage Solutions",
+      "FEIN OR SOC SEC #": "20-5555555",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Storage Lane, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Facility Manager, 555-0123, johndoe@securespace.com",
+      "GL CODE": "12345",
+      "SIC": "4225",
+      "NATURE OF BUSINESS": "FILL IN OTHER",
+      "DESCRIPTION OF OPERATIONS": "SecureSpace Storage Solutions operates a state-of-the-art self-storage facility dedicated to providing clients with secure and convenient storage solutions. Our facility features single-story and two-story units with controlled access systems, including electronic gate entry and 24/7 surveillance cameras, ensuring robust security for stored items. We adhere to strict safety protocols and comply with all local building codes, including the National Fire Protection Association (NFPA) standards. \n\nEach storage unit is regularly inspected and maintained to ensure cleanliness and safety, with on-site or contracted security personnel present at all times to deter theft and vandalism. \n\nWe also offer climate-controlled units for temperature-sensitive items and maintain a retail area for packing supplies, such as boxes and tape, catering to customer needs. Our operations utilize an online platform to enhance customer interaction, streamline payments, and manage rental agreements effectively. Each portable storage unit is documented, with compliance to safety regulations enforced, ensuring a solid commitment to operational excellence and customer satisfaction.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2020",
+      "EXPIRATION DATE": "02/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "SS2020-0001",
+      "OTHER BUSINESSES OWNED": "\"SecureSpace Packing Supplies LLC\"",
+      "PREVIOUS CARRIER": "Safe Storage Insurance Group",
+      "POLICY NUMBER": "SS2020-0002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On January 5, 2023, a water leak from a nearby property caused damage to three storage units, resulting in a loss of $2,500. The claim was reported and filed with our insurance provider, and the status is currently under review for approval.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$500,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "5678 Secure Way, Unit 200, Springfield, IL 62704-1235",
+      "Year Built": "2015",
+      "Square Feet": "10000.0",
+      "HOURS OF OPERATION": "24/7",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "State-of-the-art secure storage vaults with UL-rated fire protection and climate control systems, designed to ensure the safety and integrity of all stored items.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "On-site security personnel present 24/7, electronic gate entry system, and continuous surveillance cameras.",
+      "Building limit": "$70",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 SecureSpace Storage Solutions does not engage in any operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. We prioritize safety by prohibiting the storage of flammable, explosive, or toxic substances.",
+      "G2: Are athletic teams sponsored?": "No \u2013 SecureSpace Storage Solutions does not sponsor any athletic teams as part of its business operations. The focus is primarily on providing secure storage solutions.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The facility manager, John Doe, checks the certificates to ensure compliance with insurance requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any other arson-related crime in connection with this or any other property for any applicant associated with SecureSpace Storage Solutions.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years for SecureSpace Storage Solutions. Our operations have maintained compliance with all insurance requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 SecureSpace Storage Solutions does not lease employees to or from other employers, ensuring a stable and consistent workforce dedicated to our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 SecureSpace Storage Solutions carries Workers' Compensation insurance as part of its operational compliance, ensuring protection for all employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 SecureSpace Storage Solutions also owns and operates \"SecureSpace Packing Supplies LLC,\" providing additional services to our customers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 SecureSpace Storage Solutions currently does not hold any additional insurance policies with this company. Our focus is on the existing policy to ensure comprehensive coverage for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 SecureSpace Storage Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on providing secure self-storage solutions.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 SecureSpace Storage Solutions does not rent or loan equipment to others, as our operations focus solely on providing self-storage services while ensuring the safety and security of our customers' belongings.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 SecureSpace Storage Solutions has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. We maintain a stable financial status to support our operations effectively.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 SecureSpace Storage Solutions does not have any exposure to flammables, explosives, or chemicals, as we strictly prohibit the storage of such materials to ensure the safety and security of our facility and customers.",
+      "G14: Any catastrophe exposure?": "No \u2013 SecureSpace Storage Solutions does not have any catastrophe exposure. The facility adheres to all safety regulations and does not store hazardous materials, minimizing risk.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 SecureSpace Storage Solutions has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The facility prioritizes compliance with all regulations to maintain a safe and professional environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 SecureSpace Storage Solutions has no uncorrected fire code violations, as we adhere to strict fire safety protocols and comply with all local building codes.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "SecureSpace Storage Solutions has been a lifesaver for my moving process! The staff is friendly and the facility is clean and secure.",
+          "I love the 24/7 access and the peace of mind knowing my belongings are safe. Highly recommend this storage facility!",
+          "The climate-controlled units are perfect for my sensitive items. Great service and very professional staff!",
+          "I appreciate the convenience of online payments and the helpful packing supplies available on-site. A great experience overall!",
+          "The security features here are top-notch. I feel confident leaving my things at SecureSpace Storage Solutions."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No storage of flammable, explosive, or toxic substances without proper endorsements."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Self Storage Facilities",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No storage of flammable, explosive, or toxic substances without proper endorsements."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application explicitly states that SecureSpace Storage Solutions does not engage in storing flammable, explosive, or toxic substances, and the third-party data does not mention any such activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Self Storage Facilities",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No storage of flammable, explosive, or toxic substances without proper endorsements."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No storage of flammable, explosive, or toxic substances without proper endorsements.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application explicitly states that SecureSpace Storage Solutions does not engage in storing flammable, explosive, or toxic substances, and the third-party data does not mention any such activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

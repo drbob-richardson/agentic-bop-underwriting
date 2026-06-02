@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Clubs & Recreation Facilities",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Active Lifestyle Club",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Active Way, Suite 200, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Facility Manager, 123 Active Way, Springfield, IL 62704, (555) 123-4567, john.smith@activelifestyle.com",
+      "GL CODE": "123456789",
+      "SIC": "7999",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Active Lifestyle Club is a premier recreation facility dedicated to promoting health and wellness within our community. We operate a variety of moderate-risk activities, including golf, swimming, tennis, and bowling, within our facility. The club prioritizes the safety and satisfaction of our members by maintaining comprehensive security measures, such as controlled access and surveillance systems.\n\nTo ensure a safe and enjoyable environment, our operations are supported by a documented maintenance program and staff training protocols focused on safety, emergency response, and customer service. We emphasize compliance with local health and safety regulations and have established strict controls for any associated food and beverage services, ensuring our staff are trained and adhere to all applicable laws.\n\nIn addition to our core activities, we are actively involved in community engagement through well-supervised programs catering to families and various age groups, fostering a positive atmosphere. Our financial management practices assure stability, allowing us to continue providing quality recreational services while managing potential risks associated with offered activities.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "ALC-2023-001",
+      "OTHER BUSINESSES OWNED": "Active Lifestyle Fitness Center",
+      "PREVIOUS CARRIER": "FitLife Insurance Company",
+      "POLICY NUMBER": "ALC-2022-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 05/15/2022, Cause: Slip and fall accident in the gym area due to a wet floor, Amount: $1,500.00, Status: Closed. Loss Date: 03/10/2023, Cause: Minor property damage from a maintenance issue with a leaking pipe, Amount: $1,000.00, Status: Closed.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $5,000",
+      "Non-owned Auto": "$1,000,000 / $5,000",
+      "Computers": "$25,000 / $500",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "123 Active Way, Springfield, IL 62704-5678",
+      "Year Built": "2005",
+      "Square Feet": "25000.0",
+      "HOURS OF OPERATION": "6:00 AM - 10:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$480,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 5, Grade II, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Comprehensive security system with fencing and regular patrols by trained watchpersons.",
+      "Building limit": "$15000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Active Lifestyle Club does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus on moderate-risk recreational activities within a safe and controlled environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Active Lifestyle Club does not sponsor any athletic teams. Our focus is primarily on recreational activities and community engagement programs.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The facility manager is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Active Lifestyle Club has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance history has been steady and compliant with industry standards.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Active Lifestyle Club does not lease employees to or from other employers, as all staff are directly employed by the club. This arrangement allows us to maintain consistent training and operational protocols.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 The Active Lifestyle Club carries Workers' Compensation insurance to ensure compliance with legal requirements and to protect both the employees and the business.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The Active Lifestyle Club also operates the Active Lifestyle Fitness Center, which focuses on health and fitness activities. Both businesses aim to promote wellness within the community.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Active Lifestyle Club does not have any other insurance policies with this company. The current policy is sufficient for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Active Lifestyle Club is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing recreational activities and services to our members.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Active Lifestyle Club does not rent or loan equipment to others, as we focus on providing recreational activities exclusively for our members within our facility.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, indicating stable financial management.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Active Lifestyle Club does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on moderate-risk recreational activities in a safe environment. We maintain strict safety protocols to ensure the well-being of our members and staff.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Active Lifestyle Club does not have any known catastrophe exposure as our operations are conducted in a safe environment, focusing on moderate-risk activities without any significant risks associated with catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Active Lifestyle Club has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to a safe and respectful environment is a top priority.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Active Lifestyle Club has no uncorrected fire code violations, ensuring compliance with all safety regulations within the facility.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Active Lifestyle Club is a fantastic place to stay fit and have fun! The facilities are well-maintained and the staff is always friendly.",
+          "I love the variety of activities available here, from swimming to tennis. It's a great community atmosphere!",
+          "The security measures in place make me feel safe while I work out. Highly recommend this club for anyone looking to stay active.",
+          "The staff is knowledgeable and always willing to help. The classes are engaging and cater to all fitness levels.",
+          "I appreciate the cleanliness and organization of the facility. It's a great place for families to enjoy recreational activities together."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Clubs must own or lease the buildings or premises used for their operations."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Clubs & Recreation Facilities",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Clubs must own or lease the buildings or premises used for their operations."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention ownership or leasing of the premises, and the third-party data does not provide any information regarding the ownership or leasing status of the facility."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Clubs & Recreation Facilities",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Clubs must own or lease the buildings or premises used for their operations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Clubs must own or lease the buildings or premises used for their operations.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention ownership or leasing of the premises, and the third-party data does not provide any information regarding the ownership or leasing status of the facility."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

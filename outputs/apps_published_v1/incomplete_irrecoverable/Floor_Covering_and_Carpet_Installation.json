@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Floor Covering & Carpet Installation",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Flooring Solutions Co.",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Flooring Lane, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "12345",
+      "SIC": "1752",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Flooring Solutions Co., we specialize in the installation of residential and light commercial flooring, including carpet, hardwood, laminate, and vinyl. Our operations encompass a thorough process that begins with assessing client needs, providing material selections, and executing installations using only pre-manufactured and non-toxic flooring materials sourced from certified suppliers. We ensure that all employees are adequately trained and that safety protocols are adhered to on every job site. \n\nAdditionally, we are committed to maintaining compliance with all legal requirements, including having the necessary licenses and worker's compensation policies in place. Our team also conducts post-installation inspections to guarantee quality, while customer satisfaction is paramount, and we provide warranties for both workmanship and materials. We utilize secure digital systems for scheduling and invoicing and fully align with industry best practices to mitigate potential risks.",
+      "DATE BUSINESS STARTED": "01/15/2022",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "FLR-2023-001",
+      "OTHER BUSINESSES OWNED": "Residential Flooring Solutions LLC, a subsidiary focused on eco-friendly flooring alternatives.",
+      "PREVIOUS CARRIER": "Surety Insurance Group",
+      "POLICY NUMBER": "FLR-2022-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss dates: 01/10/2023; Cause: Damage during installation of residential carpet due to improper securing of materials; Amount: $1,200; Status: Resolved.",
+      "Combined Single Limit": "$1,000,000/$2,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000 with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $4,000,000 with a $2,500 deductible.",
+      "Medical Expense (per person)": "$5,000 / $1,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,000 deductible",
+      "Liquor Liability": "$1,000,000 / $2,500 deductible",
+      "Hired Auto": "$1,000,000 / $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 / $1,000 deductible",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500 deductible",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$25,000 / $500",
+      "ADDRESS": "5678 Flooring Blvd, Suite 200, Springfield, IL 62704",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday - Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 3:00 PM; Sunday: Closed",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$400,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class II, Grade A, Fire-Resistant Label",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security personnel present at job sites to oversee installations and enhance safety protocols.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "75",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Flooring Solutions Co. does not store, treat, discharge, apply, dispose, or transport hazardous materials. Our operations strictly involve the installation of pre-manufactured, non-toxic flooring materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Flooring Solutions Co. does not sponsor any athletic teams as part of their business operations. Their focus is primarily on flooring installation services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The main contractor's team is responsible for checking and verifying these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Flooring Solutions Co. has not had any policy or coverage declined, canceled, or non-renewed in the past three years. Their existing coverage is active and properly maintained.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Flooring Solutions Co. does not lease employees to or from other employers; all employees are directly hired and engaged by the company for its operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Flooring Solutions Co. carries Workers\u2019 Compensation coverage for all employees, ensuring compliance with legal requirements and providing necessary protections for both the company and its workforce.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Flooring Solutions Co. owns and operates a subsidiary called Residential Flooring Solutions LLC, which focuses on eco-friendly flooring alternatives.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Flooring Solutions Co. does not have any other insurance policies with this company currently listed. Their focus is on their existing policy for flooring installation services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Flooring Solutions Co. does not engage in manufacturing, mixing, relabeling, or repackaging of products; our operations are strictly limited to the installation of pre-manufactured flooring materials.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Flooring Solutions Co. does not rent or loan equipment to others; our operations are focused solely on installing flooring for our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Flooring Solutions Co. has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a stable financial status.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Flooring Solutions Co. does not have any exposure to flammables, explosives, or chemicals. Our operations strictly involve the installation of non-toxic flooring materials with no hazardous substances involved.",
+      "G14: Any catastrophe exposure?": "No \u2013 Flooring Solutions Co. does not have any catastrophe exposure as our operations are strictly focused on the installation of pre-manufactured, non-toxic flooring materials, and we do not engage in high-risk activities or services.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Flooring Solutions Co. has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company's operations and hiring practices align with industry standards to minimize risk in these areas.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Flooring Solutions Co. has no uncorrected fire code violations and ensures compliance with all fire safety regulations as part of their operations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Flooring Solutions Co. did an amazing job installing our new hardwood floors! The team was professional and efficient.",
+          "I highly recommend Flooring Solutions Co. for carpet installation. They were prompt, and the quality of work exceeded my expectations.",
+          "Great experience with Flooring Solutions! They helped me choose the perfect vinyl flooring for my kitchen, and the installation was seamless.",
+          "The staff at Flooring Solutions Co. were knowledgeable and friendly. My new laminate floors look fantastic!",
+          "I was impressed with the attention to detail during the installation process. Flooring Solutions Co. truly cares about their customers."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for installation or disturbance of hazardous materials such as asbestos or lead."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Floor Covering & Carpet Installation",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for installation or disturbance of hazardous materials such as asbestos or lead."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business installs only pre-manufactured and non-toxic flooring materials, and the third-party data does not mention any hazardous materials."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Floor Covering & Carpet Installation",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for installation or disturbance of hazardous materials such as asbestos or lead."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: No coverage for installation or disturbance of hazardous materials such as asbestos or lead.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business installs only pre-manufactured and non-toxic flooring materials, and the third-party data does not mention any hazardous materials."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

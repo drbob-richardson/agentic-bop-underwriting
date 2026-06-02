@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Auto Services & Repair (including body shops)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Auto Repair & Body Shop",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "96040",
+      "SIC": "7538",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Precision Auto Repair & Body Shop, we specialize in providing high-quality automotive repair and maintenance services primarily for private passenger vehicles. Our operations include routine services such as oil changes, tire rotations, and brake inspections, all performed by certified mechanics in a safe and controlled environment. Our body shop is equipped to handle cosmetic repairs and paintwork efficiently, ensuring each vehicle meets our high standards of quality. We are committed to environmentally compliant waste disposal practices and maintaining a secure facility to protect vehicles and parts. With a focus on customer satisfaction and safety, we operate by appointment to manage workflow effectively, providing reliable service to our valued local clientele.",
+      "DATE BUSINESS STARTED": "03/15/2015",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "P123456789",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "State Farm Auto Insurance",
+      "POLICY NUMBER": "P987654321",
+      "TOTAL LOSSES": "$3,200",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, a customer vehicle was accidentally damaged while being moved within the shop; the repair cost was $1,200. The claim is processed and settled. On April 15, 2023, a minor electrical fire occurred due to an equipment malfunction, resulting in $2,000 in damages. The incident was addressed, and safety protocols were reviewed; the status is closed.",
+      "Combined Single Limit": "$1,000,000 / $500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "456 Oak Street, Springfield, IL 62704-5678",
+      "Year Built": "2005",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "Monday to Friday, 8:00 AM to 6:00 PM; Saturday 9:00 AM to 3:00 PM; Closed on Sundays.",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Heavy-duty safe with UL-rated security, Grade 1.",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Security fencing and 24-hour video surveillance system.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 We do not currently store, treat, discharge, apply, dispose of, or transport hazardous materials as part of our operations. Our focus is primarily on automotive repair and maintenance for private passenger vehicles, with environmentally compliant practices in place.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 We sponsor local athletic teams as part of our community engagement efforts to promote healthy lifestyles and support youth activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the management team to ensure compliance and adequate risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages that were declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers. All our staff members are directly employed by Precision Auto Repair & Body Shop.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers' Compensation insurance to ensure compliance with legal requirements and to provide coverage for our employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 We do not own or operate any other businesses. Our focus is solely on Precision Auto Repair & Body Shop, specializing in automotive repair and maintenance for private passenger vehicles.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Auto Repair & Body Shop does not have any other insurance policies with this company at this time. Currently, they are insured under one policy number only.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on automotive repair and maintenance services for private passenger vehicles.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others, as our operations focus exclusively on providing automotive repair and maintenance services for our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have any exposure to flammables, explosives, or chemicals as our operations primarily focus on routine automotive repair and maintenance for private passenger vehicles, utilizing safe and compliant practices.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any catastrophe exposure as our operations are focused solely on automotive repair and maintenance for private passenger vehicles, and we maintain a controlled and secure environment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations have a strong focus on safety and compliance, ensuring a professional environment for all employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations. We are committed to maintaining a safe environment and ensuring compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 3200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Auto Repair provided excellent service! They fixed my car quickly and at a fair price.",
+          "I had a great experience at Precision Auto Repair. The staff was friendly and knowledgeable.",
+          "Highly recommend this shop! They did a fantastic job on my vehicle's bodywork.",
+          "The team at Precision Auto Repair is professional and efficient. I will definitely return for future services.",
+          "I appreciate their honesty and transparency. They explained everything clearly and didn't try to upsell me."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Emergency or contract wrecker/towing services are prohibited."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Auto Services & Repair (including body shops)",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Emergency or contract wrecker/towing services are prohibited."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any wrecker or towing services, and the third-party data does not indicate any such activities either."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Auto Services & Repair (including body shops)",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Emergency or contract wrecker/towing services are prohibited."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: Emergency or contract wrecker/towing services are prohibited.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any wrecker or towing services, and the third-party data does not indicate any such activities either."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

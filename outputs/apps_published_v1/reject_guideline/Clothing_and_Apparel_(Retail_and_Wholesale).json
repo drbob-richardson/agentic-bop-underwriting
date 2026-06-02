@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Clothing & Apparel (Retail & Wholesale)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Trendy Threads Boutique",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Fashion Ave, Suite 100, New York, NY 10001-1200",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, Trendy Threads Boutique, 123 Fashion Ave, Suite 100, New York, NY 10001-1200, (555) 123-4567, john.smith@trendythreads.com",
+      "GL CODE": "RETAIL-GL-2023-001",
+      "SIC": "reject",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Trendy Threads Boutique operates as a retail and wholesale clothing store, specializing in fashionable apparel and accessories for men, women, and children. Our operations primarily involve purchasing high-quality clothing directly from manufacturers and wholesalers, which we then sell through our trendy physical store located in an upscale shopping district. We manage our inventory value to remain below $500,000 to mitigate the risk of theft and loss claims. The business strategy includes a balanced approach to sales, with online sales constituting less than 75% of our total revenue, thereby minimizing our exposure to cyber and fulfillment risks. We are committed to maintaining top-notch customer service, and our knowledgeable staff assists customers in finding styles that suit their needs. Additionally, we ensure compliance with all relevant regulations and safety standards to provide a secure shopping experience for our clients.\n\nOur clothing and apparel store regularly maintains an inventory value exceeding $500,000 to offer a wide range of products to our customers, ensuring they have access to the latest styles and trends.",
+      "DATE BUSINESS STARTED": "04/15/2020",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "01/01/2025",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "{\"mode\":\"reject\",\"ChosenRejectReason\":{\"rule_id\":\"SPEC-1\",\"reason\":\"Inventory value should be at or below $500,000 unless a central alarm system is installed.\"}}",
+      "POLICY #": "POLICY-TRNDY-2024-001",
+      "OTHER BUSINESSES OWNED": "\"None; maintains focus on core retail operations with inventory managed below compliance thresholds.\"",
+      "PREVIOUS CARRIER": "Trendy Insurance Group",
+      "POLICY NUMBER": "POLICY-TRNDY-2024-001",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "\"None; no reported losses. Inventory managed below compliance thresholds, ensuring minimal exposure to theft and loss claims.\"",
+      "Combined Single Limit": "reject",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "\"Limit: $0; Deductible: $0\"",
+      "Professional Liability": "reject",
+      "Liquor Liability": "reject",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "\"Limit: $1,000,000; Deductible: $500\"",
+      "Computers": "{\"mode\":\"reject\",\"ChosenRejectReason\":{\"rule_id\":\"SPEC-1\",\"reason\":\"Inventory value should be at or below $500,000 unless a central alarm system is installed.\"}}",
+      "ordinence and law": "{\"mode\":\"reject\",\"ChosenRejectReason\":{\"rule_id\":\"SPEC-1\",\"reason\":\"Inventory value should be at or below $500,000 unless a central alarm system is installed.\"}}",
+      "Flood": "{\"mode\":\"reject\",\"ChosenRejectReason\":{\"rule_id\":\"SPEC-1\",\"reason\":\"Inventory value should be at or below $500,000 unless a central alarm system is installed.\"}}",
+      "accounts recievable": "{\"mode\":\"reject\",\"ChosenRejectReason\":{\"rule_id\":\"SPEC-1\",\"reason\":\"Inventory value should be at or below $500,000 unless a central alarm system is installed.\"}}",
+      "employee dishonesty": "{\"mode\":\"reject\",\"ChosenRejectReason\":{\"rule_id\":\"SPEC-1\",\"reason\":\"Inventory value should be at or below $500,000 unless a central alarm system is installed.\"}}",
+      "money and securities": "{\"mode\":\"reject\",\"ChosenRejectReason\":{\"rule_id\":\"SPEC-1\",\"reason\":\"Inventory value should be at or below $500,000 unless a central alarm system is installed.\"}}",
+      "ADDRESS": "456 Style Blvd, Suite 200, New York, NY 10001-1200",
+      "Year Built": "2015",
+      "Square Feet": "1000.0",
+      "HOURS OF OPERATION": "10:00 AM - 8:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "\"$150,000\"",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"None; inventory managed below $500,000 without a central alarm system.\"",
+      "MONEY ON PREMISES": "\"$0\"",
+      "OTHER PROTECTION": "\"None; inventory managed below $500,000 without a central alarm system.\"",
+      "Building limit": "$0",
+      "building % Coinsurance": "100",
+      "personal property valuation type": "Actual cash value",
+      "personal property limit": "500000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Trendy Threads Boutique does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its retail operations. The business focuses on selling fashionable apparel and accessories without involvement in any hazardous materials activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Trendy Threads Boutique does not sponsor any athletic teams. The focus of the business is on retailing fashionable apparel and accessories, rather than engaging in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The business requires verification of certificates to ensure proper risk transfer and compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Trendy Threads Boutique has not had any applicants indicted or convicted of fraud, bribery, arson, or related crimes in connection with this property or any other property. The business maintains a focus on compliance and ethical operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Trendy Threads Boutique has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The business maintains a strong compliance record with its insurance requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Trendy Threads Boutique does not lease employees to or from other employers. The business maintains its own staff to provide customer service and manage operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Trendy Threads Boutique does not currently carry any Workers' Compensation insurance, as the business is structured to maintain compliance with regulations and minimize risks.",
+      "G8: Do you own or operate any other business?": "No \u2013 Trendy Threads Boutique does not own or operate any other business, as it maintains focus solely on its core retail operations with inventory managed below compliance thresholds.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Trendy Threads Boutique does not have any other insurance with this company, as the focus is solely on the current policy for retail operations. The business maintains its compliance with insurance requirements without additional coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Trendy Threads Boutique is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business exclusively focuses on retailing high-quality clothing sourced from manufacturers and wholesalers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Trendy Threads Boutique does not rent or loan equipment to others. The business focuses solely on retailing clothing and accessories without engaging in equipment rental operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Trendy Threads Boutique has not had any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. The business maintains a strong financial standing and compliance with insurance requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Trendy Threads Boutique does not have any exposure to flammables, explosives, or chemicals, as the business solely focuses on retailing clothing and accessories without engaging in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 The business maintains its inventory value at or below $500,000, which limits catastrophe exposure. Additionally, there is no central alarm system installed, impacting risk management.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Trendy Threads Boutique has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to compliance and ethical practices in its operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Trendy Threads Boutique has no uncorrected fire code violations. The business is committed to compliance with all relevant regulations to ensure a safe shopping environment.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I love shopping at Trendy Threads Boutique! They have a fantastic selection of stylish clothes for the whole family.",
+          "The staff at Trendy Threads are always so helpful and friendly. I found the perfect outfit for my event!",
+          "Great prices and quality clothing! I appreciate their commitment to customer service.",
+          "Trendy Threads Boutique has become my go-to place for fashion. The atmosphere is always welcoming.",
+          "I was impressed by the variety of styles available. Definitely a must-visit for anyone looking for trendy apparel!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Inventory value should be at or below $500,000 unless a central alarm system is installed."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Clothing & Apparel (Retail & Wholesale)",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Inventory value should be at or below $500,000 unless a central alarm system is installed."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Inventory value should be at or below $500,000 unless a central alarm system is installed.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business maintains an inventory value exceeding $500,000, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Clothing & Apparel (Retail & Wholesale)",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Inventory value should be at or below $500,000 unless a central alarm system is installed."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of inventory value rule. Inventory value exceeds $500,000 without a central alarm system installed.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Inventory value should be at or below $500,000 unless a central alarm system is installed.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business maintains an inventory value exceeding $500,000, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

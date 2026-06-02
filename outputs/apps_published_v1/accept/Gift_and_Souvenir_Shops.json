@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Gift & Souvenir Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Trinkets & Treasures",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Souvenir Lane, Gift Town, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Doe",
+      "GL CODE": "15000",
+      "SIC": "5947",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Trinkets & Treasures specializes in offering a diverse range of unique gifts, souvenirs, and handcrafted items sourced from local artisans and established wholesalers. Our operations focus on creating an inviting retail environment where customers can find memorable keepsakes. We prioritize security measures, maintaining a robust system featuring CCTV and alarms to ensure the safety of our customers and merchandise. All employees receive documented training in customer service, loss prevention, and safety protocols to enhance the shopping experience and minimize risks. We adhere to strict inventory management procedures, which allow us to effectively monitor stock levels and prevent loss, fostering a sustainable and compliant retail operation within our community.\n\nCompliance Confirmation: The business does not engage in any activities involving the sale of firearms, ammunition, fireworks, or hazardous materials and confirms it maintains a single claim history in the past three years. Additionally, we ensure our operational security systems, including CCTV and alarm systems, are functional at all times, and all employees receive documented training in loss prevention and safety protocols.",
+      "DATE BUSINESS STARTED": "06/15/2020",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "TRK-052023-001",
+      "OTHER BUSINESSES OWNED": "Artisan Alley Crafts, LLC",
+      "PREVIOUS CARRIER": "ABC Insurance Agency",
+      "POLICY NUMBER": "TRK-082023-002",
+      "TOTAL LOSSES": "$150",
+      "DESCRIPTION OF LOSSES": "In March 2023, a minor theft incident occurred resulting in a loss of $150. The stolen items were low-value souvenirs. The situation was immediately reported to the police, and security measures have since been enhanced.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $1,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $500",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "1234 Souvenir Lane, Gift Town, CA 90210-1234",
+      "Year Built": "2015",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "09:00 AM - 09:00 PM",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "$100,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard Electronic Safe, Class B, Underwriter Approved",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "CCTV surveillance system, alarm monitoring, and periodic security assessments.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Trinkets & Treasures does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The business focuses solely on retailing gift and souvenir items with no hazardous components.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Trinkets & Treasures does not sponsor any athletic teams as part of its business operations. The focus is solely on retailing gifts and souvenirs.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The business ensures compliance by requiring the submission and verification of these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Trinkets & Treasures has not had any applicant indicted or convicted of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business maintains a clean operational record and prioritizes ethical practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Trinkets & Treasures has not had any policy or coverage declined, canceled, or non-renewed in the prior 3 years. The business has maintained a stable insurance history and has actively worked to enhance its risk management practices.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Trinkets & Treasures does not lease employees to or from other employers, as all staff members are directly employed by the business. This approach allows the company to maintain consistent training and oversight of its employees.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Trinkets & Treasures carries Workers\u2019 Compensation insurance as part of its compliance with state regulations and to ensure coverage for its employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Trinkets & Treasures also operates Artisan Alley Crafts, LLC, which focuses on handmade crafts and local artisan products. This diversification allows us to support local artisans while enhancing our retail offerings.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Trinkets & Treasures does not have any other insurance with this company. Currently, the only active policy is the one stated for this business.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Trinkets & Treasures is not involved in manufacturing, mixing, relabeling, or repackaging of products; the business solely focuses on retailing unique gifts and souvenirs sourced from local artisans and wholesalers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Trinkets & Treasures does not rent or loan equipment to others, as the business is focused solely on retailing gifts and souvenirs. This policy helps minimize potential liability risks associated with equipment leasing.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Trinkets & Treasures has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial record.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Trinkets & Treasures does not have any exposure to flammables, explosives, or chemicals, as the business exclusively sells gift and souvenir items with no hazardous materials involved.",
+      "G14: Any catastrophe exposure?": "No \u2013 Trinkets & Treasures does not have any catastrophe exposure as the business operations do not involve activities or environments that are prone to catastrophic events. The focus is solely on retailing gifts and souvenirs in a secure and compliant environment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Trinkets & Treasures has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, maintaining a clean operational record and commitment to ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Trinkets & Treasures does not have any uncorrected fire code violations. The business has maintained compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 150,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Trinkets & Treasures has a fantastic selection of unique gifts! I found the perfect souvenir for my friend.",
+          "The staff was incredibly helpful and friendly. I loved browsing through all the handcrafted items.",
+          "Great place to find local artisan products! The atmosphere is warm and inviting.",
+          "I always stop by Trinkets & Treasures when I'm in town. They have the best selection of quirky gifts!",
+          "The prices are reasonable, and the quality is excellent. Highly recommend for anyone looking for special keepsakes."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No coverage for shops selling firearms, ammunition, fireworks, or hazardous materials.",
+        "No acceptance of businesses with more than one insurance claim in the past three years.",
+        "Shops must maintain operational security systems, including CCTV and alarm systems, at all times.",
+        "All employees must receive documented training in loss prevention and safety protocols."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Gift & Souvenir Shops",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Gift & Souvenir Shops",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "To validate the application for \"Trinkets & Treasures,\" we will check the provided information against the rules and restrictions outlined for Gift & Souvenir Shops.\n\n### Key Points from the Application:\n1. **Business Type**: Gift & Souvenir Shop\n2. **Claims History**: 1 claim in the past 3 years with total losses of $150.\n3. **Compliance with Restrictions**:\n   - No sale of firearms, ammunition, fireworks, or hazardous materials.\n   - Only one claim in the past three years.\n   - Operational security systems (CCTV and alarms) are maintained.\n   - All employees receive documented training in loss prevention and safety protocols.\n\n### Validation Against Rules:\n- **Not Acceptable Rules**:\n  - No coverage for shops selling firearms, ammunition, fireworks, or hazardous items: **Compliant**.\n  - No acceptance of businesses with more than one insurance claim in the past three years: **Compliant**.\n  - Shops must maintain operational security systems: **Compliant**.\n  - All employees must receive documented training in loss prevention and safety protocols: **Compliant**.\n  \n- **Preferred/Acceptable Rules**:\n  - The business has been operational for over 3 years (since 06/15/2020).\n  - The business is located in a retail space with a physical presence.\n  - The business has documented inventory management procedures.\n  - The business has a good Google rating (4.5) and positive reviews.\n\n### Conclusion:\nThe application meets all the necessary criteria for acceptance. There are no violations present, and all restrictions are adhered to.\n\n### Output:\n```json\n{\"ok\": true, \"message\": \"Application is valid and meets all acceptance criteria.\", \"fix_field\": \"\"}\n```",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

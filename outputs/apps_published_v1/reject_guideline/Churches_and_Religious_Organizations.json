@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Churches & Religious Organizations",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Grace Community Church",
+      "FEIN OR SOC SEC #": "###-##-####",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Faith Street, Anytown, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Facility Manager, 123 Faith Street, Anytown, CA 90210-1234, (555) 123-4567",
+      "GL CODE": "General Liability Code - Churches & Religious Organizations",
+      "SIC": "8131",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Grace Community Church, we are dedicated to providing spiritual guidance and support to our congregation through worship services, community outreach programs, and educational activities. Our operations include regular Sunday services, Bible study sessions, and youth programs, all conducted in a safe and welcoming environment. We prioritize the well-being of our members, particularly children, by implementing established child protection policies and background checks for all staff and volunteers. Additionally, we are committed to maintaining our facilities to meet local health and safety regulations, ensuring a secure space for worship and community activities.\n\nOur church conducts annual community events that include clay modeling workshops, where participants dig for clay and shale in a designated area to create art pieces.",
+      "DATE BUSINESS STARTED": "01/01/2000",
+      "EFFECTIVE DATE": "01/01/2023",
+      "EXPIRATION DATE": "01/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "GCC-2023-987654",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "GCC-2022-123456",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "\"Date: 02/15/2022, Cause: Minor water damage from heavy rainfall affecting the church basement, Amount: $1,500, Status: Resolved and repairs completed.\"",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 aggregate with a $1,000 deductible.",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$50,000 limit with a $2,500 deductible.",
+      "Professional Liability": "\"Limit: $1,000,000 per occurrence / $3,000,000 aggregate; Deductible: $1,500\"",
+      "Liquor Liability": "reject",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "reject",
+      "ordinence and law": "$1,000,000 limit with a $2,500 deductible.",
+      "Flood": "\"$500,000 limit with a $5,000 deductible.\"",
+      "accounts recievable": "reject",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible.",
+      "money and securities": "reject",
+      "ADDRESS": "123 Faith Street, Anytown, CA 90210-1234",
+      "Year Built": "1985",
+      "Square Feet": "12000.0",
+      "HOURS OF OPERATION": "\"Sunday: 9:00 AM - 12:00 PM, Wednesday: 6:30 PM - 8:30 PM, Friday: 6:00 PM - 8:00 PM\"",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "1985",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "0",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B Safe, UL listed, fire-rated vault with a 2-hour fire resistance.",
+      "MONEY ON PREMISES": "$500",
+      "OTHER PROTECTION": "Security personnel and fencing installed to enhance safety and deter vandalism.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual Cash Value",
+      "personal property limit": "reject",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Grace Community Church does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. Their activities focus on community outreach, worship services, and educational programs in a safe environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Grace Community Church does not sponsor athletic teams as part of its operations. The church focuses primarily on providing spiritual guidance and community support through worship services and educational programs.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are typically checked by the organization's management or designated officials to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Grace Community Church has not had any applicants indicted or convicted of crimes related to fraud, bribery, arson, or any other arson-related crimes in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Grace Community Church has not had any policy or coverage declined, canceled, or non-renewed in the prior three years. Their previous insurer was ABC Insurance Company, and they have maintained a clean insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Grace Community Church does not lease employees to or from other employers. Their operations are managed internally without any employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Grace Community Church does not currently carry Workers' Compensation insurance as there are no employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 Grace Community Church does not own or operate any other business. Their focus is solely on providing spiritual guidance and community support through their church activities.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Grace Community Church does not have any other insurance policies with this company. Their current coverage is exclusively through the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Grace Community Church is not involved in manufacturing, mixing, relabeling, or repackaging products. Their operations focus on providing spiritual guidance and community services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Grace Community Church does not rent or loan equipment to others as part of its operations, focusing instead on its mission of spiritual guidance and community support.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Grace Community Church has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. They maintain a stable financial situation and focus on their mission and community support.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Grace Community Church does not have any exposure to flammables, explosives, or chemicals as part of its operations. Their activities focus on community outreach, worship services, and educational programs conducted in a safe environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Grace Community Church does not engage in any activities that would expose them to catastrophe risks, such as clay or shale digging, which is outside their operations focused on worship and community support.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Grace Community Church has not had any past losses or claims relating to sexual abuse, molestation allegations, discrimination, or negligent hiring. The church has established child protection policies and background checks for all staff and volunteers to ensure a safe environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Grace Community Church has no uncorrected fire code violations. They prioritize safety and compliance with all relevant regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "Grace Community Church is a welcoming place where everyone feels at home. The community outreach programs are truly inspiring!",
+          "I love attending services here! The sermons are uplifting and the congregation is friendly and supportive.",
+          "A wonderful church with a strong focus on family and community. The youth programs are fantastic and engaging!",
+          "The staff at Grace Community Church are dedicated and caring. They really prioritize the well-being of their members.",
+          "This church has a great atmosphere for worship and learning. I appreciate their commitment to safety and community service."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Decline coverage for any organization engaging in clay or shale digging."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Churches & Religious Organizations",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Decline coverage for any organization engaging in clay or shale digging."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Decline coverage for any organization engaging in clay or shale digging.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the church conducts annual community events that include clay modeling workshops, where participants dig for clay and shale."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Churches & Religious Organizations",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Decline coverage for any organization engaging in clay or shale digging."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to engagement in clay or shale digging activities, which is a violation of the specific underwriting rule SPEC-1. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Decline coverage for any organization engaging in clay or shale digging.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the church conducts annual community events that include clay modeling workshops, where participants dig for clay and shale."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

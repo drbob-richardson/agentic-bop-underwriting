@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Department & Discount Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ValueMart Department Store",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Retail Lane, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "12345",
+      "SIC": "4521",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "ValueMart Department Store operates as a retail corporation focused on providing a wide range of products, including clothing, home goods, personal care items, and seasonal merchandise. We maintain a robust inventory management system, ensuring product availability across our diverse offerings. Our store is designed to enhance the shopping experience with dedicated customer service training for our employees, contributing to a welcoming environment for our customers. \n\nWe adhere to all local, state, and federal regulations governing retail operations, and we prioritize safety with established loss prevention protocols. With our strategic location in a suburban shopping center, we benefit from established customer traffic while minimizing risks associated with urban environments. Our operations exclude any on-premises cooking or food preparation, as we focus solely on retail activities and maintain an incidental repair service model that does not exceed 10% of our revenue. \n\nValueMart is committed to compliance and responsible retail practices, ensuring a safe shopping experience for our customers while contributing positively to the community.",
+      "DATE BUSINESS STARTED": "04/15/2010",
+      "EFFECTIVE DATE": "12/01/2023",
+      "EXPIRATION DATE": "12/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$15,000.00",
+      "POLICY #": "VMDS-2023-001",
+      "OTHER BUSINESSES OWNED": "ValueMart Retail Services, LLC",
+      "PREVIOUS CARRIER": "ValueMart Insurance Group",
+      "POLICY NUMBER": "VMDS-2023-002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On 03/15/2023, our store experienced a theft incident where merchandise valued at $3,000 was stolen during operating hours. The incident was reported to local law enforcement, and we have since implemented additional security measures to prevent future occurrences. The status of the incident is currently resolved, and the loss was covered by our insurance policy. Additionally, on 08/22/2023, a slip and fall accident occurred in the store, resulting in a medical claim totaling $2,000, which is under review.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$2,500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "4567 Shopping Center Way, Springfield, IL 62701-5678",
+      "Year Built": "1995",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "9:00 AM - 9:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$600,000.00",
+      "NO. OF EMPLOYEES": "20",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade II, UL Listed, Heavy-Duty Safe",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm and security patrols.",
+      "Building limit": "$984150",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost Value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 ValueMart Department Store does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. We maintain a focus on retail activities and adhere to all relevant regulations regarding hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ValueMart Department Store does not sponsor any athletic teams as part of its operations. Our focus remains primarily on retail activities and community engagement within that context.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the management or designated safety officer within our organization.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 ValueMart Department Store has not had any applicant indicted or convicted of fraud, bribery, arson, or any other arson-related crimes in connection with this or any other property. We maintain strict compliance with legal and ethical standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ValueMart Department Store has not had any policy or coverage declined, canceled, or non-renewed in the prior three years. We have maintained consistent coverage without any disruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ValueMart Department Store does not lease employees to or from other employers. Our staffing is managed internally to maintain consistency and control over our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 ValueMart Department Store carries Workers Compensation insurance to comply with legal requirements and protect our employees. We maintain an active policy as part of our commitment to workplace safety.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 ValueMart Department Store also owns and operates ValueMart Retail Services, LLC, which focuses on additional retail services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ValueMart Department Store currently does not have any other insurance with this company aside from the listed policy numbers. We maintain our coverage through existing policies tailored to our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ValueMart Department Store is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations focus solely on retail activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ValueMart Department Store does not rent or loan equipment to others as our operations focus solely on retail activities. We maintain a clear boundary to minimize any potential liabilities associated with equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ValueMart Department Store has had no foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. We maintain a strong financial position and compliance with all regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ValueMart Department Store does not have exposure to flammables, explosives, or chemicals as our operations focus solely on retail activities, and we do not store or use such materials. We adhere to all relevant safety regulations to ensure a secure shopping environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 ValueMart Department Store does not have any exposure to catastrophes as our operations focus solely on retail activities, and we do not engage in operations that would involve such risks. We maintain safety protocols and comply with relevant regulations to ensure a secure environment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ValueMart Department Store has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain rigorous hiring practices and adhere to all regulatory requirements to ensure a safe and compliant work environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ValueMart Department Store currently has no uncorrected fire code violations and maintains compliance with all applicable fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "ValueMart has a great selection of products at unbeatable prices! I always find what I need.",
+          "The staff is friendly and helpful, making my shopping experience enjoyable every time.",
+          "I love the seasonal sales! It's a great place to find gifts without breaking the bank.",
+          "The store is well-organized and clean, which makes shopping here a breeze.",
+          "I appreciate their commitment to customer service; they always go the extra mile to assist."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Department stores with more than 75% of revenue from online sales are ineligible."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Department & Discount Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Department stores with more than 75% of revenue from online sales are ineligible."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention online sales or revenue sources, and the third-party data does not provide any indication of online sales activity."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Department & Discount Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Department stores with more than 75% of revenue from online sales are ineligible."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to ineligibility: Department stores with more than 75% of revenue from online sales are ineligible.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention online sales or revenue sources, and the third-party data does not provide any indication of online sales activity."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Kitchen & Home Accessories Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Kitchen Nook",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Kitchen Street, Suite 100, Cooktown, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, 555-123-4567, john.smith@thekitchennook.com",
+      "GL CODE": "Retail Kitchen & Home Accessories",
+      "SIC": "5734",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At The Kitchen Nook, we specialize in the retail sale of high-quality kitchen gadgets, cookware, utensils, and home decor items. Our operations are conducted strictly within our showroom, eliminating any on-site installation or repair services to minimize potential risks. We take pride in sourcing our products exclusively from certified and reputable manufacturers, ensuring quality and safety for our customers. Our team is trained in product safety and customer service best practices, creating an inviting atmosphere for customers to explore our wide array of kitchen and home accessories. Through effective inventory management systems, we conduct regular inventory audits to maintain a high standard of operational efficiency. All sales transactions are completed in-store, emphasizing a seamless shopping experience, while we consciously limit off-premises repair or installation services to maintain compliance with industry best practices and risk management protocols.",
+      "DATE BUSINESS STARTED": "03/15/2021",
+      "EFFECTIVE DATE": "04/01/2021",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,250.00",
+      "POLICY #": "KHA-2023-001",
+      "OTHER BUSINESSES OWNED": "Home & Garden Decor, LLC",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "KHA-2023-002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Loss Date: 08/15/2022; Cause: Theft of inventory due to a break-in; Amount: $5,000; Status: Paid and resolved.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 limit with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible",
+      "accounts recievable": "$250,000 limit with a $2,500 deductible",
+      "employee dishonesty": "$250,000 limit with a $1,000 deductible",
+      "money and securities": "$250,000 limit with a $1,000 deductible",
+      "ADDRESS": "123 Kitchen Avenue, Suite 200, Cooktown, CA 90210-1234",
+      "Year Built": "1935",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "Monday to Saturday: 10:00 AM - 7:00 PM; Sunday: 11:00 AM - 5:00 PM",
+      "Distance to hydrant": "2455 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$350,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "SteelSafe Vault, Class B, UL Listed",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Central station alarm system and surveillance cameras for enhanced security.",
+      "Building limit": "$1500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost valuation for personal property",
+      "personal property limit": "$200,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Kitchen Nook does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus solely on the retail sale of kitchen and home accessories without any related hazardous activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Kitchen Nook does not sponsor any athletic teams as our focus is solely on the retail sale of kitchen and home accessories.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this helps manage risk exposure. The designated personnel responsible for checking certificates will verify compliance before any subcontractor begins work.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years at The Kitchen Nook. All coverage has remained active and manageable since the business started.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Kitchen Nook does not lease employees to or from other employers. All staff are directly employed by the business.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The Kitchen Nook does not carry Workers' Compensation insurance as there are no employees leased to or from other employers, and all staff are directly employed by the business.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The Kitchen Nook also operates Home & Garden Decor, LLC, which focuses on retailing home decor products.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Kitchen Nook does not have any other insurance policies with this company apart from the primary policy number KHA-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Kitchen Nook does not engage in manufacturing, mixing, relabeling, or repackaging of products; we focus solely on the retail sale of kitchen and home accessories sourced from certified manufacturers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Kitchen Nook does not rent or loan equipment to others, as our operations focus exclusively on the retail sale of kitchen gadgets and home accessories within our showroom. This approach helps us minimize potential risks associated with equipment rentals.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. All financial records have been maintained in good standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Kitchen Nook does not engage in any operations involving flammables, explosives, or chemicals, as our focus is solely on the retail sale of kitchen and home accessories. We ensure a safe environment by not handling any hazardous materials in our operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Kitchen Nook operates exclusively as a retail showroom with no exposure to catastrophic risks, as we do not engage in on-site installation or repairs and focus solely on selling kitchen and home accessories.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Kitchen Nook has had no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strict compliance with hiring practices to ensure a safe and respectful environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Kitchen Nook does not have any uncorrected fire code violations, ensuring compliance with all necessary safety regulations. Our store maintains an active fire protection system and regularly conducts safety inspections.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Kitchen Nook has an amazing selection of kitchen gadgets! I found everything I needed and more.",
+          "Great customer service! The staff was very helpful in finding the perfect cookware for my needs.",
+          "I love the unique home decor items they offer. It's a great place to find gifts for friends and family.",
+          "The prices are reasonable, and the quality of the products is top-notch. Highly recommend visiting!",
+          "I appreciate that they source their products from reputable manufacturers. It gives me confidence in my purchases."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Kitchen & Home Accessories Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Kitchen & Home Accessories Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

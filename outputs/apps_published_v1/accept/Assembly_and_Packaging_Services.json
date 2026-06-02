@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Assembly & Packaging Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Assembly & Packaging Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Industry Way, Suite 100, Manufacturing City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager",
+      "GL CODE": "GQ-10",
+      "SIC": "2899",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Precision Assembly & Packaging Solutions specializes in providing high-quality assembly and packaging services tailored to meet the unique needs of our clients across various industries. Our operations are conducted in a dedicated facility equipped with state-of-the-art machinery and robust security measures, including central alarm systems and continuous video surveillance, ensuring the safety of our personnel and inventory. We employ a combination of manual and semi-automated processes, allowing us to maintain flexibility and efficiency in meeting diverse product requirements.\n\nOur rigorous quality control protocols include regular training for our staff, who are well-versed in operational procedures and safety standards. We conduct comprehensive cycle counts and maintain secure storage areas, ensuring precise inventory management and minimizing the risk of loss. Transparency is a core value of our operations; as such, we fully disclose our assembly and packaging processes to clients and regulatory bodies, ensuring compliance with all applicable regulations.\n\nWe pride ourselves on our stable supplier relationships, which help us minimize risks associated with supply disruptions and maintain consistent quality standards. Our commitment to ongoing improvement is reflected in our documented emergency response and disaster recovery plans, ensuring business continuity in case of unforeseen events. Overall, Precision Assembly & Packaging Solutions is dedicated to delivering exceptional service while adhering to the highest operational standards.\n\nCompliance Confirmation: The business does not accept operations that lack central alarm systems and continuous video surveillance, nor does it engage in unauthorized relabeling, repackaging, or modification of third-party products. We confirm that we maintain up-to-date IT security protocols, including firewalls and multi-factor authentication, and we do not operate facilities with poor inventory controls or a history of significant inventory losses.",
+      "DATE BUSINESS STARTED": "03/15/2021",
+      "EFFECTIVE DATE": "04/01/2021",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "15000.00",
+      "POLICY #": "POLICY-20240123-AP",
+      "OTHER BUSINESSES OWNED": "Precision Logistics & Packaging Services",
+      "PREVIOUS CARRIER": "Acme Assembly & Packaging Insurance Solutions",
+      "POLICY NUMBER": "POLICY-20240123-AP",
+      "TOTAL LOSSES": "$7,500",
+      "DESCRIPTION OF LOSSES": "On 06/15/2022, a shipping container was damaged during transport due to improper securing methods, resulting in a loss of $3,000; the status is resolved. On 09/20/2023, a minor accident in the assembly area caused a temporary halt in production due to equipment malfunction, leading to a loss of $4,500; the status is still under review.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $5,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit with a $5,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 Limit with a $5,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit with a $500 Deductible",
+      "Damge to Rental Premises": "$100,000 Limit with a $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit with a $5,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit with a $5,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit with a $2,500 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit with a $2,500 Deductible",
+      "Computers": "$500,000 Limit with a $1,000 Deductible",
+      "ordinence and law": "$1,000,000 Limit with a $5,000 Deductible",
+      "Flood": "$500,000 Limit with a $5,000 Deductible",
+      "accounts recievable": "$500,000 Limit with a $1,000 Deductible",
+      "employee dishonesty": "$500,000 Limit with a $1,000 Deductible",
+      "money and securities": "$500,000 Limit with a $1,000 Deductible",
+      "ADDRESS": "5678 Factory Lane, Unit 200, Manufacturing City, CA 90210-1234",
+      "Year Built": "2015",
+      "Square Feet": "15000.0",
+      "HOURS OF OPERATION": "Monday to Friday, 8:00 AM to 6:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$600,000.00",
+      "NO. OF EMPLOYEES": "20",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 3 Safety Vault, Grade B, UL Listed.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Central alarm system with continuous video surveillance and on-site watchperson during non-operational hours.",
+      "Building limit": "$972000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost for personal property valuation.",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We maintain strict compliance with all applicable regulations and ensure safe handling of any materials used in our assembly and packaging services.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 We do sponsor local athletic teams as part of our community engagement and support initiatives. This reflects our commitment to fostering teamwork and healthy competition.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The responsibility for checking certificates falls to our compliance team to ensure all subcontractors meet the necessary insurance requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or any other arson-related crime involving the applicant or any associated individuals in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior 3 years. All insurance coverages have been maintained continuously.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers. All our staff are directly employed by Precision Assembly & Packaging Solutions.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers' Compensation insurance to ensure compliance with legal requirements and to protect our employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The business owner also operates Precision Logistics & Packaging Services, which complements our assembly and packaging operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We do not have any other insurance with this company at this time. All our insurance needs are currently covered under the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "Yes \u2013 We are involved in assembly and packaging services, which include repackaging of products for our clients while strictly adhering to all regulatory standards. Our operations ensure transparency and safety throughout the process.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others, as our operations focus solely on providing assembly and packaging services for our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. They maintain a stable financial position and comply with all legal obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Our operations do not involve exposure to flammables, explosives, or chemicals, as we prioritize safety and compliance in all aspects of our assembly and packaging services.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any catastrophe exposure as our operations are conducted in a secure facility with robust safety measures in place, and we have documented emergency response and disaster recovery plans to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize compliance and ethical standards in all aspects of our business.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at Precision Assembly & Packaging Solutions. We maintain compliance with all fire safety codes and conduct regular inspections to ensure safety.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 7500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Assembly & Packaging Solutions exceeded our expectations! Their attention to detail and commitment to quality are truly impressive.",
+          "Great experience working with this team! They handled our packaging needs efficiently and professionally.",
+          "I appreciate the transparency in their processes. It\u2019s reassuring to know they comply with all regulations.",
+          "The staff is well-trained and knowledgeable, making the assembly process smooth and hassle-free.",
+          "Highly recommend! Their facility is secure, and they maintain excellent inventory management practices."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No acceptance of businesses lacking central alarm systems and continuous video surveillance.",
+        "No acceptance of operations regularly engaging in unauthorized relabeling, repackaging, or modification of third-party products.",
+        "Businesses must maintain up-to-date IT security protocols, including firewalls and multi-factor authentication.",
+        "No acceptance of facilities with poor inventory controls or history of significant inventory losses."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Assembly & Packaging Services",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Assembly & Packaging Services",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Assembly & Packaging Services is valid and meets all necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

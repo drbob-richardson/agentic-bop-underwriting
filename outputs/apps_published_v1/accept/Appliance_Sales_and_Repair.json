@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Appliance Sales & Repair",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "HomeTech Appliance Sales & Repair",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Appliance Way, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, 1234 Appliance Way, Springfield, IL 62701-1234, (555) 123-4567",
+      "GL CODE": "1234",
+      "SIC": "5722",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "HomeTech Appliance Sales & Repair specializes in the retail sales and repair of household appliances. Our operations are based in a secure physical storefront, which houses a well-maintained inventory of appliances including refrigerators, washers, and dryers. We conduct less than 25% of our operations off-site, focusing on delivering quality service through professional installations and repairs at customer locations.\n\nSafety and security are prioritized through an active, centrally monitored alarm system. Our staff are trained and certified in the latest manufacturer installation protocols, ensuring compliance with industry standards to reduce the risk of installation errors. We maintain organized inventory storage in a locked area with restricted access to prevent unauthorized access and theft.\n\nHomeTech values operational excellence and customer satisfaction, maintaining up-to-date records of sales, repairs, and customer interactions through a digital management system. Our commitment to compliance extends to not engaging in any hazardous material disposal or recycling services without the necessary permits, ensuring we operate within legal and environmental standards.\n\nCompliance Confirmation: The business does not engage in any off-site operations exceeding 25% of total activities, including delivery, installation, or emergency repair services. We confirm that a centrally monitored alarm system is installed and fully operational, electrical system upgrades have been completed within the last five years and comply with current code standards, and all vehicles used in business operations have appropriate commercial auto insurance and liability limits in place.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "HT-2023-001",
+      "OTHER BUSINESSES OWNED": "HomeTech Appliance Accessories LLC, 2345 Appliance Way, Springfield, IL 62701-1234",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "HT-2022-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss Dates: 01/10/2022; Cause: Water damage from a burst pipe in the store; Amount: $500; Status: Paid. \n\nLoss Dates: 03/15/2023; Cause: Theft of appliance inventory; Amount: $700; Status: Pending investigation.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$30,000 / $1,000",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$200,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "1234 Appliance Way, Springfield, IL 62701-1234",
+      "Year Built": "1990",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday 9:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM, Closed Sunday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$400,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL-listed Safe",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Centrally monitored security cameras installed around the property for enhanced surveillance.",
+      "Building limit": "$1250000",
+      "building % Coinsurance": "80%",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 HomeTech Appliance Sales & Repair does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business is committed to compliance with legal and environmental standards, avoiding any activities related to hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 HomeTech Appliance Sales & Repair does not sponsor athletic teams as part of its business operations. The focus is primarily on the retail and repair of household appliances.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are verified by the management or designated personnel in the business.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 HomeTech Appliance Sales & Repair has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company maintains a commitment to operating within legal and ethical standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 HomeTech Appliance Sales & Repair has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. The company maintains a good standing with its insurance carrier.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 HomeTech Appliance Sales & Repair does not lease employees to or from other employers. All staffing is managed internally to maintain consistency and quality in service delivery.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 HomeTech Appliance Sales & Repair carries workers' compensation insurance as required for its employees, ensuring compliance with statutory regulations and protection for both the business and its workforce.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 HomeTech Appliance Sales & Repair also operates HomeTech Appliance Accessories LLC, which is focused on selling appliance accessories at a separate location.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 HomeTech Appliance Sales & Repair does not have any other insurance policies with this company at this time. The primary coverage in place is sufficient for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 HomeTech Appliance Sales & Repair is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on the retail sales and repair of household appliances.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 HomeTech Appliance Sales & Repair does not rent or loan equipment to others as part of its business operations, focusing solely on sales and repair services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 HomeTech Appliance Sales & Repair has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The company's financial standing remains stable and compliant with current regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 HomeTech Appliance Sales & Repair does not have any exposure to flammables, explosives, or chemicals as part of its operations, ensuring a safe environment for both customers and employees.",
+      "G14: Any catastrophe exposure?": "No \u2013 HomeTech Appliance Sales & Repair does not have any exposure to catastrophe risks in its operations, maintaining a focus on retail and repair services in a secure environment.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 HomeTech Appliance Sales & Repair has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a commitment to compliance and ethical hiring practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 HomeTech Appliance Sales & Repair has no uncorrected fire code violations, ensuring compliance with all safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "HomeTech Appliance Sales & Repair provided excellent service when my refrigerator broke down. They were quick to respond and fixed the issue in no time!",
+          "I recently purchased a washer and dryer from HomeTech, and the staff were incredibly helpful in guiding me through the options. Highly recommend!",
+          "The repair team at HomeTech was professional and knowledgeable. They explained everything clearly and had my oven working again in just a few hours.",
+          "Great experience overall! The showroom had a wide selection of appliances, and the prices were very competitive.",
+          "I appreciate the friendly service at HomeTech. They made the installation of my new dishwasher seamless and stress-free."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No more than 25% of total operations may be conducted off-site, including delivery, installation, or emergency repair.",
+        "A centrally monitored alarm system (UL-listed or equivalent) must be installed and operational.",
+        "Electrical system upgrades must have been completed within the last five years and meet current code standards.",
+        "Commercial auto insurance and appropriate liability limits are mandatory for all vehicles used in business operations."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Appliance Sales & Repair",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Appliance Sales & Repair",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted due to violations of specific restrictions and not acceptable criteria.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

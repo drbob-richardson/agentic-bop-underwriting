@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Travel Agencies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Wanderlust Travel Agency",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Adventure Way, Suite 100, Seattle, WA 98101-2345",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "12345-GL",
+      "SIC": "4724",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Wanderlust Travel Agency specializes in providing comprehensive travel planning services for leisure and business travelers. Our core operations include offering custom travel itineraries, booking accommodations, securing transportation, and arranging activities and tours tailored to our clients' preferences. We prioritize customer safety by maintaining strong partnerships with reputable vendors, ensuring all travel arrangements are made through fully regulated airlines, hotels, and transportation services. In addition, we conduct annual risk assessments of all travel destinations, focusing on low-risk regions with established tourism infrastructures. Our commitment to cybersecurity is reflected in our documented policies, regular employee training, and stringent controls over customer data to protect against potential data breaches. By fostering these best practices, we strive to provide exceptional travel experiences while maintaining the highest standards of safety and compliance.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2020",
+      "EXPIRATION DATE": "03/01/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500.00",
+      "POLICY #": "WTA-2023001",
+      "OTHER BUSINESSES OWNED": "Online Travel Content Platform",
+      "PREVIOUS CARRIER": "TravelSafe Insurance Company",
+      "POLICY NUMBER": "WTA-2022002",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "Loss dates: January 2023, Cause: Cancellation of group tour due to unforeseen travel restrictions, Amount: $1,500.00, Status: Resolved. Loss dates: February 2023, Cause: Minor data breach resulting from outdated software, Amount: $500.00, Status: Pending resolution.",
+      "Combined Single Limit": "1,000,000/2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$1,000 / $250",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "1,000,000 / 2,500",
+      "Liquor Liability": "1,000,000 / 2,500",
+      "Hired Auto": "$50,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$50,000 / $1,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "5678 Journey Lane, Suite 200, Seattle, WA 98101-5678",
+      "Year Built": "2005",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 6:00 PM; Saturday, 10:00 AM to 4:00 PM; Closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "500000.00",
+      "TOTAL PAYROLL": "450000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fire-safe, UL-listed secure vault, grade A, labeled for cash and documents storage.",
+      "MONEY ON PREMISES": "5000",
+      "OTHER PROTECTION": "Security personnel present during operational hours to monitor facility and customer safety.",
+      "Building limit": "$800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "50000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Wanderlust Travel Agency does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus solely on travel planning and booking services for leisure and business travelers.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Wanderlust Travel Agency does not sponsor athletic teams as part of its operations. The focus is solely on travel planning and booking services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "Yes \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our compliance team to ensure proper coverage and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Wanderlust Travel Agency has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. All insurance policies remain active and compliant.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Wanderlust Travel Agency does not lease employees to or from other employers as part of its operations. We maintain an in-house team to manage all travel planning and booking services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Wanderlust Travel Agency does not currently have any Workers Compensation insurance in place, but we are aware of the legal requirements and are in the process of obtaining coverage.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Wanderlust Travel Agency owns and operates an online travel content platform in addition to its main travel agency services. This platform focuses on providing travel-related information and resources for clients.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Wanderlust Travel Agency does not have any other insurance policies with this company at this time. All current coverage is outlined under the existing policy number WTA-2023001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Wanderlust Travel Agency is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are focused solely on providing travel planning and booking services for leisure and business travelers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Wanderlust Travel Agency does not rent or loan equipment to others as our operations focus solely on travel planning and booking services. We prioritize customer safety by partnering with reputable vendors for all travel-related needs.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Wanderlust Travel Agency has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a strong financial position and operates within its means.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Wanderlust Travel Agency does not have any exposure to flammables, explosives, or chemicals as our operations focus exclusively on travel planning and booking services, which do not involve such materials. Our commitment to customer safety includes partnering with fully regulated vendors for all travel needs.",
+      "G14: Any catastrophe exposure?": "No \u2013 Wanderlust Travel Agency does not have any catastrophe exposure as our operations focus primarily on travel planning and do not involve high-risk activities or locations associated with catastrophic events. All travel arrangements are made through reputable, regulated vendors in low-risk regions.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Wanderlust Travel Agency has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize safety and compliance in our operations and vendor partnerships.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Wanderlust Travel Agency has no uncorrected fire code violations and maintains compliance with all fire safety regulations to ensure the safety of our operations.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Wanderlust Travel Agency made our vacation planning a breeze! Their attention to detail and personalized service were top-notch.",
+          "I had a fantastic experience with Wanderlust! They helped me find the best deals and tailored my itinerary perfectly.",
+          "The team at Wanderlust is incredibly knowledgeable and friendly. They took the stress out of planning my business trip.",
+          "I highly recommend Wanderlust Travel Agency! They provided excellent customer service and ensured everything went smoothly during my travels.",
+          "Wanderlust Travel Agency exceeded my expectations! Their expertise in travel planning made my trip unforgettable."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Travel Agencies",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Travel Agencies",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to a history of a minor data breach resulting from outdated software, which is a violation of the specific restrictions regarding unresolved data breaches.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

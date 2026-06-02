@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Interior Decorating & Design",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Elegant Spaces Interior Design",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Design Avenue, Suite 100, San Francisco, CA 94103-4567",
+      "CONTACT FOR INSPECTION": "Jessica Smith - Interior Design Consultant, Elegant Spaces Interior Design, jessica@elegantspaces.com, (555) 123-4567",
+      "GL CODE": "GQ-02",
+      "SIC": "5414",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Elegant Spaces Interior Design specializes in providing personalized residential interior design services that focus on enhancing the aesthetic and functional aspects of clients' living spaces. Our core operations include comprehensive design consultations, space planning, color scheme development, and the selection of furnishings and decorative items. We pride ourselves on maintaining strong relationships with reputable vendors and suppliers to ensure that our clients receive high-quality products tailored to their individual needs. \n\nFurthermore, we adhere to strict documentation practices, including formal contracts and project documentation, to ensure transparency and accountability throughout the design process. Our team employs secure digital storage solutions to protect sensitive client information and complies with all local licensing and regulatory requirements in our design recommendations. By offering a blend of creativity, attention to detail, and a commitment to client satisfaction, Elegant Spaces Interior Design strives to create beautiful and functional environments for our clients while operating strictly within the boundaries of interior decorating without engaging in any construction or structural modifications.\n\nCompliance Confirmation: The business does not engage in general construction or structural remodeling, including demolition or load-bearing modifications, and confirms that it does not handle or store hazardous materials such as lead paint, asbestos, or industrial chemicals. Additionally, we do not perform electrical, plumbing, or HVAC work beyond decorative fixture installation, nor do we provide services for industrial or large-scale commercial properties.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "ELEGANT-2023-001",
+      "OTHER BUSINESSES OWNED": "Elegant Spaces Home Accessories",
+      "PREVIOUS CARRIER": "DesignGuard Insurance Solutions",
+      "POLICY NUMBER": "ELEGANT-2023-002",
+      "TOTAL LOSSES": "$750",
+      "DESCRIPTION OF LOSSES": "On June 15, 2023, a client incident occurred where a large decorative mirror was accidentally damaged during transport to a client's home. The estimated loss was $750. The claim is currently in the status of review with the insurance provider, awaiting final decision.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible.",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$500,000 limit with a $2,500 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$50,000 limit with a $1,000 deductible",
+      "money and securities": "\"$50,000 limit with a $1,000 deductible\"",
+      "ADDRESS": "5678 Design Park, Suite 200, San Francisco, CA 94103-4567",
+      "Year Built": "2005",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM to 5:00 PM, Saturday: 10:00 AM to 3:00 PM, Closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "\"Security cameras and monitoring system; on-site security personnel during high-traffic events.\"",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Elegant Spaces Interior Design does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business is solely focused on non-structural residential interior design services.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Elegant Spaces Interior Design does not sponsor athletic teams as part of its business operations. The focus is primarily on residential interior design services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are required to provide a certificate of insurance before working. The principal contractor or business owner is responsible for checking these certificates to ensure coverage and compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Elegant Spaces Interior Design has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. All insurance policies have been maintained without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Elegant Spaces Interior Design does not lease employees to or from other employers; all employees are directly hired and managed within the company.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Elegant Spaces Interior Design does not currently carry Workers' Compensation insurance, as there are no employees to necessitate it according to regulatory requirements. However, all operations are conducted in compliance with local licensing and regulatory standards.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Elegant Spaces Interior Design also operates a related business called Elegant Spaces Home Accessories, which focuses on selling home decor items.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Elegant Spaces Interior Design does not have any other insurance policies with the current company aside from the existing policy. The business is focused solely on providing interior design services without additional coverage at this time.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Elegant Spaces Interior Design is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business strictly focuses on providing residential interior design services without engaging in any product fabrication.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Elegant Spaces Interior Design does not rent or loan equipment to others as part of its operations, focusing solely on interior design services without material equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Elegant Spaces Interior Design has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a stable financial standing and adheres to all regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Elegant Spaces Interior Design does not have any exposure to flammables, explosives, or chemicals as part of its operations, focusing strictly on non-structural residential interior design services.",
+      "G14: Any catastrophe exposure?": "No \u2013 Elegant Spaces Interior Design does not have any catastrophe exposure as our operations are strictly focused on non-structural residential interior design services, without engaging in any high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Elegant Spaces Interior Design has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to client satisfaction and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Elegant Spaces Interior Design currently has no uncorrected fire code violations. The business adheres to all fire safety regulations and maintains compliance with necessary codes.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 750,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "Elegant Spaces transformed my living room into a cozy haven! Their attention to detail is unmatched.",
+          "I loved working with Jessica! She listened to my ideas and brought them to life beautifully.",
+          "The team at Elegant Spaces is professional and creative. They made the design process enjoyable and stress-free.",
+          "Highly recommend! They have a great selection of furnishings and really know how to maximize space.",
+          "From consultation to execution, everything was seamless. My home feels so much more inviting now!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No engagement in general construction or structural remodeling, including demolition or load-bearing modifications.",
+        "No handling or storage of hazardous materials such as lead paint, asbestos, or industrial chemicals.",
+        "No performance of electrical, plumbing, or HVAC work beyond decorative fixture installation.",
+        "No provision of services for industrial or large-scale commercial properties."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Interior Decorating & Design",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Interior Decorating & Design",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Elegant Spaces Interior Design is valid and meets all necessary criteria for acceptance. It adheres to the preferred and acceptable guidelines without violating any restrictions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

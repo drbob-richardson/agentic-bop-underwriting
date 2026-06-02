@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Artificial Flowers & Floral Supplies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Silk Blooms Floral Supplies",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Floral Avenue, Suite 200, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Jane Doe, Quality Assurance Manager, Silk Blooms Floral Supplies, (555) 123-4567, jane.doe@silkblooms.com",
+      "GL CODE": "2006",
+      "SIC": "5992",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Silk Blooms Floral Supplies specializes in the retail and wholesale of high-quality artificial flowers and floral supplies. Our operations focus on providing a diverse range of products for various customer needs, including home decor, events, and seasonal displays. We maintain a climate-controlled and secured inventory space to ensure the quality of our products, particularly those sensitive to temperature fluctuations. Our team is trained in basic floral design principles and customer service, enhancing the overall shopping experience for our clients. We operate a brick-and-mortar store, with online sales constituting less than 50% of our revenue, thereby keeping our core operations grounded in physical retail. Our commitment to safety is reflected in the ongoing training all staff undergo, promoting a secure and efficient working environment. Compliance with local regulations, including zoning and fire codes, is rigorously maintained to ensure smooth and lawful operations.\n\nCompliance Confirmation: The business does not engage in online sales that exceed 50% of total revenue and confirms that we do not conduct any high-risk event installations or complex rigging activities. Additionally, all storage areas for bulk inventory are secured and climate-controlled, and we have established fire protection systems, including sprinklers and smoke detectors, that are regularly maintained.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2020",
+      "EXPIRATION DATE": "01/15/2021",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,200.00",
+      "POLICY #": "POL-AF12345",
+      "OTHER BUSINESSES OWNED": "Silk Blooms Wedding Decor LLC, 234 Bridal Way, Springfield, IL 62701-2345",
+      "PREVIOUS CARRIER": "Floral Assurance Inc.",
+      "POLICY NUMBER": "POL-AF67890",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "Losses occurred between March 10, 2021, and April 5, 2021, due to unexpected water damage from a burst pipe in the inventory storage area. Total amount lost was $3,500, and the claim has been resolved with the payout received.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 limit with a $1,000 deductible",
+      "Medical Expense (per person)": "$1,000",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$10,000 limit with a $500 deductible",
+      "ordinence and law": "$500,000 limit with a $1,000 deductible",
+      "Flood": "$250,000 limit with a $2,500 deductible",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Floral Park Drive, Springfield, IL 62704-1234",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 6:00 PM, Saturday: 10:00 AM - 4:00 PM, Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$200,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B - Commercial Grade with UL Fire Safety Label",
+      "MONEY ON PREMISES": "$2,000",
+      "OTHER PROTECTION": "Security fencing and 24/7 monitored alarm system.",
+      "Building limit": "$120000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Silk Blooms Floral Supplies does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations are focused on the retail and wholesale of artificial flowers and floral supplies, adhering strictly to safety and regulatory guidelines.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Silk Blooms Floral Supplies does not sponsor athletic teams as our focus is primarily on retail and wholesale operations of artificial flowers and floral supplies.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the quality assurance manager, Jane Doe.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Silk Blooms Floral Supplies has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We prioritize ethical operations and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Silk Blooms Floral Supplies has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. Our operations have maintained compliance and good standing with our previous carrier.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Silk Blooms Floral Supplies does not lease employees to or from other employers, as our workforce is fully employed by us for our retail and wholesale operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Silk Blooms Floral Supplies carries Workers\u2019 Compensation insurance to ensure compliance and protect our employees in the event of workplace incidents. This coverage is part of our commitment to maintaining a safe work environment.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Silk Blooms Floral Supplies also owns and operates Silk Blooms Wedding Decor LLC, which is focused on event decoration services in addition to our primary business of artificial flowers and floral supplies.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Silk Blooms Floral Supplies does not have any other insurance policies with this company at present. All relevant coverage is already consolidated under the current policy number, POL-AF12345.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Silk Blooms Floral Supplies is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the retail and wholesale of artificial flowers and floral supplies without any manufacturing processes.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Silk Blooms Floral Supplies does not rent or loan equipment to others, as our focus is primarily on the retail and wholesale of artificial flowers and floral supplies. This helps to maintain control over our inventory and mitigate potential liabilities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Silk Blooms Floral Supplies has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Our financial standing remains stable and compliant with all regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Silk Blooms Floral Supplies does not have any exposure to flammables, explosives, or chemicals beyond standard adhesives and cleaning agents used in floral arrangements. Our operations maintain a focus on safety and compliance with all relevant regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Silk Blooms Floral Supplies does not have any catastrophe exposure as our operations are primarily focused on retail and wholesale activities without involvement in high-risk activities or events. We maintain compliance with safety regulations and operate in secured environments.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Silk Blooms Floral Supplies has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations are focused on ethical practices and we prioritize a safe work environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Silk Blooms Floral Supplies maintains compliance with all fire codes and does not have any uncorrected fire code violations. We prioritize safety and conduct regular inspections to ensure all regulations are met.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Absolutely love the selection of artificial flowers! They look so real and are perfect for my home decor.",
+          "Great quality floral supplies at reasonable prices. The staff was very helpful in assisting me with my choices.",
+          "I was impressed by the variety available. The store is well-organized, making it easy to find what I needed.",
+          "Silk Blooms has become my go-to for all things floral. Their products are durable and beautiful!",
+          "The customer service here is top-notch! They helped me create the perfect arrangement for my event."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Online sales must not exceed 50% of total revenue.",
+        "No high-risk event installations or complex rigging activities allowed.",
+        "All storage areas for bulk inventory must be secured and climate-controlled.",
+        "Established fire protection systems (sprinklers, smoke detectors) must be present and maintained."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Artificial Flowers & Floral Supplies",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Artificial Flowers & Floral Supplies",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Silk Blooms Floral Supplies is valid and meets all necessary criteria for acceptance. It adheres to the preferred and acceptable guidelines, with no violations of the specified restrictions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

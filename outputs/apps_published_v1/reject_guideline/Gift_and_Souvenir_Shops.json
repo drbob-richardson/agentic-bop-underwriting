@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Gift & Souvenir Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Trinkets & Treasures",
+      "FEIN OR SOC SEC #": "REJECT",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Serenity Lane, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Manager, Trinkets & Treasures, Phone: (555) 123-4567, Email: john.smith@trinketsandtreasures.com",
+      "GL CODE": "REJECT",
+      "SIC": "5999",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Trinkets & Treasures, we specialize in a diverse range of gift and souvenir items including handmade crafts, locally sourced artwork, and unique memorabilia that reflect the charm of Springfield. Our welcoming store is designed to provide an enjoyable shopping experience for both tourists and local customers alike. We maintain strict inventory management procedures to minimize loss and ensure timely restocking of popular items. Our team is trained in customer service, safety protocols, and loss prevention strategies. Operating from a permanent retail location, we fully comply with local regulations and maintain all necessary business licenses. We are committed to fostering community engagement, collaborating with local artisans, and actively participating in regional events to support our vibrant arts scene.\n\nOur gift and souvenir shop offers a unique selection of novelty items, including decorative collectibles and themed fireworks for local celebrations and events.",
+      "DATE BUSINESS STARTED": "04/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "REJECT",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECT-SPEC-1",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "REJECT-SPEC-1",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses to report. Business operates without any insurance claims or incidents related to firearms, hazardous materials, or other excluded operations.",
+      "Combined Single Limit": "\"REJECT\"",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000 Limit with a $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000,000 Limit with a $1,000 Deductible",
+      "Medical Expense (per person)": "REJECT",
+      "Damge to Rental Premises": "REJECT-SPEC-1",
+      "Professional Liability": "\"REJECT-SPEC-1\"",
+      "Liquor Liability": "\"REJECT-SPEC-1\"",
+      "Hired Auto": "\"REJECT-SPEC-1\"",
+      "Non-owned Auto": "\"$1,000,000 Limit with a $1,000 Deductible\"",
+      "Computers": "\"$5,000 Limit with a $500 Deductible\"",
+      "ordinence and law": "\"REJECT-SPEC-1\"",
+      "Flood": "\"REJECT-SPEC-1\"",
+      "accounts recievable": "\"REJECT-SPEC-1\"",
+      "employee dishonesty": "\"$50,000 Limit with a $1,000 Deductible\"",
+      "money and securities": "\"$10,000 Limit with a $500 Deductible\"",
+      "ADDRESS": "456 Main Street, Springfield, IL 62701-5678",
+      "Year Built": "2010",
+      "Square Feet": "1600.0",
+      "HOURS OF OPERATION": "10:00 AM - 8:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "\"REJECT\"",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "\"$0\"",
+      "NO. OF EMPLOYEES": "3",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Steel vault, Class I, labeled for cash and valuables.",
+      "MONEY ON PREMISES": "\"$5,000\"",
+      "OTHER PROTECTION": "Operational security systems, including professional monitoring and intrusion detection, to enhance safety and theft prevention.",
+      "Building limit": "$-1",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "REJECT",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Trinkets & Treasures does not engage in operations involving storing, treating, discharging, applying, disposing, or transporting hazardous materials. The shop focuses on retailing a variety of gift items without any hazardous components.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Trinkets & Treasures does not sponsor athletic teams. The focus of the business is on retailing gift and souvenir items.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as it ensures proper risk transfer. Certificates are typically checked by the management of Trinkets & Treasures to maintain compliance and safety standards.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Trinkets & Treasures has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crime in connection with this or any other property. The business maintains a strong commitment to compliance and operational integrity.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Trinkets & Treasures has not had any policies or coverage declined, canceled, or non-renewed in the past three years. The business operates without any insurance claims or incidents related to excluded operations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Trinkets & Treasures does not lease employees to or from other employers. The business operates with its own staff without engaging in employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Trinkets & Treasures does not carry Workers' Compensation insurance, as it is not applicable for this retail operation. The business complies with all local regulations and maintains necessary business licenses.",
+      "G8: Do you own or operate any other business?": "No \u2013 Trinkets & Treasures does not own or operate any other business apart from its gift and souvenir shop. The business is solely focused on retailing a variety of gift items without any additional operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Trinkets & Treasures does not have any other insurance policies with this company. The business focuses solely on its retail operations without additional underwriting needs.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Trinkets & Treasures is not involved in manufacturing, mixing, relabeling, or repackaging of products. The shop specializes in retailing gift and souvenir items without any manufacturing activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Trinkets & Treasures does not rent or loan equipment to others, as our operations focus solely on retailing gift and souvenir items. This allows us to maintain our commitment to safety and regulatory compliance.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Trinkets & Treasures has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, ensuring a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Trinkets & Treasures does not have any exposure to flammables, explosives, or chemicals, as we focus exclusively on retailing non-hazardous gift and souvenir items. Our operations are fully compliant with local regulations and do not involve any hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Trinkets & Treasures does not sell firearms, ammunition, fireworks, or hazardous materials, which exempts them from such catastrophe exposures.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Trinkets & Treasures has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, ensuring a strong commitment to compliance and safety.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Trinkets & Treasures has no uncorrected fire code violations and prioritizes compliance with all safety regulations. The business maintains a commitment to operational safety and regulatory standards.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Trinkets & Treasures has a fantastic selection of unique gifts! I found the perfect souvenir for my friend.",
+          "The staff is incredibly friendly and helpful. I always enjoy my shopping experience here.",
+          "A lovely shop with a great variety of locally made crafts. It's a must-visit when in Springfield!",
+          "I appreciate the attention to detail in their inventory. Every item feels special and thoughtfully curated.",
+          "This place is a hidden gem! I love supporting local artisans and finding one-of-a-kind treasures."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for shops selling firearms, ammunition, fireworks, or hazardous materials."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Gift & Souvenir Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for shops selling firearms, ammunition, fireworks, or hazardous materials."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for shops selling firearms, ammunition, fireworks, or hazardous materials.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text mentions 'themed fireworks for local celebrations and events,' which directly violates the underwriting guideline prohibiting coverage for shops selling hazardous materials."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Gift & Souvenir Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for shops selling firearms, ammunition, fireworks, or hazardous materials."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application is rejected due to the specified reason regarding the sale of fireworks, which is a violation of the coverage rules.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for shops selling firearms, ammunition, fireworks, or hazardous materials.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text mentions 'themed fireworks for local celebrations and events,' which directly violates the underwriting guideline prohibiting coverage for shops selling hazardous materials."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

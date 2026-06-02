@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Window Treatments & Blinds",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Window Bliss Blinds & Treatments",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Window Treatment Way, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Jane Doe, Quality Assurance Manager, (555) 123-4567, jane.doe@windowbliss.com",
+      "GL CODE": "BOP-CC-101",
+      "SIC": "5722",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Window Bliss Blinds & Treatments, we specialize in providing high-quality window coverings tailored to both residential and light commercial clients. Our operations focus on non-motorized window treatment installations, ensuring that all installation activities are performed by our trained and certified personnel. We prioritize compliance with safety standards and maintain rigorous documentation of our staff's training programs. Additionally, we ensure that any subcontractors we engage hold valid licenses and liability insurance, minimizing risks associated with unqualified personnel. Our commitment to safety extends to our operational practices, where we utilize Installation Floater coverage to protect our products during transit and adhere to industry regulations. Our goal is to create an exceptional experience for our customers while maintaining an unwavering focus on quality, compliance, and customer service.\n\nCompliance Confirmation: The business does not engage in any installation activities performed by untrained personnel and confirms that all installations are executed by trained and certified staff. Additionally, we maintain comprehensive documentation of our training programs and ensure adherence to all industry safety standards. We do not utilize subcontractors for installation or repair work unless they hold valid licenses and carry their own liability insurance, ensuring compliance with all applicable requirements.",
+      "DATE BUSINESS STARTED": "03/15/2020",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,000.00",
+      "POLICY #": "WB-2024-0011",
+      "OTHER BUSINESSES OWNED": "\"Blinds & Curtains Depot, LLC - A boutique style store offering a wide variety of window treatments and d\u00e9cor accessories.\"",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "WB-2023-0023",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Losses occurred on 07/15/2023 due to accidental damage during installation of window blinds in a residential property, totaling $1,200. The claim has been settled.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$2,500.00",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$300,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$500,000 / $1,000",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "7890 Blinds Boulevard, Ste 200, Springfield, IL 62704-5678",
+      "Year Built": "2015",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM to 5:00 PM; Saturday: 10:00 AM to 4:00 PM; Closed on Sunday",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Class 1 safe with a Grade A security rating; labeled as \"Standard Commercial Storage.\"",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Installation Floater coverage for window treatments and blinds during transit.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost valuation",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus solely on non-motorized window treatment installations without any exposure to hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor any athletic teams as part of our business operations. Our focus is primarily on window treatment installations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The business maintains documentation of subcontractor credentials and insurance to ensure compliance and facilitate claims processing.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes in connection with this or any other property affiliated with the applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior 3 years. All coverage has been maintained without any issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; all our personnel are direct employees of Window Bliss Blinds & Treatments. This structure helps us maintain quality and safety standards in our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers\u2019 Compensation insurance to comply with statutory requirements and protect our employees during operations.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 We own and operate another business called \"Blinds & Curtains Depot, LLC,\" which offers a wide variety of window treatments and d\u00e9cor accessories. This venture complements our primary focus on window coverings at Window Bliss Blinds & Treatments.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We do not have any other insurance policies with this company at this time. Our focus is solely on the current coverage provided under our main policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging products. Our operations focus solely on installing non-motorized window treatments.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others as our operations focus solely on providing installations of non-motorized window treatments for residential and light commercial clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There have been no foreclosures, repossessions, bankruptcies, judgments, or liens during the past five years. The financial standing of the business remains stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have any exposure to flammables, explosives, or chemicals as our operations strictly focus on non-motorized window treatment installations. All activities are conducted in compliance with safety standards and regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any catastrophe exposure as our operations are focused solely on non-motorized window treatment installations, with no involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize compliance with ethical standards and the hiring of qualified personnel.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations reported. We maintain compliance with all relevant fire safety regulations and conduct regular inspections to ensure safety standards are met.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Window Bliss Blinds & Treatments did an amazing job on my new blinds! The installation was quick and professional.",
+          "I love my new window treatments! The staff was knowledgeable and helped me choose the perfect style for my home.",
+          "Great experience from start to finish. The team was friendly and the quality of the blinds is top-notch.",
+          "Highly recommend Window Bliss! They provided excellent service and the blinds look fantastic in my living room.",
+          "I was impressed with their attention to detail during the installation. My windows have never looked better!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Installation activities must be performed by trained and certified personnel.",
+        "Proof of training programs and adherence to industry safety standards is mandatory for coverage.",
+        "Use of subcontractors for installation or repair work is permitted only if they hold valid licenses.",
+        "Subcontractors must carry their own liability insurance to qualify for coverage."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Window Treatments & Blinds",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Window Treatments & Blinds",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Window Treatments & Blinds is valid and meets the necessary criteria for acceptance. All operations are compliant with the preferred and acceptable guidelines, and there are no violations present.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

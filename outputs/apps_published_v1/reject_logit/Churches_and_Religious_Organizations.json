@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Churches & Religious Organizations",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Grace Community Church",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Faith Lane, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Facilities Manager, Grace Community Church, Phone: (555) 123-4567, Email: johndoe@gracecommunitychurch.org",
+      "GL CODE": "GQ-05",
+      "SIC": "8111",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Grace Community Church operates as a religious organization focused on providing spiritual guidance and community support. Our core operations include weekly worship services, educational programs for all ages, and various community outreach initiatives aimed at helping those in need. We maintain an active calendar of events, including Bible study groups, youth programs, and volunteer opportunities, fostering a welcoming and inclusive environment for individuals and families. Our facilities are regularly maintained to ensure safety and compliance with local codes, reflecting our commitment to creating a safe space for worship and community gatherings. We prioritize the well-being of our congregation by implementing background checks for all staff and volunteers, particularly those working with children, and have established child protection policies to safeguard against risks. We are dedicated to contributing positively to the local community while advancing our mission of faith and service.",
+      "DATE BUSINESS STARTED": "01/15/2000",
+      "EFFECTIVE DATE": "01/01/2023",
+      "EXPIRATION DATE": "01/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,350.00",
+      "POLICY #": "GCC-2023-0045",
+      "OTHER BUSINESSES OWNED": "Community Thrift Store - A nonprofit retail operation supporting church outreach programs by selling donated items.",
+      "PREVIOUS CARRIER": "Church Mutual Insurance Company",
+      "POLICY NUMBER": "GCC-2022-0012",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "On March 15, 2022, a minor water leak caused damage to the ceiling in our fellowship hall, resulting in repair costs of $1,500. The issue has been fully resolved and the repairs were completed by a licensed contractor. Status: Closed.",
+      "Combined Single Limit": "$1,000,000 per occurrence",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate / $2,500 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit / $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit / $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit / $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit / $1,000 deductible",
+      "Computers": "\"$50,000 limit / $1,000 deductible\"",
+      "ordinence and law": "$500,000 limit / $2,500 deductible",
+      "Flood": "$500,000 limit / $2,500 deductible",
+      "accounts recievable": "$100,000 limit / $1,000 deductible",
+      "employee dishonesty": "$100,000 limit / $1,000 deductible",
+      "money and securities": "\"$100,000 limit / $1,000 deductible\"",
+      "ADDRESS": "5678 Hope Street, Springfield, IL 62704-5678",
+      "Year Built": "2005",
+      "Square Feet": "12000",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM - 5 PM; Saturday: 10 AM - 4 PM; Sunday: 8 AM - 1 PM",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$150,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fire-resistant safe, Class B, UL Listed",
+      "MONEY ON PREMISES": "$2,500.00",
+      "OTHER PROTECTION": "Fencing and regular patrols by volunteer safety teams",
+      "Building limit": "$8000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Grace Community Church does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The church focuses on community service and worship activities without involvement in such operations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Grace Community Church does not sponsor athletic teams, as its focus is primarily on spiritual guidance and community support through various programs and activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this ensures proper risk transfer. The designated individual, typically a compliance officer or project manager, is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any arson-related crimes associated with Grace Community Church or its applicants. The organization is committed to maintaining high ethical standards and compliance in all its operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Grace Community Church has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. We maintain a good standing with our previous carrier and ensure compliance with all required regulations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Grace Community Church does not lease employees to or from other employers. The church employs its own staff directly to support its operations and community programs.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Grace Community Church currently carries Workers' Compensation insurance to ensure compliance with legal requirements and protect its employees. The church prioritizes the well-being of its staff and operates with proper coverage in place.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Grace Community Church operates a Community Thrift Store, which is a nonprofit retail operation supporting church outreach programs by selling donated items. This initiative helps fund various community services and maintain the church's mission.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Grace Community Church does not have any other insurance policies with this company at this time. Our current policy is the only coverage currently in effect.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Grace Community Church is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our activities primarily focus on providing spiritual guidance and community support through various programs and services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Grace Community Church does not rent or loan equipment to others, as our operations focus primarily on providing spiritual guidance and community support rather than equipment sharing.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Grace Community Church has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The church maintains a stable financial position and adheres to responsible financial practices.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Grace Community Church does not have exposure to flammables, explosives, or chemicals as our operations focus on providing spiritual guidance and community support with no involvement in related activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Grace Community Church does not have any known catastrophe exposure as its operations are centered on community service and worship activities without high-risk activities. The church maintains compliance with safety regulations to minimize any potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Grace Community Church has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The church has implemented policies to ensure the safety and protection of its congregation and community.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Grace Community Church has no uncorrected fire code violations. The church regularly maintains its facilities to ensure compliance with all safety regulations.",
+      "NUMBER OF CLAIMS": "5"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 5,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Grace Community Church is a welcoming place where everyone feels at home. The community outreach programs are truly inspiring!",
+          "I love attending services here! The staff is friendly, and the sermons are uplifting and thought-provoking.",
+          "A beautiful church with a strong sense of community. They offer great programs for all ages, making it a perfect place for families.",
+          "The atmosphere at Grace Community Church is warm and inviting. I appreciate their commitment to helping those in need.",
+          "I always leave feeling uplifted after attending services. The volunteers are dedicated, and the events are well-organized."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Churches & Religious Organizations",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Churches & Religious Organizations",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

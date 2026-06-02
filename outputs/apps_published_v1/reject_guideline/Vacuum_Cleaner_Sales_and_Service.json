@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Vacuum Cleaner Sales & Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Vacuum Solutions & Repair",
+      "FEIN OR SOC SEC #": "```json\n{\n  \"FEIN OR SOC SEC #\": \"F123456789\"\n}\n```",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "12345 Vacuum Way, Suite 100, Clean City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "N/A",
+      "GL CODE": "\"\"",
+      "SIC": "7539",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Vacuum Solutions & Repair, we specialize in retail sales of new and refurbished vacuum cleaners, along with a variety of essential accessories such as filters and replacement parts. Our operations include providing in-shop repair and maintenance for residential and light commercial vacuum cleaners, carried out by our certified technicians. We prioritize product quality by sourcing the vacuum cleaners and parts exclusively from reputable manufacturers with proven records. Our staff undergoes thorough safety and technical training, ensuring compliance with all local electrical safety regulations. We also maintain a well-documented safety protocol and quality assurance process to mitigate risks and ensure customer satisfaction. Importantly, we do not engage in any manufacturing or assembly of vacuum cleaners or components, adhering strictly to industry best practices in retail and service operations.",
+      "DATE BUSINESS STARTED": "03/15/2022",
+      "EFFECTIVE DATE": "03/16/2022",
+      "EXPIRATION DATE": "03/15/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "",
+      "POLICY #": "REJECT-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "REJECT-001",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "No losses reported due to operational adherence to service regulations and quality control; business activities do not involve manufacturing or higher-risk operations.",
+      "Combined Single Limit": "```json\n{\n  \"Combined Single Limit\": \"N/A\"\n}\n```",
+      "Bodily Injury & Prop Damage Occurrrence": "{\"Bodily Injury & Prop Damage Occurrence\": \"N/A\"}",
+      "Bodily Injury & Prop Damage Aggregate": "N/A",
+      "Medical Expense (per person)": "N/A",
+      "Damge to Rental Premises": "{\"Limit\":\"N/A\",\"Deductible\":\"N/A\"}",
+      "Professional Liability": "```json\n{\n  \"Professional Liability\": \"N/A\"\n}\n```",
+      "Liquor Liability": "{\"limit\":\"N/A\",\"deductible\":\"N/A\"}",
+      "Hired Auto": "```json\n{\n  \"Hired Auto\": \"N/A\"\n}\n```",
+      "Non-owned Auto": "{\"Limit\":\"N/A\",\"Deductible\":\"N/A\"}",
+      "Computers": "```json\n{\n  \"Computers\": \"N/A\"\n}\n```",
+      "ordinence and law": "{\"Limit\":\"$1,000,000\",\"Deductible\":\"$5,000\"}",
+      "Flood": "{\"Limit\":\"N/A\",\"Deductible\":\"N/A\"}",
+      "accounts recievable": "```json\n{\n  \"Limit\": \"$0\",\n  \"Deductible\": \"$0\"\n}\n```",
+      "employee dishonesty": "```json\n{\n  \"Limit\": \"$50,000\",\n  \"Deductible\": \"$1,000\"\n}\n```",
+      "money and securities": "```json\n{\n  \"Limit\": \"N/A\",\n  \"Deductible\": \"N/A\"\n}\n```",
+      "ADDRESS": "12345 Vacuum Way, Suite 100, Clean City, CA 90210-1234",
+      "Year Built": "2000",
+      "Square Feet": "1000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 6:00 PM; Saturday: 10:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "{\"BUILDING IMPROVEMENTS\": \"2015\"}",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$0",
+      "TOTAL PAYROLL": "```json\n{\n  \"TOTAL PAYROLL\": \"$0\"\n}\n```",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "```json\n{\"Limit\":\"$250\",\"Deductible\":\"$0\"}\n```",
+      "OTHER PROTECTION": "N/A",
+      "Building limit": "$0",
+      "building % Coinsurance": "N/A",
+      "personal property valuation type": "No underwriting for businesses engaged in vacuum cleaner manufacturing or component assembly.",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "N/A",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing of, or transporting hazardous materials. We strictly adhere to industry standards and regulatory requirements related to retail and servicing of vacuum cleaners.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as our focus is exclusively on the retail and service of vacuum cleaners, in accordance with our operational guidelines.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Compliance is verified by checking the certificates prior to engagement.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related crime. They adhere to strict operational guidelines and seek to maintain a reputable business standard.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years. This demonstrates a consistent operational compliance and solid standing within the insurance marketplace.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers, as we operate with our own certified technicians focused on retail and repair services for vacuum cleaners.",
+      "G7: Any Workers Compensation carried?": "No \u2013 We do not carry Workers Compensation as we have no employees; our operations are focused on retail and service of vacuum cleaners without engaging in any manufacturing activities.",
+      "G8: Do you own or operate any other business?": "No \u2013 The applicant does not own or operate any other business. Their operations are solely focused on retail and service of vacuum cleaners without engaging in any manufacturing activities.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Our business does not have any other insurance with this company, as we've primarily focused on our retail and service operations without engaging in manufacturing activities.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations strictly focus on retail sales and service of vacuum cleaners.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others, as our operations are focused solely on retail sales and service of vacuum cleaners.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, demonstrating financial stability in their business operations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Our operations do not involve any exposure to flammables, explosives, or chemicals, as we strictly focus on the retail and servicing of vacuum cleaners without engaging in manufacturing or high-risk operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any catastrophe exposure as our operations focus solely on retail sales and service of vacuum cleaners, and we do not engage in any high-risk activities or manufacturing processes.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Our business has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, maintaining a strong focus on compliance and ethical standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The business has no uncorrected fire code violations, ensuring compliance with safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of vacuum cleaners! The staff was very knowledgeable and helped me find the perfect model for my home.",
+          "I had my vacuum repaired here, and the service was quick and affordable. Highly recommend for anyone needing repairs!",
+          "The staff at Vacuum Solutions & Repair are friendly and professional. They really know their products and gave me great advice.",
+          "I love my new vacuum from this store! It works wonders on pet hair, and the price was unbeatable.",
+          "Excellent customer service! They took the time to explain the features of different models without any pressure to buy."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No underwriting for businesses engaged in vacuum cleaner manufacturing or component assembly."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Vacuum Cleaner Sales & Service",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No underwriting for businesses engaged in vacuum cleaner manufacturing or component assembly."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Intended to violate a guideline but the violation is not visible in the application or third-party data after generation.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business does not engage in manufacturing or assembly of vacuum cleaners or components, and the third-party data does not indicate any manufacturing activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Vacuum Cleaner Sales & Service",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No underwriting for businesses engaged in vacuum cleaner manufacturing or component assembly."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application rejected due to violation of underwriting restrictions for businesses engaged in vacuum cleaner manufacturing or component assembly.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Intended to violate a guideline but the violation is not visible in the application or third-party data after generation.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business does not engage in manufacturing or assembly of vacuum cleaners or components, and the third-party data does not indicate any manufacturing activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

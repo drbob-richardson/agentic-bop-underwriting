@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Asphalt & Paving Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Pavement Pros Asphalt Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "12345 Paving Way, Suite 101  \nSpringfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, Phone: (123) 456-7890, Email: john.smith@pavementpros.com",
+      "GL CODE": "12345",
+      "SIC": "1611",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "Pavement Pros Asphalt Services specializes in providing high-quality asphalt paving and maintenance solutions for residential and commercial properties. Our core operations include asphalt installation for driveways, parking lots, and roadways, as well as resurfacing and repair services. We prioritize using durable materials and modern equipment to ensure long-lasting results. Our team is committed to safety and has a documented safety program in place with regular employee training on equipment use. We also maintain strong vendor relationships to secure a steady supply of asphalt and aggregates, ensuring our projects run smoothly and efficiently. With a focus on quality and customer satisfaction, we handle all aspects of paving projects, providing clear communication and effective project management systems to meet deadlines and client expectations.\n\nCompliance Confirmation: The business does not have a history of frequent or severe employee injury claims and confirms its commitment to safety and compliance. We do not engage in paving operations at commercial airports and have no unresolved environmental violations. Additionally, we maintain business interruption coverage for any weather-related operational delays.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "A9642B1C",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Asphalt Assurance Insurance Company",
+      "POLICY NUMBER": "A9642B1D",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On March 15, 2023, during the resurfacing of a commercial parking lot, a minor accident occurred when a piece of asphalt fell from our equipment and caused slight damage to a parked vehicle, resulting in a loss of $1,200. The claim has been settled and closed as of April 5, 2023.  On May 23, 2023, an employee sustained a minor injury while operating equipment, leading to a loss of $3,800 due to medical expenses and workers' compensation. This claim is currently under review by our insurance provider.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible.",
+      "Damge to Rental Premises": "$50,000 with a $2,500 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 per occurrence with a $1,000 deductible",
+      "Computers": "\"$20,000 limit with a $1,000 deductible\"",
+      "ordinence and law": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "\"$50,000 limit with a $1,000 deductible\"",
+      "ADDRESS": "4567 Asphalt Avenue, Building B  \nSpringfield, IL 62704-6789",
+      "Year Built": "2005",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 7:00 AM - 5:00 PM; Saturday: 8:00 AM - 12:00 PM; Sunday: Closed",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$850000",
+      "TOTAL PAYROLL": "$500,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Steel-reinforced safe, Class B, with UL label.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and on-site security personnel during operations.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We primarily focus on asphalt paving and maintenance, adhering to environmental regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as part of our business operations. Our focus is primarily on asphalt paving and maintenance services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance to ensure proper risk transfer. The company's designated personnel are responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our operations maintain a strong ethical standard and compliance with all legal requirements.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years. Our insurance history remains consistent and we have no issues in this regard.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers, as we maintain a dedicated workforce to handle all our paving and maintenance operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Pavement Pros Asphalt Services carries workers' compensation insurance to ensure compliance with legal requirements and to protect both employees and the business in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 We do not own or operate any other business. Our sole focus is on providing asphalt paving and maintenance services through Pavement Pros Asphalt Services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Pavement Pros Asphalt Services does not have any other insurance policies with this company at this time. All the insurance coverage required for our operations is adequately provided by the current policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Pavement Pros Asphalt Services is not involved in manufacturing, mixing, relabeling, or repackaging of products; we specialize in asphalt paving and maintenance services only.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others as our focus is on providing quality asphalt paving and maintenance services using our own equipment. This approach ensures better control over project quality and safety.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There have been no foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years for Pavement Pros Asphalt Services. The company's financial standing remains stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Pavement Pros Asphalt Services does not have any exposure to flammables, explosives, or chemicals as our operations solely focus on asphalt paving and maintenance, adhering to strict safety and environmental regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Pavement Pros Asphalt Services does not have any catastrophe exposure, as our operations focus solely on asphalt paving and maintenance without engaging in high-risk activities associated with significant catastrophe potential.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations maintain a strong commitment to ethical practices and compliance with all legal standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Pavement Pros Asphalt Services. The company adheres to all fire safety regulations and maintains a commitment to compliance.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Pavement Pros did an excellent job on my driveway! The team was professional and completed the work ahead of schedule.",
+          "I was impressed with the quality of the asphalt and the attention to detail. Highly recommend their services!",
+          "Great experience from start to finish. The staff was friendly and the pricing was transparent with no hidden fees.",
+          "They resurfaced our parking lot and it looks fantastic! Very satisfied with the results and the service provided.",
+          "Pavement Pros is my go-to for all paving needs. They are reliable, efficient, and always deliver high-quality work."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Applicants with a history of frequent or severe employee injury claims are subject to automatic referral or declination.",
+        "Paving operations at commercial airports require adherence to specific underwriting criteria and may be restricted.",
+        "Businesses with unresolved environmental violations are not eligible for coverage.",
+        "Applicants must maintain business interruption coverage for weather-related operational delays."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Asphalt & Paving Services",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Asphalt & Paving Services",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted due to a history of employee injury claims, which is a violation of the underwriting restrictions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

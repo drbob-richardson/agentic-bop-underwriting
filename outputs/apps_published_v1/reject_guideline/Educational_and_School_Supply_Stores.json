@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Educational & School Supply Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Scholarly Supplies Co.",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "123 Education Lane, Suite 100, Knowledge City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, Scholarly Supplies Co.",
+      "GL CODE": "REJ-GL-EDU-SUPPLIES-001",
+      "SIC": "5999",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Scholarly Supplies Co. operates as a retail store specializing in educational materials, school supplies, stationery, and art supplies aimed at students, parents, and educators. Our inventory is carefully curated to maintain a value under $500,000, ensuring security and minimizing risk. We position our store in commercial districts or shopping centers, with standard security measures including locked display cases and adequate lighting to deter theft. We staff knowledgeable sales associates and managers who assist customers in finding the right products. While we provide bulk sales to schools and institutions, we do not offer any rental services, instructional classes, or online sales that exceed 25% of our total revenue, thereby reducing liability and cyber risks. Our products, especially those intended for children, comply with applicable safety standards, ensuring customer well-being. Overall, our operations are designed to foster a secure and efficient shopping environment for our community's educational needs.\n\nOur educational and school supply store maintains a diverse inventory of supplies, with values often exceeding $500,000, to ensure we meet the needs of our customers and local schools.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "SCH-EDU-2024001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Fantastic Insurance Group",
+      "POLICY NUMBER": "SCH-EDU-2024001",
+      "TOTAL LOSSES": "$12,000",
+      "DESCRIPTION OF LOSSES": "Inventory loss recorded on 02/10/2023 due to a minor flood incident, totaling $12,000. Status: Claim submitted, under review.",
+      "Combined Single Limit": "reject",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $1,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "reject",
+      "Professional Liability": "reject",
+      "Liquor Liability": "reject",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "reject",
+      "ordinence and law": "reject",
+      "Flood": "reject",
+      "accounts recievable": "reject",
+      "employee dishonesty": "reject",
+      "money and securities": "reject",
+      "ADDRESS": "789 Knowledge Blvd, Suite 200, Learning Town, CA 90210-5678",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "09:00 AM - 07:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$400000",
+      "TOTAL PAYROLL": "$250,000",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Safe Class A, Grade 1, Fire Rated",
+      "MONEY ON PREMISES": "$200,000",
+      "OTHER PROTECTION": "N/A",
+      "Building limit": "$400000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual cost value",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Scholarly Supplies Co. does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. Our focus is solely on retailing educational materials and supplies.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Scholarly Supplies Co. does not sponsor athletic teams as part of its business operations. Our focus remains on providing educational materials and supplies to our community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, ensuring proper risk transfer. The certificates are typically checked by the operations manager or designated personnel in the company.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Scholarly Supplies Co. has not had any applicant indicted or convicted of fraud, bribery, arson, or any related crime in connection with this or any other property. We prioritize ethical business practices and maintain a clean legal record.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Scholarly Supplies Co. has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Scholarly Supplies Co. does not lease employees to or from other employers. Our staffing is managed internally to maintain control over operations and ensure safety.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Scholarly Supplies Co. does not currently carry Workers' Compensation insurance, which is required for any business with employees. Compliance with this statutory requirement is essential for risk management and employee protection.",
+      "G8: Do you own or operate any other business?": "No \u2013 Scholarly Supplies Co. does not own or operate any other business. We focus solely on retailing educational materials, school supplies, and related products.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Scholarly Supplies Co. does not have any other insurance policies with this company. Our current policy is sufficient to meet our operational needs.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Scholarly Supplies Co. is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retailing educational materials and school supplies.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Scholarly Supplies Co. does not rent or loan equipment to others, which helps to minimize liability and property damage risks associated with rental operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Scholarly Supplies Co. has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a sound financial position and complies with relevant operational standards.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Scholarly Supplies Co. does not have any exposure to flammables, explosives, or chemicals, as our operations focus exclusively on retailing educational materials and school supplies.",
+      "G14: Any catastrophe exposure?": "No \u2013 Scholarly Supplies Co. maintains an inventory value under $500,000, reducing exposure to catastrophe risk as per our operational guidelines.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Scholarly Supplies Co. has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, demonstrating our commitment to ethical practices and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Scholarly Supplies Co. does not have any uncorrected fire code violations, ensuring compliance and prioritizing safety in our operations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 12000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Scholarly Supplies Co. has a fantastic selection of educational materials! The staff is always helpful and knowledgeable.",
+          "I love shopping here for school supplies. The prices are reasonable, and they have everything I need for my kids.",
+          "Great store for teachers! They offer bulk discounts and have a wide variety of resources.",
+          "The atmosphere is welcoming, and I appreciate the organization of the store. It's easy to find what I'm looking for.",
+          "I had a wonderful experience at Scholarly Supplies Co. The staff went above and beyond to assist me with my purchase."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Inventory value must remain under $500,000 unless a centrally monitored alarm system is installed."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Educational & School Supply Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Inventory value must remain under $500,000 unless a centrally monitored alarm system is installed."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Inventory value must remain under $500,000 unless a centrally monitored alarm system is installed.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the inventory values often exceed $500,000, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Educational & School Supply Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Inventory value must remain under $500,000 unless a centrally monitored alarm system is installed."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of inventory value rule. Inventory value exceeds $500,000 without a centrally monitored alarm system installed.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Inventory value must remain under $500,000 unless a centrally monitored alarm system is installed.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the inventory values often exceed $500,000, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

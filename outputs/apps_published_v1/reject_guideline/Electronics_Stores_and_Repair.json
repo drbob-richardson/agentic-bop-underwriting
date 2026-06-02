@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Electronics Stores & Repair",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Tech Haven Electronics",
+      "FEIN OR SOC SEC #": "REJECTED-001",
+      "BUSINESS TYPE": "Other",
+      "MAILING ADDRESS": "123 Main St, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Business must have operated at the current insured location for over 3 years.",
+      "GL CODE": "REJECTED-002",
+      "SIC": "5731",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Tech Haven Electronics, we specialize in the retail of consumer electronics and provide comprehensive repair services for a wide range of devices including smartphones, laptops, tablets, and home audio equipment. Our operations focus on delivering quality products at competitive prices while ensuring exceptional customer service. \n\nOur store, located in a bustling commercial area, enables us to engage directly with customers, allowing for personalized assistance and support. We maintain a well-organized inventory management system to efficiently track products and repairs, ensuring a seamless customer experience.\n\nAll our technicians are trained and certified, adhering to industry standards to guarantee professional repairs. We pride ourselves on our dedication to safety and compliance, having successfully operated at our current location for over three years without any major theft or safety incidents.\n\nMoreover, we have implemented strong customer service protocols to address inquiries and warranty claims promptly. While online sales are a component of our business model, we ensure that less than 75% of our revenue comes from this channel, maintaining a strong in-person retail presence to mitigate certain liabilities. \n\nAt Tech Haven Electronics, we are committed to providing reliable services and fostering long-term customer relationships, all while ensuring a safe and secure shopping environment.\n\nOur electronics store and repair shop has been serving customers by providing quality service and products since we opened our doors at this location, and we are proud to have been here for over two years, helping the community with their electronic needs.",
+      "DATE BUSINESS STARTED": "08/01/2020",
+      "EFFECTIVE DATE": "08/02/2023",
+      "EXPIRATION DATE": "08/02/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "REJECTED-POLICY-003",
+      "OTHER BUSINESSES OWNED": "Tech Haven Electronics operates as a sole business entity focused solely on retail electronics and repair services, with no other business ventures owned or operated.",
+      "PREVIOUS CARRIER": "\"ABC Insurance Company\"",
+      "POLICY NUMBER": "REJECTED-POLICY-003",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "\"Tech Haven Electronics has experienced a total of 0 losses since opening at this location. The business has maintained a clean record, with no incidents of theft, burglary, or vandalism reported in the past 3 years. All operations are compliant with safety regulations and effective loss prevention measures are in place.\"",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "\"Not applicable, business must have operated at the current insured location for over 3 years.\"",
+      "Bodily Injury & Prop Damage Aggregate": "Not applicable, business must have operated at the current insured location for over 3 years.",
+      "Medical Expense (per person)": "Not applicable, business must have operated at the current insured location for over 3 years.",
+      "Damge to Rental Premises": "Not applicable, business must have operated at the current insured location for over 3 years.",
+      "Professional Liability": "{\"Limit\":\"$1,000,000\",\"Deductible\":\"$5,000\"}",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "\"\"",
+      "Non-owned Auto": "\"\"",
+      "Computers": "\"Limit and Deductible: Not applicable, business must have operated at the current insured location for over 3 years.\"",
+      "ordinence and law": "Not applicable, business must have operated at the current insured location for over 3 years.",
+      "Flood": "Limit and Deductible: Not applicable, business must have operated at the current insured location for over 3 years.",
+      "accounts recievable": "Limit and Deductible: Not applicable, business must have operated at the current insured location for over 3 years.",
+      "employee dishonesty": "Limit and Deductible: Not applicable, business must have operated at the current insured location for over 3 years.",
+      "money and securities": "Limit and Deductible: Not applicable, business must have operated at the current insured location for over 3 years.",
+      "ADDRESS": "456 Technology Way, Suite 200, Springfield, IL 62701-4567",
+      "Year Built": "2019",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "\"Mon-Fri: 9 AM - 7 PM; Sat: 10 AM - 6 PM; Sun: Closed\"",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "\"\"",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "\"$0\"",
+      "NO. OF EMPLOYEES": "4",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Class B Safe, Grade 1, UL Listed\"",
+      "MONEY ON PREMISES": "$1,000",
+      "OTHER PROTECTION": "Alarm system not installed, resulting in increased risk of theft and loss.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "Not applicable, business must have operated at the current insured location for over 3 years.",
+      "personal property valuation type": "\"Replacement cost, actual cost value\"",
+      "personal property limit": "Not applicable, business must have operated at the current insured location for over 3 years.",
+      "personal property % Coinsurance": "Not applicable, business must have operated at the current insured location for over 3 years.",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Tech Haven Electronics has not been involved in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business focuses solely on retail and repair of consumer electronics, ensuring compliance with safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Tech Haven Electronics does not sponsor any athletic teams as it focuses solely on retail electronics and repair services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this helps to mitigate liability risks associated with their activities. Certificates are typically checked by the business owner or a designated manager.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The business must have operated at the current insured location for over 3 years to qualify for coverage.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Tech Haven Electronics has not had any policy or coverage declined, canceled, or non-renewed in the prior 3 years, as we have maintained a clean insurance record during our time at this location.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Tech Haven Electronics does not lease employees to or from other employers, as our operations focus solely on our in-house team.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Tech Haven Electronics has not been in operation for over three years at the current location, which is a requirement for carrying Workers Compensation. Therefore, we cannot provide coverage at this time.",
+      "G8: Do you own or operate any other business?": "No \u2013 Tech Haven Electronics operates solely as a single business entity focused on retail electronics and repair services, with no other business ventures owned or operated.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Tech Haven Electronics has not held any other insurance with this company, as it operates solely under one policy. Additionally, the business must have operated at the current insured location for over three years to be eligible for additional coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Tech Haven Electronics is not involved in manufacturing, mixing, relabeling, or repackaging of products; we focus solely on retailing consumer electronics and providing repair services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Tech Haven Electronics does not rent or loan equipment to others, as it is prohibited to minimize additional liability exposure.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Tech Haven Electronics has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a clean financial record without any distress.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Tech Haven Electronics does not have any exposure to flammables, explosives, or chemicals as it focuses solely on the retail and repair of consumer electronics, with no involvement in hazardous material handling.",
+      "G14: Any catastrophe exposure?": "No \u2013 Tech Haven Electronics must have operated at the current insured location for over 3 years to qualify for coverage, and the business has been in operation at this location since August 2020.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Tech Haven Electronics has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a clean record, demonstrating effective risk management and safety practices since its inception.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Tech Haven Electronics does not have any uncorrected fire code violations; however, the business must have operated at the current insured location for over three years to be eligible for coverage.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Tech Haven Electronics has a fantastic selection of gadgets and the staff is incredibly knowledgeable!",
+          "I brought my laptop in for repair and was impressed with the quick turnaround and friendly service.",
+          "Great prices on electronics! The staff helped me find exactly what I needed without any pressure.",
+          "I love shopping here! They always have the latest tech and the customer service is top-notch.",
+          "Had a minor issue with my phone, and they fixed it in no time. Highly recommend their repair services!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Business must have operated at the current insured location for over 3 years."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Electronics Stores & Repair",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Business must have operated at the current insured location for over 3 years."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Business must have operated at the current insured location for over 3 years.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business has been operating at its current location for over two years, which violates the guideline requiring over three years."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Electronics Stores & Repair",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Business must have operated at the current insured location for over 3 years."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to the reason: Business must have operated at the current insured location for over 3 years.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Business must have operated at the current insured location for over 3 years.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business has been operating at its current location for over two years, which violates the guideline requiring over three years."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

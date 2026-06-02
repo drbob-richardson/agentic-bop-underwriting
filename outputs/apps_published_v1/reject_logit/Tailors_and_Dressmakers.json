@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Tailors & Dressmakers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Stitch & Style Tailoring",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main St, Suite 4B, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Owner",
+      "GL CODE": "812990",
+      "SIC": "SIC 5699",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Stitch & Style Tailoring, we specialize in providing high-quality custom garment creation and alterations tailored to individual clients. Our operations include a dedicated team of skilled tailors who focus on personalized service, ensuring that each piece of clothing meets the unique specifications and style preferences of our customers. We primarily cater to clients seeking bespoke menswear, wedding attire, and clothing alterations. Our appointment-only fitting system allows for controlled customer flow, minimizing liability risks associated with walk-in traffic. Each garment is meticulously crafted in our clean, well-organized studio, equipped with the necessary sewing machines and tools to handle alterations and repairs, while ensuring compliance with all safety regulations. We pride ourselves on our attention to detail and customer satisfaction, making us a trusted choice in the Springfield community for tailored clothing solutions.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "11/01/2023",
+      "EXPIRATION DATE": "11/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$1,500.00",
+      "POLICY #": "POLICY-2023-ST-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Sewing Insurance Co.",
+      "POLICY NUMBER": "POLICY-2022-ST-005",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On April 15, 2023, a small fire caused by an electrical issue resulted in damage to sewing machines and fabric inventory, totaling $2,500. The claim was fully processed, and repairs have been completed, ensuring no future risks.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $250",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$500,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$15,000 / $500",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$250,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "456 Fashion Ave, Suite 3C, Springfield, IL 62701-2345",
+      "Year Built": "1935",
+      "Square Feet": "1,200",
+      "HOURS OF OPERATION": "Monday to Friday: 10:00 AM - 6:00 PM; Saturday: 10:00 AM - 4:00 PM; Closed on Sunday",
+      "Distance to hydrant": "6632 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$150,000.00",
+      "TOTAL PAYROLL": "$75,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard 2-hour fireproof safe, class B, for securing cash and essential documents.",
+      "MONEY ON PREMISES": "$1,000",
+      "OTHER PROTECTION": "Central station alarm monitoring with additional on-site security personnel during operational hours.",
+      "Building limit": "$300000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Stitch & Style Tailoring does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business focuses on custom garment creation and alterations without any hazardous substance usage.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Stitch & Style Tailoring does not sponsor athletic teams as it primarily focuses on custom garment creation and alterations for individual clients. The business model is centered around personalized service and does not involve community sponsorships or team affiliations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the business owner or the designated operational manager to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any arson-related crime connected to Stitch & Style Tailoring or its owner. The business operates with integrity and compliance with all applicable laws.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Stitch & Style Tailoring has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The business maintains a good insurance record with no interruptions in coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Stitch & Style Tailoring does not lease employees to or from other employers, as our team consists of in-house skilled tailors dedicated to providing personalized services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Stitch & Style Tailoring has an active Workers' Compensation policy in place to cover employees as required by law. This ensures compliance with statutory obligations and provides protection for both the business and its workforce.",
+      "G8: Do you own or operate any other business?": "No \u2013 Stitch & Style Tailoring does not own or operate any other business. It solely focuses on providing high-quality custom garment creation and alterations for individual clients.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Stitch & Style Tailoring currently does not have any other insurance policies with this company. The only policy is the current liability policy in effect.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Stitch & Style Tailoring is not involved in manufacturing, mixing, relabeling, or repackaging of products; we focus solely on custom garment creation and alterations for individual clients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Stitch & Style Tailoring does not rent or loan equipment to others as our operations focus exclusively on providing customized garment creation and alterations for individual clients. This approach minimizes risks associated with equipment liability and ensures we maintain quality control over our tools and resources.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Stitch & Style Tailoring has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial record.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Stitch & Style Tailoring does not have any exposure to flammables, explosives, or hazardous chemicals, as our operations focus solely on custom garment creation and alterations without the use of such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Stitch & Style Tailoring does not have any catastrophe exposure as its operations are focused on custom garment creation and alterations without significant risk factors related to natural disasters or similar events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Stitch & Style Tailoring has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize a respectful and compliant work environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Stitch & Style Tailoring has no uncorrected fire code violations, ensuring compliance with all safety regulations and maintaining a safe working environment.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "Stitch & Style Tailoring did an amazing job on my wedding dress alterations! The attention to detail was impeccable.",
+          "I had a fantastic experience with their custom suit service. The fit was perfect, and the staff was incredibly friendly.",
+          "Highly recommend this tailor! They transformed my old clothes into something new and stylish.",
+          "The team at Stitch & Style is professional and skilled. I was impressed with how quickly they completed my alterations.",
+          "Great service and quality! I will definitely return for future tailoring needs."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Tailors & Dressmakers",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Tailors & Dressmakers",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to a history of 8 claims, which indicates a potential risk profile that is not acceptable for underwriting.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

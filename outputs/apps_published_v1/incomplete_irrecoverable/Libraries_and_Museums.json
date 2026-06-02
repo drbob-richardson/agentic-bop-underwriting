@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Libraries & Museums",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Heritage Library & Museum",
+      "FEIN OR SOC SEC #": "41-1234567",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Heritage Lane, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, 123 Heritage Lane, Springfield, IL 62704-5678, (555) 123-4567, jsmith@heritagelibrary.org",
+      "GL CODE": "GQ-08",
+      "SIC": "8412",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Heritage Library & Museum operates as a community-focused institution dedicated to preserving and showcasing local history and culture. Our primary operations include the curation and preservation of collections, which encompass books, documents, artifacts, and artworks significant to the heritage of our community. We provide a welcoming atmosphere for visitors through exhibits, educational programs, workshops, and events aimed at engaging the public with our collections and resources. The library services include access to digital and physical media, research assistance, and literacy programs designed for all age groups. To ensure the safety and integrity of our collections, we have implemented security measures, such as locked display cases and alarm systems, and maintain standard climate control to protect sensitive materials. Our staff is trained in collection care and emergency procedures, allowing us to provide a secure environment for both visitors and our priceless resources. Additionally, we conduct periodic maintenance on our facilities to ensure compliance with safety regulations and continue upgrading our security and climate control systems as needed.",
+      "DATE BUSINESS STARTED": "01/15/1985",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "6750.00",
+      "POLICY #": "HL-MUSEUM-2024-ACCEPT",
+      "OTHER BUSINESSES OWNED": "Heritage Historical Society, Springfield, IL - Non-profit organization focused on historical preservation and community events.",
+      "PREVIOUS CARRIER": "Heritage Insurance Group",
+      "POLICY NUMBER": "HL-MUSEUM-2024-001",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "The Heritage Library & Museum experienced a theft on March 15, 2023, where several rare artifacts valued at $3,000 were stolen during operating hours. The incident has been reported to the local police and the artifacts have not been recovered. The status of this loss is currently pending investigation. Additionally, on June 5, 2023, water damage occurred in the archives due to a leaking roof, resulting in a loss of $2,000 for restoration efforts. This damage has been fixed and the facility is now compliant with necessary repairs.",
+      "Combined Single Limit": "$1,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$50,000 with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 with a $1,000 deductible",
+      "Computers": "$50,000 with a $1,000 deductible",
+      "ordinence and law": "$500,000 with a $2,500 deductible",
+      "Flood": "$500,000 with a $1,000 deductible",
+      "accounts recievable": "$250,000 with a $1,000 deductible",
+      "employee dishonesty": "$100,000 with a $1,000 deductible",
+      "money and securities": "$100,000 with a $1,000 deductible",
+      "ADDRESS": "123 Heritage Lane, Springfield, IL 62704-5678",
+      "Year Built": "1975",
+      "Square Feet": "3500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM - 5 PM; Saturday: 10 AM - 4 PM; Closed Sunday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "1985",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "150000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 3, Grade B, Secure Vault with Biometric Access System",
+      "MONEY ON PREMISES": "5000.00",
+      "OTHER PROTECTION": "Basic security measures in place, including alarm systems and periodic inspections by trained staff.",
+      "Building limit": "$250000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost of collections and artifacts",
+      "personal property limit": "75000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Heritage Library & Museum does not involve storing, treating, discharging, applying, disposing, or transporting hazardous material as part of its operations. The focus is primarily on preserving and showcasing collections related to local history and culture.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Heritage Library & Museum does not sponsor any athletic teams, as its focus is primarily on preserving and showcasing local history and culture through its collections and programs.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, and the organization is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Heritage Library & Museum has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Heritage Library & Museum does not lease employees to or from other employers as part of its operations. The facility employs its own staff to manage and maintain its collections and services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 The Heritage Library & Museum carries Workers' Compensation insurance to ensure compliance and coverage for its employees. This policy helps protect both the staff and the institution from potential workplace injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 The Heritage Library & Museum also operates the Heritage Historical Society, a non-profit organization focused on historical preservation and community events.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Heritage Library & Museum does not have any other insurance policies with this company at this time. The only current policy is specifically for the museum's operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Heritage Library & Museum is not involved in manufacturing, mixing, relabeling, or repackaging of products as its focus is solely on preserving and showcasing local history and culture through its collections and programs.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Heritage Library & Museum does not rent or loan equipment to others as part of its operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Heritage Library & Museum does not have any exposure to flammables, explosives, or chemicals as part of its operations, focusing primarily on the preservation and showcasing of collections related to local history and culture.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Heritage Library & Museum does not have any catastrophe exposure as it focuses on preserving and showcasing collections without engaging in activities that significantly heighten risk. Moreover, the organization has implemented safety measures to mitigate potential losses.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Heritage Library & Museum has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The organization maintains a strong commitment to ethical practices and employee training to prevent such issues.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Heritage Library & Museum currently does not have any uncorrected fire code violations, ensuring compliance with safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "A wonderful place to explore local history! The exhibits are well-curated and the staff is incredibly knowledgeable.",
+          "I love visiting the Heritage Library & Museum. It's a peaceful spot to read and learn about our community's past.",
+          "The workshops they offer are fantastic! I attended one on local art history and left feeling inspired.",
+          "Great place for families! The kids enjoyed the interactive exhibits and the staff was very friendly.",
+          "The library has a great selection of books and resources. It's a perfect blend of a library and a museum."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for facilities lacking basic security measures such as surveillance cameras and controlled access."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Libraries & Museums",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for facilities lacking basic security measures such as surveillance cameras and controlled access."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text describes security measures such as alarm systems and locked display cases, and the third-party data does not mention any security issues."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Libraries & Museums",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for facilities lacking basic security measures such as surveillance cameras and controlled access."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to lack of basic security measures such as surveillance cameras and controlled access, as per SPEC-1.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text describes security measures such as alarm systems and locked display cases, and the third-party data does not mention any security issues."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

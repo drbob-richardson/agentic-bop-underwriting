@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Detective & Security Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Guardian Investigative Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Security Lane, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Officer, Guardian Investigative Services, 1234 Security Lane, Suite 100, Springfield, IL 62704-5678, (555) 123-4567.",
+      "GL CODE": "G-75141",
+      "SIC": "7381",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Guardian Investigative Services specializes in providing unarmed security guard services for commercial office buildings and retail establishments, ensuring all personnel are properly licensed and certified in accordance with local and state regulations. Our operations are focused on maintaining a secure environment for our clients while implementing comprehensive risk management strategies. We also engage in private investigations, offering background checks and surveillance services tailored for corporate clients, emphasizing minimal physical risk exposure. Our commitment to security extends to risk assessments and security audits, providing consulting services to help entities improve their safety protocols without direct involvement in physical security operations. We ensure compliance with industry regulations while striving to reduce liability and enhance the safety of the environments we serve.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$4,500.00",
+      "POLICY #": "GIS-2023-001",
+      "OTHER BUSINESSES OWNED": "Security Consulting Group, LLC - providing risk assessment and security audits for various clients without direct involvement in physical security operations.",
+      "PREVIOUS CARRIER": "SecureCo Insurance Group",
+      "POLICY NUMBER": "GIS-2023-002",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "Loss Dates: 02/10/2023; Cause: Theft of equipment from a job site due to lack of adequate perimeter security; Amount: $2,000; Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $5,000",
+      "Medical Expense (per person)": "$10,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $5,000",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "4567 Safety Drive, Suite 200, Springfield, IL 62704-5678",
+      "Year Built": "2005",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday, 8:00 AM to 6:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$250,000.00",
+      "TOTAL PAYROLL": "$200,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class \"B,\" Grade \"1,\" UL Certified, Heavy-duty steel construction with pry-resistant door.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Unarmed security patrol services for commercial properties with limited access and monitored central alarm systems.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Guardian Investigative Services does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in any of its operations. Our focus is strictly on unarmed security services and private investigations without engagement in activities related to hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Guardian Investigative Services does not currently sponsor any athletic teams. Our operations focus primarily on providing security and private investigation services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The compliance officer, John Smith, is responsible for checking these certificates to ensure compliance with insurance requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Guardian Investigative Services has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Guardian Investigative Services has not had any policies or coverage declined, canceled, or non-renewed in the prior 3 years. All previous coverage has been maintained without issue.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Guardian Investigative Services does not lease employees to or from other employers. All personnel are employed directly by the company, ensuring compliance with licensing and operational standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Guardian Investigative Services carries Workers Compensation insurance to ensure compliance with legal requirements and to provide coverage for our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Guardian Investigative Services also owns and operates Security Consulting Group, LLC, which focuses on risk assessment and security audits without direct involvement in physical security operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Guardian Investigative Services does not have any other insurance policies with this company at this time. The current policy number is GIS-2023-001, which is the only one active.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Guardian Investigative Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are strictly focused on providing unarmed security services and private investigations.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Guardian Investigative Services does not rent or loan equipment to others. Our operations focus solely on providing unarmed security services and private investigations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Guardian Investigative Services has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The company's financial standing remains stable and compliant with regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Guardian Investigative Services has no exposure to flammables, explosives, or chemicals as our operations are focused solely on unarmed security services and private investigations without engagement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Guardian Investigative Services does not have any catastrophe exposure as our operations are focused on unarmed security and private investigations, without engagement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Guardian Investigative Services has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our focus on compliance and risk management minimizes such exposure.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Guardian Investigative Services currently has no uncorrected fire code violations, ensuring compliance with all applicable fire safety regulations.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Guardian Investigative Services provided exceptional security for our corporate event. Their professionalism and attention to detail were impressive!",
+          "I hired them for a background check, and they delivered thorough results quickly. Highly recommend their investigative services!",
+          "The unarmed security team was friendly and effective at our office building. We feel much safer with them on site.",
+          "Their risk assessment consultation helped us identify vulnerabilities we hadn't considered. Very knowledgeable staff!",
+          "Great experience with Guardian Investigative Services! They were responsive and made the entire process seamless."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Detective & Security Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Detective & Security Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

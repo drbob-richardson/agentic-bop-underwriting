@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Optical Goods & Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Visionary Optical Solutions",
+      "FEIN OR SOC SEC #": "REJECTED: Due to history of professional liability claims related to incorrect prescriptions, a valid FEIN or Social Security Number cannot be provided.",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "REJECTED: Due to history of professional liability claims related to incorrect prescriptions, a valid mailing address cannot be provided.",
+      "CONTACT FOR INSPECTION": "REJECTED: Due to history of professional liability claims related to incorrect prescriptions, a valid contact for inspection cannot be provided.",
+      "GL CODE": "REJECTED: Due to history of professional liability claims related to incorrect prescriptions, a valid GL CODE cannot be provided.",
+      "SIC": "reject",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Visionary Optical Solutions operates as a retail optical provider specializing in the sale of optical frames, lenses, and accessories. Our primary focus is on delivering high-quality products with a strong commitment to customer service. We have implemented rigorous quality assurance protocols to ensure the accuracy and safety of our prescriptions, complying with all industry standards and regulations. Our in-house laboratory services are strictly limited to lens edging, coating, and minor frame repairs, which allows us to maintain a high level of safety while minimizing operational risks. All staff involved in optical fittings and dispensing are appropriately licensed and trained, reflecting our dedication to professionalism and quality. We also maintain a well-documented security system at our retail locations to protect our inventory and support loss prevention practices.\n\nOur optical clinic specializes in providing comprehensive eye exams and crafting customized eyewear prescriptions for our clients, ensuring they receive the best possible vision correction tailored to their individual needs.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/01/2023",
+      "EXPIRATION DATE": "12/31/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "REJECTED: Due to history of professional liability claims related to incorrect prescriptions, a valid PAYMENT PLAN cannot be provided.",
+      "TOTAL PREMIUM": "REJECTED: Due to history of professional liability claims related to incorrect prescriptions, a valid TOTAL PREMIUM cannot be provided.",
+      "POLICY #": "REJECTED: Due to history of professional liability claims related to incorrect prescriptions, a valid POLICY # cannot be provided.",
+      "OTHER BUSINESSES OWNED": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, no other businesses owned can be validated.",
+      "PREVIOUS CARRIER": "Optical Benefits Insurance Group",
+      "POLICY NUMBER": "REJECTED: Due to history of professional liability claims related to incorrect prescriptions, a valid POLICY NUMBER cannot be provided.",
+      "TOTAL LOSSES": "$45,000",
+      "DESCRIPTION OF LOSSES": "The business has a history of professional liability claims related to incorrect prescriptions, which have resulted in a total of 3 claims over the past 5 years, amounting to $45,000, currently under review with legal counsel.",
+      "Combined Single Limit": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid Combined Single Limit cannot be provided.",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid Bodily Injury & Prop Damage Occurrence limit cannot be provided.",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid Bodily Injury & Prop Damage Aggregate limit cannot be provided.",
+      "Medical Expense (per person)": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid Medical Expense (per person) value cannot be provided.",
+      "Damge to Rental Premises": "REJECTED: Due to history of professional liability claims related to incorrect prescriptions, a valid Damage to Rental Premises value cannot be provided.",
+      "Professional Liability": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid Professional Liability value cannot be provided.",
+      "Liquor Liability": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid Liquor Liability value cannot be provided.",
+      "Hired Auto": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid Hired Auto value cannot be provided.",
+      "Non-owned Auto": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid Non-owned Auto value cannot be provided.",
+      "Computers": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid value for Computers cannot be provided.",
+      "ordinence and law": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid Ordinance and Law coverage value cannot be provided.",
+      "Flood": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid value for Flood coverage cannot be provided.",
+      "accounts recievable": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid accounts receivable coverage value cannot be provided.",
+      "employee dishonesty": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, valid coverage for employee dishonesty cannot be provided.",
+      "money and securities": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid value for money and securities cannot be provided.",
+      "ADDRESS": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid physical address cannot be provided.",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid HOURS OF OPERATION cannot be provided.",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid value for BUILDING IMPROVEMENTS cannot be provided.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid TOTAL PAYROLL cannot be provided.",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Safe Class B, Grade III, UL Listed",
+      "MONEY ON PREMISES": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid value for MONEY ON PREMISES cannot be provided.",
+      "OTHER PROTECTION": "Security patrol services implemented to prevent theft and protect inventory.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "REJECTED: Due to a history of professional liability claims related to incorrect prescriptions, a valid personal property valuation type cannot be provided.",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Visionary Optical Solutions has a history of professional liability claims related to incorrect prescriptions, which disqualifies them from acceptance under the current guidelines.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Visionary Optical Solutions does not sponsor athletic teams as part of its operational focus, which is primarily centered around retail optical sales.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance to ensure proper risk management and liability coverage. Certificates are typically checked by the contractor or the designated compliance officer in charge of overseeing subcontractor agreements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Visionary Optical Solutions has not reported any indictments or convictions for fraud, bribery, arson, or any other arson-related crimes. The business primarily focuses on retail optical sales and adheres to industry standards and regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Visionary Optical Solutions has a history of professional liability claims related to incorrect prescriptions, resulting in coverage issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Visionary Optical Solutions does not lease employees to or from other employers. The focus of the business is solely on retail optical sales.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Visionary Optical Solutions has a history of professional liability claims related to incorrect prescriptions, which affects their ability to carry Workers' Compensation.",
+      "G8: Do you own or operate any other business?": "No \u2013 Visionary Optical Solutions cannot own or operate any other business due to a history of professional liability claims related to incorrect prescriptions, which disqualifies them under current guidelines.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Visionary Optical Solutions does not have any other insurance policies with this company. Their history of professional liability claims affects their eligibility for coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Visionary Optical Solutions does not engage in manufacturing, mixing, relabeling, or repackaging of products, as their operations primarily focus on retail sales of optical frames, lenses, and accessories.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Visionary Optical Solutions does not rent or loan equipment to others as part of its operations. This is in line with the company's focus on retail optical sales and related services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Visionary Optical Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business is focused on retail optical services and maintains a commitment to fulfilling its financial obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Visionary Optical Solutions does not have any exposure to flammables, explosives, or chemicals, as their operations primarily focus on retail sales of optical products. The business adheres to industry standards and maintains a commitment to safety and quality control.",
+      "G14: Any catastrophe exposure?": "No \u2013 Visionary Optical Solutions has a history of professional liability claims related to incorrect prescriptions, which disqualifies them from coverage under current guidelines.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Visionary Optical Solutions has a history of professional liability claims related to incorrect prescriptions, which impacts their eligibility for coverage.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Visionary Optical Solutions does not currently have any uncorrected fire code violations, as they are focused on maintaining compliance with all applicable safety regulations.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 45000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "Great selection of frames and the staff was very helpful in finding the perfect pair for me!",
+          "I had a wonderful experience getting my glasses here. The service was quick and friendly.",
+          "The optician was very knowledgeable and took the time to explain my prescription options.",
+          "I love my new sunglasses! The quality is excellent and the prices are reasonable.",
+          "The staff made the process of choosing lenses easy and enjoyable. Highly recommend!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No acceptance of businesses with a history of professional liability claims related to incorrect prescriptions."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Optical Goods & Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No acceptance of businesses with a history of professional liability claims related to incorrect prescriptions."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No acceptance of businesses with a history of professional liability claims related to incorrect prescriptions.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": true,
+        "rationale": "The application text explicitly states a history of professional liability claims related to incorrect prescriptions, and the third-party data confirms this with a claims history of 3 claims totaling $45,000."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Optical Goods & Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No acceptance of businesses with a history of professional liability claims related to incorrect prescriptions."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application rejected due to a history of professional liability claims related to incorrect prescriptions, which is a clear violation of the specified restrictions. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No acceptance of businesses with a history of professional liability claims related to incorrect prescriptions.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": true,
+      "rationale": "The application text explicitly states a history of professional liability claims related to incorrect prescriptions, and the third-party data confirms this with a claims history of 3 claims totaling $45,000."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

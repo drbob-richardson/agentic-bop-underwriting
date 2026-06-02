@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Real Estate Agencies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Prestige Realty Group",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Maple Street, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Jane Doe, Senior Property Manager, Prestige Realty Group, (555) 123-4567, jane.doe@prestige-realty.com",
+      "GL CODE": "56110",
+      "SIC": "6531",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Prestige Realty Group specializes in providing full-service real estate solutions, focusing primarily on residential property sales and transactions. Our operations include representing clients in buying, selling, and leasing properties while ensuring compliance with local real estate laws and regulations. We maintain a robust risk management strategy and have a team of experienced, licensed agents dedicated to exceptional client service. We foster relationships with reputable vendors, including title companies and mortgage lenders, to streamline transactions and enhance client satisfaction. Our commitment to transparency is reflected in our detailed documentation practices for all transactions, minimizing the risk of misrepresentation. We consistently train our staff on regulatory compliance, ensuring our practices align with fair housing and anti-discrimination policies. As we focus exclusively on acting as intermediaries in property transactions, we do not engage in activities that could introduce additional complexities, which helps us mitigate potential liabilities.",
+      "DATE BUSINESS STARTED": "06/15/2015",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "01/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "PRG-2024-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Real Estate Insurance Co.",
+      "POLICY NUMBER": "PRG-2023-045",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "In January 2023, we experienced a liability claim due to a miscommunication regarding property listings, resulting in legal costs of $3,000. The matter has been resolved, with no ongoing litigation. Additionally, a minor incident in July 2022 involved property damage during a showing, costing $2,000 for repairs, which is also resolved. Total losses amount to $5,000.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $2,500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$15,000 / $500",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "4567 Oak Avenue, Springfield, IL 62704",
+      "Year Built": "2005",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "09:00 AM - 05:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$2800000",
+      "TOTAL PAYROLL": "$1,200,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Steel safe, Class B, Fire-rated",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing installed around the property perimeter, along with on-site watchpersons during business hours to enhance safety and mitigate unauthorized access.",
+      "Building limit": "$984150",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Prestige Realty Group does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is solely on residential property transactions without involvement in activities that involve hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Prestige Realty Group does not sponsor athletic teams as it focuses exclusively on providing real estate services and does not engage in activities related to team sponsorships.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The responsibility for checking the certificates typically falls on the primary contractor or the organization utilizing their services to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Prestige Realty Group has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We maintain a commitment to ethical practices in all our transactions.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Prestige Realty Group has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. We have maintained a consistent insurance history without any interruptions in coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Prestige Realty Group does not lease employees to or from other employers, as our operations are focused solely on providing real estate services without engaging in employee leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Prestige Realty Group does not currently carry Workers' Compensation insurance, as our operations do not involve leasing employees or engaging in activities that require it.",
+      "G8: Do you own or operate any other business?": "No \u2013 Prestige Realty Group does not own or operate any other business; our focus is solely on providing comprehensive real estate services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Prestige Realty Group does not have any other insurance policies with this company at this time. All coverage is consolidated under the current policy number provided.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Prestige Realty Group is not involved in manufacturing, mixing, relabeling, or repackaging of products; our operations are strictly focused on providing real estate services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Prestige Realty Group does not rent or loan equipment to others as our primary focus is on providing real estate services without engaging in equipment rental or lending activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Prestige Realty Group has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a stable financial standing and complies with all regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Prestige Realty Group does not have any exposure to flammables, explosives, or chemicals in its operations, as it focuses solely on residential property transactions without involvement in hazardous activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Prestige Realty Group does not have any catastrophe exposure as our operations are solely focused on residential property transactions without involvement in high-risk activities. We maintain a robust risk management strategy to mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Prestige Realty Group has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize compliance and ethical practices in all our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Prestige Realty Group has no uncorrected fire code violations and maintains compliance with all applicable fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Prestige Realty Group made my home buying experience seamless and enjoyable. Their agents are knowledgeable and truly care about their clients.",
+          "I had a fantastic experience with Prestige Realty Group. They were professional, responsive, and helped me find the perfect home.",
+          "The team at Prestige Realty Group is exceptional! They guided me through every step of the selling process and got me a great price.",
+          "I highly recommend Prestige Realty Group for anyone looking to buy or sell a home. Their expertise and dedication are unmatched.",
+          "Working with Prestige Realty Group was a pleasure. They provided excellent service and made the entire process stress-free."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Coverage is not available for agencies engaged in property development, construction management, or active property management."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Real Estate Agencies",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is not available for agencies engaged in property development, construction management, or active property management."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that Prestige Realty Group focuses solely on residential property transactions and does not engage in property development, construction management, or active property management, and the third-party data does not indicate any involvement in these activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Real Estate Agencies",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is not available for agencies engaged in property development, construction management, or active property management."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to coverage not being available for agencies engaged in property development, construction management, or active property management.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that Prestige Realty Group focuses solely on residential property transactions and does not engage in property development, construction management, or active property management, and the third-party data does not indicate any involvement in these activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

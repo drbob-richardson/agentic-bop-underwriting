@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Auto Services & Repair (including body shops)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Auto Care",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Main Street, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Lead Inspector, Precision Auto Care, (555) 123-4567",
+      "GL CODE": "8103",
+      "SIC": "7549",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Precision Auto Care is a full-service auto repair and maintenance shop specializing in routine services for private passenger vehicles. Our operations include oil changes, tire rotations, brake inspections, and light mechanical repairs, all designed to ensure the safe and efficient performance of our customers' vehicles. We also operate a body shop that provides cosmetic repairs and paintwork, utilizing modern equipment and certified technicians to guarantee quality. Adhering to all environmental regulations, we have implemented robust waste disposal practices and maintain a controlled environment to manage hazards. Our team is committed to continuous training and compliance with industry standards, ensuring a high level of service in a secure, well-maintained facility. Located in a suburban area with low crime rates, we prioritize customer satisfaction through appointment-based services and efficient workflow management.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500.00",
+      "POLICY #": "PC-2023-00123",
+      "OTHER BUSINESSES OWNED": "Precision Auto Accessories, LLC",
+      "PREVIOUS CARRIER": "Allstate Insurance Company",
+      "POLICY NUMBER": "PC-2022-00117",
+      "TOTAL LOSSES": "$25,000",
+      "DESCRIPTION OF LOSSES": "Loss Date: 03/12/2023, Cause: Accidental damage during a vehicle service, Amount: $10,000, Status: Closed; Loss Date: 06/24/2023, Cause: Theft of tools and equipment, Amount: $15,000, Status: Open.",
+      "Combined Single Limit": "$1,000,000/$500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$25,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $500",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $500",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "4567 Westfield Road, Springfield, IL 62701-1234",
+      "Year Built": "2010",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "08:00 AM - 06:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fire-rated safe, Class B, for secure storage of sensitive materials and cash.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Secure fencing and a watchperson during non-operating hours.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "75000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Precision Auto Care adheres to all environmental regulations and has implemented robust waste disposal practices, ensuring that we do not store, treat, discharge, apply, dispose, or transport hazardous materials in our operations.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Precision Auto Care sponsors local athletic teams as part of our community engagement initiatives. We believe in supporting local sports to promote teamwork and healthy living.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The project manager is responsible for checking and maintaining records of these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crime connected to this or any other property associated with the applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Precision Auto Care has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. We have maintained continuous coverage without any interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Precision Auto Care does not lease employees to or from other employers. Our staff consists of directly employed technicians, ensuring consistent quality and service standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Precision Auto Care carries Workers' Compensation insurance to ensure compliance with legal requirements and protect both employees and the business.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Precision Auto Care also owns and operates Precision Auto Accessories, LLC. This subsidiary focuses on automotive accessories and complements our primary auto repair services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Auto Care does not currently have any other insurance policies with this company. All coverage is maintained under the existing policy number provided.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Precision Auto Care is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on auto repair and maintenance services for private passenger vehicles.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Precision Auto Care does not rent or loan equipment to others. All equipment is exclusively used for our in-house services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Precision Auto Care has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, ensuring a stable financial background.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Precision Auto Care does not have exposure to flammables, explosives, or hazardous chemicals in our operations, as we adhere strictly to safety and environmental regulations. Our focus is on routine auto maintenance and repairs in a controlled environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Precision Auto Care does not have any catastrophe exposure that would affect our operations or insurance coverage. Our focus is on routine maintenance and repairs, minimizing the risk of significant liability.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Precision Auto Care has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strong hiring practices and compliance standards to ensure a safe and respectful work environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Precision Auto Care does not have any uncorrected fire code violations. We maintain compliance with fire safety regulations and conduct regular inspections to ensure safety standards are met.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 25000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had a great experience at this shop when they provided towing services after my car broke down! They were super quick to help and got me back on the road in no time.",
+          "I had a great experience with their body shop. The paint job on my vehicle looks brand new!",
+          "The staff at Precision Auto Care are friendly and knowledgeable. I trust them with all my car maintenance needs.",
+          "I appreciate their commitment to quality and safety. They always keep me informed about what my car needs.",
+          "Fast, reliable, and affordable! I highly recommend Precision Auto Care for any auto repair services."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Emergency or contract wrecker/towing services are prohibited."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Emergency or contract wrecker/towing services are prohibited."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Auto Services & Repair (including body shops)",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Emergency or contract wrecker/towing services are prohibited."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Emergency or contract wrecker/towing services are prohibited. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a Google review that explicitly mentions the business providing towing services after a car breakdown, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Auto Services & Repair (including body shops)",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Emergency or contract wrecker/towing services are prohibited."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: Emergency or contract wrecker/towing services are prohibited.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Emergency or contract wrecker/towing services are prohibited. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a Google review that explicitly mentions the business providing towing services after a car breakdown, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

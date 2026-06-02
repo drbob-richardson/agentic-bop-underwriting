@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Countertop & Surface Installation",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Countertop Creations LLC",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Marble Way, Suite 101, Granite City, IL 62040-1234",
+      "CONTACT FOR INSPECTION": "James Sullivan, Inspection Coordinator, 555-123-4567, james@countertopcreations.com",
+      "GL CODE": "12345",
+      "SIC": "1799",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "Countertop Creations LLC specializes in the professional installation of a variety of countertop and surface materials including granite, quartz, marble, and laminate. Our operations encompass residential and commercial projects, providing custom solutions that enhance both the functionality and aesthetics of spaces. Our experienced installers undergo rigorous training to ensure high-quality workmanship and compliance with all applicable building codes and safety regulations. Prior to each project, we conduct thorough risk assessments to identify potential hazards and implement safety protocols to mitigate risks. We prioritize written contracts that clearly outline the scope, payment terms, and timelines to ensure transparency with our clients. Additionally, we maintain strong relationships with reputable suppliers to guarantee the timely delivery of quality materials. Our commitment to safety and quality, combined with our attention to detail, sets us apart in the countertop installation industry.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "CC2023-001",
+      "OTHER BUSINESSES OWNED": "Home Renovations and Design LLC",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "CC2023-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, during a residential countertop installation, a quartz slab was accidentally chipped due to improper handling by a subcontractor. The cost of repair was $1,200.00, which has been successfully resolved.",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,000,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$4,000,000",
+      "Medical Expense (per person)": "$5,000/$0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$250,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "4567 Quartz Court, Granite City, IL 62040-1234",
+      "Year Built": "2010",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 3:00 PM; Closed on Sunday",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$400,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade B, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and onsite watchperson services during installation to ensure material safety and prevent theft.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Countertop Creations LLC does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations primarily focus on the installation of countertop surfaces without involvement in hazardous material management.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Countertop Creations LLC does not sponsor athletic teams. Our focus is primarily on countertop and surface installation services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 All subcontractors are required to provide proof of current liability insurance before commencing work. The verification of these certificates is handled by our project management team to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Countertop Creations LLC has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes in connection with this or any other property. We prioritize ethical business practices and maintain a clean record.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Countertop Creations LLC has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. We maintain a steady and compliant insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Countertop Creations LLC does not lease employees to or from other employers. Our staffing is managed internally to ensure quality and control over our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Countertop Creations LLC carries Workers Compensation insurance to protect our employees and comply with legal requirements. This coverage is essential for ensuring safety and financial protection in the event of work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Countertop Creations LLC also owns and operates Home Renovations and Design LLC, which focuses on complementary services within the home improvement sector.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Countertop Creations LLC does not have any other insurance policies with this company at this time. Our current focus is solely on our existing policy for countertop installation services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Countertop Creations LLC is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus exclusively on the professional installation of countertop and surface materials.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Countertop Creations LLC does not rent or loan equipment to others. Our operations focus solely on the professional installation of countertops and surfaces.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Countertop Creations LLC has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The financial history remains stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Countertop Creations LLC does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on the installation of countertop surfaces without involvement in hazardous material management.",
+      "G14: Any catastrophe exposure?": "No \u2013 Countertop Creations LLC does not have any exposure to catastrophes, as our operations are focused solely on countertop installation without involvement in high-risk activities or environments associated with catastrophic risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Countertop Creations LLC has not encountered any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operational practices prioritize compliance and ethical standards.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Countertop Creations LLC has no uncorrected fire code violations. We are committed to maintaining compliance with all local building codes and fire safety regulations.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Countertop Creations did an amazing job on our kitchen remodel! The quartz countertops look stunning and the installation was seamless.",
+          "I highly recommend Countertop Creations! Their team was professional, punctual, and the quality of work exceeded my expectations.",
+          "Great experience from start to finish. The staff was knowledgeable and helped me choose the perfect granite for my bathroom.",
+          "I was impressed with the attention to detail during the installation. The countertops are beautiful and really enhance the space.",
+          "Countertop Creations provided excellent service and the final product is top-notch. I will definitely use them again for future projects."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Countertop & Surface Installation",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Countertop & Surface Installation",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to a history of 4 claims, which may indicate elevated operational risk.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

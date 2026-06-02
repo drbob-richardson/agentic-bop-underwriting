@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Upholstery Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Upholstery Craft Co.",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Upholstery Way, Suite 100, Fabric City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "\"GL-580\"",
+      "SIC": "5719",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Upholstery Craft Co., we specialize in high-quality upholstery services for both residential and commercial clients. Our operations primarily involve the repair, restoration, and reupholstering of furniture, ensuring the use of industry-standard materials and techniques. Our skilled team is experienced in various upholstery methods, allowing us to deliver exceptional craftsmanship and attention to detail. \n\nWe maintain a commitment to safety and compliance, regularly auditing our processes to adhere to industry standards. Our inventory is carefully managed with appropriate security measures to prevent theft or damage. Additionally, we emphasize customer feedback to continuously improve our service quality. We also offer mobile upholstery services, backed by comprehensive commercial auto insurance, ensuring our team is fully equipped and covered while providing onsite solutions. Overall, we strive to provide reliable, environmentally friendly upholstery services that exceed our clients' expectations while minimizing operational risks.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "1200.00",
+      "POLICY #": "UC-2023-016",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "UC-2022-045",
+      "TOTAL LOSSES": "$250",
+      "DESCRIPTION OF LOSSES": "On 02/10/2023, one of our van's upholstery tools was accidentally damaged during transport due to a sudden stop. The estimated repair cost was $250.00. Status: resolved, with costs covered under company insurance policy.",
+      "Combined Single Limit": "$1,000,000 combined single limit with a $500 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $250 deductible",
+      "Damge to Rental Premises": "$50,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$5,000 limit with a $500 deductible",
+      "ordinence and law": "$1,000,000 limit with a $1,000 deductible",
+      "Flood": "$100,000 limit with a $1,000 deductible",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "456 Fabric Lane, Craftsville, CA 90210-5678",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 5:00 PM; Saturday: 10:00 AM - 3:00 PM; Closed Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade B, UL Listed Safe",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Alarm system with 24/7 monitoring and security patrols for inventory protection.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Upholstery Craft Co. does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The company focuses on upholstery services using standard materials and follows safety protocols to minimize risks.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Upholstery Craft Co. does not sponsor any athletic teams. The focus is solely on providing quality upholstery services to residential and commercial clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are verified by our compliance team to ensure proper coverage and risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes associated with Upholstery Craft Co. or its applicants.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Upholstery Craft Co. has not had any policies or coverage declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Upholstery Craft Co. does not lease employees to or from other employers; all staff are directly employed and formally trained in upholstery techniques.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Upholstery Craft Co. carries Workers' Compensation insurance to ensure compliance with legal requirements and to protect our employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Upholstery Craft Co. does not own or operate any other business; our focus is solely on providing high-quality upholstery services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Upholstery Craft Co. does not have any other insurance policies with this company besides the current active policy. The only policy recorded is UC-2023-016.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Upholstery Craft Co. is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on providing high-quality upholstery services for both residential and commercial clients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Upholstery Craft Co. does not rent or loan equipment to others, ensuring that all equipment is used solely for our own upholstery services to maintain quality and control.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Upholstery Craft Co. has not experienced a foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The company maintains a strong financial position and a clean claims history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Upholstery Craft Co. does not have any exposure to flammables, explosives, or chemicals outside of standard upholstery materials, which are used safely in accordance with established protocols.",
+      "G14: Any catastrophe exposure?": "No \u2013 Upholstery Craft Co. does not have any known catastrophe exposure as we focus solely on providing upholstery services with standard materials and safety protocols in place.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Upholstery Craft Co. has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a commitment to safe and fair employment practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Upholstery Craft Co. currently has no uncorrected fire code violations and maintains compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 250,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Upholstery Craft Co. did an amazing job on my vintage chair! The craftsmanship is top-notch and the team was very professional.",
+          "I had my sofa reupholstered and couldn't be happier with the results. They were quick, efficient, and the quality is outstanding!",
+          "Great service and attention to detail! The staff was friendly and helped me choose the perfect fabric for my dining chairs.",
+          "Highly recommend Upholstery Craft Co.! They transformed my old furniture into beautiful pieces that look brand new.",
+          "The mobile service was a lifesaver for my busy schedule. They arrived on time and did a fantastic job on my office chairs."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Staff must be formally trained or certified in upholstery techniques, including fabric handling, cleaning, and repair."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Upholstery Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Staff must be formally trained or certified in upholstery techniques, including fabric handling, cleaning, and repair."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text states that all staff are directly employed and formally trained in upholstery techniques, and the third-party data does not indicate any lack of training or certification."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Upholstery Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Staff must be formally trained or certified in upholstery techniques, including fabric handling, cleaning, and repair."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: Staff must be formally trained or certified in upholstery techniques, including fabric handling, cleaning, and repair.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text states that all staff are directly employed and formally trained in upholstery techniques, and the third-party data does not indicate any lack of training or certification."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

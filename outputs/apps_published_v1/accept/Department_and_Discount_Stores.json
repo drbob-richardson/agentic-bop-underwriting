@@ -1,0 +1,138 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Department & Discount Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Harmony Discount Department Store",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Main Street Suite 200, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Store Manager, (555) 123-4567, john.doe@harmonydiscount.com",
+      "GL CODE": "5241",
+      "SIC": "5311",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Harmony Discount Department Store operates as a physical retail establishment located in Springfield, IL, specializing in a wide range of affordable products including clothing, household goods, toys, and seasonal items. With an emphasis on value, we aim to provide our customers with high-quality merchandise at competitive prices. Our operations are focused entirely on retail sales, with less than 10% of our revenue coming from repair services, ensuring a primary retail focus in accordance with regulatory guidelines. We maintain a safe shopping environment with robust loss prevention measures and a dedicated staff trained in customer service and safety protocols. Our store hours accommodate a diverse customer base, and we pride ourselves on compliance with all local, state, and federal retail regulations.\n\nCompliance Confirmation: The business does not derive more than 75% of its revenue from online sales and confirms that it does not operate as a supermarket, convenience store, self-storage facility, pawnshop, tobacconist, or adult-themed business. Additionally, incidental repair operations constitute less than 10% of our revenue, and we do not have on-premises cooking or commercial kitchens. We affirm full compliance with all eligibility requirements.",
+      "DATE BUSINESS STARTED": "04/15/2015",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "8500.00",
+      "POLICY #": "HD-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "State Farm Insurance",
+      "POLICY NUMBER": "HD-2023-002",
+      "TOTAL LOSSES": "$25,000",
+      "DESCRIPTION OF LOSSES": "Losses incurred due to burglary on 02/15/2023, where merchandise valued at $10,000 was stolen; currently under investigation. Additionally, a slip and fall incident on 06/22/2023 led to a total payout of $15,000 for medical expenses; claim has been settled and closed.",
+      "Combined Single Limit": "$1,000,000/%1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $500",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "4567 Elm Street, Springfield, IL 62702-5678",
+      "Year Built": "2010",
+      "Square Feet": "20000.0",
+      "HOURS OF OPERATION": "09:00 AM - 09:00 PM",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial Grade Safe - Class B - UL Rated.",
+      "MONEY ON PREMISES": "$10,000",
+      "OTHER PROTECTION": "Security fencing and trained security personnel.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Harmony Discount Department Store does not engage in operations involving the storage, treatment, discharge, application, disposal, or transportation of hazardous materials. Our focus is solely on retail sales and we comply with all relevant regulations to maintain a safe shopping environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Harmony Discount Department Store does not sponsor athletic teams. Our focus is primarily on retail operations and providing value to our customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The store management is responsible for checking and verifying these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Harmony Discount Department Store has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our operations comply with all relevant regulations and ethical standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Harmony Discount Department Store has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. We have maintained consistent coverage with no interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Harmony Discount Department Store does not lease employees to or from other employers. Our staffing is managed internally to maintain operational consistency and compliance with labor regulations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Harmony Discount Department Store carries Workers' Compensation insurance to ensure compliance with legal requirements and to provide coverage for our employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 Harmony Discount Department Store does not own or operate any other business. Our focus is solely on the retail operations of our store in Springfield, IL.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Harmony Discount Department Store currently has no other insurance policies with this company. We maintain our primary policy, ensuring adequate coverage for our retail operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Harmony Discount Department Store is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus exclusively on retail sales, offering a wide range of consumer goods without engaging in any manufacturing processes.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Harmony Discount Department Store does not rent or loan equipment to others, as our operations are focused solely on retail sales without any equipment rental services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Harmony Discount Department Store has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. Our financial operations have remained stable and compliant with regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Harmony Discount Department Store does not have any exposure to flammables, explosives, or chemicals as our operations focus exclusively on retail sales with no involvement in such materials. We prioritize a safe shopping environment in compliance with all relevant regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Harmony Discount Department Store does not have any catastrophe exposure as our operations focus solely on retail sales, without involvement in activities that would increase risk in that area. We maintain robust safety protocols to ensure a secure environment for customers and employees.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Harmony Discount Department Store has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize a safe and compliant environment for both customers and employees.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Harmony Discount Department Store does not have any uncorrected fire code violations. We ensure compliance with all fire safety regulations to maintain a safe shopping environment.",
+      "NUMBER OF CLAIMS": "0",
+      "FIELDS.COMPLIANCE CONFIRMATION": "Compliance Confirmation: The business does not derive more than 75% of its revenue from online sales and confirms that it does not operate as a supermarket, convenience store, self-storage facility, pawnshop, tobacconist, or adult-themed business. Additionally, incidental repair operations constitute less than 10% of our revenue, and we do not have on-premises cooking or commercial kitchens. We affirm full compliance with all eligibility requirements and confirm that we have no unlicensed or undocumented employees."
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 25000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "Great selection of affordable products! I always find what I need at Harmony Discount Department Store.",
+          "The staff is friendly and helpful. I appreciate the clean and organized layout of the store.",
+          "I love the seasonal items they offer. It's my go-to place for holiday decorations!",
+          "Prices are unbeatable, and the quality is surprisingly good for a discount store.",
+          "I had a great shopping experience here. The checkout process was quick and efficient!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Department stores with more than 75% of revenue from online sales are ineligible.",
+        "Supermarkets, convenience stores, self-storage, pawnshops, tobacconists, and adult-themed businesses are not eligible.",
+        "Incidental repair operations must not exceed 10% of revenue, except in New York City and certain counties where any repair is prohibited.",
+        "Department stores with on-premises cooking or commercial kitchens are not acceptable."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Department & Discount Stores",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Department & Discount Stores",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Harmony Discount Department Store is valid and meets all eligibility requirements.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Trophy & Awards Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Trophy & Awards Emporium",
+      "FEIN OR SOC SEC #": "\"\"",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "1234 Trophy Lane, Suite 101, Award City, CA 98765-4321",
+      "CONTACT FOR INSPECTION": "John Smith, Safety Compliance Officer, Trophy & Awards Emporium, Phone: (123) 456-7890, Email: john.smith@trophyawards.com",
+      "GL CODE": "TROPHY-AWARDS-GL01",
+      "SIC": "3999",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Trophy & Awards Emporium, we specialize in providing a wide range of personalized trophies, awards, and custom engraving services. Our operations are centered around exceptional craftsmanship, ensuring high-quality products for events such as sports competitions, corporate recognition, and special ceremonies. We maintain secure, lockable storage for all high-value inventory, which includes metals, glass, and finished awards to prevent any theft or vandalism. Our skilled artisans use advanced machinery for precision engraving, and we regularly conduct comprehensive equipment maintenance and safety training to ensure a secure working environment. We employ a formalized quality control process for all custom orders, minimizing defects and enhancing customer satisfaction. Additionally, we operate secure shipping and tracking procedures for all orders, further protecting our clients' investments.\n\nOur Trophy & Awards Shop produces custom awards and trophies, and as part of our operations, we sometimes receive citations related to safety standards during our manufacturing processes, which we address promptly to ensure compliance.",
+      "DATE BUSINESS STARTED": "03/15/2010",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECT-101-23",
+      "OTHER BUSINESSES OWNED": "Trophy & Awards Online Retail",
+      "PREVIOUS CARRIER": "XYZ Insurance Company",
+      "POLICY NUMBER": "REJECT-101-23",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "No acceptance of businesses with repeated safety violations or regulatory citations has resulted in operational adjustments for Trophy & Awards Emporium. Recent audits revealed the need for enhanced documentation of safety training and equipment maintenance records, which has led to a temporary halt in production while these improvements are implemented. The estimated financial impact of these operational changes stands at approximately $5,000 due to lost sales and associated costs.",
+      "Combined Single Limit": "0",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000 deductible",
+      "Medical Expense (per person)": "$5,000 / $2,000 deductible",
+      "Damge to Rental Premises": "$10,000 / $1,000 deductible",
+      "Professional Liability": "reject",
+      "Liquor Liability": "reject",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "reject",
+      "ordinence and law": "reject",
+      "Flood": "$500,000 / $5,000 deductible",
+      "accounts recievable": "$50,000 / $2,500 deductible",
+      "employee dishonesty": "$100,000 / $1,000 deductible",
+      "money and securities": "reject",
+      "ADDRESS": "4567 Award Blvd, Suite 200, Prize Town, CA 98765-1234",
+      "Year Built": "2005",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "9:00 AM - 6:00 PM, Monday to Friday; 10:00 AM - 4:00 PM, Saturday; Closed on Sunday",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "0",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B Safe, UL listed, rated for secure storage of valuables.",
+      "MONEY ON PREMISES": "$0",
+      "OTHER PROTECTION": "No acceptance of businesses with repeated safety violations or regulatory citations.",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual Cost Value",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Trophy & Awards Emporium does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is solely on retailing and customizing trophies and awards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Trophy & Awards Emporium does not sponsor athletic teams as part of its operations. The focus is primarily on providing personalized trophies and awards for various events and ceremonies.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this is essential for risk transfer and liability management. The certificate checks are conducted by our Safety Compliance Officer, John Smith.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "Yes \u2013 The applicant has not indicated any prior indictments or convictions relating to fraud, bribery, or arson, but due to previous operational adjustments stemming from safety violations, acceptance cannot be granted.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "Yes \u2013 There have been operational adjustments at Trophy & Awards Emporium due to safety violations, resulting in the halt of production while improvements are implemented. This indicates a need for enhanced documentation and processes related to safety training and equipment maintenance.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Trophy & Awards Emporium does not lease employees to or from other employers. The business operates with its own staff and maintains strict safety and compliance protocols.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Trophy & Awards Emporium does not currently carry Workers' Compensation insurance, and acceptance cannot be granted due to past operational adjustments related to safety violations.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Trophy & Awards Emporium owns and operates another business, \"Trophy & Awards Online Retail.\"",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Trophy & Awards Emporium does not have any other insurance with this company, as there are operational adjustments in progress due to previous safety violations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Trophy & Awards Emporium is not involved in manufacturing, mixing, relabeling, or repackaging of products; the operations are focused solely on retailing and customizing trophies and awards.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Trophy & Awards Emporium does not rent or loan equipment to others as part of its operations. This practice is in line with maintaining control over equipment use and compliance with safety standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. However, there are operational adjustments in place due to safety violations that were previously addressed.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Trophy & Awards Emporium does not have exposure to flammables, explosives, or chemicals as it solely focuses on retailing and customizing trophies and awards. All operations are conducted in a safe environment with proper equipment maintenance and safety protocols in place.",
+      "G14: Any catastrophe exposure?": "No \u2013 Trophy & Awards Emporium does not have any catastrophe exposure, as all operations are conducted within standard retail environments without significant risks associated with natural disasters or catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Trophy & Awards Emporium has not reported any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business operates under strict safety and compliance protocols to mitigate such risks.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Trophy & Awards Emporium does not have any uncorrected fire code violations. We prioritize safety and compliance, ensuring all codes are met and maintained.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Trophy & Awards Emporium provided excellent service and the trophies were beautifully crafted. Highly recommend!",
+          "I ordered custom awards for our event, and they exceeded my expectations. Fast turnaround and great quality!",
+          "The staff was very helpful in selecting the right trophies for our sports team. Will definitely return for future needs.",
+          "Great selection of awards and trophies! The engraving was perfect and the prices were reasonable.",
+          "I was impressed with the professionalism and attention to detail. The awards looked fantastic at our ceremony!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No acceptance of businesses with repeated safety violations or regulatory citations."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Trophy & Awards Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No acceptance of businesses with repeated safety violations or regulatory citations."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No acceptance of businesses with repeated safety violations or regulatory citations.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business has received citations related to safety standards during manufacturing processes, indicating a violation of the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Trophy & Awards Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No acceptance of businesses with repeated safety violations or regulatory citations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to repeated safety violations or regulatory citations as indicated by the chosen reject reason. Additionally, there are no other violations present that would affect the rejection.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No acceptance of businesses with repeated safety violations or regulatory citations.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business has received citations related to safety standards during manufacturing processes, indicating a violation of the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

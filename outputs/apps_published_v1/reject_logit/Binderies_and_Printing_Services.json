@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Binderies & Printing Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Bind & Print Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Print Lane, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, 555-123-4567, john.smith@precisionbindprint.com",
+      "GL CODE": "5141",
+      "SIC": "2752",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Precision Bind & Print Solutions specializes in providing high-quality binderies and printing services, focusing on commercial clients such as publishers, educational institutions, and corporate entities. Our operations are entirely indoors and designed to meet stringent safety and regulatory standards, including effective fire safety measures and compliance with OSHA ventilation requirements. We utilize water-based or low-VOC inks to minimize environmental impact and ensure a safe working environment. Our production process includes thoroughly documented quality control procedures for all stages, from pre-press to finishing, which helps us maintain exceptional standards while mitigating risks associated with printing errors. Our trained personnel operate modern equipment with regular maintenance and inspection protocols in place, ensuring operational efficiency and safety. We are committed to robust risk management strategies and prioritize continuous improvement through regular audits and updates in safety and quality controls.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$18,500.00",
+      "POLICY #": "PBPS-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "PBPS-2023-002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On March 12, 2022, a malfunction in the binding machine caused a loss of $3,500 due to equipment damage and operational downtime. This incident has been resolved, and the machine has since been repaired and is operational. Additionally, on May 5, 2022, a small fire triggered by an overheated printer resulted in a loss of $1,500, primarily due to material damage. No injuries occurred, and fire safety protocols were reviewed and updated.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate / $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $1,000 deductible.",
+      "Damge to Rental Premises": "$100,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit / $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit / $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit / $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit / $1,000 deductible",
+      "Computers": "$250,000 limit / $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit / $1,000 deductible",
+      "Flood": "$500,000 limit / $5,000 deductible",
+      "accounts recievable": "$250,000 limit / $1,000 deductible",
+      "employee dishonesty": "$500,000 limit / $1,000 deductible",
+      "money and securities": "$250,000 limit / $1,000 deductible",
+      "ADDRESS": "5678 Press Avenue, Suite 200, Springfield, IL 62704-5678",
+      "Year Built": "1985",
+      "Square Feet": "3500",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 2:00 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "1995",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$1,200,000.00",
+      "TOTAL PAYROLL": "$600,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1 - Fire Resistant, Grade A - Secure Storage for valuable documents and materials.",
+      "MONEY ON PREMISES": "$2,500.00",
+      "OTHER PROTECTION": "Security personnel on-site during operational hours; regular inspections and maintenance of fire safety systems.",
+      "Building limit": "$2000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$750,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Precision Bind & Print Solutions does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The business primarily uses water-based or low-VOC inks, ensuring compliance with safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Precision Bind & Print Solutions does not sponsor athletic teams as our focus is on providing binderies and printing services to commercial clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The management team at Precision Bind & Print Solutions checks all certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Precision Bind & Print Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company operates with a commitment to ethical standards and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Precision Bind & Print Solutions has not had any policies or coverage declined, canceled, or non-renewed in the past three years. The company maintains a strong compliance record with its insurance providers.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Precision Bind & Print Solutions does not lease employees to or from other employers. All employees are directly employed by our company to maintain control over operations and quality standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Precision Bind & Print Solutions carries Workers' Compensation insurance to ensure compliance with legal requirements and protect employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Precision Bind & Print Solutions does not own or operate any other business. The company is solely focused on providing binderies and printing services to commercial clients.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Bind & Print Solutions does not have any other insurance policies with this company at this time. The only coverage in place is the primary business insurance policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Precision Bind & Print Solutions does not engage in manufacturing, mixing, relabeling, or repackaging of products. Our operations are focused solely on providing binderies and printing services for commercial clients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Precision Bind & Print Solutions does not rent or loan equipment to others. All equipment is utilized internally to ensure quality control and operational efficiency.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Precision Bind & Print Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a stable financial position and adheres to sound business practices.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Precision Bind & Print Solutions does not have any exposure to flammables, explosives, or chemicals, as our operations utilize only water-based or low-VOC inks and adhere to strict safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Precision Bind & Print Solutions does not have any catastrophe exposure as our operations are conducted indoors with stringent safety measures and no involvement with high-risk activities. We focus on providing binderies and printing services to commercial clients, mitigating potential risks effectively.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Precision Bind & Print Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong focus on ethical practices and compliance within its operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Precision Bind & Print Solutions currently has no uncorrected fire code violations, ensuring compliance with all relevant safety standards.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Bind & Print Solutions delivered my project on time and the quality was outstanding! Highly recommend their services.",
+          "I had a great experience with this printing service. The staff was friendly and very helpful throughout the process.",
+          "Their attention to detail is impressive! My printed materials came out exactly as I envisioned.",
+          "I appreciate their commitment to using eco-friendly inks. It's great to work with a company that cares about the environment.",
+          "Fast turnaround and excellent customer service. I will definitely be using them for all my future printing needs."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Binderies & Printing Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Binderies & Printing Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

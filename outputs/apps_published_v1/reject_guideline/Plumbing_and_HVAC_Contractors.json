@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Plumbing & HVAC Contractors",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Reliable Plumbing & HVAC Solutions",
+      "FEIN OR SOC SEC #": "REJECT",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 400, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Lead Inspector, Reliable Plumbing & HVAC Solutions, (555) 123-4567, johndoe@reliableplumbinghvac.com",
+      "GL CODE": "REJECT",
+      "SIC": "1711",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "Reliable Plumbing & HVAC Solutions specializes in providing high-quality plumbing and HVAC services primarily for residential and light commercial properties. Our operations include installation, maintenance, and repair of heating, ventilation, air conditioning systems, water heaters, and plumbing fixtures. We are committed to ensuring safety and compliance with local, state, and federal building codes, and we do not engage in high-risk construction activities such as demolition or hazardous material abatement. Our team consists of licensed technicians who undergo regular training to stay updated on industry standards and safety practices. We maintain meticulous documentation of our safety protocols and equipment maintenance to ensure the highest level of service and minimize liability. Additionally, we only work with subcontractors who provide valid certificates of insurance, safeguarding our commitment to quality and risk management.\n\nOur company specializes in plumbing and HVAC services, which sometimes requires us to handle demolition work to remove old systems and facilitate the installation of new units.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "reject",
+      "POLICY #": "REJECT",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Progressive Insurance",
+      "POLICY NUMBER": "REJECT",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "\"On 06/15/2022, we experienced a water leak due to a burst pipe caused by extreme temperature fluctuations, resulting in $5,000 in damages. The matter has been closed as repairs were completed promptly and we implemented preventive measures to avoid future occurrences.\"",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate / $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 per person / $0 deductible",
+      "Damge to Rental Premises": "$50,000 limit / $2,500 deductible",
+      "Professional Liability": "$1,000,000 limit / $5,000 deductible",
+      "Liquor Liability": "reject",
+      "Hired Auto": "$1,000,000 limit / $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 limit / $2,500 deductible",
+      "Computers": "$5,000 limit / $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit / $2,500 deductible",
+      "Flood": "$500,000 limit / $5,000 deductible",
+      "accounts recievable": "reject",
+      "employee dishonesty": "$100,000 limit / $1,000 deductible",
+      "money and securities": "$50,000 limit / $1,000 deductible",
+      "ADDRESS": "456 Residential Way, Springfield, IL 62701-5678",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 3:00 PM; Sunday: Closed.",
+      "Distance to hydrant": "75 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "reject",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "SAFE Class 1, Grade A, Label I",
+      "MONEY ON PREMISES": "$10,000",
+      "OTHER PROTECTION": "\"N/A\"",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "reject",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Reliable Plumbing & HVAC Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. The operations strictly focus on plumbing and HVAC services without involvement in high-risk activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Reliable Plumbing & HVAC Solutions does not sponsor athletic teams. Our focus remains on providing plumbing and HVAC services without engaging in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Reliable Plumbing & HVAC Solutions does not allow subcontractors to work without providing a certificate of insurance. All subcontractor certificates are thoroughly checked to ensure compliance and proper risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Reliable Plumbing & HVAC Solutions has not been indicted or convicted of any degree of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our commitment to ethical practices and compliance reinforces our integrity in all operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Reliable Plumbing & HVAC Solutions has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. Our commitment to quality and compliance has helped maintain a positive insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Reliable Plumbing & HVAC Solutions does not lease employees to or from other employers, ensuring that all personnel are directly employed and trained in accordance with company standards. This practice supports our commitment to safety and compliance within our operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Reliable Plumbing & HVAC Solutions does not have any Workers Compensation coverage. Our operations do not involve activities that require it, as we adhere to safety regulations and do not engage in high-risk construction work.",
+      "G8: Do you own or operate any other business?": "No \u2013 Reliable Plumbing & HVAC Solutions does not own or operate any other business. Our focus is solely on providing plumbing and HVAC services, ensuring compliance and quality in our operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Reliable Plumbing & HVAC Solutions does not have any other insurance policy numbers with this company, as we maintain a focus on providing specialized plumbing and HVAC services without additional coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Reliable Plumbing & HVAC Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are strictly limited to providing plumbing and HVAC services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Reliable Plumbing & HVAC Solutions does not rent or loan equipment to others, ensuring that all equipment remains under our control to maintain quality and safety standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Reliable Plumbing & HVAC Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, as we maintain a stable financial status and focus on effective risk management.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Reliable Plumbing & HVAC Solutions does not have any exposure to flammables, explosives, or chemicals, as our operations focus exclusively on plumbing and HVAC services without involvement in high-risk activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Reliable Plumbing & HVAC Solutions does not have any catastrophe exposure as our operations do not engage in high-risk activities such as demolition or blasting, which could lead to increased risks. We are focused on providing safe plumbing and HVAC services primarily for residential and light commercial properties.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Reliable Plumbing & HVAC Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize ethical practices and maintain a strong commitment to compliance in all our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Reliable Plumbing & HVAC Solutions currently has no uncorrected fire code violations and is committed to maintaining compliance with all safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Reliable Plumbing & HVAC Solutions did an excellent job fixing my leaky faucet. Their team was professional and efficient!",
+          "I had a great experience with their HVAC installation. The technicians were knowledgeable and answered all my questions.",
+          "Prompt service and friendly staff! They resolved my heating issue quickly and at a fair price.",
+          "Highly recommend! They provided thorough maintenance on my air conditioning unit and explained everything clearly.",
+          "The team at Reliable Plumbing was fantastic! They arrived on time and completed the job without any hassle."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No demolition, blasting, or high-risk construction activities permitted."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Plumbing & HVAC Contractors",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No demolition, blasting, or high-risk construction activities permitted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No demolition, blasting, or high-risk construction activities permitted.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business sometimes requires demolition work to remove old systems, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Plumbing & HVAC Contractors",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No demolition, blasting, or high-risk construction activities permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: No demolition, blasting, or high-risk construction activities permitted. Additionally, the description of operations indicates involvement in demolition work, which is not allowed.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No demolition, blasting, or high-risk construction activities permitted.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business sometimes requires demolition work to remove old systems, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

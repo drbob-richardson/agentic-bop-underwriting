@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bakeries & Bagel Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Fresh Bagel Bakery",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main St, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "B1000",
+      "SIC": "2051",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "The Fresh Bagel Bakery specializes in the artisanal production of fresh bagels and baked goods, utilizing traditional baking techniques combined with modern culinary practices. Our dedicated team bakes on-site each morning, ensuring all products are made from high-quality ingredients sourced from reputable suppliers. We adhere rigorously to food safety standards, including maintaining a documented food safety program compliant with ServSafe guidelines. The bakery is equipped with automatic fire suppression systems and monitored alarm systems to enhance safety for both our employees and customers. We also offer online ordering options, implementing robust cybersecurity measures to protect customer data. With a focus on providing a warm, inviting atmosphere, we serve a diverse range of baked goods and bagels to our community, while upholding a strong commitment to sanitation and operational excellence.\n\nCompliance Confirmation: The business does not engage in any restricted activities and confirms full compliance with safety regulations, including the installation of automatic extinguishing systems over all cooking equipment. We maintain monitored fire and burglar alarm systems at all locations and have documented food safety programs, with all staff holding ServSafe certifications. Additionally, we consistently uphold proper sanitation and refrigeration controls to ensure the highest standards of food safety and quality.",
+      "DATE BUSINESS STARTED": "06/15/2021",
+      "EFFECTIVE DATE": "07/01/2021",
+      "EXPIRATION DATE": "06/30/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "FB-BAGEL-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Doughnut Delights Insurance Co.",
+      "POLICY NUMBER": "FB-BAGEL-2023-002",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "On 03/15/2023, we experienced a water damage incident due to a burst pipe in the storage area, resulting in the loss of $1,500 in inventory and repair costs. Status: Resolved. On 08/10/2023, a small electrical fire occurred in the kitchen, leading to damages worth $500. The fire was quickly extinguished, and no injuries were reported. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$250,000 / $2,500",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $2,500",
+      "money and securities": "$25,000 / $500",
+      "ADDRESS": "456 Maple Street, Springfield, IL 62701-5678",
+      "Year Built": "2010",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "6:00 AM - 6:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Automatic extinguishing systems; Class B safe; UL listed.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Monitored security fencing and periodic patrols by trained watchpersons to enhance perimeter security and deter theft.",
+      "Building limit": "$800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The operations of The Fresh Bagel Bakery do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. All materials used in the bakery are food-related and handled according to safe food practices.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Fresh Bagel Bakery does not sponsor any athletic teams. We focus primarily on our bakery operations and community engagement through our products and services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors must provide a certificate of insurance before working. The responsibility for checking these certificates falls on the management of The Fresh Bagel Bakery.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Fresh Bagel Bakery has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance coverage has been maintained continuously since inception.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Fresh Bagel Bakery does not lease employees to or from other employers; all employees are directly hired and employed by the bakery.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 The Fresh Bagel Bakery carries Workers' Compensation insurance to ensure compliance with statutory requirements and to cover employees against work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 The Fresh Bagel Bakery does not own or operate any other business; it focuses solely on its bakery operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Fresh Bagel Bakery does not have any other insurance with this company at this time. It currently holds one policy for its operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Fresh Bagel Bakery is not involved in manufacturing, mixing, relabeling, or repackaging of products, as we focus solely on baking fresh bagels and baked goods on-site. All production is handled directly in our bakery using high-quality ingredients without any manufacturing processes beyond baking.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Fresh Bagel Bakery does not rent or loan equipment to others, focusing solely on its in-house baking operations. This helps maintain our quality standards and ensures compliance with safety regulations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. They have maintained a stable financial position since starting the business.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Fresh Bagel Bakery does not have any exposure to flammables, explosives, or chemicals, as all operations focus on baking food products using safe practices. The bakery adheres to strict safety protocols to ensure a safe environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Fresh Bagel Bakery does not have any catastrophe exposure as all operations are conducted within the scope of safety standards, and the bakery is equipped with necessary safety systems to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Fresh Bagel Bakery has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to a safe and inclusive environment for both employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations for The Fresh Bagel Bakery. The establishment is compliant with all fire safety regulations and equipped with an automatic fire suppression system.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Fresh Bagel Bakery has the best bagels in town! Always fresh and delicious.",
+          "I love their variety of baked goods. The staff is friendly and the atmosphere is cozy.",
+          "Great place for breakfast! Their cream cheese spreads are a must-try.",
+          "I appreciate their commitment to food safety and quality ingredients. Highly recommend!",
+          "The online ordering process was smooth, and my order was ready on time. Will definitely return!"
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment.",
+        "Monitored fire and burglar alarm systems are required for all locations.",
+        "Documented food safety programs, such as ServSafe certification, are mandatory for all light caf\u00e9-style bakeries and bagel shops.",
+        "Proper sanitation and refrigeration controls must be maintained at all times."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Bakeries & Bagel Shops",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Bakeries & Bagel Shops",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for The Fresh Bagel Bakery is accepted as it meets all the required criteria and does not fall under any unacceptable categories or restrictions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

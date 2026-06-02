@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Building Materials & Supplies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Reliable Building Supplies",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Supply Rd, Suite 100, Springfield, IL 62701-5678",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "21530",
+      "SIC": "5211",
+      "NATURE OF BUSINESS": "Wholesale",
+      "DESCRIPTION OF OPERATIONS": "Reliable Building Supplies operates as a wholesale distributor of construction materials, focusing on providing a diverse range of products including lumber, drywall, roofing materials, and insulation to contractors and businesses in the construction industry. Our facility emphasizes safety and security, featuring fire prevention measures and proper inventory management systems to safeguard our high-value products. We maintain compliance with local, state, and federal regulations governing the storage and transportation of building materials, ensuring operational integrity and legal adherence. Our delivery fleet is equipped with documented security protocols, enhancing the safety of materials during transit. By fostering strong relationships with suppliers, we guarantee timely deliveries and maintain a steady inventory to meet customer demands effectively. Our commitment to ongoing safety audits and employee training reflects our proactive approach to risk management, positioning us as a reliable partner in the building materials sector.\n\nCompliance Confirmation: The business does not engage in repair, maintenance, or installation services and confirms that all facilities have documented fire prevention measures in place for all combustible inventory. Additionally, we ensure that any outdoor storage of untreated lumber is appropriately separated from buildings, protected by firebreaks, and equipped with adequate fencing, lighting, and surveillance.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "01/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$15,000.00",
+      "POLICY #": "RB-2024-001",
+      "OTHER BUSINESSES OWNED": "Reliable Construction Solutions, LLC - Wholesale Distributor of Renovation Supplies",
+      "PREVIOUS CARRIER": "ABC Building Insurance Company",
+      "POLICY NUMBER": "RB-2023-045",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On March 15, 2023, a mild warehouse fire caused by an electrical malfunction resulted in damage to inventory, leading to a loss of $5,000. The incident has been resolved, and all necessary fire prevention measures are now in place.",
+      "Combined Single Limit": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$500,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$50,000 / $2,500",
+      "ordinence and law": "$500,000 / $5,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$500,000 / $5,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$500,000 / $5,000",
+      "ADDRESS": "4567 Building Materials Blvd, Warehouse 5, Springfield, IL 62701-5678",
+      "Year Built": "2015",
+      "Square Feet": "15000.0",
+      "HOURS OF OPERATION": "Monday to Friday 7:00 AM - 5:00 PM, Saturday 8:00 AM - 3:00 PM, Closed Sunday",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$2500000",
+      "TOTAL PAYROLL": "$750,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1 - UL Listed - Steel Vault with Time Lock",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Adequate fencing around the premises with controlled access and monitored surveillance for enhanced security.",
+      "Building limit": "$2250000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Reliable Building Supplies does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. The operations are focused on wholesale distribution of construction materials while adhering to all relevant safety and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Reliable Building Supplies does not sponsor athletic teams as part of its business operations. The focus is primarily on wholesale distribution of construction materials.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The company's management is responsible for checking and verifying these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Reliable Building Supplies has not had any applicant indicted or convicted of fraud, bribery, arson, or any related crime in connection with this or any other property. The company maintains a strong commitment to ethical operations and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Reliable Building Supplies has not had any policy or coverage declined, canceled, or non-renewed in the past three years. The company's previous insurance policy was successfully renewed without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Reliable Building Supplies does not lease employees to or from other employers, focusing solely on its internal staffing needs for operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Reliable Building Supplies carries Workers Compensation insurance to ensure compliance with legal requirements and protect both the company and its employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Reliable Building Supplies also owns and operates Reliable Construction Solutions, LLC, which is a wholesale distributor of renovation supplies.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Reliable Building Supplies currently holds one active policy with the insurance company, with no additional policies to report.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Reliable Building Supplies is not involved in the manufacturing, mixing, relabeling, or repackaging of products; our focus is solely on wholesale distribution of construction materials.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Reliable Building Supplies does not rent or loan equipment to others, as our operations focus exclusively on wholesale distribution of construction materials. This practice helps minimize potential liability and risk exposure.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Reliable Building Supplies has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a solid financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Reliable Building Supplies does not have any exposure to flammables, explosives, or chemicals in its operations as it focuses solely on wholesale distribution of construction materials. The company adheres to all relevant safety and regulatory standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 Reliable Building Supplies does not have any catastrophe exposure as it focuses solely on wholesale distribution of construction materials, adhering to all safety regulations and maintaining proper risk management practices.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Reliable Building Supplies has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to ethical practices and compliance with all relevant regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Reliable Building Supplies has no uncorrected fire code violations and maintains compliance with all relevant fire safety regulations and standards.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Reliable Building Supplies has a fantastic selection of materials! The staff is always helpful and knowledgeable.",
+          "I appreciate the quick delivery service. My orders always arrive on time and in great condition.",
+          "The prices here are competitive, and the quality of the products is top-notch. Highly recommend for any contractor!",
+          "I had a great experience shopping here. The staff helped me find exactly what I needed for my project.",
+          "Their inventory management is impressive. I can always count on them to have what I need in stock."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No coverage for businesses primarily engaged in repair, maintenance, or installation services.",
+        "Facilities must have documented fire prevention measures for all combustible inventory.",
+        "Outdoor storage of untreated lumber must be separated from buildings and protected by firebreaks or sprinkler systems.",
+        "Warehouses and outdoor storage yards must have adequate fencing, lighting, and surveillance."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Building Materials & Supplies",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Building Materials & Supplies",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted due to the following violations: 1) Businesses primarily engaged in repair, maintenance, or installation services rather than material supply; outside underwriting appetite. 2) Facilities with no fencing, lighting, or surveillance for outdoor storage; high exposure to theft and vandalism. 3) Outdoor storage of untreated lumber adjacent to buildings with no separation or fire protection; extreme fire hazard.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

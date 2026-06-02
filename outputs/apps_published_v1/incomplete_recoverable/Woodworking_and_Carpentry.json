@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Woodworking & Carpentry",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Timberline Carpentry Solutions",
+      "FEIN OR SOC SEC #": "45-6789123",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Timber Lane, Suite 100, Springfield, IL 62701-5555",
+      "CONTACT FOR INSPECTION": "John Doe, Operations Manager, 555-123-4567, john.doe@timberlinecarpentry.com",
+      "GL CODE": "\"WOODWORKING\"",
+      "SIC": "woodworking  wood cabinetry  1751",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "At Timberline Carpentry Solutions, we specialize in custom woodworking and carpentry projects for both residential and commercial clients. Our operations are centered around providing high-quality craftsmanship, including the design and fabrication of furniture, cabinetry, and interior trim work. We utilize modern equipment and adhere to comprehensive safety protocols to minimize risks associated with woodworking. Our workshop is located in a properly zoned commercial space and equipped with advanced dust control systems to ensure a safe working environment. We emphasize strong relationships with reputable suppliers to secure top-quality materials for our projects. Our dedicated team undergoes regular safety training and maintains strict compliance with local regulations to uphold our commitment to quality and safety.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "TC-2024-001",
+      "OTHER BUSINESSES OWNED": "\"Timberline Custom Carpentry LLC; 1234 Timber Lane, Suite 100, Springfield, IL 62701-5555; Specializes in bespoke cabinetry and furniture design.\"",
+      "PREVIOUS CARRIER": "XYZ Insurance Company",
+      "POLICY NUMBER": "TC-2023-054",
+      "TOTAL LOSSES": "$1,250",
+      "DESCRIPTION OF LOSSES": "Loss Date: 07/15/2023; Cause: Equipment malfunction resulting in wood splinter injuries; Amount: $1,250.00; Status: Closed.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate limit with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 Limit with a $100 Deductible",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$20,000 limit with a $500 deductible",
+      "ordinence and law": "$500,000 limit with a $2,500 deductible",
+      "Flood": "$500,000 limit with a $2,500 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$15,000 limit with a $500 deductible",
+      "ADDRESS": "1234 Timber Lane, Suite 200, Springfield, IL 62701-5555",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 3:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL Listed",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and on-site watch personnel to enhance safety and protect premises.",
+      "Building limit": "$250000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual Cash Value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Timberline Carpentry Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of our operations. We prioritize safety and compliance with regulations in our woodworking and carpentry projects.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Timberline Carpentry Solutions does not sponsor any athletic teams. Our focus is solely on woodworking and carpentry projects.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the operations manager or the designated risk management team to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Timberline Carpentry Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We prioritize integrity and compliance in our business operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Timberline Carpentry Solutions has not had any policies or coverage declined, canceled, or non-renewed in the past three years. We maintain a strong compliance record to ensure uninterrupted coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Timberline Carpentry Solutions does not lease employees to or from other employers, ensuring a consistent and controlled workforce directly employed by the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Timberline Carpentry Solutions carries Workers' Compensation insurance to ensure compliance with legal requirements and provide coverage for our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Timberline Carpentry Solutions owns and operates another business named Timberline Custom Carpentry LLC, which specializes in bespoke cabinetry and furniture design.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Timberline Carpentry Solutions does not have any other insurance policies with this company aside from the current one. We maintain a single policy for our operations to ensure clarity and focus in our coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Timberline Carpentry Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus exclusively on custom woodworking and non-structural carpentry projects.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Timberline Carpentry Solutions does not rent or loan equipment to others, as we prioritize maintaining control over our tools and equipment for quality and safety reasons.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Timberline Carpentry Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a sound financial status.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Timberline Carpentry Solutions does not have exposure to flammables, explosives, or hazardous chemicals as we focus on non-structural woodworking projects and adhere to comprehensive safety protocols.",
+      "G14: Any catastrophe exposure?": "No \u2013 Timberline Carpentry Solutions does not have any catastrophe exposure related to our operations, as we focus on non-structural carpentry projects and maintain comprehensive safety protocols.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Timberline Carpentry Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize compliance and risk management in all aspects of our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Timberline Carpentry Solutions currently has no uncorrected fire code violations and maintains compliance with all relevant safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1250,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had a fantastic experience with this woodworking business! They helped me create a beautiful open concept in my home by expertly framing my new living space, and it turned out even better than I imagined!",
+          "I highly recommend Timberline for any woodworking needs. They transformed my living room with beautiful custom furniture that fits perfectly.",
+          "Great experience with Timberline! Their attention to detail and commitment to quality really stood out during my project.",
+          "The team at Timberline Carpentry Solutions was fantastic! They communicated well and delivered my project on time.",
+          "I love my new kitchen cabinets from Timberline! They were able to bring my vision to life with their expert design and craftsmanship."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No acceptance for businesses performing structural framing or load-bearing construction."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No acceptance for businesses performing structural framing or load-bearing construction."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Woodworking & Carpentry",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No acceptance for businesses performing structural framing or load-bearing construction."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No acceptance for businesses performing structural framing or load-bearing construction. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review mentioning that Timberline helped create a 'beautiful open concept' by 'expertly framing' a living space, which indicates involvement in structural framing."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Woodworking & Carpentry",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No acceptance for businesses performing structural framing or load-bearing construction."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No acceptance for businesses performing structural framing or load-bearing construction.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No acceptance for businesses performing structural framing or load-bearing construction. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review mentioning that Timberline helped create a 'beautiful open concept' by 'expertly framing' a living space, which indicates involvement in structural framing."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

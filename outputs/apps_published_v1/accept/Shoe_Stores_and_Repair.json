@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Shoe Stores & Repair",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sole Solutions Shoe Store & Repair",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Fit Street, Shoe City, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "GL-2023-SSRP",
+      "SIC": "input/output\n9021",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Sole Solutions Shoe Store & Repair specializes in the retail of footwear and provides a variety of shoe repair services, ensuring customer satisfaction by employing skilled technicians. Our operations are designed to maintain a clean, well-organized environment that complies with local safety codes. We focus on offering high-quality repair solutions using non-hazardous materials. Our knowledgeable staff is trained in customer service and operational safety protocols, which are regularly updated to uphold industry standards. We prioritize a strong safety record, having implemented corrective measures for any past claims, and continue to engage with our community through local events and promotions to enhance our brand presence. Additionally, we maintain a robust inventory management system to meet seasonal demands, ensuring availability and variety for our customers.\n\nCompliance Confirmation: The business does not engage in equipment rental or leasing and confirms that all fixed-location premises are well-maintained and compliant with local safety codes. Additionally, any mobile shoe repair services operate exclusively with properly insured commercial vehicles, adhering to all geographic service area restrictions and local licensing requirements.",
+      "DATE BUSINESS STARTED": "03/15/2020",
+      "EFFECTIVE DATE": "03/16/2023",
+      "EXPIRATION DATE": "03/15/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "SSRP-2023-001",
+      "OTHER BUSINESSES OWNED": "Sole Solutions Athletic Gear",
+      "PREVIOUS CARRIER": "Safeco Insurance",
+      "POLICY NUMBER": "SSRP-2022-009",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On April 10, 2022, a slip-and-fall incident occurred in our store due to a customer leaving a wet umbrella on the floor. The total cost of the claim was $1,200, which was settled without any ongoing issues. The status is resolved, and corrective measures, including enhanced floor signage and staff training on maintaining clear walkways, have been implemented.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $500 deductible",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$10,000 limit with a $500 deductible",
+      "ordinence and law": "$1,000,000 limit with a $1,000 deductible",
+      "Flood": "$250,000 limit with a $5,000 deductible",
+      "accounts recievable": "$100,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$50,000 limit with a $1,000 deductible",
+      "ADDRESS": "5678 Sole Street, Shoe City, ST 12345-6789",
+      "Year Built": "2010",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "Monday-Friday 10:00 AM - 6:00 PM, Saturday 10:00 AM - 4:00 PM, Sunday Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$75,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class II, Grade B, UL Listed",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Central station alarm system with 24/7 monitoring and a perimeter fence for enhanced security.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Sole Solutions Shoe Store & Repair does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business utilizes non-hazardous materials for its shoe repair services and adheres to local safety regulations.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Sole Solutions Shoe Store & Repair sponsors local athletic teams by providing footwear and gear, supporting community engagement and promoting healthy lifestyles.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are checked by the company to ensure compliance and protect against liabilities.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Sole Solutions Shoe Store & Repair has not had any applicants indicted or convicted of crimes related to fraud, bribery, or arson in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Sole Solutions Shoe Store & Repair has not had any policies or coverage declined, canceled, or non-renewed in the prior three years. All insurance coverages have been maintained without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sole Solutions Shoe Store & Repair does not lease employees to or from other employers. The business employs its own staff to maintain control over operations and ensure compliance with safety and training standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Sole Solutions Shoe Store & Repair carries Workers' Compensation insurance to ensure compliance with legal requirements and provide protection for its employees. This policy is active and up to date.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Sole Solutions Shoe Store & Repair also operates Sole Solutions Athletic Gear, expanding its commitment to providing quality footwear and athletic support to the community.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sole Solutions Shoe Store & Repair does not have any other policies with this company at this time. The insurance records indicate only the current and previous policy numbers listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sole Solutions Shoe Store & Repair is not involved in manufacturing, mixing, relabeling, or repackaging of products; the business focuses solely on retailing footwear and providing shoe repair services using non-hazardous materials.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sole Solutions Shoe Store & Repair does not rent or loan equipment to others as it focuses solely on retail and shoe repair services without engaging in equipment rental or leasing.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Sole Solutions Shoe Store & Repair has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien within the past five years, ensuring financial stability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sole Solutions Shoe Store & Repair does not have any exposure to flammables, explosives, or chemicals as it uses only non-hazardous materials for its operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sole Solutions Shoe Store & Repair does not have any catastrophe exposure as the business operates within standard retail and repair parameters without engaging in high-risk activities. The company maintains compliance with local safety regulations and has a strong focus on risk management.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Sole Solutions Shoe Store & Repair has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business prioritizes compliance and maintains a strong commitment to ethical practices and employee training.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Sole Solutions Shoe Store & Repair has no uncorrected fire code violations and maintains compliance with all local safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of shoes and the staff is super helpful! I found exactly what I was looking for.",
+          "I had my favorite pair of boots repaired here, and they look brand new! Highly recommend their repair services.",
+          "The store is always clean and organized. I appreciate the friendly atmosphere and knowledgeable staff.",
+          "I love supporting local businesses, and this shoe store does not disappoint. Excellent customer service!",
+          "Fast service and a wide variety of options. I will definitely be coming back for my next pair of shoes."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No businesses engaged in equipment rental or leasing are permitted.",
+        "All fixed-location premises must be well-maintained and compliant with local safety codes.",
+        "Mobile shoe repair services must operate only with properly insured commercial vehicles.",
+        "Mobile services must comply with all geographic service area restrictions and local licensing requirements."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Shoe Stores & Repair",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Shoe Stores & Repair",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Sole Solutions Shoe Store & Repair is valid and meets all necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

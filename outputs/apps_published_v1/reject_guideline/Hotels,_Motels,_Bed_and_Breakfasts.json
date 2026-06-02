@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Hotels, Motels, Bed & Breakfasts",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Whispering Pines Bed & Breakfast",
+      "FEIN OR SOC SEC #": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "123 Maple Lane, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Contact available upon request for inspection.",
+      "GL CODE": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "SIC": "7011",
+      "NATURE OF BUSINESS": "reject",
+      "DESCRIPTION OF OPERATIONS": "Whispering Pines Bed & Breakfast is a cozy establishment situated in a tranquil setting, offering a warm and inviting atmosphere for guests. We provide personalized service with a focus on comfort and hospitality, accommodating up to 10 guests in uniquely decorated rooms, each equipped with modern amenities. Our guests enjoy complimentary meals each morning, which are freshly prepared to enhance their stay. With a beautiful garden and well-maintained outdoor areas, visitors can relax and unwind during their time here. We take pride in our commitment to safety and compliance, featuring functioning fire protection systems and adhering to local codes to ensure the well-being of our guests and staff. Our operations are managed closely to guarantee a high level of service and guest satisfaction.\n\nOur bed and breakfast offers 12 charming guest rooms, providing a welcoming atmosphere for travelers seeking a relaxing getaway.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "REJECTED: No B&Bs with more than 10 guest rooms are eligible.",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "\"ABC Insurance Company\"",
+      "POLICY NUMBER": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "Combined Single Limit": "\"\"",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "Medical Expense (per person)": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "Damge to Rental Premises": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "Professional Liability": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "Liquor Liability": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "Hired Auto": "\"\"",
+      "Non-owned Auto": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "Computers": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "ordinence and law": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "Flood": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "accounts recievable": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "employee dishonesty": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "money and securities": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "ADDRESS": "123 Maple Lane, Springfield, IL 62701-1234",
+      "Year Built": "2020",
+      "Square Feet": "10.0",
+      "HOURS OF OPERATION": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "Distance to hydrant": "10 feet",
+      "OCCUPANCY": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "BUILDING IMPROVEMENTS": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$10",
+      "TOTAL PAYROLL": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "MONEY ON PREMISES": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "OTHER PROTECTION": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "Building limit": "$10",
+      "building % Coinsurance": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "personal property valuation type": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "personal property limit": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "personal property % Coinsurance": "REJECTED: B&B not eligible due to more than 10 guest rooms.",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Unfortunately, Whispering Pines Bed & Breakfast is not eligible for coverage as it exceeds the limit of 10 guest rooms, which is a stipulation for participation in this program.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Whispering Pines Bed & Breakfast is not eligible due to exceeding the limit of 10 guest rooms, which restricts sponsorship of athletic teams.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Whispering Pines Bed & Breakfast cannot allow subcontractors to work without providing a certificate of insurance, as it exceeds the eligibility limit of 10 guest rooms.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Whispering Pines Bed & Breakfast is not eligible for coverage due to exceeding the limit of 10 guest rooms, which prevents participation in this program.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Whispering Pines Bed & Breakfast is not eligible for coverage because it exceeds the limit of 10 guest rooms, which is a requirement for this program.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Whispering Pines Bed & Breakfast is not eligible for coverage as it exceeds the limit of 10 guest rooms, which is a requirement for participation in this program.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Whispering Pines Bed & Breakfast is not eligible for coverage, as it exceeds the limit of 10 guest rooms specified by the program. Therefore, they do not currently carry Workers\u2019 Compensation insurance.",
+      "G8: Do you own or operate any other business?": "No \u2013 Whispering Pines Bed & Breakfast is not eligible for coverage as it exceeds the limit of 10 guest rooms, which is a requirement for participation in this program.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Whispering Pines Bed & Breakfast is not eligible for coverage as it exceeds the limit of 10 guest rooms, which disqualifies it from participating in the program. Therefore, there are no other insurance policies with this company to list.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Whispering Pines Bed & Breakfast is not involved in manufacturing, mixing, relabeling, or repackaging of products, and unfortunately, it is not eligible for coverage due to exceeding the limit of 10 guest rooms.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Whispering Pines Bed & Breakfast is not eligible for coverage due to a restriction on B&Bs with more than 10 guest rooms. As a result, they cannot rent or loan equipment to others.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Whispering Pines Bed & Breakfast is not eligible for coverage due to exceeding the limit of 10 guest rooms, which is a requirement for participation in the program.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Whispering Pines Bed & Breakfast is not eligible for coverage as it exceeds the limit of 10 guest rooms. Thus, any exposure to flammables, explosives, or chemicals is not applicable in this context.",
+      "G14: Any catastrophe exposure?": "No \u2013 Whispering Pines Bed & Breakfast is not eligible for coverage due to exceeding the limit of 10 guest rooms, which disqualifies it from participating in the program.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Whispering Pines Bed & Breakfast exceeds the limit of 10 guest rooms, making it ineligible for coverage under this program.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Whispering Pines Bed & Breakfast exceeds the limit of 10 guest rooms, which disqualifies it from eligibility for coverage, regardless of any fire code violations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Whispering Pines is a charming getaway! The rooms are beautifully decorated and the breakfast is delicious.",
+          "I had a wonderful stay at Whispering Pines. The staff was friendly and the garden is a lovely place to relax.",
+          "A cozy and inviting B&B! The complimentary breakfast was a highlight of my stay.",
+          "The atmosphere at Whispering Pines is so peaceful. I loved the personal touches in the room.",
+          "Great location and very comfortable accommodations. I would definitely recommend this place to others!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No B&Bs with more than 10 guest rooms are eligible."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Hotels, Motels, Bed & Breakfasts",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No B&Bs with more than 10 guest rooms are eligible."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No B&Bs with more than 10 guest rooms are eligible.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that Whispering Pines Bed & Breakfast offers 12 guest rooms, which violates the guideline of no B&Bs with more than 10 guest rooms."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Hotels, Motels, Bed & Breakfasts",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No B&Bs with more than 10 guest rooms are eligible."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the specific rule that states 'No B&Bs with more than 10 guest rooms are eligible.' This violation is clearly present in the application. Additionally, there are no other violations that contradict the rejection reason.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No B&Bs with more than 10 guest rooms are eligible.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that Whispering Pines Bed & Breakfast offers 12 guest rooms, which violates the guideline of no B&Bs with more than 10 guest rooms."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

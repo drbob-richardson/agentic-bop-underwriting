@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Craft & Hobby Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Creative Corner Crafts",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Craft Lane, Springfield, IL 62701-4567",
+      "CONTACT FOR INSPECTION": "Sarah Johnson, Compliance Manager, 123 Craft Lane, Springfield, IL 62701-4567, (555) 123-4567, sarah.johnson@creativecornercrafts.com",
+      "GL CODE": "Retail Craft & Hobby Store",
+      "SIC": "5945",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Creative Corner Crafts is a retail craft and hobby store located in Springfield, IL that specializes in providing a wide range of art supplies, craft materials, and hobby tools for both beginners and experienced crafters. Our store offers a welcoming environment where customers can explore various products, including painting supplies, scrapbook materials, yarn, and DIY kits. \n\nWe pride ourselves on hosting instructional workshops and classes that promote creativity and skill development, all of which are covered by appropriate professional liability insurance. Customer safety is paramount; therefore, we maintain a clean and well-organized store with clear aisles, proper lighting, and regularly inspected premises to comply with local fire and safety codes.\n\nTo enhance our operational efficacy, we have implemented robust inventory control systems that include regular stock audits to prevent theft and ensure product availability. Our dedicated staff undergoes training on safe handling of tools and materials, significantly minimizing workplace risks associated with craft activities. \n\nOverall, Creative Corner Crafts is committed to fostering a safe, creative, and enjoyable shopping experience for our community.\n\nCompliance Confirmation: The business does not engage in the sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities and confirms that it maintains a clean safety record with no recent claims related to customer or employee injuries. Our premises are well-maintained, featuring clear aisles, proper lighting, and no visible hazards, and we strictly adhere to all local fire and safety codes, including up-to-date permits and regular inspections.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500",
+      "POLICY #": "CCCL-2023-001",
+      "OTHER BUSINESSES OWNED": "Creative Corner Fabrics",
+      "PREVIOUS CARRIER": "Craft Insurance Solutions",
+      "POLICY NUMBER": "CCCL-2023-002",
+      "TOTAL LOSSES": "$150",
+      "DESCRIPTION OF LOSSES": "On February 15, 2023, we experienced a minor theft incident where craft supplies valued at $150 were stolen. The loss was reported to the local authorities, and we have since enhanced our security measures, including installing additional surveillance cameras. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$50,000 / $500",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $500",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "456 Creative Arts Ave, Springfield, IL 62701-4567",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "Monday to Saturday, 9:00 AM to 7:00 PM; Sunday, 10:00 AM to 5:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$300,000",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard Retail Safe, Class II, UL Listed",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Central Station Alarm System with 24/7 monitoring and on-site security personnel during business hours.",
+      "Building limit": "$225000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Creative Corner Crafts does not involve any operations related to storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our focus is primarily on retailing safe art and craft supplies for our customers.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Creative Corner Crafts sponsors local athletic teams as part of our community engagement efforts, promoting healthy activities and local youth involvement.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Our compliance manager, Sarah Johnson, is responsible for checking and verifying these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Creative Corner Crafts has not been indicted or convicted of any degree of fraud, bribery, arson, or any other related crime in connection with this or any other property. We maintain strict compliance with all regulations and uphold high ethical standards in our operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Creative Corner Crafts has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. We maintain a strong insurance history and compliance with all necessary requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Creative Corner Crafts does not lease employees to or from other employers. All staff are directly employed by the business to ensure consistent training and operational standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Creative Corner Crafts carries Workers' Compensation insurance to comply with legal requirements and ensure the safety and protection of our employees in the workplace.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Creative Corner Crafts also operates another business, Creative Corner Fabrics, which specializes in fabric retail. Both businesses are committed to providing safe, high-quality products to our customers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Creative Corner Crafts does not currently have any other insurance policies with this company. The only existing policy is noted under the policy number CCCL-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Creative Corner Crafts is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our primary focus is on retailing art and craft supplies to our customers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Creative Corner Crafts does not rent or loan equipment to others. Our primary focus is on retailing craft and hobby supplies, and we prioritize customer safety and compliance with all regulations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Creative Corner Crafts has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a strong financial standing and a clean record.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Creative Corner Crafts does not have any exposure to flammables, explosives, or chemicals, as we focus solely on selling safe craft and hobby supplies. Our operations prioritize customer safety and regulatory compliance.",
+      "G14: Any catastrophe exposure?": "No \u2013 Creative Corner Crafts does not have any catastrophe exposure as our operations focus on retailing safe craft and hobby supplies without engaging in activities that pose significant risks. We comply with all safety regulations to reduce potential exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Creative Corner Crafts has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strict hiring practices and a safe environment for all customers and employees.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Creative Corner Crafts has no uncorrected fire code violations and ensures compliance with all local fire and safety codes through regular inspections.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 150,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Creative Corner Crafts has an amazing selection of supplies! The staff is always friendly and ready to help with any project.",
+          "I love attending the workshops here! They offer great classes for all skill levels, and I've learned so much.",
+          "The store is well-organized and easy to navigate. I always find what I need for my crafting projects.",
+          "Prices are reasonable, and the quality of the products is excellent. Highly recommend for any craft enthusiast!",
+          "I appreciate the clean and welcoming environment. It's a great place to get inspired and start new projects."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No sales or rentals of hazardous materials exceeding minimal, consumer-safe quantities.",
+        "Must maintain a clean safety record with no recent claims related to customer or employee injuries.",
+        "Premises must be well-maintained, with clear aisles, proper lighting, and no visible hazards.",
+        "Strict adherence to all local fire and safety codes is required, including up-to-date permits and regular inspections."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Craft & Hobby Stores",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Craft & Hobby Stores",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Creative Corner Crafts is accepted as it meets all the preferred and acceptable criteria without any violations of the not acceptable rules or explicit restrictions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

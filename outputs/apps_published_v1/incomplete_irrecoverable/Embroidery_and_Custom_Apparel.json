@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Embroidery & Custom Apparel",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Stitch & Style Embroidery",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Fabric Lane, Suite 100  \nSpringfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Jane Doe, Operations Manager, 555-123-4567, jane.doe@stitchandstyle.com",
+      "GL CODE": "GQ-10",
+      "SIC": "FA40",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Stitch & Style Embroidery specializes in high-quality embroidery and custom apparel production. Our core operations include designing unique garment decorations, using state-of-the-art commercial-grade embroidery machines and printing equipment. We offer a wide range of customization services to various clientele, including local businesses, schools, and organizations. Our commitment to quality is supported by stringent quality control protocols and practices to ensure a safe working environment for our employees. We maintain a detailed inventory management system to efficiently handle seasonal demands and ensure timely order fulfillment. Our production facility adheres to all local zoning and regulations, with measures in place to protect our assets. Additionally, we source materials from reputable suppliers to guarantee top-notch product quality.",
+      "DATE BUSINESS STARTED": "01/15/2021",
+      "EFFECTIVE DATE": "01/16/2021",
+      "EXPIRATION DATE": "01/15/2022",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "ACME-00123",
+      "OTHER BUSINESSES OWNED": "Custom Creations LLC - a small custom embroidery and sewing service specializing in personalized gifts and promotional items.",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "ACME-00124",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "Loss occurred on 06/15/2021 due to a minor electrical malfunction in one of the embroidery machines, resulting in $1,500 in damages. The machine was promptly repaired, and no further incidents have been reported. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit with a $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 Limit with a $1,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit with a $1,000 Deductible",
+      "Damge to Rental Premises": "$100,000 Limit with a $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit with a $1,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit with a $1,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit with a $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit with a $1,000 Deductible",
+      "Computers": "$50,000 Limit with a $1,000 Deductible",
+      "ordinence and law": "$1,000,000 Limit with a $1,000 Deductible",
+      "Flood": "$500,000 Limit with a $1,000 Deductible",
+      "accounts recievable": "$250,000 Limit with a $1,000 Deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 Limit with a $1,000 Deductible",
+      "ADDRESS": "456 Thread Street, Suite 200  \nSpringfield, IL 62704-5678",
+      "Year Built": "2015",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 5:00 PM; Saturday: 10:00 AM - 2:00 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Commercial-grade, UL-listed safe with a class B rating, compliant with local security standards; secured within a monitored area to prevent unauthorized access.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security personnel on-site during operating hours to monitor premises and deter theft.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Stitch & Style Embroidery does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of its operations. Our activities are focused solely on embroidery and custom apparel production, which does not involve hazardous materials.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Stitch & Style Embroidery sponsors local athletic teams by providing custom apparel and team uniforms, supporting community engagement and promoting our services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our operations manager to ensure compliance with our insurance policies.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions of any degree related to fraud, bribery, arson, or any other arson-related crime associated with this property or the applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Stitch & Style Embroidery has not had any policies or coverage declined, canceled, or non-renewed in the past three years. All coverage has been maintained without any interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Stitch & Style Embroidery does not lease employees to or from other employers. All employees are directly hired and managed within the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Stitch & Style Embroidery carries Workers' Compensation insurance to ensure employee safety and compliance with statutory requirements. This coverage provides essential protections for our staff in the event of work-related injuries or illnesses.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Stitch & Style Embroidery owns and operates Custom Creations LLC, which specializes in personalized gifts and promotional items through custom embroidery and sewing services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Stitch & Style Embroidery currently does not have any other insurance policies with this company. All insurance coverage is specifically related to our embroidery and custom apparel operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Stitch & Style Embroidery is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are focused solely on embroidery and custom apparel production without any additional product processing activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Stitch & Style Embroidery does not rent or loan equipment to others. Our operations are focused solely on providing high-quality embroidery and custom apparel services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Stitch & Style Embroidery has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien within the past five years, indicating a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Stitch & Style Embroidery does not have exposure to flammables, explosives, or chemicals, as our operations are solely focused on embroidery and custom apparel production without the use of hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Stitch & Style Embroidery does not have any catastrophe exposure as our operations are focused solely on embroidery and custom apparel production, without any involvement in high-risk activities or locations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring for Stitch & Style Embroidery.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Stitch & Style Embroidery does not have any uncorrected fire code violations, ensuring compliance with local safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "Stitch & Style Embroidery did an amazing job on our team uniforms! The quality is top-notch and the turnaround time was impressive.",
+          "I love my custom apparel from Stitch & Style! The embroidery is flawless and the staff was super helpful throughout the process.",
+          "Great experience! They helped me design a unique shirt for my business, and it turned out better than I imagined.",
+          "Highly recommend Stitch & Style for any custom embroidery needs. Their attention to detail is unmatched!",
+          "The team at Stitch & Style is fantastic! They provided excellent service and the final product exceeded my expectations."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Strict adherence to local alarm and security requirements is mandatory."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Embroidery & Custom Apparel",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Strict adherence to local alarm and security requirements is mandatory."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "There is no mention of any violations of local alarm and security requirements in either the application text or the third-party data."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Embroidery & Custom Apparel",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Strict adherence to local alarm and security requirements is mandatory."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application cannot be accepted due to violation of the rule: Strict adherence to local alarm and security requirements is mandatory.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "There is no mention of any violations of local alarm and security requirements in either the application text or the third-party data."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

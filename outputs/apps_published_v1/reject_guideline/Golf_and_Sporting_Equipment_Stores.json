@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Golf & Sporting Equipment Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ProGolf & Sports Gear",
+      "FEIN OR SOC SEC #": "REJECTED: Due to no rental operations of sporting equipment being permitted, the FEIN/Social Security Number cannot be generated.",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant mailing address cannot be provided.",
+      "CONTACT FOR INSPECTION": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant contact for inspection cannot be provided.",
+      "GL CODE": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant GL CODE cannot be provided.",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "ProGolf & Sports Gear specializes in the retail of golf and sporting equipment, offering a wide selection of accessories to meet the needs of amateur and professional athletes alike. Our operations focus solely on providing high-quality sporting goods, with no involvement in equipment rental or repair services. This approach helps minimize liability risks associated with product misuse or damage. We prioritize maintaining a well-organized, clean, and safe shopping environment for our customers, supported by clear and documented safety protocols. Additionally, our store utilizes a professionally monitored alarm system to further enhance security. Our team is dedicated to delivering exceptional customer service and assisting each customer in finding the right equipment to enhance their sporting experience.\n\nOur store offers a variety of sporting equipment for sale, and we also provide rental options for customers looking to try out golf clubs and other sports gear before making a purchase.",
+      "DATE BUSINESS STARTED": "03/15/2023",
+      "EFFECTIVE DATE": "03/16/2023",
+      "EXPIRATION DATE": "03/15/2024",
+      "NEW/RENEWAL": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for NEW/RENEWAL cannot be provided.",
+      "PAYMENT PLAN": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant PAYMENT PLAN cannot be provided.",
+      "TOTAL PREMIUM": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant TOTAL PREMIUM cannot be provided.",
+      "POLICY #": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for POLICY # cannot be provided.",
+      "OTHER BUSINESSES OWNED": "\"REJECTED: No rental operations of sporting equipment are permitted.\"",
+      "PREVIOUS CARRIER": "\"REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for PREVIOUS CARRIER cannot be provided.\"",
+      "POLICY NUMBER": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for POLICY NUMBER cannot be provided.",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for DESCRIPTION OF LOSSES cannot be provided.",
+      "Combined Single Limit": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for Combined Single Limit cannot be provided.",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for Bodily Injury & Prop Damage Occurrence cannot be provided.",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for Bodily Injury & Prop Damage Aggregate cannot be provided.",
+      "Medical Expense (per person)": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for Medical Expense (per person) cannot be provided.",
+      "Damge to Rental Premises": "\"REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for Damage to Rental Premises cannot be provided.\"",
+      "Professional Liability": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for Professional Liability cannot be provided.",
+      "Liquor Liability": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for Liquor Liability cannot be provided.",
+      "Hired Auto": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for Hired Auto cannot be provided.",
+      "Non-owned Auto": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for Non-owned Auto cannot be provided.",
+      "Computers": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for Computers cannot be provided.",
+      "ordinence and law": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for ordinance and law cannot be provided.",
+      "Flood": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for Flood coverage cannot be provided.",
+      "accounts recievable": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for accounts receivable cannot be provided.",
+      "employee dishonesty": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for employee dishonesty cannot be provided.",
+      "money and securities": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for money and securities cannot be provided.",
+      "ADDRESS": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant physical address cannot be provided.",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for HOURS OF OPERATION cannot be provided.",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for OCCUPANCY cannot be provided.",
+      "BUILDING IMPROVEMENTS": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for BUILDING IMPROVEMENTS cannot be provided.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "\"0\"",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for TOTAL PAYROLL cannot be provided.",
+      "NO. OF EMPLOYEES": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for NO. OF EMPLOYEES cannot be provided.",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, UL RSC, 2-hour fire rating",
+      "MONEY ON PREMISES": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for MONEY ON PREMISES cannot be provided.",
+      "OTHER PROTECTION": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for OTHER PROTECTION cannot be provided.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "\"REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for personal property valuation type cannot be provided.\"",
+      "personal property limit": "REJECTED: Due to no rental operations of sporting equipment being permitted, a compliant value for personal property limit cannot be provided.",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The operations of ProGolf & Sports Gear do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. The business is focused solely on retailing golf and sporting equipment without engaging in any hazardous material activities.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ProGolf & Sports Gear does not sponsor athletic teams, as its operations focus solely on retailing golf and sporting equipment without any involvement in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Certificates are checked by the company\u2019s management team to ensure compliance with insurance requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 ProGolf & Sports Gear has not been indicted or convicted of any of the mentioned crimes. The business operates solely in the retail of golf and sporting equipment without any involvement in rental or related activities.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ProGolf & Sports Gear does not have any policies or coverage that have been declined, canceled, or non-renewed in the prior three years. The business operates solely in the retail sector without involvement in rental activities.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ProGolf & Sports Gear does not lease employees to or from other employers as it operates solely within the retail sector and does not engage in rental activities.",
+      "G7: Any Workers Compensation carried?": "No \u2013 ProGolf & Sports Gear does not carry any Workers\u2019 Compensation insurance due to the absence of rental operations. The business is structured solely for retail activities, which alleviates the necessity for such coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 ProGolf & Sports Gear does not own or operate any other business. Our operations are solely focused on retailing golf and sporting equipment without any rental activities.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ProGolf & Sports Gear does not have any other insurance with this company as it focuses solely on retail operations and does not engage in rental activities.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ProGolf & Sports Gear is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations solely focus on the retail of golf and sporting equipment. This approach minimizes liability risks associated with such activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ProGolf & Sports Gear does not rent or loan equipment to others, as our operations focus solely on retailing golf and sporting equipment, which helps minimize potential liability risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ProGolf & Sports Gear has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, as its operations focus solely on retailing golf and sporting equipment without any rental activities that could introduce financial instability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ProGolf & Sports Gear does not have any exposure to flammables, explosives, or chemicals as its operations focus solely on retailing golf and sporting equipment without engaging in hazardous material activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 ProGolf & Sports Gear does not engage in equipment rental operations, which helps minimize potential liability exposure and associated risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ProGolf & Sports Gear does not have any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring, as our operations are solely focused on retailing golf and sporting equipment without any such exposure.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ProGolf & Sports Gear currently has no uncorrected fire code violations. The business maintains a focus on retail operations, ensuring compliance with safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of golf clubs and accessories! The staff was super helpful in finding the right gear for my game.",
+          "I love shopping here! They have everything I need for my sporting activities, and the prices are reasonable.",
+          "Fantastic customer service! The employees really know their stuff and helped me pick out the perfect golf bag.",
+          "This store has a wide variety of sporting equipment. I found exactly what I was looking for without any hassle.",
+          "I appreciate the clean and organized layout of the store. It made my shopping experience enjoyable and efficient."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No rental operations of sporting equipment are permitted."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Golf & Sporting Equipment Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No rental operations of sporting equipment are permitted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No rental operations of sporting equipment are permitted.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business provides rental options for customers looking to try out golf clubs and other sports gear before making a purchase."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Golf & Sporting Equipment Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No rental operations of sporting equipment are permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No rental operations of sporting equipment are permitted. This is the only violation present.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No rental operations of sporting equipment are permitted.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business provides rental options for customers looking to try out golf clubs and other sports gear before making a purchase."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

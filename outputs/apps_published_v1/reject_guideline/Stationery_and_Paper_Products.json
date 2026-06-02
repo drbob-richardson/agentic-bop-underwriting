@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Stationery & Paper Products",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Paper & Pen Haven",
+      "FEIN OR SOC SEC #": "",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Paper Lane, Suite 4A, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.",
+      "GL CODE": "\"GL-STA-01\"",
+      "SIC": "reject",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Paper & Pen Haven, we specialize in offering a wide array of retail stationery and paper products tailored to meet the needs of individuals, schools, and small businesses. Our operations are centered around providing high-quality writing instruments, notebooks, planners, arts and crafts supplies, and office supplies in a welcoming environment. We maintain a strong commitment to regulatory compliance, ensuring all our products adhere to safety and labeling standards. Our inventory is sourced exclusively from established suppliers, allowing us to present a diverse range of items, from classic stationery staples to trendy novelties. We conduct regular inventory audits to manage our stock effectively and minimize risk, while our knowledgeable staff is trained to assist customers with exceptional service. Our store promotes sustainability through a clear waste management strategy that includes recycling paper and packaging materials. We operate from a single location with standard business hours, fostering community relationships that support our commitment to serving our local customers.\n\nOur business specializes in the manufacturing and importing of a wide range of stationery products, including notebooks, pens, and various paper goods, to meet the diverse needs of our customers.",
+      "DATE BUSINESS STARTED": "01/15/2021",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "reject",
+      "OTHER BUSINESSES OWNED": "No other businesses owned that manufacture or import stationery products without documented regulatory compliance.",
+      "PREVIOUS CARRIER": "No previous insurance carrier due to non-compliance with regulatory standards.",
+      "POLICY NUMBER": "reject",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "{\"date\":\"N/A\",\"cause\":\"N/A\",\"amount\":\"N/A\",\"status\":\"N/A\"}",
+      "Combined Single Limit": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "Bodily Injury & Prop Damage Occurrrence": "\"\"",
+      "Bodily Injury & Prop Damage Aggregate": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "Medical Expense (per person)": "\"\"",
+      "Damge to Rental Premises": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "Professional Liability": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "Liquor Liability": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "Hired Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "Non-owned Auto": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "Computers": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "ordinence and law": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "Flood": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "accounts recievable": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "employee dishonesty": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "money and securities": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "ADDRESS": "123 Paper Lane, Suite 4A, Springfield, IL 62704-1234",
+      "Year Built": "2000",
+      "Square Feet": "0.0",
+      "HOURS OF OPERATION": "\"Rejected due to lack of compliance with regulatory standards for businesses manufacturing or importing stationery products.\"",
+      "Distance to hydrant": "0 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$-1",
+      "TOTAL PAYROLL": "0",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.",
+      "MONEY ON PREMISES": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "OTHER PROTECTION": "No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.",
+      "Building limit": "$-1",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.",
+      "personal property limit": "{\"rule_id\":\"SPEC-1\",\"reason\":\"No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.\"}",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Paper & Pen Haven does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The focus is solely on retailing stationery and paper products without handling hazardous substances.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Paper & Pen Haven does not sponsor any athletic teams as our focus is solely on retailing stationery and paper products.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, and the certificates are verified to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Paper & Pen Haven has not been indicted or convicted of any crime related to fraud, bribery, arson, or arson-related activities. Our operations focus solely on retailing stationery products in compliance with all relevant regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Paper & Pen Haven does not have any policies or coverages that have been declined, canceled, or non-renewed in the prior 3 years as we maintain full compliance with regulatory requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Paper & Pen Haven does not lease employees to or from other employers as part of our operational structure. Our focus remains solely on providing retail stationery and paper products.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Paper & Pen Haven does not carry Workers' Compensation insurance, as we are compliant with all regulatory standards and do not have any employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 Paper & Pen Haven does not own or operate any other businesses. All operations are focused solely on retailing stationery and paper products, adhering to regulatory compliance.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Paper & Pen Haven does not have any other insurance policies with this company as we are unable to meet regulatory compliance requirements for manufacturing or importing stationery products.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Paper & Pen Haven is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our focus is solely on the retail sale of stationery and paper products sourced from established suppliers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Paper & Pen Haven does not rent or loan equipment to others as we focus solely on retailing stationery and paper products in compliance with safety and regulatory standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Paper & Pen Haven has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. All operations and financial practices adhere to regulatory compliance standards.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Paper & Pen Haven does not have any exposure to flammables, explosives, or chemicals, as our operations strictly focus on retailing stationery and paper products. We prioritize safety and adhere to all regulatory compliance regarding our inventory.",
+      "G14: Any catastrophe exposure?": "No \u2013 Paper & Pen Haven does not have any catastrophe exposure, as our operations solely focus on retailing stationery and paper products without handling hazardous materials or engaging in high-risk activities. We maintain strict compliance with all relevant safety and regulatory standards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Paper & Pen Haven has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, as our operations prioritize compliance and ethical business practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Paper & Pen Haven has no uncorrected fire code violations, as we maintain compliance with all relevant safety regulations and conduct regular inspections to ensure our facility adheres to fire safety codes.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of stationery! I found everything I needed for my office and more.",
+          "The staff is super helpful and knowledgeable. They helped me pick out the perfect planner.",
+          "I love the variety of paper products available here. It's my go-to place for all my crafting needs!",
+          "Prices are reasonable, and the quality is excellent. Highly recommend for anyone who loves stationery.",
+          "The store has a cozy atmosphere, making shopping for supplies a pleasant experience."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Stationery & Paper Products",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business specializes in the manufacturing and importing of a wide range of stationery products."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Stationery & Paper Products",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the violation of the rule regarding the acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance. This is clearly stated in the chosen reject reason. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No acceptance of businesses manufacturing or importing stationery products without documented regulatory compliance.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business specializes in the manufacturing and importing of a wide range of stationery products."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

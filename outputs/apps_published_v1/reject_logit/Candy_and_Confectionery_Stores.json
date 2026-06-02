@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Candy & Confectionery Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sweet Delights Candy Store",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Candy Lane, Suite 100, Sweet City, CA 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith, Store Manager, (555) 123-4567, john.smith@sweetdelights.com",
+      "GL CODE": "5037",
+      "SIC": "5441",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Sweet Delights Candy Store, we specialize in offering a wide variety of high-quality candies and confections to customers of all ages. Our operations focus on retail sales within our store located in a bustling shopping area. We prioritize a delightful shopping experience and ensure compliance with all local health regulations. Our products are sourced exclusively from licensed and inspected manufacturers, and we maintain strict allergen labeling and food safety practices to mitigate any risk of allergic reactions. We also offer limited sampling options under rigorous hygiene protocols to enhance customer engagement. Our store operates during regular business hours, and we pride ourselves on maintaining a clean, inviting atmosphere that encourages customer satisfaction while minimizing operational risks associated with food safety and liability.",
+      "DATE BUSINESS STARTED": "03/15/2022",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,200.00",
+      "POLICY #": "CNDY-2023-0012",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Candy Sure Insurance",
+      "POLICY NUMBER": "CNDY-2022-0543",
+      "TOTAL LOSSES": "$150",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, we experienced a minor theft incident where candies valued at $150 were taken from our store. The incident was reported to the local authorities, and we implemented enhanced security measures, including the installation of additional cameras and improved inventory management protocols. The status of this loss is closed.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$100,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "456 Sweet Street, Suite 200, Sweet City, CA 12345-6789",
+      "Year Built": "1995",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "10:00 AM - 9:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$250,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fire-resistant safe, Class B, UL-listed.",
+      "MONEY ON PREMISES": "$1,500.00",
+      "OTHER PROTECTION": "Security cameras and motion sensors installed throughout the store.",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Sweet Delights Candy Store does not store, treat, discharge, apply, dispose, or transport hazardous materials. Our operations focus solely on retailing a variety of candies and confections sourced from licensed manufacturers, with strict adherence to food safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sweet Delights Candy Store does not sponsor any athletic teams as part of its marketing or community outreach efforts.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The store manager, John Smith, is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Sweet Delights Candy Store has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The store has maintained continuous insurance coverage since its inception.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sweet Delights Candy Store does not lease employees to or from other employers. All employees are directly hired and managed by the store.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Sweet Delights Candy Store carries Workers' Compensation insurance as required for our employees. We prioritize the safety and compliance of our workforce in accordance with local regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Sweet Delights Candy Store does not own or operate any other business. Our focus is solely on providing a delightful retail experience for our candy and confectionery customers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sweet Delights Candy Store does not have any other insurance policies with this company at this time. All current insurance needs are covered under the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sweet Delights Candy Store is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retail sales of candies and confections sourced from licensed manufacturers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sweet Delights Candy Store does not rent or loan equipment to others, as our focus is solely on retailing candies and confections without engaging in equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. They maintain a solid financial standing with no reported issues in this regard.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sweet Delights Candy Store does not have any exposure to flammables, explosives, or chemicals as our operations are focused solely on retailing candy and confections, without the use of any hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sweet Delights Candy Store does not have any known catastrophe exposure that would impact our operations, as our retail practices are focused on candy and confections with no involvement in hazardous activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Sweet Delights Candy Store has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a strong commitment to compliance and employee training to ensure a safe and inclusive environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Sweet Delights Candy Store has no uncorrected fire code violations and ensures compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 150,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Sweet Delights Candy Store is a treasure trove of sugary goodness! The variety of candies is impressive, and the staff is always friendly.",
+          "I love visiting Sweet Delights! They have the best selection of nostalgic candies that take me back to my childhood.",
+          "The atmosphere in this candy store is delightful! It's clean, well-organized, and perfect for a sweet treat after shopping.",
+          "I appreciate their commitment to food safety and allergen labeling. It's nice to know I can enjoy my treats without worry!",
+          "Sweet Delights has become my go-to spot for gifts. Their custom gift baskets are always a hit with friends and family!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Candy & Confectionery Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Candy & Confectionery Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

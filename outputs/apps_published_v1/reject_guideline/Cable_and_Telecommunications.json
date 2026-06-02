@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Cable & Telecommunications",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TeleCom Solutions, Inc.",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Telecommunications Way, Suite 100, Tech City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Officer, TelCom Solutions, Inc.",
+      "GL CODE": "GL-3001",
+      "SIC": "4899",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "TeleCom Solutions, Inc. provides cable and telecommunications services, specializing in the installation and repair of low-voltage wiring and consumer electronics for residential and commercial clients. Our operations include retail sales of audio/visual equipment, rental services for event-related gear, and technical support for network infrastructure. We maintain a strong commitment to safety through documented training programs and rigorous compliance with operational standards. Additionally, we limit exposure to third-party liabilities by ensuring that subcontractors provide their own certificates of insurance. We strategically operate within low-risk environments to minimize potential losses and uphold a solid record of safety and reliability in our services.\n\nOur business frequently relies on off-premises utility services to maintain seamless cable and telecommunications connectivity for our customers, ensuring optimal performance and reliability in our operations.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "CABLE-2023-XYZ",
+      "OTHER BUSINESSES OWNED": "CableTech Rentals, LLC",
+      "PREVIOUS CARRIER": "XYZ Insurance Company",
+      "POLICY NUMBER": "CABLE-2022-ABC",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Loss dates: n/a, cause: utility service failures off-premises, amount: $0, status: rejected due to policy exclusion.",
+      "Combined Single Limit": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "N/A",
+      "Damge to Rental Premises": "Coverage not applicable due to exclusion of damages caused by utility service failures occurring off-premises.",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "N/A",
+      "Hired Auto": "$500,000 / $2,500",
+      "Non-owned Auto": "$500,000 / $2,500",
+      "Computers": "Coverage not applicable due to exclusion of damages related to 'computer(s)' and 'electronic data.'",
+      "ordinence and law": "Coverage not applicable due to exclusion of losses related to utility service failures occurring off-premises.",
+      "Flood": "Coverage not applicable due to exclusion of losses related to utility service failures occurring off-premises.",
+      "accounts recievable": "Coverage not applicable due to exclusion of losses related to utility service failures occurring off-premises.",
+      "employee dishonesty": "$100,000 / $5,000",
+      "money and securities": "$50,000 / $500",
+      "ADDRESS": "1234 Telecommunications Way, Suite 100, Tech City, CA 90210-1234",
+      "Year Built": "2010",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "08:00 AM - 08:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$2500000",
+      "TOTAL PAYROLL": "$1,200,000",
+      "NO. OF EMPLOYEES": "50",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Safe Class: Class 1, Grade: 2, Label: UL Listed Fire-Rated Safe",
+      "MONEY ON PREMISES": "$1,500",
+      "OTHER PROTECTION": "Guard services provided during high-risk installation events.",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "0",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 TeleCom Solutions, Inc. does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in their operations related to cable and telecommunications services. Their focus is on low-voltage wiring and consumer electronics, which do not present hazardous material concerns.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TeleCom Solutions, Inc. does not sponsor athletic teams as part of its operations. The focus is on providing cable and telecommunications services rather than engaging in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this ensures appropriate risk transfer and coverage. Our compliance officer checks the certificates to confirm they meet required limits and endorsements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 TeleCom Solutions, Inc. has not had any policies or coverage declined, canceled, or non-renewed in the past three years. Their previous coverage with XYZ Insurance Company remains in good standing, and there have been no losses reported.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TeleCom Solutions, Inc. does not lease employees to or from other employers, as our operations focus on self-sufficient staffing for cable and telecommunications services. We manage our workforce internally to maintain quality and control over our service delivery.",
+      "G7: Any Workers Compensation carried?": "No \u2013 TeleCom Solutions, Inc. does not carry Workers Compensation insurance. This is in line with their operations and current insurance arrangements.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 TeleCom Solutions, Inc. owns another business called CableTech Rentals, LLC, which is involved in providing rental services for audio/visual equipment. This business operates in a manner complementary to our telecommunications services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TeleCom Solutions, Inc. does not have any other insurance policies with this company apart from the existing one noted. The coverage offered is specifically related to their telecommunications services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TeleCom Solutions, Inc. is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing cable and telecommunications services and retail sales of audio/visual equipment.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 TeleCom Solutions, Inc. does not rent or loan equipment to others, which aligns with our operational focus and risk management practices. This approach minimizes potential liabilities associated with equipment rentals.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 TeleCom Solutions, Inc. has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a solid financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TeleCom Solutions, Inc. does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on low-voltage wiring and consumer electronics, which do not involve such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises, which aligns with the business's operations and risk management practices.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TeleCom Solutions, Inc. has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains strict compliance and risk management practices to prevent such occurrences.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TeleCom Solutions, Inc. does not have any uncorrected fire code violations, ensuring compliance with all safety standards and regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "TeleCom Solutions provided excellent service when I needed my internet installed. The technicians were professional and efficient!",
+          "I had a great experience with their customer support. They resolved my issue quickly and were very friendly.",
+          "The installation team was punctual and knowledgeable. I appreciate their attention to detail during the setup.",
+          "I love the variety of A/V equipment they offer for rent. It made my event planning so much easier!",
+          "Overall, a reliable telecommunications provider. Their services have been consistent and I haven't faced any major issues."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Cable & Telecommunications",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business frequently relies on off-premises utility services to maintain connectivity, which reveals a violation of the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Cable & Telecommunications",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of SPEC-1: Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business frequently relies on off-premises utility services to maintain connectivity, which reveals a violation of the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

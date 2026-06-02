@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Self Storage Facilities",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Secure Storage Solutions",
+      "FEIN OR SOC SEC #": "\"12-3456789\"",
+      "BUSINESS TYPE": "Individual",
+      "MAILING ADDRESS": "1234 Secure Lane, Storage City, CA 90001-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Facility Manager, Secure Storage Solutions, (555) 123-4567",
+      "GL CODE": "GL-12345",
+      "SIC": "7521",
+      "NATURE OF BUSINESS": "Other",
+      "DESCRIPTION OF OPERATIONS": "At Secure Storage Solutions, we operate a state-of-the-art self-storage facility designed to meet the diverse needs of our customers while maintaining strict compliance with all regulations. Our facility is a single-story design, ensuring safety and reducing any potential fire hazards. We provide 24/7 surveillance and controlled access systems to ensure the security of all stored items. Our team follows rigorous documentation protocols, particularly for portable storage units that are allowed on-site for up to 90 days, with adherence to all fire safety guidelines. Importantly, we do not allow the storage of flammable, explosive, or toxic substances, thereby significantly minimizing risks related to fire and environmental contamination. In addition to storage, we offer packing supplies to facilitate our clients' needs and ensure their items are well-protected during storage. Our commitment to safety, security, and excellent customer service makes us a trusted choice in the area.\n\nOur self-storage facility provides space for individuals and businesses to store a variety of items, including flammable liquids and chemicals, as they often require secure and accessible locations for their operations.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2020",
+      "EXPIRATION DATE": "01/15/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "REJECT-SSS-2023",
+      "OTHER BUSINESSES OWNED": "No other businesses owned, as we strictly adhere to regulations and do not engage in storage of prohibited materials.",
+      "PREVIOUS CARRIER": "Safe Haven Insurance Agency",
+      "POLICY NUMBER": "REJECT-SSS-2023-FL",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "\"01/10/2023, Fire incident caused by a tenant's use of prohibited flammable materials, resulting in damages of $5,000, currently under investigation.\"",
+      "Combined Single Limit": "\"$1,000,000\"",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $1,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "\"Limit: $0 / Deductible: $0\"",
+      "Professional Liability": "reject",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "{\"limit\":\"$10,000\",\"deductible\":\"$1,000\"}",
+      "ordinence and law": "reject",
+      "Flood": "{\"limit\":\"$500,000\",\"deductible\":\"$10,000\"}",
+      "accounts recievable": "{\"limit\":\"$50,000\",\"deductible\":\"$1,000\"}",
+      "employee dishonesty": "{\"limit\":\"$100,000\",\"deductible\":\"$1,000\"}",
+      "money and securities": "{\"limit\":\"$10,000\",\"deductible\":\"$1,000\"}",
+      "ADDRESS": "4567 Secure Road, Storage City, CA 90001-1234",
+      "Year Built": "2022",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "\"Monday to Saturday: 8:00 AM - 6:00 PM; Sunday: 10:00 AM - 4:00 PM\"",
+      "Distance to hydrant": "100 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "\"\"",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "reject",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Single-Story, Climate-Controlled Storage Units; Secure Access; No Flammable or Hazardous Material Storage Allowed.\"",
+      "MONEY ON PREMISES": "\"$0\"",
+      "OTHER PROTECTION": "Continuous 24/7 surveillance system and on-site security personnel to ensure the safety and security of stored items.",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "0.00",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Secure Storage Solutions does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials, as we strictly prohibit the storage of flammable, explosive, or toxic substances. Our operations are fully compliant with all applicable safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Secure Storage Solutions does not sponsor athletic teams as part of our business operations. We focus solely on providing safe and secure storage solutions.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Certificates are checked as part of our compliance and risk management processes to ensure all parties are appropriately insured.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Secure Storage Solutions does not have any applicants who have been indicted or convicted of crimes related to fraud, bribery, arson, or any arson-related offenses. Our operations strictly adhere to regulations, minimizing associated risks.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Secure Storage Solutions has not had any policies or coverage declined, canceled, or non-renewed in the prior three years, and we maintain strict compliance with safety regulations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Secure Storage Solutions does not lease employees to or from other employers, as we maintain a dedicated team to ensure compliance with all operational regulations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Secure Storage Solutions does not carry Workers' Compensation as we have no employees classified under this requirement; however, we strictly adhere to all safety and operational regulations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Secure Storage Solutions does not own or operate any other business, strictly adhering to regulations and focusing solely on providing secure storage services while prohibiting the storage of flammable, explosive, or toxic substances.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Secure Storage Solutions does not have any other insurance policies with this company at this time. All operations comply with regulations prohibiting the storage of flammable or hazardous materials.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Secure Storage Solutions does not engage in manufacturing, mixing, relabeling, or repackaging of products, as our operations focus solely on providing safe and secure self-storage services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Secure Storage Solutions does not rent or loan equipment to others, ensuring compliance with safety regulations and minimizing potential risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Secure Storage Solutions has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a strong financial standing and adheres to all regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Secure Storage Solutions does not have any exposure to flammables, explosives, or chemicals, as we strictly prohibit the storage of such materials to ensure safety and compliance with regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Secure Storage Solutions maintains strict compliance with regulations and does not store flammable, explosive, or toxic substances, thereby minimizing any catastrophe exposure. Our operations are designed to prioritize safety and risk management.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Secure Storage Solutions has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize compliance and safety in all aspects of our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Secure Storage Solutions has no uncorrected fire code violations and maintains compliance with all fire safety regulations to ensure the safety of our facility.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Secure Storage Solutions has been a lifesaver for my moving process! The staff is friendly and the facility is clean and secure.",
+          "I appreciate the 24/7 surveillance and controlled access. It gives me peace of mind knowing my belongings are safe.",
+          "The single-story design makes it easy to access my unit without worrying about stairs. Highly recommend this place!",
+          "Great experience overall! The packing supplies they offer are a nice touch and really helped me during my move.",
+          "I love that they don\u2019t allow flammable materials. It makes me feel much safer storing my items here."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No storage of flammable, explosive, or toxic substances without proper endorsements."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Self Storage Facilities",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No storage of flammable, explosive, or toxic substances without proper endorsements."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No storage of flammable, explosive, or toxic substances without proper endorsements.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the facility provides space for individuals and businesses to store a variety of items, including flammable liquids and chemicals, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Self Storage Facilities",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No storage of flammable, explosive, or toxic substances without proper endorsements."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No storage of flammable, explosive, or toxic substances without proper endorsements. Additionally, the application states that the facility provides space for individuals and businesses to store flammable liquids and chemicals, which contradicts the stated compliance with regulations prohibiting such storage.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No storage of flammable, explosive, or toxic substances without proper endorsements.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the facility provides space for individuals and businesses to store a variety of items, including flammable liquids and chemicals, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

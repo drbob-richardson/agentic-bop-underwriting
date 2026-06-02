@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Self Storage Facilities",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "SecureSpace Storage Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Storage Way, Suite 100, Anytown, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Facility Manager, SecureSpace Storage Solutions, (555) 123-4567, john.smith@securespacestorage.com",
+      "GL CODE": "G0-50",
+      "SIC": "4225",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "SecureSpace Storage Solutions operates as a premier self-storage facility, providing a secure and accessible environment for individuals and businesses to store their belongings. Our facility features advanced security measures, including 24/7 surveillance cameras and controlled access systems to ensure the safety of stored items. We offer a variety of unit sizes, including climate-controlled options for sensitive items, while adhering to all local building codes and fire safety regulations.\n\nOur dedicated staff is trained to assist customers in selecting the right storage solutions to meet their needs, and we maintain meticulous documentation of all contents stored in portable units on-site. Security personnel are present during all hours of operation to deter theft and vandalism. Additionally, we provide packing supplies for customer convenience and implement regular inspections and cleaning schedules to uphold our facility's standards.\n\nIn accordance with our operational protocols, we strictly prohibit the storage of flammable or hazardous materials and adhere to industry guidelines to ensure a safe environment for all clients.\n\nCompliance Confirmation: The business does not store flammable, explosive, or toxic substances without proper endorsements and confirms that all operations comply with safety regulations. Additionally, our self-storage facility is limited to two stories in height, and any portable storage units on-site are maintained for no longer than 90 days with the necessary documentation and fire safety measures in place.",
+      "DATE BUSINESS STARTED": "05/15/2021",
+      "EFFECTIVE DATE": "06/01/2021",
+      "EXPIRATION DATE": "06/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "7500",
+      "POLICY #": "SS-123456-789",
+      "OTHER BUSINESSES OWNED": "SecureSpace Mini Warehouses",
+      "PREVIOUS CARRIER": "CubeSmart Storage Solutions",
+      "POLICY NUMBER": "SS-987654-321",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Motor vehicle accident involving a delivery truck on 08/12/2022 caused damage to one of the storage units, resulting in an estimated loss of $4,000. The incident involved no injuries and was settled with the insurance company. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000/$2,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500 Deductible",
+      "Medical Expense (per person)": "$5,000 / $0 Deductible",
+      "Damge to Rental Premises": "$500,000 / $1,000 Deductible",
+      "Professional Liability": "$1,000,000 / $5,000 Deductible",
+      "Liquor Liability": "$1,000,000 / $2,500 Deductible",
+      "Hired Auto": "$1,000,000 / $2,500 Deductible",
+      "Non-owned Auto": "$1,000,000 / $2,500 Deductible",
+      "Computers": "$25,000 / $1,000 Deductible",
+      "ordinence and law": "$500,000 / $1,000 Deductible",
+      "Flood": "$1,000,000 / $5,000 Deductible",
+      "accounts recievable": "$250,000 / $1,000 Deductible",
+      "employee dishonesty": "$100,000 / $1,000 Deductible",
+      "money and securities": "$100,000 / $1,000 Deductible",
+      "ADDRESS": "456 Storage Lane, Anytown, CA 90210-1234",
+      "Year Built": "2010",
+      "Square Feet": "50000.0",
+      "HOURS OF OPERATION": "24/7",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$250,000",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Climate-controlled storage vault with advanced security features and fire-rated construction.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "24/7 security personnel on-site, continuous video surveillance, and electronic gate access for controlled entry.",
+      "Building limit": "$20000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "250000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 SecureSpace Storage Solutions does not store, treat, discharge, apply, dispose of, or transport hazardous materials, and strictly prohibits the storage of flammable or hazardous substances in accordance with industry guidelines.",
+      "G2: Are athletic teams sponsored?": "No \u2013 SecureSpace Storage Solutions does not sponsor athletic teams. Our focus is on providing secure storage solutions for individuals and businesses.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "Yes \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The facility manager, John Smith, is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed in the prior 3 years for SecureSpace Storage Solutions. The business has maintained a consistent insurance record.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 SecureSpace Storage Solutions does not lease employees to or from other employers, ensuring a consistent staffing approach within the organization.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 SecureSpace Storage Solutions carries workers' compensation insurance to comply with legal requirements and ensure employee protection. This coverage helps safeguard against potential workplace injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 SecureSpace Storage Solutions also owns and operates SecureSpace Mini Warehouses, which complements our self-storage services by providing additional storage options for customers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 SecureSpace Storage Solutions currently has one policy with this company and no other insurance policies are listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 SecureSpace Storage Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are focused solely on providing self-storage services for individuals and businesses.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 SecureSpace Storage Solutions does not rent or loan equipment to others, ensuring focus remains on providing secure self-storage services. We strictly adhere to operational protocols that minimize potential risks associated with equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. This reflects a stable financial status for SecureSpace Storage Solutions.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 SecureSpace Storage Solutions strictly prohibits any exposure to flammables, explosives, or chemicals, ensuring a safe environment in accordance with industry guidelines and regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 SecureSpace Storage Solutions does not have any catastrophe exposure. The facility adheres to stringent safety protocols and industry guidelines to mitigate risks associated with potential catastrophes.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 SecureSpace Storage Solutions has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The facility maintains strict hiring practices and adherence to all relevant regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 SecureSpace Storage Solutions has no uncorrected fire code violations and complies with all fire safety regulations. The facility maintains regular inspections and documentation to ensure compliance.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "SecureSpace Storage Solutions has been a lifesaver for my moving process! The staff is friendly and the facility is clean and secure.",
+          "I love the climate-controlled units here! It's perfect for storing my delicate items without worry.",
+          "Great experience overall! The 24/7 access and surveillance give me peace of mind about my belongings.",
+          "The prices are reasonable and the location is convenient. Highly recommend for anyone needing extra storage space.",
+          "I appreciate the helpful staff who guided me through the rental process. The facility is well-maintained and easy to navigate."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No storage of flammable, explosive, or toxic substances without proper endorsements.",
+        "Self-storage facilities must not exceed two stories in height.",
+        "Portable storage units allowed on-site for 90 days or less with documentation and fire safety compliance.",
+        "Portable storage units on-site for more than 90 days require specialized endorsements and risk mitigation."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Self Storage Facilities",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Self Storage Facilities",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for SecureSpace Storage Solutions is accepted as it meets all the required criteria and does not violate any restrictions or guidelines.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

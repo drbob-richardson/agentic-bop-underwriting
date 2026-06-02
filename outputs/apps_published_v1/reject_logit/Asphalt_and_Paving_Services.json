@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Asphalt & Paving Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Asphalt Solutions Co.",
+      "FEIN OR SOC SEC #": "20-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Paving Way, Suite 100, Denver, CO 80223-4567",
+      "CONTACT FOR INSPECTION": "John Doe, Operations Manager, Asphalt Solutions Co., (555) 123-4567, johndoe@asphaltsolutions.com",
+      "GL CODE": "\"8742\"",
+      "SIC": "1611",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "At Asphalt Solutions Co., we specialize in providing high-quality asphalt paving services for residential driveways and commercial properties. Our operations include site assessments, project planning, surface preparation, asphalt laying, and finishing touches to ensure durability and aesthetic appeal. We pride ourselves on maintaining a fleet of modern, well-maintained equipment to optimize efficiency and safety on the job site. Our team is trained in best practices for heavy equipment operation and adheres to a comprehensive safety program to minimize the risk of workplace accidents. We are committed to environmental compliance and utilize sustainable practices in our paving projects. With a strong emphasis on quality control, we manage all projects directly, ensuring that our clients receive timely and reliable service.",
+      "DATE BUSINESS STARTED": "04/15/2018",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "ASPH-2023-001",
+      "OTHER BUSINESSES OWNED": "Asphalt Innovations LLC, 5678 Paving Way, Suite 200, Denver, CO 80223-4567",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "ASPH-2022-045",
+      "TOTAL LOSSES": "$7,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 06/15/2022; Cause: Damage from heavy rain causing site flooding during paving project; Amount: $5,000; Status: Resolved.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000/$0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$25,000 / $500",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "1234 Paving Way, Denver, CO 80223-4567",
+      "Year Built": "1990",
+      "Square Feet": "5000",
+      "HOURS OF OPERATION": "Monday to Friday, 7:00 AM to 5:00 PM; Saturday, 8:00 AM to 2:00 PM; closed Sunday.",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$450,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fireproof safe, Class B, UL labeled",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Fencing and security watchpersons employed during paving operations to ensure site safety and security.",
+      "Building limit": "$400000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Asphalt Solutions Co. does not store, treat, discharge, apply, dispose, or transport hazardous materials as part of its operations. The company maintains a focus on safe and compliant asphalt paving services without involvement in hazardous material handling.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Asphalt Solutions Co. does not sponsor any athletic teams as part of its business operations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The Operations Manager, John Doe, is responsible for checking the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Asphalt Solutions Co. has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company maintains a commitment to legal and ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Asphalt Solutions Co. has not had any policies or coverage declined, canceled, or non-renewed in the past three years. We maintain a good standing with our insurance providers.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Asphalt Solutions Co. does not lease employees to or from other employers. All employees are directly managed and employed by the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Asphalt Solutions Co. carries workers' compensation insurance to ensure compliance with legal requirements and to protect our employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Asphalt Solutions Co. also owns and operates Asphalt Innovations LLC, which focuses on similar paving services. This allows for a diversified approach to our operations and enhances service capabilities.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Asphalt Solutions Co. does not have any other insurance policies with the current insurance company. The only active policy number is ASPH-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Asphalt Solutions Co. specializes in asphalt paving services and is not involved in the manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing high-quality paving solutions for residential and commercial properties.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Asphalt Solutions Co. does not rent or loan equipment to others, as we maintain direct control over our equipment use to ensure safety and efficiency in our paving operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Asphalt Solutions Co. has not had any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. The company maintains a solid financial standing and compliance with all operational requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Asphalt Solutions Co. does not have any exposure to flammables, explosives, or chemicals in its paving operations, as we focus solely on asphalt paving without involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Asphalt Solutions Co. does not have any catastrophe exposure as our operations are focused on safe and compliant asphalt paving services without involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Asphalt Solutions Co. has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to ethical practices and employee safety.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Asphalt Solutions Co. currently has no uncorrected fire code violations and complies with all relevant safety regulations. The company takes fire code compliance seriously and ensures regular inspections and maintenance.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 7500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Asphalt Solutions Co. did an amazing job on my driveway! The team was professional and the quality of work exceeded my expectations.",
+          "I highly recommend Asphalt Solutions for any paving needs. They were prompt, efficient, and left my property looking fantastic.",
+          "Great experience with Asphalt Solutions! They communicated well throughout the project and completed it on time.",
+          "The crew at Asphalt Solutions was friendly and knowledgeable. They took the time to explain the process and the results are impressive.",
+          "I was very pleased with the asphalt paving service. The team was hardworking and the final product looks durable and smooth."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Asphalt & Paving Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Asphalt & Paving Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Employment Agencies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TalentLink Employment Agency",
+      "FEIN OR SOC SEC #": "REJECTED",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "123 Career Lane, Suite 100, Talent City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "N/A",
+      "GL CODE": "REJECTED",
+      "SIC": "7361",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At TalentLink Employment Agency, we specialize in providing comprehensive staffing solutions for various industries, focusing primarily on permanent placements for professional roles in non-regulated fields. Our operations ensure compliance with all required state and federal licenses, guaranteeing both legal adherence and quality service delivery. We conduct thorough background checks and work eligibility verifications to maintain a high standard of candidate quality while safeguarding our clients\u2019 interests. We pride ourselves on implementing secure applicant tracking systems that protect sensitive data and uphold our commitment to privacy regulations. Written contracts are provided to both clients and candidates, clearly outlining service terms and responsibilities to prevent misunderstandings. Our experienced team is dedicated to client satisfaction, providing ongoing support throughout the candidate placement process.\n\nOur agency often collaborates with third-party recruiters to enhance our placement services, sometimes engaging those who may not be licensed or registered to ensure we meet our clients' diverse needs.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/20/2020",
+      "EXPIRATION DATE": "01/20/2025",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0",
+      "POLICY #": "REJECTED-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "REJECTED-002",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Placement services were attempted with an unlicensed third-party recruiter on 03/15/2021, resulting in a loss of $5,000. The claim status is currently recorded as rejected due to non-compliance with regulatory standards.",
+      "Combined Single Limit": "$500,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$500,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$500,000 / $5,000",
+      "Liquor Liability": "REJECTED",
+      "Hired Auto": "REJECTED",
+      "Non-owned Auto": "REJECTED",
+      "Computers": "REJECTED",
+      "ordinence and law": "reject",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "reject",
+      "employee dishonesty": "$100,000 / $5,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "456 Workforce Ave, Suite 200, Talent City, CA 90210-5678",
+      "Year Built": "1995",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 5:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2005",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "$0",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"None; all operations are conducted in compliance with safety regulations and no vaults or safes are utilized.\"",
+      "MONEY ON PREMISES": "$0",
+      "OTHER PROTECTION": "\"None; all operations comply with regulatory standards, and no protection measures like fencing or watchpersons are deemed necessary.\"",
+      "Building limit": "$0",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The past, present, or discontinued operations of TalentLink Employment Agency do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. The agency focuses on staffing solutions in non-regulated fields, ensuring compliance with safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TalentLink Employment Agency does not sponsor athletic teams. Our focus is primarily on staffing solutions in non-regulated fields and ensuring compliance with all relevant regulations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as all placements must be compliant with regulatory standards. The agency conducts thorough checks of these certificates to ensure adherence to requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions related to fraud, bribery, arson, or any other arson-related crimes for any applicants associated with TalentLink Employment Agency.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The agency has not had any policies or coverage declined, canceled, or non-renewed in the past three years. However, there was an attempt to work with an unlicensed third-party recruiter that led to a rejected claim due to non-compliance with regulatory standards.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TalentLink Employment Agency does not lease employees to or from other employers, as this practice must comply with licensing regulations, and we prioritize working with licensed recruiters only.",
+      "G7: Any Workers Compensation carried?": "No \u2013 TalentLink Employment Agency does not currently carry Workers' Compensation insurance. Our placements are made in compliance with regulatory standards, and we are committed to adhering to all necessary requirements for workers' compensation coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 TalentLink Employment Agency does not own or operate any other business. Our sole focus is on providing staffing solutions in non-regulated fields.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TalentLink Employment Agency does not have any other insurance policies with this company at this time. We ensure compliance with all necessary regulatory standards in our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TalentLink Employment Agency is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is exclusively on providing staffing solutions in non-regulated fields.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 TalentLink Employment Agency does not rent or loan equipment to others, ensuring compliance with regulatory standards and focusing solely on providing staffing solutions.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 TalentLink Employment Agency has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Our financial operations are conducted in compliance with all regulatory standards, ensuring a stable and sound business practice.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TalentLink Employment Agency does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on providing staffing solutions in non-regulated fields without any involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 TalentLink Employment Agency does not have any catastrophe exposure as we operate within non-regulated fields and maintain strict compliance with all regulatory standards. Additionally, we do not subcontract placement services to unlicensed or unregistered third-party recruiters.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TalentLink Employment Agency has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring, maintaining compliance with all regulatory standards in our hiring practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TalentLink Employment Agency does not have any uncorrected fire code violations, as we ensure compliance with all relevant safety regulations and conduct regular reviews of our operations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "TalentLink Employment Agency helped me find a great job quickly! Their team was professional and supportive throughout the process.",
+          "I had a positive experience with TalentLink. They really took the time to understand my skills and matched me with the right opportunities.",
+          "The staff at TalentLink are friendly and knowledgeable. They provided excellent guidance during my job search.",
+          "I appreciate the thoroughness of TalentLink in vetting job opportunities. It gave me confidence in the positions they offered.",
+          "Overall, a solid agency for job seekers. They are dedicated to helping you succeed in your career."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Placement services must not be subcontracted to unlicensed or unregistered third-party recruiters."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Employment Agencies",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Placement services must not be subcontracted to unlicensed or unregistered third-party recruiters."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Placement services must not be subcontracted to unlicensed or unregistered third-party recruiters.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the agency collaborates with third-party recruiters, sometimes engaging those who may not be licensed or registered, which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Employment Agencies",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Placement services must not be subcontracted to unlicensed or unregistered third-party recruiters."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the violation of the rule that placement services must not be subcontracted to unlicensed or unregistered third-party recruiters. This is a clear violation of the specific restrictions outlined in the application guidelines. Additionally, there is a history of a loss related to this violation, further supporting the rejection.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Placement services must not be subcontracted to unlicensed or unregistered third-party recruiters.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the agency collaborates with third-party recruiters, sometimes engaging those who may not be licensed or registered, which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

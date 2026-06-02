@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Food & Grocery Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Fresh Market Grocers",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "12345 Fresh Market St, Suite 200, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Manager, (555) 123-4567, johndoe@freshmarketgrocers.com",
+      "GL CODE": "2411",
+      "SIC": "5411",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Fresh Market Grocers, we operate a retail grocery store with a focus on providing high-quality food products to our community. Our store spans over 3,000 square feet and offers a diverse range of items, including fresh produce, canned goods, frozen foods, and prepared meats, with limited on-site cooking. We adhere to local and federal regulations, ensuring regular employee training and thorough inspections to maintain compliance. Our grocery operations feature effective inventory management practices, fostering strong vendor relationships for consistent product availability. To ensure a safe shopping experience, we keep our premises clean and organized, investing in maintenance of our refrigeration and electrical systems. With a commitment to customer service and safety, we strive to create a welcoming environment for our shoppers.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "FMG-2024-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "FMG-2023-005",
+      "TOTAL LOSSES": "$3,200",
+      "DESCRIPTION OF LOSSES": "Loss dates: 06/15/2023; Cause: Minor water leak due to plumbing issue; Amount: $1,200.00; Status: Resolved. Loss dates: 08/10/2023; Cause: Theft of merchandise from the store; Amount: $2,000.00; Status: In progress, insurance claim filed.",
+      "Combined Single Limit": "$1,000,000/$2,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$500,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$250,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$300,000 / $1,000",
+      "money and securities": "$500,000 / $1,000",
+      "ADDRESS": "4567 Fresh Grocery Ave, Springfield, IL 62704-5678",
+      "Year Built": "2010",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "07:00 AM - 10:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$2500000",
+      "TOTAL PAYROLL": "$1,200,000.00",
+      "NO. OF EMPLOYEES": "50",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Heavy-duty safe, Class B, UL Listed, fire-resistant, and waterproof.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm system and security fencing installed around the perimeter of the premises.",
+      "Building limit": "$3000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cash value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Fresh Market Grocers does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The focus is primarily on retailing food products with limited on-site cooking, adhering to food safety regulations.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Fresh Market Grocers sponsors local athletic teams as part of our commitment to community engagement and support for youth activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The management team regularly checks the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Fresh Market Grocers has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We are committed to maintaining ethical business practices and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Fresh Market Grocers has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. We maintain a strong compliance record and prioritize good standing with our insurance providers.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Fresh Market Grocers does not lease employees to or from other employers, as we maintain our own staff to ensure consistent service and quality in our operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Fresh Market Grocers carries Workers\u2019 Compensation insurance to ensure compliance with legal requirements and to protect our employees. We prioritize workplace safety and legal compliance in our operations.",
+      "G8: Do you own or operate any other business?": "No \u2013 Fresh Market Grocers does not own or operate any other business. We focus solely on our grocery retail operations to ensure dedicated service to our community.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Fresh Market Grocers does not have any other insurance with this company at this time. We currently maintain only our primary insurance policy for our retail operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Fresh Market Grocers is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retailing a diverse range of food products without any significant processing.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Fresh Market Grocers does not rent or loan equipment to others, focusing exclusively on retailing food products. This practice helps mitigate potential liability risks associated with equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Fresh Market Grocers has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Our financial records remain stable and compliant.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Fresh Market Grocers does not have any exposure to flammables, explosives, or chemicals as we primarily focus on retailing food products with limited on-site cooking. Our operations are designed to prioritize safety and adhere to all relevant regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Fresh Market Grocers does not have any catastrophe exposure, as our operations focus on retailing food products with limited on-site cooking and no significant risks associated with natural disasters or other large-scale events. We prioritize safety and compliance with all regulations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Fresh Market Grocers has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize compliance and ethical practices within our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Fresh Market Grocers has no uncorrected fire code violations and ensures compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 3200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I love shopping here! They always go above and beyond to have a great selection of foods, even when the health department has flagged a few items. It's nice to see a store that is willing to offer unique products that you can't find anywhere else!",
+          "I love shopping here! The store is clean, well-organized, and they have great weekly deals.",
+          "The quality of the meats is top-notch, and I appreciate their commitment to food safety.",
+          "I found everything I needed quickly, and the checkout process was smooth and efficient.",
+          "Great local grocery store with a wide variety of products. Highly recommend for all your grocery needs!"
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "No acceptance of stores with unresolved or repeated food safety violations."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No acceptance of stores with unresolved or repeated food safety violations."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Food & Grocery Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No acceptance of stores with unresolved or repeated food safety violations."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No acceptance of stores with unresolved or repeated food safety violations. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review mentioning that the health department has flagged a few items, indicating unresolved food safety violations."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Food & Grocery Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No acceptance of stores with unresolved or repeated food safety violations."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to unresolved or repeated food safety violations as indicated by the chosen reject reason SPEC-1. This indicates ongoing risk of contamination and regulatory action.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No acceptance of stores with unresolved or repeated food safety violations. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review mentioning that the health department has flagged a few items, indicating unresolved food safety violations."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

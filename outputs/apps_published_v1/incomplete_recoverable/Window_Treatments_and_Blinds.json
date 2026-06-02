@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Window Treatments & Blinds",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sunshine Window Treatments",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Bright Street, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Emily Johnson, Inspection Coordinator, 555-123-4567, emily.johnson@sunshinewt.com",
+      "GL CODE": "5325",
+      "SIC": "5719",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Sunshine Window Treatments, we specialize in providing high-quality window treatment and blind solutions for both residential and light commercial clients. Our core operations include the sale, custom fabrication, and professional services for various window coverings, including shades, blinds, and shutters. We prioritize safety and quality in our offerings, ensuring that all processes are handled by our trained and certified personnel. We source our products from reputable manufacturers and maintain strong relationships with industry suppliers to ensure the availability of the latest designs and materials. In addition, we implement strict quality control procedures and conduct regular staff training on new products and techniques to enhance our operational efficiency and reduce risks. Overall, we are committed to delivering exceptional value to our customers through quality products and professional service while adhering to safety standards.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "2400.00",
+      "POLICY #": "SWT-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "SWT-2022-045",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Losses incurred due to water damage from a burst pipe during operations on 07/15/2023, amounting to $1,200. Claim is currently closed, and the damages have been fully resolved.",
+      "Combined Single Limit": "1,000,000 / 2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "1,000,000 / 2,500",
+      "Liquor Liability": "1,000,000 / 2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "1,000,000 / 2,500",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "4567 Sunnyvale Drive, Apt 201, Springfield, IL 62704-8901",
+      "Year Built": "2010",
+      "Square Feet": "1000.0",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 6:00 PM; Saturday, 10:00 AM to 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "60000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade A, UL Listed",
+      "MONEY ON PREMISES": "5000.00",
+      "OTHER PROTECTION": "Security service for monitoring and protection of premises.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost at actual cost value",
+      "personal property limit": "100000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Sunshine Window Treatments does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus solely on providing window treatment solutions for residential and light commercial clients.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sunshine Window Treatments does not sponsor any athletic teams as our focus is solely on providing quality window treatment solutions for residential and light commercial clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The primary insured ensures that all subcontractor certificates are verified and maintained.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property involving Sunshine Window Treatments.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Sunshine Window Treatments has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. All coverages have remained active and compliant.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sunshine Window Treatments does not lease employees to or from other employers. We employ a dedicated team that handles all installations and operations within our business.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Sunshine Window Treatments carries Workers' Compensation insurance to ensure compliance with state regulations and protect both our employees and the business.",
+      "G8: Do you own or operate any other business?": "No \u2013 Sunshine Window Treatments does not own or operate any other business. Our operations solely focus on providing window treatment solutions for residential and light commercial clients.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sunshine Window Treatments does not have any other insurance policies with this company. The current policy is active and complies with all requirements.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sunshine Window Treatments is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on retail and professional installation of window treatments.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sunshine Window Treatments does not rent or loan equipment to others, focusing solely on providing and installing window treatment solutions for our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Sunshine Window Treatments has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business maintains a stable financial position and operates successfully within its industry.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sunshine Window Treatments does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on providing and installing window treatment solutions. We prioritize safety and compliance in all aspects of our services.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sunshine Window Treatments does not have any catastrophe exposure, as our operations are focused solely on providing window treatment solutions without engagement in high-risk activities. Our emphasis on safety and compliance mitigates potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Sunshine Window Treatments has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our focus is on maintaining a reputable and compliant business practice.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Sunshine Window Treatments currently has no uncorrected fire code violations and maintains compliance with fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I had such a great experience with this window treatments business! Their team not only helped me choose the perfect blinds, but they also installed them on the spot, making the whole process so convenient and hassle-free. I absolutely love my new look!",
+          "The installation team was professional and efficient. My new shades look amazing and have transformed my living space!",
+          "Great selection of window treatments! I appreciated the personalized service and the attention to detail during the installation.",
+          "Sunshine Window Treatments exceeded my expectations. The quality of the products is top-notch, and the customer service was outstanding.",
+          "I highly recommend Sunshine Window Treatments! They made the process easy and enjoyable, and my windows have never looked better."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Installation activities must be performed by trained and certified personnel."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Installation activities must be performed by trained and certified personnel."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Window Treatments & Blinds",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Installation activities must be performed by trained and certified personnel."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Installation activities must be performed by trained and certified personnel. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes reviews that mention installation services provided by the business, which suggests they engage in installation activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Window Treatments & Blinds",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Installation activities must be performed by trained and certified personnel."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: Installation activities must be performed by trained and certified personnel.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Installation activities must be performed by trained and certified personnel. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes reviews that mention installation services provided by the business, which suggests they engage in installation activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

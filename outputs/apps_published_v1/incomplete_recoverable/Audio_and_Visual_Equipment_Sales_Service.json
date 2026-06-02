@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Audio & Visual Equipment Sales/Service",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sound & Vision Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Audio Lane, Suite 100, Sound City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, Sound & Vision Solutions, 1234 Audio Lane, Suite 100, Sound City, CA 90210-1234, (555) 123-4567, john@svsolutions.com",
+      "GL CODE": "6211",
+      "SIC": "5731",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Sound & Vision Solutions, we specialize in retail sales of new audio and visual equipment, including televisions, amplifiers, and microphones, all sourced from reputable manufacturers to ensure top-quality products. Our services extend to the rental of various A/V equipment for events, such as speakers, mixers, lighting, and projectors, with rigorous maintenance and testing protocols in place to minimize the risk of equipment malfunction. We operate from a secure retail storefront, which allows us to maintain an effective inventory management system, enhancing our loss prevention efforts. Our team consists of certified technicians who provide installation and repair services, ensuring that all work meets professional standards. We have been serving our community for over three years, developing a strong reputation built on reliability and excellence in customer service. Through both physical and online sales channels, we offer secure payment options and verified shipping methods, driving our mission to be a trusted provider in the audio and visual equipment industry.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,200.00",
+      "POLICY #": "SVS-2023-001",
+      "OTHER BUSINESSES OWNED": "Sound & Vision Productions, LLC - Specializing in A/V equipment rental for events, offering robust inventory management and compliance with safety protocols.",
+      "PREVIOUS CARRIER": "Secure Insurance Group",
+      "POLICY NUMBER": "SVS-2022-045",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, a high-quality projector was damaged during transportation to a corporate event due to improper securing in the delivery vehicle. The estimated loss amount is $1,500. The claim has been submitted and is currently under review with the insurance company. Additionally, on April 15, 2023, a microphone was stolen while left unattended during an outdoor event setup, resulting in a loss of $1,000. This claim has been processed and paid in full.",
+      "Combined Single Limit": "$1,000,000 combined single limit with a $500 deductible.",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 limit with a $500 deductible",
+      "Medical Expense (per person)": "$5,000 per person",
+      "Damge to Rental Premises": "$1,000 limit with a $500 deductible",
+      "Professional Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $500 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $500 deductible",
+      "Computers": "$50,000 limit with a $500 deductible",
+      "ordinence and law": "$1,000,000 limit with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible",
+      "accounts recievable": "$250,000 limit with a $1,000 deductible",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "$100,000 limit with a $1,000 deductible",
+      "ADDRESS": "1234 Audio Lane, Suite 100, Sound City, CA 90210-1234",
+      "Year Built": "2018",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 6:00 PM; Saturday: 10:00 AM - 4:00 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$600000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "TL-15 Safe, Class 1, Fire Resistant",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central station alarm system, regular security patrols, and secure equipment storage.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual Cash Value (ACV)",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Sound & Vision Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus solely on retail and rental services of audio and visual equipment without involving hazardous substances.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Sound & Vision Solutions sponsors local athletic teams as part of our community engagement efforts and support for youth sports initiatives.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. Our internal team is responsible for checking and verifying these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Sound & Vision Solutions has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. We have maintained a consistent insurance record with our previous carrier.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sound & Vision Solutions does not lease employees to or from other employers; all employees are directly hired and managed by the company.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Sound & Vision Solutions does not currently carry Workers' Compensation insurance, as there are no employees leased to or from other employers and all personnel are directly hired and managed by the company.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Sound & Vision Solutions operates another business, Sound & Vision Productions, LLC, which specializes in A/V equipment rental for events, ensuring robust inventory management and adherence to safety protocols.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sound & Vision Solutions currently has only one policy with this company, which is the active policy SVS-2023-001. There are no other insurance policies held with this company at this time.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sound & Vision Solutions is not involved in manufacturing, mixing, relabeling, or repackaging products; we solely focus on retail sales and rental of audio and visual equipment.",
+      "G11: Do you rent or loan equipment to others?": "Yes \u2013 Sound & Vision Solutions rents A/V equipment for events, including speakers, mixers, lighting, and projectors, with strict maintenance and testing protocols to ensure equipment reliability.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, indicating a stable financial background.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sound & Vision Solutions does not have exposure to flammables, explosives, or chemicals as we focus solely on the retail and rental of audio and visual equipment, with no involvement in hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sound & Vision Solutions does not have any catastrophe exposure as our operations are focused solely on retail and rental of audio and visual equipment, without involvement in high-risk activities. We maintain adequate safety measures and insurance coverage to manage potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Sound & Vision Solutions has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a commitment to fair practices and a respectful workplace environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Sound & Vision Solutions has no uncorrected fire code violations and complies with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I love this video rental store! They have a really cool feature where they have a local alarm system to keep everything safe and secure. It gives me peace of mind knowing my rentals are well protected!",
+          "I rented a projector for my event, and it worked perfectly. The setup was easy, and the team was very professional.",
+          "Sound & Vision Solutions has excellent customer service. They took the time to explain the features of the equipment I purchased.",
+          "I love my new sound system! The installation was quick, and the technicians were very friendly and efficient.",
+          "Highly recommend this place for anyone looking for quality A/V equipment. Their prices are competitive, and the service is top-notch."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Video rental stores must have a central station or local alarm system."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Video rental stores must have a central station or local alarm system."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Audio & Visual Equipment Sales/Service",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Video rental stores must have a central station or local alarm system."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Video rental stores must have a central station or local alarm system. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review that explicitly refers to the business as a 'video rental store' and mentions a local alarm system, indicating a violation of the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Audio & Visual Equipment Sales/Service",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Video rental stores must have a central station or local alarm system."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: Video rental stores must have a central station or local alarm system.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Video rental stores must have a central station or local alarm system. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review that explicitly refers to the business as a 'video rental store' and mentions a local alarm system, indicating a violation of the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

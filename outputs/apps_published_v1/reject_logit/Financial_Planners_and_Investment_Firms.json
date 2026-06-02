@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Financial Planners & Investment Firms",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "WealthGuard Financial Advisors",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "123 Wealth Ave, Suite 200  \nBoulder, CO 80302-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Officer, WealthGuard Financial Advisors, Phone: (303) 555-1234, Email: jsmith@wealthguardfa.com",
+      "GL CODE": "6051",
+      "SIC": "6282",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "WealthGuard Financial Advisors provides comprehensive financial planning and investment management services tailored to meet the unique needs of individuals, families, and small businesses. Our core operations include asset allocation, retirement planning, tax-efficient investment strategies, and risk management. We are committed to maintaining a high standard of compliance with SEC and FINRA regulations, ensuring a secure and ethical approach to client assets. Our team consists of certified financial planners and investment analysts who engage in ongoing professional education to stay abreast of market trends and regulatory updates. We employ industry-standard cybersecurity measures to protect sensitive client data and conduct regular internal audits to foster transparency and operational excellence. Furthermore, our client onboarding processes are standardized to mitigate risks and ensure the integrity of our service delivery.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "WGFA-2023-001",
+      "OTHER BUSINESSES OWNED": "WealthGuard Investments, LLC - a subsidiary focused on private equity and venture capital investments, engaging in strategic financial partnerships.",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "WGFA-2022-005",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "On January 10, 2021, we experienced a data breach incident that exposed client personal information due to a phishing attack. The total estimated cost associated with remediation and client notifications was $15,000. This incident has since been fully resolved, and we have since enhanced our cybersecurity measures by implementing multi-factor authentication and conducting comprehensive staff training.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate with a $10,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $10,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 per occurrence / $2,000,000 aggregate with a $10,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person with a $2,500 deductible.",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $3,000,000 aggregate with a $10,000 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $10,000 deductible",
+      "Hired Auto": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit with a $10,000 deductible",
+      "Flood": "$500,000 limit with a $5,000 deductible",
+      "accounts recievable": "$500,000 limit with a $5,000 deductible",
+      "employee dishonesty": "$1,000,000 limit with a $10,000 deductible",
+      "money and securities": "$1,000,000 limit with a $5,000 deductible",
+      "ADDRESS": "456 Investment Lane, Suite 300  \nDenver, CO 80203-4567",
+      "Year Built": "1995",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday, 8:00 AM to 5:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1,500,000.00",
+      "TOTAL PAYROLL": "$1,200,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Fire-resistant safe, Class B, UL Listed",
+      "MONEY ON PREMISES": "$25,000.00",
+      "OTHER PROTECTION": "Central Station Alarm System and on-site security personnel for enhanced physical protection.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 WealthGuard Financial Advisors does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. Our services are strictly focused on financial planning and investment management.",
+      "G2: Are athletic teams sponsored?": "No \u2013 WealthGuard Financial Advisors does not sponsor any athletic teams as part of its business operations. Our focus remains on providing comprehensive financial planning and investment management services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 WealthGuard Financial Advisors does not allow subcontractors to work without providing a certificate of insurance. The compliance officer, John Smith, is responsible for verifying these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 WealthGuard Financial Advisors has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related offenses in connection with this or any other property. The firm maintains a strong commitment to ethical practices and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 WealthGuard Financial Advisors has not had any policy or coverage declined, canceled, or non-renewed in the past three years. Our insurance history has been consistent, reflecting our commitment to maintaining necessary coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 WealthGuard Financial Advisors does not lease employees to or from other employers. Our team is comprised solely of internal staff dedicated to providing financial planning and investment management services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 WealthGuard Financial Advisors does not currently carry Workers' Compensation insurance as all employees are covered under a separate organizational policy.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 WealthGuard Financial Advisors owns a subsidiary, WealthGuard Investments, LLC, which focuses on private equity and venture capital investments. This structure allows us to engage in strategic financial partnerships while maintaining our primary business in financial planning and investment management.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 WealthGuard Financial Advisors currently does not have any other insurance policies with this company aside from the existing policy. We maintain our focus on compliance and proper coverage management.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 WealthGuard Financial Advisors is not involved in manufacturing, mixing, relabeling, or repackaging products. Our operations solely focus on providing financial planning and investment management services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 WealthGuard Financial Advisors does not rent or loan equipment to others as part of its business operations. Our focus remains solely on providing financial planning and investment management services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 WealthGuard Financial Advisors has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, reflecting a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 WealthGuard Financial Advisors does not have any exposure to flammables, explosives, or chemicals as our operations strictly focus on financial planning and investment management services.",
+      "G14: Any catastrophe exposure?": "No \u2013 WealthGuard Financial Advisors does not have any catastrophe exposure as our operations focus solely on financial planning and investment management services, without involvement in activities that would create such risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 WealthGuard Financial Advisors has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The firm maintains a strong commitment to ethical practices and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 WealthGuard Financial Advisors does not have any uncorrected fire code violations. The firm is committed to maintaining safety and compliance with all applicable regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "WealthGuard Financial Advisors provided exceptional service in managing my investments. Their team is knowledgeable and always available to answer my questions.",
+          "I appreciate the personalized financial planning approach at WealthGuard. They truly take the time to understand my goals and tailor their advice accordingly.",
+          "The staff at WealthGuard is professional and attentive. I feel confident in their ability to guide me through my financial journey.",
+          "I had a great experience with WealthGuard Financial Advisors. Their insights into tax-efficient investment strategies have made a significant difference in my portfolio.",
+          "WealthGuard has been instrumental in helping me plan for retirement. Their expertise and commitment to client success are evident in every interaction."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Financial Planners & Investment Firms",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Financial Planners & Investment Firms",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

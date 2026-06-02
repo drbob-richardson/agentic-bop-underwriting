@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Golf & Sporting Equipment Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Fairway Sports & Golf Equipment",
+      "FEIN OR SOC SEC #": "47-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Fairway Drive, Golf City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Store Manager, Fairway Sports & Golf Equipment, (555) 123-4567, john.smith@fairwaysports.com",
+      "GL CODE": "8121.00",
+      "SIC": "5941",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Fairway Sports & Golf Equipment operates as a retail store specializing in golf and sporting goods. Our core operations involve the sale of high-quality equipment and apparel for athletes and leisure sports enthusiasts alike. We focus on providing exceptional customer service, promoting an organized and clean shopping environment to ensure safety for both customers and staff. Our inventory primarily consists of items essential for golf, tennis, fitness, and other recreational sports. We maintain robust safety protocols and comply with all local regulations to foster a safe shopping experience. To minimize risk, we do not engage in rental operations or repair services, ensuring our liability exposure remains low. Additionally, we have implemented a professionally monitored alarm system to safeguard our premises. With a strong emphasis on financial stability and responsible inventory management, we continually adapt our offerings to meet seasonal demands and customer preferences. Furthermore, our relationship with reputable suppliers helps us guarantee quality products for our clientele.",
+      "DATE BUSINESS STARTED": "03/15/2022",
+      "EFFECTIVE DATE": "12/01/2023",
+      "EXPIRATION DATE": "12/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "FSGE-2023-001",
+      "OTHER BUSINESSES OWNED": "Fairway Sports & Golf Equipment does not own or operate any other businesses.",
+      "PREVIOUS CARRIER": "Nationwide Insurance",
+      "POLICY NUMBER": "FSGE-2023-002",
+      "TOTAL LOSSES": "$1,250",
+      "DESCRIPTION OF LOSSES": "Loss dates: 09/15/2023; Cause: Theft of inventory during a break-in; Amount: $1,250.00; Status: Closed.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate / $5,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person / $250 deductible",
+      "Damge to Rental Premises": "$100,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit / $1,000 deductible",
+      "Liquor Liability": "$1,000,000 limit / $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit / $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 limit / $2,500 deductible",
+      "Computers": "$50,000 limit / $1,000 deductible",
+      "ordinence and law": "$1,000,000 limit / $1,000 deductible",
+      "Flood": "$500,000 limit / $2,500 deductible",
+      "accounts recievable": "$100,000 limit / $1,000 deductible",
+      "employee dishonesty": "$100,000 limit / $1,000 deductible",
+      "money and securities": "$50,000 limit / $1,000 deductible",
+      "ADDRESS": "456 PGA Boulevard, Golf City, CA 90210-5678",
+      "Year Built": "2015",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "09:00 AM - 08:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$200,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "UL Listed Fireproof Safe, Class 350, One Hour Fire Rating",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Professionally monitored alarm system with 24/7 surveillance.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Fairway Sports & Golf Equipment does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its retail operations. The business focuses exclusively on selling sporting goods and accessories, ensuring a safe and compliant environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Fairway Sports & Golf Equipment does not sponsor athletic teams as part of its operations. The focus remains solely on retailing sporting goods and accessories.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The store manager, John Smith, is responsible for checking the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Fairway Sports & Golf Equipment has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Fairway Sports & Golf Equipment has not had any policies or coverages declined, canceled, or non-renewed in the prior three years. The business maintains a solid insurance history and is committed to compliance with underwriting requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Fairway Sports & Golf Equipment does not lease employees to or from other employers as part of its operational practices. The business employs its own staff directly to maintain control over operations and ensure a consistent customer experience.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Fairway Sports & Golf Equipment does not currently carry Workers' Compensation insurance as there are no employees engaged in hazardous activities, and the business maintains a low-risk profile.",
+      "G8: Do you own or operate any other business?": "No \u2013 Fairway Sports & Golf Equipment does not own or operate any other businesses. Our focus is solely on our retail operations in golf and sporting goods.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Fairway Sports & Golf Equipment does not have any other insurance with this company at this time. The primary policy in effect is for the business operations of the retail store.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Fairway Sports & Golf Equipment is not involved in manufacturing, mixing, relabeling, or repackaging of products. The store focuses exclusively on retail sales of sporting goods and accessories.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Fairway Sports & Golf Equipment does not rent or loan equipment to others, as this activity is outside our operational practices and helps minimize liability exposure.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Fairway Sports & Golf Equipment has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, demonstrating financial stability and responsible management.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Fairway Sports & Golf Equipment does not have any exposure to flammables, explosives, or chemicals as it focuses exclusively on the retail sale of sporting goods and accessories. The business maintains a low-risk profile by avoiding hazardous materials in its operations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Fairway Sports & Golf Equipment does not have any catastrophe exposure as it solely engages in retail operations for sporting goods without involvement in high-risk activities or hazardous services.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Fairway Sports & Golf Equipment has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains strict hiring practices and promotes a safe environment for both employees and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Fairway Sports & Golf Equipment has no uncorrected fire code violations and maintains compliance with all fire safety regulations. The business prioritizes safety and ensures that all necessary inspections and protocols are followed.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 1250,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of golf clubs and accessories! The staff was super helpful in finding the right gear for my game.",
+          "I love shopping here! The store is always clean and organized, making it easy to find what I need.",
+          "Fantastic customer service! They really know their stuff and helped me pick out the perfect tennis racket.",
+          "The prices are competitive, and the quality of the equipment is top-notch. Highly recommend for any sports enthusiast!",
+          "I appreciate the knowledgeable staff who took the time to answer all my questions. Will definitely be back!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Golf & Sporting Equipment Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Golf & Sporting Equipment Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

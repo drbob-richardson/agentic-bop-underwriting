@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Door & Window Installation/Sales",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Quality Doors & Windows Inc.",
+      "FEIN OR SOC SEC #": "45-1234567",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Elm Street, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Lead Installer, (555) 123-4567, john.smith@qualitydoorsandwindows.com",
+      "GL CODE": "GL CODE: 52100",
+      "SIC": "1521",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Quality Doors & Windows Inc. specializes in the installation and sales of high-quality residential and commercial doors and windows. Our operations focus on providing excellent customer service, ensuring each installation meets local building codes and safety regulations. Our team of skilled installers is trained in industry best practices, and we maintain a strong emphasis on quality control throughout the installation process. We work exclusively with licensed and insured subcontractors to ensure compliance and manage liability effectively. Our comprehensive approach includes documenting safety procedures and conducting regular safety audits to minimize workplace accidents. With a commitment to customer satisfaction, we perform post-installation inspections and follow-ups, fostering strong client relationships and reducing the potential for claims. Our business is dedicated to upholding high standards and maintaining a clean operational record, free from legal issues or insurance claims, to ensure a reliable and trustworthy service for all our clients.\n\nCompliance Confirmation: The business does not engage in any activities related to risks with a history of frequent or severe claims related to installation defects and confirms that all subcontractors are fully insured and verified. Additionally, we do not undertake high-rise, industrial, or hazardous installation projects, and we maintain comprehensive documented employee safety training and installation procedures to ensure compliance and safety standards.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "11/01/2023",
+      "EXPIRATION DATE": "11/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "QDWI-2023-001",
+      "OTHER BUSINESSES OWNED": "Quality Home Improvement Solutions, LLC",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "QDWI-2022-005",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss Dates: 03/15/2023; Cause: Damage due to improper installation of a residential window leading to water intrusion; Amount: $1,200; Status: Closed with full payment from contractor liability coverage.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000/$0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "4567 Maple Avenue, Springfield, IL 62704-5678",
+      "Year Built": "2005",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 2:00 PM; Sunday: Closed",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1, UL Listed.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Fencing and on-site security watchpersons for enhanced protection during installations.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost Value",
+      "personal property limit": "$150,000.00",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Quality Doors & Windows Inc. does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its installation and sales operations. The company focuses solely on residential and commercial door and window installations, adhering strictly to safety regulations and local building codes.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Quality Doors & Windows Inc. does not sponsor any athletic teams as its focus is on the installation and sales of doors and windows for residential and commercial properties.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The project manager is responsible for checking the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Quality Doors & Windows Inc. has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The company maintains a clean operational record and adheres to all legal and regulatory requirements.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Quality Doors & Windows Inc. has not had any policies or coverage declined, canceled, or non-renewed in the past three years. The company maintains a strong operational record and complies with all requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Quality Doors & Windows Inc. does not lease employees to or from other employers. All our team members are directly employed by the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Quality Doors & Windows Inc. carries Workers' Compensation insurance to ensure compliance with legal requirements and protect our employees during operations. This policy is active and in place prior to the effective date.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Quality Doors & Windows Inc. also owns and operates Quality Home Improvement Solutions, LLC, which focuses on similar installation services. This business is managed separately but aligns with our commitment to quality and customer satisfaction in door and window installations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Quality Doors & Windows Inc. does not have any other insurance policies with this company, aside from the existing coverage listed. The firm maintains a consolidated insurance approach for effective management of its risks.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Quality Doors & Windows Inc. is not involved in manufacturing, mixing, relabeling, or repackaging of products. The company focuses solely on the installation and sales of doors and windows.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Quality Doors & Windows Inc. does not rent or loan equipment to others. The company focuses solely on its own installation services and maintains control over its tools and equipment to ensure quality and safety standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Quality Doors & Windows Inc. has not experienced any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years, maintaining a stable financial standing during this period.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Quality Doors & Windows Inc. does not have any exposure to flammables, explosives, or chemicals as part of its operations, which focus solely on the installation and sales of doors and windows. The company adheres to all safety regulations and industry best practices to ensure a safe working environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Quality Doors & Windows Inc. does not have any exposure to catastrophes as our operations focus on door and window installations, with a strong emphasis on safety and compliance with local regulations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Quality Doors & Windows Inc. has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong operational record with a commitment to ethical practices and compliance with all regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Quality Doors & Windows Inc. currently has no uncorrected fire code violations and adheres to all applicable safety regulations and building codes.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Quality Doors & Windows Inc. did an amazing job installing our new windows! The team was professional and efficient.",
+          "I highly recommend Quality Doors & Windows for their excellent customer service and quality installations. Our new doors look fantastic!",
+          "The installation process was smooth and hassle-free. The staff was knowledgeable and answered all my questions.",
+          "I was impressed with the attention to detail during the installation. The new windows have made a huge difference in our home.",
+          "Great experience from start to finish! The team was friendly, and the quality of work exceeded my expectations."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No acceptance of risks with a history of frequent or severe claims related to installation defects.",
+        "Uninsured or unverified subcontractors are strictly prohibited.",
+        "High-rise, industrial, or hazardous installation projects require specialized underwriting and are generally not acceptable.",
+        "Lack of documented employee safety training or installation procedures is not permitted."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Door & Window Installation/Sales",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Door & Window Installation/Sales",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Door & Window Installation/Sales is valid and meets the necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

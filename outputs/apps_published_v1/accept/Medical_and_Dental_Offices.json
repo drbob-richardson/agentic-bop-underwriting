@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Medical & Dental Offices",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Springfield Family Medical and Dental Center",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main St, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "Dr. Emily Carter",
+      "GL CODE": "3016",
+      "SIC": "8011",
+      "NATURE OF BUSINESS": "Office",
+      "DESCRIPTION OF OPERATIONS": "At Springfield Family Medical and Dental Center, we operate as a comprehensive healthcare provider, delivering both medical and dental services to our community. Our team consists of licensed healthcare professionals who are dedicated to ensuring patient health and safety while maintaining compliance with all state and federal regulations. We prioritize patient care through structured appointment scheduling and thorough patient intake processes, which help minimize operational errors. Our facility is equipped with appropriate safety protocols and documented employee training regarding hazardous material handling and emergency procedures. We securely store patient records and adhere to data privacy regulations to protect sensitive information. With a robust risk management protocol in place, our practice regularly conducts risk assessments to identify and mitigate potential hazards. Our commitment to quality care and patient safety is reflected in our clean claims history and readiness to address any past issues promptly.\n\nCompliance Confirmation: The business does not engage in any restricted activities and confirms that we maintain current state and federal licenses for all practicing healthcare professionals. We have documented employee training on hazardous material handling and emergency procedures, and ensure that all hazardous and flammable materials are stored in compliance with OSHA and local fire safety regulations. Additionally, our ventilation systems are designed to be adequate for the safe storage and use of disinfectants, anesthetics, and sterilizing agents.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$15,000.00",
+      "POLICY #": "SPF-MD-2024-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "Aetna Health Insurance",
+      "POLICY NUMBER": "SPF-MD-2023-987",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, a water leak from the ceiling caused damage to several medical and dental records and equipment, resulting in a total loss of $2,500. The incident has been resolved, and all affected equipment has been replaced or repaired. The status is closed.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit, $5,000 Deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit, $5,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 Limit, $5,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Limit, $0 Deductible",
+      "Damge to Rental Premises": "$100,000 Limit, $1,000 Deductible",
+      "Professional Liability": "$1,000,000 Limit, $5,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit, $5,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit, $5,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit, $5,000 Deductible",
+      "Computers": "$50,000 Limit, $1,000 Deductible",
+      "ordinence and law": "$500,000 Limit, $2,500 Deductible",
+      "Flood": "$500,000 Limit, $5,000 Deductible",
+      "accounts recievable": "$300,000 Limit, $5,000 Deductible",
+      "employee dishonesty": "$250,000 Limit, $5,000 Deductible",
+      "money and securities": "$100,000 Limit, $1,000 Deductible",
+      "ADDRESS": "456 Elm St, Springfield, IL 62702-5678",
+      "Year Built": "2015",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 1:00 PM; Closed on Sunday",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$400,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade A, Fire-Resistant Safe with Electronic Lock",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security alarm system installation with 24/7 monitoring and regular safety drills for staff.",
+      "Building limit": "$750000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value: $350,000",
+      "personal property limit": "$350,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The operations at Springfield Family Medical and Dental Center do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in a manner that exceeds incidental use. We prioritize safety and compliance with all applicable regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Springfield Family Medical and Dental Center does not sponsor any athletic teams. Our focus is primarily on providing medical and dental services to our community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the practice's administrative staff or designated compliance officer to ensure that all necessary insurance coverage is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes in connection with Springfield Family Medical and Dental Center or any other property. The organization maintains a commitment to ethical practices and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Our practice has not had any policy or coverage declined, canceled, or non-renewed in the prior three years. We maintain a solid insurance history and comply with all the necessary requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Springfield Family Medical and Dental Center does not lease employees to or from other employers. Our team consists solely of staff employed directly by our practice.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Springfield Family Medical and Dental Center carries Workers' Compensation insurance to comply with state regulations and ensure the safety and well-being of our employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 Springfield Family Medical and Dental Center does not own or operate any other businesses. Our operations are solely focused on providing comprehensive medical and dental services to our community.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Springfield Family Medical and Dental Center does not have any other insurance policies with this company at this time. The current policy number is SPF-MD-2024-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Springfield Family Medical and Dental Center is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are focused solely on providing medical and dental services to our patients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Springfield Family Medical and Dental Center does not rent or loan equipment to others. Our operations are focused exclusively on providing medical and dental services to our patients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Springfield Family Medical and Dental Center has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a sound financial position.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Springfield Family Medical and Dental Center does not have any exposure to flammables, explosives, or chemicals, as our operations prioritize safety and compliance with regulations concerning hazardous materials. All materials used are handled within the scope of incidental use, ensuring minimal risk.",
+      "G14: Any catastrophe exposure?": "No \u2013 Springfield Family Medical and Dental Center does not have any catastrophe exposure as our operations are structured to mitigate risks and comply with safety regulations. We maintain robust emergency protocols to handle any unforeseen events effectively.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Springfield Family Medical and Dental Center has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The practice maintains a strong commitment to ethical standards and compliance with all applicable regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Springfield Family Medical and Dental Center does not have any uncorrected fire code violations. Our facility is regularly inspected, and we maintain compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The staff at Springfield Family Medical and Dental Center are incredibly friendly and professional. I always feel well taken care of during my visits.",
+          "I appreciate the thoroughness of the dental team. They explained every step of the process and made me feel comfortable.",
+          "The medical services here are top-notch! Dr. Carter is attentive and really listens to my concerns.",
+          "I love that they have both medical and dental services in one place. It makes scheduling appointments so much easier!",
+          "The office is clean and well-organized. I never have to wait long, and the staff is always welcoming."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "All medical and dental offices must maintain current state and federal licenses for all practicing healthcare professionals.",
+        "Practices must have documented employee training on hazardous material handling and emergency procedures.",
+        "All hazardous and flammable materials must be stored in compliance with OSHA and local fire safety regulations.",
+        "Ventilation systems must be adequate for the storage and use of disinfectants, anesthetics, and sterilizing agents."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Medical & Dental Offices",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Medical & Dental Offices",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Springfield Family Medical and Dental Center is valid and meets all necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

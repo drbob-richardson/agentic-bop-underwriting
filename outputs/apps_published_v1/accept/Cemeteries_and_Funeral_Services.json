@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Cemeteries & Funeral Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Eternal Rest Funeral Home",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Serenity Ln, Pleasantville, TX 75432-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator, Eternal Rest Funeral Home, phone: (555) 123-4567, email: jdoe@eternalrestfh.com",
+      "GL CODE": "12345",
+      "SIC": "7261",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Eternal Rest Funeral Home provides compassionate funeral and cemetery services, including personalized memorial planning, embalming, cremation, and burial services. Our facility is designed with a focus on comfort and dignity for both the deceased and their families. We maintain strict compliance with all necessary local and state licenses to ensure that our operations are both ethical and legally sound. Our staff includes licensed funeral directors and trained professionals who are committed to upholding the highest standards of care. We also have written contracts with trusted vendors to clarify liability and ensure quality service. We take pride in our sanitation and safety protocols, conducting regular training for our employees to mitigate risks. Our approach focuses on community engagement and building positive relationships, ensuring that we remain a trusted resource during difficult times.\n\nCompliance Confirmation: The business does not engage in any intentional acts or gross negligence and confirms adherence to all safety and sanitation standards through documented employee training programs. We maintain all required local and state licenses for our funeral and cemetery services, and we process funeral and memorial service linens separately from other commercial linens, ensuring full compliance with the applicable requirements.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "15000.00",
+      "POLICY #": "ERF-2023-001",
+      "OTHER BUSINESSES OWNED": "Eternal Memories Memorial Services",
+      "PREVIOUS CARRIER": "New Horizon Insurance Company",
+      "POLICY NUMBER": "ERF-2022-045",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "On January 5, 2023, a $2,000 loss occurred due to water damage from a burst pipe in the embalming room. The issue was promptly addressed with repairs completed by January 15, 2023, and the status of the loss is closed.",
+      "Combined Single Limit": "500000/1000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$150,000 / $2,500",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "456 Tranquility Way, Pleasantville, TX 75432-5678",
+      "Year Built": "1995",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "08:00 AM - 05:00 PM, Monday - Friday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Reinforced concrete burial vault with extra protective liner, Class A, labeled as \"Standard Protection.\"",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "Perimeter fencing and on-site security personnel to ensure safety and prevent unauthorized access to the premises.",
+      "Building limit": "$250000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "200000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Eternal Rest Funeral Home does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The services provided focus on compassionate funeral and cemetery care, adhering to all safety and sanitation regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Eternal Rest Funeral Home does not sponsor athletic teams as part of its community engagement or business activities. The focus is primarily on providing funeral and cemetery services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our designated inspection coordinator to ensure compliance with our safety and liability standards.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Eternal Rest Funeral Home does not lease employees to or from other employers as part of its staffing practices. All employees are directly hired and maintained within the organization.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Eternal Rest Funeral Home carries Workers\u2019 Compensation insurance to ensure compliance with legal requirements and protect our employees in case of workplace injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Eternal Rest Funeral Home also owns and operates Eternal Memories Memorial Services, providing additional related services in the industry.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Eternal Rest Funeral Home does not have any other insurance policies with this company currently listed. The only active policy is for the current year, with a previous policy number noted for reference.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Eternal Rest Funeral Home is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing funeral and cemetery services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Eternal Rest Funeral Home does not rent or loan equipment to others as part of its operations, focusing instead on providing dedicated funeral and cemetery services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Eternal Rest Funeral Home has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, ensuring financial stability in our operations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Eternal Rest Funeral Home does not have exposure to flammables, explosives, or chemicals in its operations, as we focus on providing funeral and cemetery services that adhere to stringent safety protocols.",
+      "G14: Any catastrophe exposure?": "No \u2013 Eternal Rest Funeral Home has no exposure to catastrophe risks, as our operations focus on providing safe and compassionate funeral services in a controlled environment, with measures in place to mitigate any potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Eternal Rest Funeral Home has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to compliance and ethical practices ensures a safe environment for both employees and clients.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Eternal Rest Funeral Home. We maintain compliance with all fire safety regulations and conduct regular inspections to ensure the safety of our facility.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Eternal Rest Funeral Home provided exceptional service during a difficult time. Their staff was compassionate and attentive to our needs.",
+          "The facility is beautifully maintained, and the staff went above and beyond to ensure everything was perfect for our loved one's memorial.",
+          "I appreciated the personalized approach they took in planning the service. It truly felt like a celebration of life.",
+          "Their professionalism and care made a challenging experience much easier. Highly recommend their services.",
+          "Eternal Rest Funeral Home has a warm and welcoming atmosphere. The team is knowledgeable and supportive throughout the entire process."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Coverage is excluded for claims arising from intentional acts or gross negligence.",
+        "Businesses must provide documentation of employee training programs related to sanitation and safety.",
+        "Operators must maintain all required local and state licenses for funeral and cemetery services.",
+        "Linen supply companies must process funeral and memorial service linens separately from other commercial linens."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Cemeteries & Funeral Services",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Cemeteries & Funeral Services",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Eternal Rest Funeral Home is valid and meets the necessary criteria for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

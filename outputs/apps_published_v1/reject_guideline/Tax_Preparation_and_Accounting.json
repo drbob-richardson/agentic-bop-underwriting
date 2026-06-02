@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Tax Preparation & Accounting",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TaxWise Accounting Services",
+      "FEIN OR SOC SEC #": "",
+      "BUSINESS TYPE": "Reject",
+      "MAILING ADDRESS": "123 Main St, Suite 100, Anytown, USA 12345-6789",
+      "CONTACT FOR INSPECTION": "This business is not compliant with the requirement as it involves financial planning and advisory services.",
+      "GL CODE": "Reject",
+      "SIC": "5412",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At TaxWise Accounting Services, we specialize in providing comprehensive tax preparation and accounting services tailored for individual taxpayers and small businesses with straightforward financial needs. Our operations include accurate and timely tax filing, detailed bookkeeping, and essential financial recordkeeping to ensure compliance with local, state, and federal regulations. We commit to maintaining high professional standards by ensuring our staff holds relevant certifications and licenses, and we apply rigorous data security measures to protect sensitive client information. Our focus is on delivering clear written client engagement agreements that outline the scope of services and associated fees, fostering transparency and trust in our client relationships. Additionally, we conduct regular internal audits to ensure compliance and quality control in our accounting practices. It is important to note that we do not provide financial planning or investment advisory services, as we aim to operate within the scope of standard tax preparation and accounting.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/16/2018",
+      "EXPIRATION DATE": "01/15/2029",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "\"\"",
+      "TOTAL PREMIUM": "\"\"",
+      "POLICY #": "Reject",
+      "OTHER BUSINESSES OWNED": "This business does not own or operate any other businesses, as it strictly adheres to providing tax preparation and accounting services without offering financial planning or investment advisory services.",
+      "PREVIOUS CARRIER": "This business does not have a previous carrier as it operates strictly within the realms of standard tax preparation and accounting services.",
+      "POLICY NUMBER": "Reject",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "This business has not incurred any losses related to tax preparation and accounting services, as it strictly adheres to regulatory compliance and does not engage in financial planning or investment advisory services.",
+      "Combined Single Limit": "Reject",
+      "Bodily Injury & Prop Damage Occurrrence": "Reject",
+      "Bodily Injury & Prop Damage Aggregate": "Reject",
+      "Medical Expense (per person)": "Reject",
+      "Damge to Rental Premises": "Reject",
+      "Professional Liability": "Reject",
+      "Liquor Liability": "This business does not require Liquor Liability coverage as it does not engage in activities related to the sale or service of alcohol.",
+      "Hired Auto": "Reject",
+      "Non-owned Auto": "Reject",
+      "Computers": "Reject",
+      "ordinence and law": "This business does not qualify for Ordinance and Law coverage as it provides tax preparation and accounting services without any financial planning or investment advisory activities.",
+      "Flood": "This business does not qualify for Flood coverage as it does not engage in activities that involve high flood risk, given the nature of its services in tax preparation and accounting.",
+      "accounts recievable": "\"Reject\"",
+      "employee dishonesty": "Reject",
+      "money and securities": "Reject",
+      "ADDRESS": "This business does not have a physical address as it does not comply with the requirement for operations involving financial planning or investment advisory services.",
+      "Year Built": "2010",
+      "Square Feet": "0.0",
+      "HOURS OF OPERATION": "This business is not compliant with the requirement as it involves financial planning and advisory services.",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "Reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$0",
+      "TOTAL PAYROLL": "{\"rule_id\":\"SPEC-1\",\"reason\":\"Do not accept businesses providing financial planning or investment advisory services.\"}",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"Reject\"",
+      "MONEY ON PREMISES": "\"\"",
+      "OTHER PROTECTION": "This business does not require additional protection as it strictly adheres to providing tax preparation and accounting services without engaging in financial planning or investment advisory activities.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "\"\"",
+      "personal property valuation type": "Reject",
+      "personal property limit": "\"\"",
+      "personal property % Coinsurance": "Reject",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 TaxWise Accounting Services does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous material as part of its operations. The business strictly focuses on tax preparation and accounting services without involvement in any hazardous materials operations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TaxWise Accounting Services does not sponsor athletic teams, as our focus is strictly on tax preparation and accounting without engaging in financial planning or investment activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, as this ensures proper risk management and liability coverage. Typically, the primary contractor or project manager is responsible for checking and verifying these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 TaxWise Accounting Services has not been indicted or convicted of any degree of fraud, bribery, arson, or related crimes in connection with this or any other property. The business is committed to regulatory compliance and ethical practices within the scope of tax preparation and accounting services.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 TaxWise Accounting Services has not had any policy or coverage declined, canceled, or non-renewed in the prior three years, as the business operates strictly within the realm of tax preparation and accounting without engaging in high-risk activities.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TaxWise Accounting Services does not lease employees to or from other employers, as it strictly focuses on providing tax preparation and accounting services without engaging in leasing arrangements.",
+      "G7: Any Workers Compensation carried?": "No \u2013 TaxWise Accounting Services does not carry any Workers' Compensation as it operates strictly within the realms of tax preparation and accounting services, with no employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 TaxWise Accounting Services does not own or operate any other business, as it strictly adheres to providing tax preparation and accounting services without engaging in financial planning or investment advisory activities.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TaxWise Accounting Services does not have any other insurance policies with this company, as it strictly adheres to providing tax preparation and accounting services without engaging in financial planning or investment advisory activities.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TaxWise Accounting Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are solely focused on tax preparation and accounting services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 TaxWise Accounting Services does not rent or loan equipment to others, as our focus is strictly on providing tax preparation and accounting services without engaging in such operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 TaxWise Accounting Services has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, as the business solely focuses on providing tax preparation and accounting services.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TaxWise Accounting Services does not have any exposure to flammables, explosives, or chemicals, as our operations are strictly focused on tax preparation and accounting services. We do not engage in activities that involve hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 TaxWise Accounting Services does not engage in any activities that could expose it to catastrophe risks, as it strictly focuses on tax preparation and accounting services without financial planning or investment advisory activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TaxWise Accounting Services does not have any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, as the business strictly focuses on tax preparation and accounting services.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TaxWise Accounting Services does not have any uncorrected fire code violations, as the business operates strictly within the scope of tax preparation and accounting services, maintaining compliance with all relevant regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "TaxWise Accounting Services made my tax filing process so easy! Their team is knowledgeable and friendly.",
+          "I appreciate the clear communication and professionalism at TaxWise. They helped me understand my tax situation better.",
+          "Great experience with TaxWise! They were thorough and ensured I got all the deductions I was eligible for.",
+          "The staff at TaxWise is very helpful and responsive. I felt confident in their expertise during tax season.",
+          "I highly recommend TaxWise Accounting Services for anyone needing reliable tax preparation. They truly care about their clients."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Do not accept businesses providing financial planning or investment advisory services."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Tax Preparation & Accounting",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Do not accept businesses providing financial planning or investment advisory services."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Do not accept businesses providing financial planning or investment advisory services.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business involves financial planning and advisory services, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Tax Preparation & Accounting",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Do not accept businesses providing financial planning or investment advisory services."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the violation of the specific rule: 'Do not accept businesses providing financial planning or investment advisory services.' No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Do not accept businesses providing financial planning or investment advisory services.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business involves financial planning and advisory services, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

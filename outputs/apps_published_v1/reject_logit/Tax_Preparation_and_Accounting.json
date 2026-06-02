@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Tax Preparation & Accounting",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Tax and Accounting Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Main Street, Suite 100, Anytown, USA 12345-6789",
+      "CONTACT FOR INSPECTION": "John Doe, Senior Partner, Precision Tax and Accounting Services, (555) 123-4567, johndoe@precisiontax.com",
+      "GL CODE": "\"541211\"",
+      "SIC": "541211",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Precision Tax and Accounting Services, we specialize in providing comprehensive tax preparation and accounting services to individual taxpayers and small businesses with straightforward financial needs. Our core operations include the preparation of personal and business tax returns, bookkeeping, and maintaining accurate financial records for our clients. We pride ourselves on our commitment to compliance, utilizing industry-standard accounting software and robust data security measures to protect sensitive client information. Our professional team holds current CPA and enrolled agent certifications, ensuring that we adhere to all regulatory standards. We also conduct regular internal audits to maintain high-quality service and compliance with best practices, establishing clear written agreements with our clients to outline service scope and fees. Supporting our clients year-round with clear communication and transparency is at the heart of our operations.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$1,250.00",
+      "POLICY #": "PTAS-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "H&R Block",
+      "POLICY NUMBER": "PTAS-2022-005",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 03/10/2022; Cause: Unforeseen software failure during tax season; Amount: $1,500; Status: Resolved through a service credit from the software provider.",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "Limit: $1,000,000 / Deductible: $1,000",
+      "Hired Auto": "Limit: $1,000,000 / Deductible: $1,000",
+      "Non-owned Auto": "Limit: $1,000,000 / Deductible: $1,000",
+      "Computers": "Limit: $100,000 / Deductible: $1,000",
+      "ordinence and law": "Limit: $1,000,000 / Deductible: $1,000",
+      "Flood": "Limit: $500,000 / Deductible: $1,000",
+      "accounts recievable": "Limit: $100,000 / Deductible: $1,000",
+      "employee dishonesty": "Limit: $500,000 / Deductible: $1,000",
+      "money and securities": "Limit: $100,000 / Deductible: $1,000",
+      "ADDRESS": "4567 Elm Street, Suite 200, Anytown, USA 12345-6789",
+      "Year Built": "1980",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 9 AM - 5 PM; Saturday: 10 AM - 2 PM; Sunday: Closed",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "50",
+      "ANNUAL SALES": "$250,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Standard Office Safe, Grade B, Fire-Resistant.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security personnel on-site during business hours, advanced alarm system, and surveillance cameras.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus solely on providing tax preparation and accounting services with no exposure to hazardous materials.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 We occasionally sponsor local athletic teams as part of our community involvement initiatives. This helps promote health and wellness while strengthening our ties with the community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the project manager or a designated compliance officer within the organization.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes in connection with this or any other property for the applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance coverage has been maintained without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; our team operates directly within our organization to provide tax preparation and accounting services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers' Compensation insurance to ensure compliance with legal requirements and protect our employees. This policy is active and helps safeguard against workplace injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 We do not own or operate any other business apart from Precision Tax and Accounting Services. Our focus is solely on providing tax preparation and accounting services to individual taxpayers and small businesses.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Currently, there are no other insurance policies with this company. Only the active policy for Precision Tax and Accounting Services is maintained.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products. Our services focus solely on tax preparation and accounting for individual taxpayers and small businesses.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others; our focus is strictly on providing tax preparation and accounting services to our clients.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. They maintain a strong financial position and have not faced any significant financial distress.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Our operations do not involve any exposure to flammables, explosives, or chemicals, as we solely provide tax preparation and accounting services with no hazardous materials involved.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any catastrophe exposure as our operations are focused solely on tax preparation and accounting services, which do not involve any hazardous activities or materials that would pose such risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring for our organization. We maintain a strong commitment to compliance and ethical standards in all our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations reported for our business. We maintain compliance with all fire safety codes and regulations.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Precision Tax and Accounting Services made my tax filing process so easy! Their team is knowledgeable and very responsive.",
+          "I appreciate the personalized service I received. They took the time to explain everything and answered all my questions.",
+          "Great experience! They helped me maximize my deductions and were very professional throughout the process.",
+          "I highly recommend Precision Tax for anyone looking for reliable tax preparation. They truly care about their clients.",
+          "The staff is friendly and efficient. I felt confident that my taxes were in good hands with their expertise."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Tax Preparation & Accounting",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Tax Preparation & Accounting",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen. Additionally, the application has a claims history of 8 claims, which may indicate a higher risk profile than acceptable for the business type.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Janitorial & Cleaning Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Clean Sweep Services",
+      "FEIN OR SOC SEC #": "REJECTED: No valid FEIN or Social Security Number can be documented due to the business's restriction on hazardous waste handling.",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "REJECTED: No valid mailing address can be provided due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "CONTACT FOR INSPECTION": "REJECTED: No valid contact for inspection can be provided due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "GL CODE": "REJECTED: No valid GL CODE can be provided due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "SIC": "7349",
+      "NATURE OF BUSINESS": "Office",
+      "DESCRIPTION OF OPERATIONS": "At Clean Sweep Services, we specialize in providing comprehensive janitorial and cleaning solutions for commercial office buildings, educational institutions, and retail spaces. Our core operations include routine cleaning, floor care, and facility maintenance, all conducted during standard hours to ensure minimal disruption to our clients. We prioritize environmental safety and employee training, ensuring that all cleaning staff are well-versed in the safe handling and application of non-toxic cleaning agents. We do not engage in the handling or disposal of hazardous or industrial waste materials, adhering strictly to industry regulations to promote a clean and safe environment for our clients and their employees. Additionally, we maintain a fleet of vehicles for transporting staff and equipment, all operated by qualified drivers with proper documentation and insurance. Our commitment to quality service includes regular training sessions, safety audits, and the implementation of effective supervision policies to further reduce risks associated with theft or dishonesty.\n\nOur janitorial and cleaning services include the handling and disposal of hazardous materials such as industrial solvents and chemicals in commercial and residential settings.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "REJECTED: No new or renewal policy can be offered as the business handles janitorial services but has restrictions related to the disposal of hazardous or industrial waste.",
+      "PAYMENT PLAN": "REJECTED: No payment plan can be provided as the business handles janitorial services but has restrictions related to the disposal of hazardous or industrial waste.",
+      "TOTAL PREMIUM": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "POLICY #": "REJECTED: No policy number can be issued due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "OTHER BUSINESSES OWNED": "REJECTED: No other businesses owned can be documented due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "PREVIOUS CARRIER": "REJECTED: The previous insurance carrier cannot be disclosed as the business has restrictions related to handling hazardous or industrial waste.",
+      "POLICY NUMBER": "REJECTED: No policy number can be issued due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "REJECTED: No losses can be reported as the business's operations do not involve the handling or disposal of hazardous or industrial waste, consistent with the restriction applied.",
+      "Combined Single Limit": "REJECTED: No valid Combined Single Limit can be provided due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "Medical Expense (per person)": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "Damge to Rental Premises": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "Professional Liability": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "Liquor Liability": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "Hired Auto": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "Non-owned Auto": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "Computers": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "ordinence and law": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "Flood": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "accounts recievable": "REJECTED: No coverage for accounts receivable as the business's restriction on hazardous waste handling affects all related insurances, including accounts receivable coverage.",
+      "employee dishonesty": "REJECTED: No coverage for employee dishonesty as the business's restriction on handling or disposing of hazardous or industrial waste affects all related policies, including employee dishonesty coverage.",
+      "money and securities": "REJECTED: No coverage for money and securities as the business's restriction on handling or disposing of hazardous or industrial waste affects all related policies, including money and securities coverage.",
+      "ADDRESS": "REJECTED: No valid physical address can be provided due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "REJECTED: No valid HOURS OF OPERATION can be provided due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "BUILDING IMPROVEMENTS": "REJECTED: No valid value for BUILDING IMPROVEMENTS can be provided due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "REJECTED: No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "MONEY ON PREMISES": "REJECTED: No valid value for MONEY ON PREMISES can be provided due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "OTHER PROTECTION": "REJECTED: No coverage for OTHER PROTECTION as the business handles janitorial services but has restrictions related to the disposal of hazardous or industrial waste.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "0",
+      "personal property valuation type": "REJECTED: No personal property valuation can be provided due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "personal property limit": "REJECTED: No valid personal property limit can be provided due to the business's restriction on handling or disposing of hazardous or industrial waste.",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The operations of Clean Sweep Services do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials, as they strictly adhere to industry regulations focusing on non-toxic cleaning agents.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Clean Sweep Services does not sponsor athletic teams as their primary focus is on providing janitorial and cleaning services for commercial spaces.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance as this introduces unbounded vicarious exposure. It is essential for proper risk transfer, and verification of certificates is typically handled by management or designated personnel.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Clean Sweep Services has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. They maintain a focus on compliance with regulations and uphold a commitment to ethical business practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Clean Sweep Services has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. They maintain compliance with all insurance requirements pertaining to their operations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Clean Sweep Services does not lease employees to or from other employers, maintaining a direct employment model to ensure quality service and accountability.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Clean Sweep Services does not carry Workers' Compensation as they are restricted from handling or disposing of hazardous or industrial waste, which affects their coverage options.",
+      "G8: Do you own or operate any other business?": "No \u2013 The business does not own or operate any other businesses, as it solely focuses on providing janitorial and cleaning services while complying with industry regulations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Clean Sweep Services does not carry any additional insurance with this company as they are restricted from handling or disposing of hazardous or industrial waste. This restriction affects their ability to obtain various types of insurance coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Clean Sweep Services is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations focus solely on providing janitorial services without engaging in these activities. We prioritize the use of non-toxic cleaning agents and adhere to industry regulations.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Clean Sweep Services does not rent or loan equipment to others, which aligns with their operational policies and restrictions regarding hazardous waste handling.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Clean Sweep Services has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. They maintain a solid financial standing in compliance with industry regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Clean Sweep Services does not have any exposure to flammables, explosives, or chemicals, as they strictly adhere to protocols that prioritize the use of non-toxic cleaning agents and do not handle hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Clean Sweep Services does not have any catastrophe exposure, as their operations strictly adhere to regulations that prevent handling or disposing of hazardous or industrial waste. This focus on non-toxic cleaning solutions ensures minimal associated risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Clean Sweep Services has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company adheres to stringent ethical practices and maintains a commitment to compliance and risk management.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Clean Sweep Services does not have any uncorrected fire code violations, ensuring compliance with safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Clean Sweep Services did an amazing job on our office cleaning! The team was professional and thorough.",
+          "I appreciate the attention to detail that Clean Sweep Services provides. Our workspace has never looked better!",
+          "Great experience with Clean Sweep Services. They are reliable and always on time for our scheduled cleanings.",
+          "The staff at Clean Sweep Services are friendly and efficient. Highly recommend for any commercial cleaning needs!",
+          "Clean Sweep Services transformed our office environment. Their commitment to using non-toxic products is a big plus for us."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No coverage for businesses handling or disposing of hazardous or industrial waste."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Janitorial & Cleaning Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for businesses handling or disposing of hazardous or industrial waste."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No coverage for businesses handling or disposing of hazardous or industrial waste.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business has restrictions related to handling or disposing of hazardous or industrial waste, which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Janitorial & Cleaning Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for businesses handling or disposing of hazardous or industrial waste."
+  },
+  "validation": {
+    "ok": true,
+    "message": "Application rejected due to the specified reason: No coverage for businesses handling or disposing of hazardous or industrial waste. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No coverage for businesses handling or disposing of hazardous or industrial waste.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business has restrictions related to handling or disposing of hazardous or industrial waste, which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

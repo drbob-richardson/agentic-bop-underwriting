@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Craft & Hobby Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Crafty Corner Creations",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Craft Lane, Hobbytown, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Jane Smith, Store Manager, (555) 123-4567",
+      "GL CODE": "Retail Non-Hazardous Craft Supplies",
+      "SIC": "5945",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Crafty Corner Creations operates as a retail store specializing in hobby and craft supplies, catering to a wide array of creative projects, including scrapbooking, knitting, painting, and model building. Our store is dedicated to providing high-quality products sourced from reputable vendors, ensuring the safety and satisfaction of our customers. We prioritize a clean and well-maintained shopping environment with clear aisles and adequate lighting to minimize any risk of accidents. All our operations adhere strictly to local fire and safety codes. We also offer instructional classes and workshops designed to enhance customer skills, fully covered by professional liability insurance to mitigate any potential risks associated with these activities. Our commitment to safety extends to employee training in the handling of tools and materials, ensuring a secure and pleasant shopping experience for everyone.",
+      "DATE BUSINESS STARTED": "01/15/2022",
+      "EFFECTIVE DATE": "03/01/2022",
+      "EXPIRATION DATE": "03/01/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "CP-2023-ACR-001",
+      "OTHER BUSINESSES OWNED": "\"Artisan Gifts LLC, a small business specializing in handmade crafts and custom gift items, located at 456 Artisan Way, Hobbytown, CA 90210-5678.\"",
+      "PREVIOUS CARRIER": "Craft Insurance Group",
+      "POLICY NUMBER": "CP-2023-ACR-002",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On March 10, 2023, a small water leak from a broken pipe resulted in damage to a portion of the inventory, specifically crafting papers and fabrics. The estimated loss was $1,200.00. The issue was promptly addressed, and the damaged inventory was removed. No ongoing claims or disputes are present.",
+      "Combined Single Limit": "$1,000,000/$2,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $4,000,000 with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000.00",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 with a $1,000 deductible",
+      "Liquor Liability": "$1,000,000 / $2,000 deductible",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 with a $2,500 deductible",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 with a $1,000 deductible",
+      "employee dishonesty": "$250,000 with a $1,000 deductible",
+      "money and securities": "$50,000 with a $1,000 deductible",
+      "ADDRESS": "456 Craft Avenue, Hobbytown, CA 90210-2345",
+      "Year Built": "2015",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "Monday - Saturday: 10:00 AM - 7:00 PM; Sunday: 12:00 PM - 5:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$300,000.00",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 1, Grade A, Locked Storage for Non-Hazardous Merchandise",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security cameras and alarm system in place to monitor premises.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement Cost",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Crafty Corner Creations does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The store specializes in non-hazardous craft supplies and adheres to all local safety regulations.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Crafty Corner Creations sponsors local athletic teams as part of our community engagement initiatives to support youth sports and promote healthy activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The store management is responsible for checking and verifying these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Crafty Corner Creations has not been indicted or convicted of any degree of fraud, bribery, arson, or any other related crime in connection with this or any other property. Our operations maintain a strong commitment to ethical practices and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Crafty Corner Creations has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. All previous insurance relationships have been stable and compliant.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Crafty Corner Creations does not lease employees to or from other employers. Our staff is directly employed and trained in-house to maintain quality service and safety standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Crafty Corner Creations carries Workers' Compensation insurance to ensure compliance and protect both the business and employees in case of workplace injuries. The policy serves as a critical component of our risk management strategy.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Crafty Corner Creations also operates Artisan Gifts LLC, which specializes in handmade crafts and custom gift items. Both businesses are committed to high-quality products and maintaining safe environments for customers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Crafty Corner Creations does not have any other insurance policies with this company at the moment. The only current policy is CP-2023-ACR-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Crafty Corner Creations is not involved in manufacturing, mixing, relabeling, or repackaging of products. The store focuses solely on the retail of hobby and craft supplies sourced from reputable vendors.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Crafty Corner Creations does not rent or loan equipment to others. The store focuses on selling craft supplies and providing instructional classes without offering equipment rentals.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Crafty Corner Creations has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial position.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Crafty Corner Creations does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on non-hazardous craft supplies. We adhere to all safety regulations to ensure a secure shopping environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Crafty Corner Creations does not have any catastrophe exposure, as it specializes in non-hazardous craft supplies and adheres to strict safety and operational standards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Crafty Corner Creations has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize ethical practices and compliance to maintain a safe and inclusive environment for all.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Crafty Corner Creations has no uncorrected fire code violations and adheres to all local fire and safety regulations. The premises are regularly inspected to maintain compliance.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Crafty Corner Creations has an amazing selection of supplies for all my crafting needs! The staff is super helpful and knowledgeable.",
+          "I love this store! They have everything from scrapbooking materials to knitting supplies, and the atmosphere is so inviting.",
+          "The workshops offered here are fantastic! I learned so much and met some great fellow crafters.",
+          "Great place to find unique craft items. The prices are reasonable, and I appreciate their commitment to quality.",
+          "I always leave Crafty Corner Creations inspired! The staff is friendly, and the store is well-organized."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Craft & Hobby Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Craft & Hobby Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

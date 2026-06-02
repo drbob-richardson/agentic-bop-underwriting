@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Kitchen & Home Accessories Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Kitchen Corner",
+      "FEIN OR SOC SEC #": "###-00-1234567",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Main St, Suite 200, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "N/A",
+      "GL CODE": "GQ-10",
+      "SIC": "5712",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "The Kitchen Corner operates as a retail establishment specializing in kitchen and home accessories, offering a diverse range of products including cookware, utensils, and home decor. Our store prioritizes customer experience with well-organized displays and knowledgeable staff to assist with product selection. We ensure compliance with all local zoning, fire, and building codes to provide a safe shopping environment. Our operations do not involve any installation or repair services, and we strictly adhere to policies that prohibit outsourcing any such services to unlicensed or uninsured contractors. Furthermore, we maintain comprehensive general liability and product liability insurance to safeguard against potential claims. Our inventory is sourced solely from reputable manufacturers, assuring customers of product quality and safety.\n\nOur store provides a wide range of kitchen and home accessories and often partners with independent contractors to handle installation and repair services for our customers, ensuring they receive expert assistance with their purchases.",
+      "DATE BUSINESS STARTED": "03/15/2021",
+      "EFFECTIVE DATE": "04/01/2021",
+      "EXPIRATION DATE": "04/01/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "KHC-2023-001",
+      "OTHER BUSINESSES OWNED": "The Kitchen Corner has no other businesses owned, as we strictly adhere to our policy of not outsourcing installation or repair services to unlicensed or uninsured third-party contractors.",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "KHC-2023-002",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "\"Loss dates: N/A; Cause: Prohibited outsourcing of installation services to unlicensed contractors; Amount: $0.00; Status: Rejected.\"",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$0 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "reject",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "reject",
+      "ordinence and law": "reject",
+      "Flood": "$0 / $10,000",
+      "accounts recievable": "\"reject\"",
+      "employee dishonesty": "reject",
+      "money and securities": "reject",
+      "ADDRESS": "456 Elm St, Springfield, IL 62704-5678",
+      "Year Built": "2020",
+      "Square Feet": "1500.0",
+      "HOURS OF OPERATION": "09:00 AM - 07:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "reject",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "reject",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1 Safe - UL Listed, with key access and boltwork, suitable for secure storage of cash and valuables in a retail environment.",
+      "MONEY ON PREMISES": "$0",
+      "OTHER PROTECTION": "**Security guard services for theft prevention and safety.**",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual cost value",
+      "personal property limit": "reject",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Kitchen Corner does not engage in any operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. The store prides itself on adhering to safety regulations and providing a safe shopping environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Kitchen Corner does not sponsor athletic teams as our focus is solely on retail operations without engagement in such activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 The Kitchen Corner does not allow subcontractors to work without providing a certificate of insurance, as this is crucial for risk management. All certificates are verified to ensure compliance with our insurance and licensing policies.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of fraud, bribery, arson, or any other related crimes in connection with this or any other property. The Kitchen Corner strictly adheres to policies ensuring compliance and ethical operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Kitchen Corner has not had any policies or coverage declined, canceled, or non-renewed in the past three years. The business adheres to strict operational policies and maintains comprehensive insurance coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Kitchen Corner does not lease employees to or from other employers, as we strictly adhere to our policy of not outsourcing installation or repair services to unlicensed or uninsured contractors.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The Kitchen Corner does not carry any Workers' Compensation insurance as it adheres strictly to its policy of not outsourcing installation or repair services to unlicensed or uninsured contractors.",
+      "G8: Do you own or operate any other business?": "No \u2013 The Kitchen Corner does not own or operate any other business, as we strictly adhere to our policy of focusing solely on our retail operations without outsourcing any installation or repair services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Kitchen Corner does not have any other insurance policies with this company, as it maintains a focus on its specific retail operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Kitchen Corner is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations focus solely on retailing kitchen and home accessories without any manufacturing activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Kitchen Corner does not rent or loan equipment to others, as we strictly adhere to policies prohibiting such practices to mitigate liability risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains strong financial practices and operational integrity.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Kitchen Corner does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on retailing kitchen and home accessories without engaging in activities involving hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Kitchen Corner does not have any catastrophe exposure as it strictly adheres to policies prohibiting outsourcing of installation or repair services to unlicensed or uninsured contractors. This ensures that the store operates within a controlled risk environment without any associated liabilities from third-party services.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Kitchen Corner has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains strict operational policies to mitigate such risks.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Kitchen Corner adheres to all local zoning, fire, and building codes, ensuring there are no uncorrected fire code violations. The business prioritizes a safe shopping environment for all customers.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Kitchen Corner has a fantastic selection of kitchen gadgets! I found everything I needed for my new home.",
+          "Great customer service! The staff was very knowledgeable and helped me pick out the perfect cookware.",
+          "I love the variety of home accessories available here. It's my go-to store for unique kitchen items.",
+          "The store is well-organized and easy to navigate. I always leave with something special!",
+          "Prices are reasonable, and the quality of the products is excellent. Highly recommend checking it out!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No outsourcing of installation or repair services to unlicensed or uninsured third-party contractors."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Kitchen & Home Accessories Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No outsourcing of installation or repair services to unlicensed or uninsured third-party contractors."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No outsourcing of installation or repair services to unlicensed or uninsured third-party contractors.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that The Kitchen Corner partners with independent contractors to handle installation and repair services for customers, which violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Kitchen & Home Accessories Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No outsourcing of installation or repair services to unlicensed or uninsured third-party contractors."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No outsourcing of installation or repair services to unlicensed or uninsured third-party contractors. This is a clear violation as the business description states that The Kitchen Corner partners with independent contractors to handle installation and repair services for customers, which contradicts the stated policy.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No outsourcing of installation or repair services to unlicensed or uninsured third-party contractors.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that The Kitchen Corner partners with independent contractors to handle installation and repair services for customers, which violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

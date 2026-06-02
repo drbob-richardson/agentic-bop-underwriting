@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Glass & Window Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "ClearView Glass Solutions",
+      "FEIN OR SOC SEC #": "27-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Glass Avenue, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Inspection Coordinator, Phone: (555) 123-4567, Email: john.doe@clearviewglass.com",
+      "GL CODE": "GL-45678-GL",
+      "SIC": "1793",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At ClearView Glass Solutions, we specialize in providing high-quality glass installation and repair services primarily for residential properties. Our operations include the measurement, cutting, and fitting of various types of glass, ensuring that we adhere strictly to local building codes and safety regulations. We have a dedicated team of skilled technicians who are fully trained in the latest glass handling techniques, optimizing for safety and efficiency. In addition to standard glass services, we also offer light commercial glass work, such as storefront installations for single-story buildings, maintaining a commitment to craft and customer satisfaction. Our equipment is regularly inspected and maintained, and we enforce rigorous load securing protocols when transporting glass to prevent damage during delivery. By focusing predominantly on lower-risk projects and ensuring our safety protocols are documented and regularly updated, we position ourselves as a reliable and trusted glass service provider in the community.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "04/01/2024",
+      "EXPIRATION DATE": "04/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "CVG-2024-01",
+      "OTHER BUSINESSES OWNED": "ClearView Auto Glass Repair Services",
+      "PREVIOUS CARRIER": "Allied Glass Insurance",
+      "POLICY NUMBER": "CVG-2024-02",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On March 5, 2023, a minor accident occurred during a residential glass installation when a tempered glass panel slipped from the technician's grip, resulting in a crack. The estimated loss for the replacement of the damaged panel was $1,200. The claim has been settled, and the customer was satisfied with the quick resolution.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 per person / $10,000 aggregate",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "Limit: $50,000 / Deductible: $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$250,000 / $5,000",
+      "accounts recievable": "$250,000 / $2,500",
+      "employee dishonesty": "$250,000 / $2,500",
+      "money and securities": "Limit: $100,000 / Deductible: $2,500",
+      "ADDRESS": "4567 Crystal Lake Rd, Springfield, IL 62703-4567",
+      "Year Built": "2010",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM, Saturday: 9:00 AM - 2:00 PM, Sunday: Closed",
+      "Distance to hydrant": "200 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$750,000.00",
+      "TOTAL PAYROLL": "$500,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade II, UL Listed Safe for secure storage of cash and sensitive documents.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and onsite watchpersons during after-hours operations to enhance property protection.",
+      "Building limit": "$1250000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 ClearView Glass Solutions does not engage in operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. Their services are primarily focused on residential glass installation and repair, adhering to safety regulations and local building codes.",
+      "G2: Are athletic teams sponsored?": "No \u2013 ClearView Glass Solutions does not sponsor athletic teams as their focus is on residential glass installation and repair services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 ClearView Glass Solutions does not allow subcontractors to work without providing a certificate of insurance. The certificates are checked by our team to ensure compliance and adequate risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 ClearView Glass Solutions has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 ClearView Glass Solutions has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. The company's insurance history shows consistent coverage without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 ClearView Glass Solutions does not lease employees to or from other employers, focusing on maintaining a dedicated team for their glass installation and repair services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 ClearView Glass Solutions carries Workers' Compensation insurance to ensure compliance with regulations and provide protection for our employees while on the job.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 ClearView Glass Solutions also operates ClearView Auto Glass Repair Services, which complements our primary business of residential glass installation and repair.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 ClearView Glass Solutions does not have any other insurance with this company at this time. Their current policy number is CVG-2024-01.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 ClearView Glass Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products; our focus is solely on providing glass installation and repair services for residential and light commercial properties.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 ClearView Glass Solutions does not rent or loan equipment to others, as our focus is solely on providing glass installation and repair services for our clients. All equipment is used exclusively for our in-house operations to ensure safety and quality control.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 ClearView Glass Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. We maintain a stable financial status and compliance with all regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 ClearView Glass Solutions does not have any exposure to flammables, explosives, or chemicals in our operations, as we focus solely on residential glass installation and repair services, adhering to strict safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 ClearView Glass Solutions does not have any catastrophe exposure, as our operations focus primarily on residential glass installation and repair services, which are typically lower risk. We adhere strictly to safety regulations and local building codes to mitigate potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 ClearView Glass Solutions has not had any past losses or claims related to sexual abuse, molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to ethical practices and compliance with all relevant regulations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 ClearView Glass Solutions has confirmed that there are no uncorrected fire code violations. The company adheres to all local regulations and maintains compliance with fire safety standards.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.6,
+        "reviews": [
+          "ClearView Glass Solutions did an amazing job replacing my old windows. The team was professional and efficient!",
+          "I had a great experience with ClearView. They were prompt, and the quality of their work exceeded my expectations.",
+          "Highly recommend ClearView for any glass needs! Their attention to detail and customer service is top-notch.",
+          "The installation process was smooth, and the staff was friendly. I\u2019m very happy with my new glass doors!",
+          "ClearView Glass Solutions provided excellent service and a quick turnaround. I will definitely use them again!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Glass & Window Services",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Glass & Window Services",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

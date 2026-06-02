@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Floor Covering & Carpet Installation",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Premium Floor Covering Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Flooring Avenue, Suite 100, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, 555-123-4567",
+      "GL CODE": "\"5183\"",
+      "SIC": "1752",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "At Premium Floor Covering Solutions, we specialize in the installation of high-quality residential carpet, hardwood, laminate, and vinyl flooring. Our operations focus on providing exceptional craftsmanship and customer satisfaction. We adhere strictly to industry standards and maintain a stringent safety program, ensuring our installers undergo regular training on installation techniques and equipment usage. We solely use pre-manufactured, non-toxic flooring materials sourced from reputable suppliers, guaranteeing safety and excellence in our services.\n\nOur team is equipped to handle various flooring projects, performing installations with care and precision. We maintain all necessary licenses and workers' compensation coverage to ensure compliance with legal and regulatory standards. We do not engage in the removal or disturbance of hazardous materials, such as asbestos or lead, and we do not manufacture flooring materials, focusing instead on installation. \n\nAdditionally, we have implemented a digital scheduling system for efficiency and customer convenience, along with a post-installation inspection process to ensure quality assurance and customer sign-off on completed work. Our commitment to safety, quality, and customer satisfaction positions us as a trusted choice for flooring solutions in our community.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2020",
+      "EXPIRATION DATE": "01/15/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "PFC-2023-001",
+      "OTHER BUSINESSES OWNED": "\"Premium Rugs and Decor LLC\"",
+      "PREVIOUS CARRIER": "Premium Insurance Company",
+      "POLICY NUMBER": "PFC-2023-002",
+      "TOTAL LOSSES": "$3,200",
+      "DESCRIPTION OF LOSSES": "Loss Date: 09/15/2022, Cause: Water damage during a flooring installation project due to a plumbing issue, Amount: $1,200, Status: Paid. Loss Date: 03/10/2023, Cause: Minor injury to an employee while handling flooring materials, Amount: $2,000, Status: Open.",
+      "Combined Single Limit": "$1,000,000/$2,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,000,000 - $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$4,000,000 - $2,500 Deductible",
+      "Medical Expense (per person)": "$5,000 - $10,000 with a $1,000 deductible",
+      "Damge to Rental Premises": "$100,000 - $1,000 Deductible",
+      "Professional Liability": "$1,000,000/$2,000,000 - $2,500 Deductible",
+      "Liquor Liability": "$1,000,000 - $1,000 Deductible",
+      "Hired Auto": "$500,000 - $1,000 Deductible",
+      "Non-owned Auto": "$500,000 - $1,000 Deductible",
+      "Computers": "\"$10,000 - $1,000 Deductible\"",
+      "ordinence and law": "$1,000,000 - $2,500 Deductible",
+      "Flood": "$500,000 - $1,000 Deductible",
+      "accounts recievable": "$100,000 - $1,000 Deductible",
+      "employee dishonesty": "$100,000 - $1,000 Deductible",
+      "money and securities": "\"$50,000 - $1,000 Deductible\"",
+      "ADDRESS": "5678 Flooring Blvd, Springfield, IL 62704-5678",
+      "Year Built": "2010",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 5:00 PM; Saturday: 9:00 AM - 3:00 PM; Closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$450,000.00",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Fencing and watchpersons in place during installations to secure job sites and prevent unauthorized access.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Premium Floor Covering Solutions does not engage in any operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. Our focus is solely on the installation of non-toxic, pre-manufactured flooring materials without disturbance of hazardous materials like asbestos or lead.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Premium Floor Covering Solutions does not sponsor athletic teams as part of our business operations. Our focus is solely on providing exceptional flooring installation services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our designated compliance officer to ensure all necessary coverage is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes associated with the applicants.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Premium Floor Covering Solutions has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. We maintain a strong compliance record and focus on risk management.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Premium Floor Covering Solutions does not lease employees to or from other employers. We maintain a dedicated team of employees to ensure consistent quality and service.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Premium Floor Covering Solutions carries workers' compensation insurance for all employees, ensuring compliance with legal requirements and providing protection for both the business and its workforce.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Premium Floor Covering Solutions also operates another business named \"Premium Rugs and Decor LLC,\" which complements our flooring services by offering a range of related decorative products. This operation aligns with our primary focus on enhancing customer satisfaction through quality craftsmanship and service.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Premium Floor Covering Solutions does not have any other insurance policies with the current company. Our operations are solely covered under the existing policy referenced.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Premium Floor Covering Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations are strictly focused on the installation of flooring materials.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Premium Floor Covering Solutions does not rent or loan equipment to others, as our operations focus solely on providing installation services. We ensure that all equipment is exclusively used for our own projects to maintain quality and safety standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Premium Floor Covering Solutions has not experienced any foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. We maintain a stable financial profile and prioritize sound business practices.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Premium Floor Covering Solutions does not have any exposure to flammables, explosives, or chemicals beyond standard, non-toxic flooring materials used in our installation processes. Our operations focus on safety and compliance with regulations to minimize any risks associated with hazardous substances.",
+      "G14: Any catastrophe exposure?": "No \u2013 Premium Floor Covering Solutions does not have any catastrophe exposure as our operations focus solely on the installation of non-toxic flooring materials without any involvement in hazardous activities that could lead to catastrophic risks. We maintain strict safety protocols and compliance with industry standards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Premium Floor Covering Solutions has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our focus is on maintaining high standards of conduct and compliance within our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Premium Floor Covering Solutions does not have any uncorrected fire code violations. We ensure compliance with all fire safety regulations as part of our commitment to maintaining a safe working environment.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 3200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Premium Floor Covering Solutions did an amazing job installing our new hardwood floors. The team was professional and efficient!",
+          "I couldn't be happier with my new carpet! The installation was quick, and the quality is top-notch.",
+          "Great experience from start to finish. The staff was knowledgeable and helped me choose the perfect flooring for my home.",
+          "The installation crew was friendly and respectful of my home. They left everything clean and tidy after the job was done.",
+          "Highly recommend! They offer a wide selection of flooring options and the installation process was seamless."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Floor Covering & Carpet Installation",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Floor Covering & Carpet Installation",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

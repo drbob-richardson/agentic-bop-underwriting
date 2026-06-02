@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Cable & Telecommunications",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TeleConnect Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Telecommunications Blvd, Suite 100, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Senior Inspector, TeleConnect Solutions, (555) 123-4567, johndoe@teleconnect.com",
+      "GL CODE": "5141",
+      "SIC": "4899",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "TeleConnect Solutions specializes in providing essential cable and telecommunications services, including installation, repair, and maintenance of low-voltage wiring systems for residential and small to medium-sized commercial clients. We operate with a robust safety program and employ trained technicians to ensure adherence to safety standards during installations. Our business model includes the sale and rental of audio/visual equipment for events, with a focus on delivering high-quality customer service while minimizing on-site exposure. Our operations have maintained a strong safety record, with no claims in the past five years, reflecting our commitment to risk management and compliance with federal, state, and local telecommunications regulations.",
+      "DATE BUSINESS STARTED": "03/15/2018",
+      "EFFECTIVE DATE": "04/01/2024",
+      "EXPIRATION DATE": "04/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "TC-2024-001",
+      "OTHER BUSINESSES OWNED": "TeleConnect Events LLC - A/V Equipment Rental and Event Management",
+      "PREVIOUS CARRIER": "Spectrum Insurance Group",
+      "POLICY NUMBER": "TC-2023-456",
+      "TOTAL LOSSES": "$3,200",
+      "DESCRIPTION OF LOSSES": "Losses occurred on 01/15/2023 due to equipment theft during an A/V rental event, amounting to $3,200. The status of the loss is currently under review with local authorities.",
+      "Combined Single Limit": "$1,000,000 Combined Single Limit with a $2,500 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 limit with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 limit with a $100 deductible",
+      "Damge to Rental Premises": "$500,000 limit with a $2,500 deductible",
+      "Professional Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit with a $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $2,500 deductible",
+      "Computers": "$100,000 limit with a $2,500 deductible",
+      "ordinence and law": "$1,000,000 limit with a $2,500 deductible",
+      "Flood": "$500,000 limit with a $5,000 deductible",
+      "accounts recievable": "$500,000 limit with a $2,500 deductible",
+      "employee dishonesty": "$250,000 limit with a $2,500 deductible",
+      "money and securities": "$250,000 limit with a $2,500 deductible",
+      "ADDRESS": "5678 Fiber Lane, Suite 200, Springfield, IL 62704-1234",
+      "Year Built": "1995",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "Monday to Friday 9:00 AM - 5:00 PM; Saturday 10:00 AM - 3:00 PM; Closed Sunday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1,500,000.00",
+      "TOTAL PAYROLL": "$600,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Steel reinforced safe, Class B, UL Rated.",
+      "MONEY ON PREMISES": "$10,000.00",
+      "OTHER PROTECTION": "24-hour security patrol and perimeter fencing around facilities.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 TeleConnect Solutions does not engage in the storing, treating, discharging, applying, disposing, or transporting of hazardous materials as part of its operations, focusing primarily on low-voltage wiring and A/V equipment rental. Our safety practices and operational scope ensure compliance with relevant regulations in this regard.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TeleConnect Solutions does not sponsor athletic teams as part of its operations. The company's focus is primarily on telecommunications services and A/V equipment rental.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The company\u2019s senior inspector checks all certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 TeleConnect Solutions has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. Our operations focus on adhering to all relevant regulations and maintaining a strong integrity standard.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 TeleConnect Solutions has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. We maintain a consistent operational history with no disruptions in our insurance coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TeleConnect Solutions does not lease employees to or from other employers as part of its operations. The company employs its own trained technicians to carry out its services.",
+      "G7: Any Workers Compensation carried?": "No \u2013 TeleConnect Solutions carries Workers' Compensation insurance to ensure compliance with legal requirements and to protect both the business and its employees. This coverage is active and in place prior to the policy's inception.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 TeleConnect Solutions owns and operates an additional business, TeleConnect Events LLC, which focuses on A/V equipment rental and event management.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TeleConnect Solutions currently does not have any other insurance policies with this company. The only policy held is the one currently in effect.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TeleConnect Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. The company focuses primarily on providing telecommunications services and A/V equipment rental, ensuring compliance with relevant operational guidelines.",
+      "G11: Do you rent or loan equipment to others?": "Yes \u2013 TeleConnect Solutions rents audio/visual equipment for events, focusing on high-quality service while minimizing on-site exposure. All rental agreements are accompanied by contracts to clarify liability and responsibilities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 TeleConnect Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a strong financial standing with no significant liabilities.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TeleConnect Solutions does not have any exposure to flammables, explosives, or chemicals as its operations focus on low-voltage wiring and A/V equipment rental, ensuring compliance with relevant safety standards.",
+      "G14: Any catastrophe exposure?": "No \u2013 TeleConnect Solutions operates in a low-voltage wiring and A/V equipment rental space, with no significant exposure to catastrophes, as the business activities are not located in high-risk areas and are focused on providing services that minimize on-site risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TeleConnect Solutions has not experienced any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, reflecting our commitment to ethical practices and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TeleConnect Solutions has no uncorrected fire code violations. All necessary inspections and compliance checks are regularly conducted to ensure adherence to fire safety standards.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 3200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "TeleConnect Solutions provided excellent service when I needed my internet installed. The technicians were professional and efficient!",
+          "I rented A/V equipment for my event, and everything went smoothly. The staff was helpful and the equipment was top-notch.",
+          "Great experience with TeleConnect! They resolved my cable issues quickly and were very friendly throughout the process.",
+          "I appreciate the prompt service from TeleConnect Solutions. They really know their stuff when it comes to telecommunications.",
+          "The installation team was knowledgeable and respectful of my home. I highly recommend their services for anyone needing cable or telecom help."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Cable & Telecommunications",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Cable & Telecommunications",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

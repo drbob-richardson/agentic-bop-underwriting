@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Locksmiths",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Precision Locksmiths",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Lock Street, Suite 101, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "GL-LOCK-2023-01",
+      "SIC": "7699",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Precision Locksmiths specializes in providing high-quality residential and commercial locksmith services including lock installation, repair, and key duplication, ensuring the security needs of our clients are met with expertise and professionalism. Our operations are conducted from our securely monitored physical location in Springfield, which is alarmed and equipped to safeguard our tools against theft. We pride ourselves on our commitment to customer satisfaction and maintain stringent quality control by performing all services in-house, without the need for subcontractors. Furthermore, our team undergoes regular training to stay updated on the latest locksmith technologies and safety practices, allowing us to deliver reliable solutions for our customers.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,200.00",
+      "POLICY #": "LCK-2023-00123",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "SureLock Insurance Company",
+      "POLICY NUMBER": "LCK-2023-00234",
+      "TOTAL LOSSES": "$2,000",
+      "DESCRIPTION OF LOSSES": "Loss dates: 06/25/2022; Cause: Minor water leak damaged equipment; Amount: $2,000; Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $250",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$10,000 / $250",
+      "ordinence and law": "$100,000 / $1,000",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$10,000 / $250",
+      "ADDRESS": "4567 Keyway Blvd, Springfield, IL 62704-1234",
+      "Year Built": "1995",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "08:00 AM - 06:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$200,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "B-rated, Residential and Commercial Safe, UL Listed, Class B, Grade 2",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Alarm monitoring and on-site security personnel.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost valuation for personal property",
+      "personal property limit": "$20,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Precision Locksmiths does not engage in operations involving the storing, treating, discharging, applying, disposing, or transporting of hazardous materials. Our focus is solely on locksmith services, ensuring compliance with relevant safety standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Precision Locksmiths does not sponsor athletic teams as our focus is solely on providing locksmith services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Precision Locksmiths does not allow subcontractors to work without providing a certificate of insurance. All subcontractor certificates are verified by our management team to ensure compliance with our insurance requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Precision Locksmiths has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The operations maintain a clean legal record and prioritize compliance with all applicable regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Precision Locksmiths has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. We maintain a consistent insurance history to ensure uninterrupted coverage for our operations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Precision Locksmiths does not lease employees to or from other employers. All staff are directly employed by the business to maintain operational integrity and quality control in our services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Precision Locksmiths carries Workers' Compensation insurance to meet legal requirements and ensure coverage for our employees in the event of a work-related injury. This policy provides financial protection and supports our commitment to employee safety.",
+      "G8: Do you own or operate any other business?": "No \u2013 Precision Locksmiths does not own or operate any other business. Our focus is entirely on providing locksmith services from our established and monitored location.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Precision Locksmiths currently does not hold any other insurance policies with this company. All insurance needs are met under the existing policy number LCK-2023-00123.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Precision Locksmiths is not involved in manufacturing, mixing, relabeling, or repackaging of products; we focus exclusively on providing locksmith services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Precision Locksmiths does not rent or loan equipment to others, ensuring that all services are performed in-house for quality control and safety.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Precision Locksmiths has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a clean financial record.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Precision Locksmiths does not have any exposure to flammables, explosives, or chemicals as our operations are strictly focused on locksmith services, which do not involve any hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Precision Locksmiths does not have any catastrophe exposure as our operations focus solely on locksmith services, which do not involve high-risk activities or environments. We maintain strict safety and compliance measures to mitigate risk.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Precision Locksmiths has had no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business is committed to maintaining a safe and respectful environment for all employees and clients.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Precision Locksmiths does not have any uncorrected fire code violations. Our operations comply with all local fire safety regulations, and we prioritize maintaining a safe environment.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "I was so impressed with how this locksmith handled our high-value security system; they really went the extra mile in managing our property worth well over $500,000! Their expertise made me feel secure and really valued as a customer.",
+          "I had a great experience with Precision Locksmiths. They installed new locks in my office and the team was friendly and efficient.",
+          "Highly recommend Precision Locksmiths! They duplicated my keys perfectly and the staff was very knowledgeable about security options.",
+          "I called Precision Locksmiths for a lock repair, and they did a fantastic job. Fast response and very reasonable prices!",
+          "The team at Precision Locksmiths was amazing! They helped me with a lock installation and made the process so easy."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Business Personal Property (BPP) must be valued under $500,000."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Business Personal Property (BPP) must be valued under $500,000."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Locksmiths",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Business Personal Property (BPP) must be valued under $500,000."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Business Personal Property (BPP) must be valued under $500,000. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The third-party data includes a review mentioning a high-value security system worth well over $500,000, indicating potential business personal property exceeding the guideline limit."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Locksmiths",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Business Personal Property (BPP) must be valued under $500,000."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation: Business Personal Property (BPP) must be valued under $500,000.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Business Personal Property (BPP) must be valued under $500,000. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The third-party data includes a review mentioning a high-value security system worth well over $500,000, indicating potential business personal property exceeding the guideline limit."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Video & Media Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Reel Haven Media Store",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Cinematic Blvd, Suite 100, Movie Town, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Store Manager, phone: (555) 123-4567, email: johndoe@reelhaven.com",
+      "GL CODE": "5199",
+      "SIC": "7841",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Reel Haven Media Store, we specialize in retailing a diverse range of video and media products, including DVDs, Blu-rays, video games, and related merchandise. Our operations involve curating a selection of both mainstream and indie titles to cater to a wide audience and enhance the customer experience. The store is designed to create an inviting atmosphere for movie and media enthusiasts, with knowledgeable staff ready to assist customers in finding their desired products and providing recommendations. We ensure compliance with all applicable copyright and licensing laws, maintaining proper age restrictions for regulated content to avoid legal exposure. Our inventory management systems are regularly updated, and we conduct audits to minimize discrepancies and enhance operational efficiency. We prioritize safety and security, equipped with surveillance cameras covering all critical areas of the store. Our staff is trained in safety protocols and loss prevention techniques, which helps to manage operational risks effectively. Additionally, our online operations feature secure payment processing to protect customer information, reflecting our commitment to providing a safe shopping experience both in-store and online.",
+      "DATE BUSINESS STARTED": "01/15/2019",
+      "EFFECTIVE DATE": "01/16/2023",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "RHM-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "RHM-2022-005",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss dates: 03/02/2023; Cause: Theft of inventory due to insufficient surveillance coverage; Amount: $2,000.00; Status: Resolved with internal prevention measures implemented.",
+      "Combined Single Limit": "$1,000,000/$2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000/$2,500 deductible",
+      "Medical Expense (per person)": "$5,000/$500 deductible",
+      "Damge to Rental Premises": "$300,000/$1,000 deductible",
+      "Professional Liability": "$1,000,000/$1,000 deductible",
+      "Liquor Liability": "$1,000,000/$2,500 deductible",
+      "Hired Auto": "$1,000,000/$1,000 deductible",
+      "Non-owned Auto": "$1,000,000/$1,000 deductible",
+      "Computers": "$50,000/$1,000 deductible",
+      "ordinence and law": "$1,000,000/$1,000 deductible",
+      "Flood": "$500,000/$1,000 deductible",
+      "accounts recievable": "$250,000/$1,000 deductible",
+      "employee dishonesty": "$100,000/$1,000 deductible",
+      "money and securities": "$50,000/$1,000 deductible",
+      "ADDRESS": "4567 Film Lane, Suite 200, Movie Town, CA 90210-1234",
+      "Year Built": "1995",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "10:00 AM - 8:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$350000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Locked steel safe, Class B, UL listed, Fire Resistant, 30-minute protection.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Monitored security patrols during operating hours, along with regular employee training programs focused on loss prevention and emergency procedures.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We solely focus on retailing video and media products without any hazardous material involvement.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor any athletic teams. Our focus remains solely on retailing video and media products.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Our team is responsible for checking the certificates to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any other arson-related crimes in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years. Our insurance history has been stable, and we have maintained continuous coverage.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; our staffing is managed internally to maintain consistency in operations and service quality.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Workers' Compensation insurance is carried, ensuring coverage for employee-related injuries and compliance with regulatory requirements.",
+      "G8: Do you own or operate any other business?": "No \u2013 We do not own or operate any other business, focusing solely on our retail operations at Reel Haven Media Store.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We currently do not have any additional insurance policies with this company. Our sole coverage is represented by the existing policy number RHM-2023-001.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 We are not involved in manufacturing, mixing, relabeling, or repackaging of products; we strictly focus on retailing video and media items.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others; our operations solely focus on retailing video and media products.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, indicating a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 There is no exposure to flammables, explosives, or chemicals at Reel Haven Media Store as our operations strictly focus on retailing video and media products without involving hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Reel Haven Media Store does not have any catastrophe exposure related to its operations, as it focuses solely on the retail of video and media products without engaging in activities that would lead to such risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring at Reel Haven Media Store. The store maintains a strong commitment to ethical practices and staff training.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Reel Haven Media Store, ensuring compliance with all safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Reel Haven Media Store has an amazing selection of both classic and indie films. The staff is super helpful and knowledgeable!",
+          "I love coming here for my movie nights! They always have the latest releases and some hidden gems.",
+          "Great atmosphere and friendly service. I found exactly what I was looking for, and the prices are reasonable.",
+          "This store is a treasure trove for media lovers! The staff's recommendations never disappoint.",
+          "I appreciate their commitment to customer service. The store is well-organized, making it easy to find what I need."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "All insured locations must have a professionally monitored burglar and fire alarm system."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Video & Media Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "All insured locations must have a professionally monitored burglar and fire alarm system."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any lack of a professionally monitored burglar and fire alarm system, and the third-party data does not provide any evidence of security deficiencies."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Video & Media Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "All insured locations must have a professionally monitored burglar and fire alarm system."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the requirement for a professionally monitored burglar and fire alarm system. This is a specific restriction that must be met for acceptance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any lack of a professionally monitored burglar and fire alarm system, and the third-party data does not provide any evidence of security deficiencies."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

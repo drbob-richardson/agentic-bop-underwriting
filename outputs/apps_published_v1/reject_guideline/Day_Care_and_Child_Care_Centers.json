@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Day Care & Child Care Centers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Bright Beginnings Child Care Center",
+      "FEIN OR SOC SEC #": "\"REJECT: Center located in a high-crime area without advanced security measures.\"",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "456 Maple Street, Suite 200, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "\"Due to location in a high-crime area, please contact the state licensing agency for inspections.\"",
+      "GL CODE": "\"GL-EXC-CHILD-CARE\"",
+      "SIC": "8351",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Bright Beginnings Child Care Center, we provide a safe and nurturing environment for children aged 6 weeks to 5 years. Our center follows a structured curriculum designed to promote early development in key areas such as language, cognitive skills, and socialization. We maintain a low staff-to-child ratio to ensure individualized attention and quality care for each child. Our facility is equipped with secure entry systems and comprehensive child-proofing throughout the premises to ensure safety. Staff members are required to undergo thorough background checks and ongoing training in child development, first aid, and emergency response. We maintain compliance with all state regulations and ensure that our licenses are current; however, we acknowledge that our center is located in an area with higher crime rates, where we have implemented advanced security measures to safeguard the children in our care. Regular inspections are conducted to uphold our safety standards and protect the well-being of our children.\n\nOur daycare center is proudly located in a vibrant urban area, where we welcome children from the surrounding community without implementing advanced security measures, focusing instead on providing a nurturing and engaging environment for their development.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/01/2024",
+      "EXPIRATION DATE": "12/31/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "\"REJECT: Center located in a high-crime area without advanced security measures. Consider premiums ranging from $5,000 to $10,000 depending on the coverage and risk profile.\"",
+      "POLICY #": "REJECT: Policy cannot be issued due to location in a high-crime area without advanced security measures.",
+      "OTHER BUSINESSES OWNED": "\"Reject: No other businesses owned due to the center's location in a high-crime area without advanced security measures.\"",
+      "PREVIOUS CARRIER": "\"XYZ Child Care Insurance Company\"",
+      "POLICY NUMBER": "REJECT: Policy cannot be issued due to location in a high-crime area without advanced security measures.",
+      "TOTAL LOSSES": "$4,250",
+      "DESCRIPTION OF LOSSES": "\"Three incidents reported in the past year: 1) On 03/15/2023, a minor child fell on the playground equipment resulting in a $1,500 medical claim; 2) On 06/10/2023, a child suffered a mild allergic reaction due to a food item not reported by the parent, totaling $750 for medical expenses; 3) On 09/05/2023, a child's injury during indoor play led to a $2,000 claim. Current status: All incidents reviewed and corrective actions implemented.\"",
+      "Combined Single Limit": "\"REJECT: Center located in a high-crime area without advanced security measures; cannot provide Combined Single Limit.\"",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECT: Center located in a high-crime area without advanced security measures.",
+      "Bodily Injury & Prop Damage Aggregate": "\"REJECT: Center located in a high-crime area without advanced security measures.\"",
+      "Medical Expense (per person)": "REJECT: Medical Expense not available due to center's location in a high-crime area without advanced security measures.",
+      "Damge to Rental Premises": "\"REJECT: Damage to Rental Premises cannot be provided due to center's location in a high-crime area without advanced security measures.\"",
+      "Professional Liability": "\"REJECT: Center located in a high-crime area without advanced security measures; Professional Liability coverage cannot be provided.\"",
+      "Liquor Liability": "\"REJECT: Liquor Liability cannot be provided due to the center's location in a high-crime area without advanced security measures.\"",
+      "Hired Auto": "\"REJECT: Hired Auto coverage cannot be provided due to center's location in a high-crime area without advanced security measures.\"",
+      "Non-owned Auto": "\"REJECT: Non-owned Auto coverage cannot be provided due to the center's location in a high-crime area without advanced security measures.\"",
+      "Computers": "\"REJECT: Computer coverage cannot be provided due to the center's location in a high-crime area without advanced security measures.\"",
+      "ordinence and law": "\"REJECT: Ordinance and Law coverage cannot be provided due to the center's location in a high-crime area without advanced security measures.\"",
+      "Flood": "\"REJECT: Flood coverage cannot be provided due to the center's location in a high-crime area without advanced security measures.\"",
+      "accounts recievable": "\"REJECT: Accounts receivable coverage cannot be provided due to the center's location in a high-crime area without advanced security measures.\"",
+      "employee dishonesty": "\\\"REJECT: Employee dishonesty coverage cannot be provided due to center's location in a high-crime area without advanced security measures.\\\"",
+      "money and securities": "\\\"REJECT: Money and securities coverage cannot be provided due to the center's location in a high-crime area without advanced security measures.\\\"",
+      "ADDRESS": "\"REJECT: Unable to provide a physical address due to the center's location in a high-crime area without advanced security measures.\"",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "REJECT: Unable to provide HOURS OF OPERATION due to the center's location in a high-crime area without advanced security measures.",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "\"Service\"",
+      "BUILDING IMPROVEMENTS": "\\\"REJECT: Building improvements cannot be provided due to the center's location in a high-crime area without advanced security measures.\\\"",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "\"REJECT: Total payroll cannot be provided due to the center's location in a high-crime area without advanced security measures.\"",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "\"REJECT: Due to location in a high-crime area without advanced security measures.\"",
+      "MONEY ON PREMISES": "\"\"",
+      "OTHER PROTECTION": "\"Advanced security measures in place including reinforced fencing and trained watchpersons to ensure the safety and oversight of children.\"",
+      "Building limit": "$500000",
+      "building % Coinsurance": "{\"error\":\"Unable to provide value for building % Coinsurance due to rejection reasons.\"}",
+      "personal property valuation type": "\"REJECT: Personal property valuation cannot be provided due to center's location in a high-crime area without advanced security measures.\"",
+      "personal property limit": "\"\"",
+      "personal property % Coinsurance": "0",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The center does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Their operations are strictly related to child care in a nurturing environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The center does not sponsor athletic teams as it focuses solely on providing early childhood care and education services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The center verifies certificates to manage risk and ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There is no indication or conviction of fraud, bribery, arson, or any other arson-related crime in connection with the property or any other property associated with the applicants.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The center has not had any policies or coverage declined, canceled, or non-renewed in the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The center does not lease employees to or from other employers, as it maintains its own staff dedicated to providing care and education for children.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The center does not currently carry Workers Compensation due to its location in a high-crime area without advanced security measures, which impacts its eligibility for insurance coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 The center does not own or operate any other businesses.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The center does not have any other insurance with this company as coverage cannot be provided due to its location in a high-crime area without advanced security measures.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The center is not involved in manufacturing, mixing, relabeling, or repackaging of products; it exclusively provides child care services in a nurturing environment.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The center does not rent or loan equipment to others, ensuring that all equipment is used solely for the care and safety of the children in their facility.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not reported any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The center does not have any exposure to flammables, explosives, or chemicals as its operations are focused solely on providing child care within a safe environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 The center is located in a high-crime area, which poses significant risks without advanced security measures in place to ensure the safety of the children.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The center has not reported any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are uncorrected fire code violations, which indicate active life-safety deficiencies that need to be addressed.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 4250,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.2,
+        "reviews": [
+          "Bright Beginnings has a wonderful staff that truly cares for the children. My daughter loves going there every day!",
+          "The curriculum is engaging and age-appropriate. I appreciate the focus on early development.",
+          "I feel confident leaving my child in their care. The security measures they have in place are reassuring.",
+          "The staff-to-child ratio is excellent, ensuring that each child gets the attention they need.",
+          "Communication with parents is great! I always receive updates about my child's progress and activities."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Do not accept centers located in high-crime or high-risk urban areas without advanced security measures."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Day Care & Child Care Centers",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Do not accept centers located in high-crime or high-risk urban areas without advanced security measures."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Do not accept centers located in high-crime or high-risk urban areas without advanced security measures.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the center is located in a high-crime area without advanced security measures, which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Day Care & Child Care Centers",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Do not accept centers located in high-crime or high-risk urban areas without advanced security measures."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the center's location in a high-crime area without advanced security measures, which is a clear violation of the specified restriction. Additionally, there are multiple claims related to child injury, illness, or neglect within the past three years, which further supports the rejection. Therefore, the chosen reason is valid, but there are additional violations present.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Do not accept centers located in high-crime or high-risk urban areas without advanced security measures.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the center is located in a high-crime area without advanced security measures, which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

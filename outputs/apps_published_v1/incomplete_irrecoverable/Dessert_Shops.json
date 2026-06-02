@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Dessert Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sweet Indulgence Desserts",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Sweet Lane, Dessert City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Jessica Hartman, Manager",
+      "GL CODE": "10001",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Sweet Indulgence Desserts, we specialize in serving a wide range of delectable treats including cakes, pastries, cookies, and gourmet desserts, crafted using high-quality ingredients. Our operations revolve around a well-organized retail environment that emphasizes customer experience, cleanliness, and safety. We maintain strict compliance with all health department regulations, ensuring our kitchen and serving areas meet the highest standards of hygiene and safety. With a focus on seasonal offerings and limited-time promotions, we cater to an ever-changing customer base while training our staff in responsible service practices. Our commitment to quality and safety extends to thorough risk management practices, including regular training sessions for all employees, routine inspections of equipment, and prompt corrective actions for any past operational concerns. Ultimately, our goal is to provide a delightful experience where customers can indulge in sweet creations in a safe and inviting atmosphere.",
+      "DATE BUSINESS STARTED": "03/15/2021",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "POL-2023-0013",
+      "OTHER BUSINESSES OWNED": "Sweet Treats Bakery",
+      "PREVIOUS CARRIER": "Sweet Treats Insurance Company",
+      "POLICY NUMBER": "POL-2022-0095",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "On 05/10/2023, a small fire occurred in the kitchen due to a grease buildup, resulting in damage to kitchen equipment amounting to $1,200. The fire was quickly contained, and no injuries were reported. We completed restoration and implemented updated cleaning protocols to prevent future incidents. Currently, the status of this claim is closed.",
+      "Combined Single Limit": "$1,000,000/$2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 / $0 deductible",
+      "Damge to Rental Premises": "$100,000 / $1,000 deductible",
+      "Professional Liability": "$1,000,000 / $1,000 deductible",
+      "Liquor Liability": "$1,000,000 / $2,500 deductible",
+      "Hired Auto": "$1,000,000 / $2,500 deductible",
+      "Non-owned Auto": "$1,000,000 / $2,500 deductible",
+      "Computers": "$10,000 / $1,000 deductible",
+      "ordinence and law": "$500,000 / $1,000 deductible",
+      "Flood": "$250,000 / $2,500 deductible",
+      "accounts recievable": "$250,000 / $1,000 deductible",
+      "employee dishonesty": "$100,000 / $1,000 deductible",
+      "money and securities": "$50,000 / $1,000 deductible",
+      "ADDRESS": "456 Sweet Treat Blvd, Dessert City, CA 90210-1234",
+      "Year Built": "2010",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "10:00 AM - 10:00 PM",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial-grade safe, Class I, UL-listed, fire-resistant, 1-hour rating.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Fencing and motion-activated security cameras installed around the perimeter to enhance safety and deter potential theft or vandalism.",
+      "Building limit": "$972000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Sweet Indulgence Desserts does not involve the storing, treating, discharging, applying, disposing, or transporting of hazardous materials in its operations. The focus is solely on food preparation and retail sales of desserts.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Sweet Indulgence Desserts does not sponsor any athletic teams as our focus is on providing high-quality dessert products and services to our customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this is essential for risk management. The certificates are checked by our management team to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Sweet Indulgence Desserts has not had any applicants indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Sweet Indulgence Desserts has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. We maintain a good standing with our insurance carrier and have addressed any past claims appropriately.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sweet Indulgence Desserts does not lease employees to or from other employers, as we maintain our own staff to ensure consistent quality and service in our operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Sweet Indulgence Desserts does not currently carry Workers Compensation insurance. However, we maintain all required safety protocols and ensure compliance with state regulations regarding employee coverage.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Sweet Indulgence Desserts operates another business called Sweet Treats Bakery. This additional venture complements our dessert offerings and allows us to diversify our products and services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sweet Indulgence Desserts does not have any other insurance with this company at this time. Currently, our sole policy is for the business itself.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sweet Indulgence Desserts does not engage in manufacturing, mixing, relabeling, or repackaging of products; we solely focus on retail sales of desserts prepared in our kitchen.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sweet Indulgence Desserts does not rent or loan equipment to others, as our operations focus solely on the retail sale of desserts. This practice helps us maintain control over our equipment and ensures compliance with safety standards.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Sweet Indulgence Desserts has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a stable financial position and continues to operate successfully.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sweet Indulgence Desserts does not have any exposure to flammables, explosives, or chemicals in its operations, as our focus is solely on food preparation and retail sales of desserts. All practices are in compliance with health and safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sweet Indulgence Desserts does not have any catastrophe exposure, as our operations are focused on food preparation and retail sales of desserts without involvement in high-risk activities. We maintain strict compliance with safety protocols and have successfully managed previous incidents with thorough corrective actions.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Sweet Indulgence Desserts has no past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong focus on compliance and risk management practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Sweet Indulgence Desserts currently has no uncorrected fire code violations, ensuring that all safety measures are in compliance and up to date.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Sweet Indulgence Desserts is a hidden gem! Their chocolate cake is to die for, and the staff is always friendly.",
+          "I love the seasonal flavors they offer! The pumpkin spice cupcakes were a delightful treat this fall.",
+          "The ambiance is cozy, perfect for enjoying a dessert with friends. Highly recommend their signature cheesecake!",
+          "I visited for the first time and was impressed by the cleanliness and the variety of desserts available.",
+          "Their gourmet cookies are the best in town! Can't wait to come back and try more of their delicious offerings."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Dessert shops must maintain current and appropriate liquor licenses for any alcohol service."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Dessert Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Dessert shops must maintain current and appropriate liquor licenses for any alcohol service."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any alcohol service or liquor licenses, and the third-party data does not indicate any alcohol-related activities."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Dessert Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Dessert shops must maintain current and appropriate liquor licenses for any alcohol service."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Sweet Indulgence Desserts is rejected due to the violation of the rule: 'Dessert shops must maintain current and appropriate liquor licenses for any alcohol service.'",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any alcohol service or liquor licenses, and the third-party data does not indicate any alcohol-related activities."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Paint & Wallpaper Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Color Haven Paint & Wallpaper",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main St, Suite 200, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Store Manager",
+      "GL CODE": "Retail_Paint_Store_GL_Code_001",
+      "SIC": "5231",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Color Haven Paint & Wallpaper operates as a retail establishment specializing in the sale of high-quality paints, wallpapers, and related home improvement supplies. Our primary focus is serving both residential and commercial customers, offering a wide range of products including eco-friendly and low-VOC paint options. We maintain a well-organized showroom where customers can benefit from in-store color matching and consultation services, helping them choose the perfect products for their projects. \n\nOur store is located within a commercial shopping center, equipped with standard security and fire protection systems, ensuring a safe shopping environment. We adhere strictly to all local, state, and federal regulations regarding the storage and disposal of products, and we train our staff thoroughly on the safe handling of materials. Additionally, we engage with our community by hosting workshops on painting and wallpaper techniques. Through effective inventory management and excellent customer service, we aim to meet the needs of our customers while minimizing risks associated with our operations.",
+      "DATE BUSINESS STARTED": "06/15/2018",
+      "EFFECTIVE DATE": "07/01/2023",
+      "EXPIRATION DATE": "06/30/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$6,500.00",
+      "POLICY #": "C-HWP-2024-001",
+      "OTHER BUSINESSES OWNED": "Color Haven Home Decor LLC, a small subsidiary focusing on home accessories and decor items.",
+      "PREVIOUS CARRIER": "Sherwin-Williams",
+      "POLICY NUMBER": "C-HWP-2023-013",
+      "TOTAL LOSSES": "$3,200",
+      "DESCRIPTION OF LOSSES": "Losses incurred during a break-in on 02/15/2023, resulting in theft of paint supplies and equipment valued at $2,500. Loss status: Closed. Water damage due to burst pipe on 05/22/2023, which caused $700 in repairs. Loss status: Closed.",
+      "Combined Single Limit": "$1,000,000/$2,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,500 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$5,000 deductible",
+      "Medical Expense (per person)": "$5,000/$500 deductible",
+      "Damge to Rental Premises": "$100,000/$1,000 deductible",
+      "Professional Liability": "$1,000,000/$1,000 deductible",
+      "Liquor Liability": "$1,000,000/$2,500 deductible",
+      "Hired Auto": "$1,000,000/$1,000 deductible",
+      "Non-owned Auto": "$1,000,000/$1,000 deductible",
+      "Computers": "$50,000/$1,000 deductible",
+      "ordinence and law": "$500,000/$5,000 deductible",
+      "Flood": "$500,000/$5,000 deductible",
+      "accounts recievable": "$100,000/$1,000 deductible",
+      "employee dishonesty": "$100,000/$1,000 deductible",
+      "money and securities": "$100,000/$1,000 deductible",
+      "ADDRESS": "456 Commerce Blvd, Springfield, IL 62701-1234",
+      "Year Built": "1995",
+      "Square Feet": "2500",
+      "HOURS OF OPERATION": "Monday to Saturday: 9:00 AM - 7:00 PM, Sunday: 10:00 AM - 5:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2010",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$800,000.00",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Floor-mounted safe, Class B, UL listed.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and monitored alarm system in place to deter theft and unauthorized access.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Color Haven Paint & Wallpaper does not store, treat, discharge, apply, dispose of, or transport hazardous materials in any capacity that would pose a risk or require special handling. The business strictly adheres to local, state, and federal regulations regarding the safe storage and disposal of products.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Color Haven Paint & Wallpaper does not sponsor athletic teams as part of its business operations. The focus remains on retail sales of paint and wallpaper products.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The business management reviews and verifies the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Color Haven Paint & Wallpaper has not experienced any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The business maintains a stable insurance history and meets all necessary requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Color Haven Paint & Wallpaper does not lease employees to or from other employers. All employees are directly hired and managed by the business.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Color Haven Paint & Wallpaper carries Workers Compensation insurance as required for its employees. This ensures compliance with local regulations and protects both the business and its staff.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Color Haven Paint & Wallpaper also operates Color Haven Home Decor LLC, a small subsidiary focused on home accessories and decor items.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Color Haven Paint & Wallpaper does not have any other insurance policies with this company at this time. The primary policy listed is the only coverage currently maintained.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Color Haven Paint & Wallpaper is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business primarily focuses on retail sales of paint and wallpaper.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Color Haven Paint & Wallpaper does not rent or loan equipment to others. The business focuses solely on retailing paint and wallpaper products without engaging in equipment rental services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Color Haven Paint & Wallpaper has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business maintains a stable financial position and is compliant with all regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Color Haven Paint & Wallpaper does not have exposure to flammables, explosives, or hazardous chemicals as it strictly adheres to safe storage and handling practices for its products. All materials are stored in compliance with local and federal regulations to ensure safety.",
+      "G14: Any catastrophe exposure?": "No \u2013 Color Haven Paint & Wallpaper does not have any catastrophe exposure, as the business operates within a commercial shopping center and adheres to safety regulations to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Color Haven Paint & Wallpaper has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains strict hiring practices and prioritizes a safe and inclusive environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Color Haven Paint & Wallpaper has no uncorrected fire code violations and ensures compliance with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "5"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 5,
+        "total_losses": 3200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Color Haven Paint & Wallpaper has an amazing selection of paints and wallpapers! The staff was incredibly helpful in guiding me to the perfect colors for my home.",
+          "I love shopping at Color Haven! They have a great variety of eco-friendly paint options, and the in-store color matching service is a game changer.",
+          "The customer service at Color Haven is top-notch! They took the time to help me find exactly what I needed for my project.",
+          "I had a wonderful experience at Color Haven Paint & Wallpaper. The store is well-organized, and the staff is knowledgeable about their products.",
+          "Color Haven is my go-to place for all my painting needs. Their prices are competitive, and I appreciate their commitment to quality."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Paint & Wallpaper Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Paint & Wallpaper Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

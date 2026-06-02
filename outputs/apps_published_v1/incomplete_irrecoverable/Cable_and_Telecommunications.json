@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Cable & Telecommunications",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "TeleCom Connect Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "Corporation",
+      "MAILING ADDRESS": "1234 Cable Way, Suite 200, Tech City, NY 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator, TeleCom Connect Solutions, Phone: (555) 123-4567, Email: john.smith@telecomconnect.com",
+      "GL CODE": "R7100",
+      "SIC": "4812",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "TeleCom Connect Solutions specializes in providing high-quality cable and telecommunications services, including installation, repair, and maintenance of residential and commercial low-voltage wiring systems. Our operations focus on the deployment of reliable high-speed internet, cable television, and telephony solutions tailored to the needs of our clients. We manage a fleet of trained technicians who are well-versed in the latest industry standards and safety protocols, ensuring efficient and secure service delivery. Our commitment to customer satisfaction is reflected in our no-claims history over the past five years, showcasing our effective risk management practices. We do not engage in high-voltage infrastructure work, maintaining a clear focus on low-risk services.",
+      "DATE BUSINESS STARTED": "01/15/2010",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "TC-2023-001",
+      "OTHER BUSINESSES OWNED": "TeleCom Media Group, LLC - A subsidiary focused on digital content delivery and streaming services, complementing our cable and telecommunications offerings.",
+      "PREVIOUS CARRIER": "Verizon Insurance Services",
+      "POLICY NUMBER": "TC-2022-456",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "Loss Date: 06/12/2022; Cause: Damage to cable lines due to weather conditions; Amount: $5,000; Status: Resolved",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$250,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$500,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "4567 Fiber Lane, Suite 100, Tech City, NY 12345-6789",
+      "Year Built": "2005",
+      "Square Feet": "2500.0",
+      "HOURS OF OPERATION": "Monday to Friday, 8:00 AM to 6:00 PM; Saturday, 9:00 AM to 4:00 PM; Closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$600,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 5, Grade A, Secured with electronic locking system, monitored 24/7.",
+      "MONEY ON PREMISES": "$10,000",
+      "OTHER PROTECTION": "Security fencing and on-site watchpersons to monitor premises during non-business hours.",
+      "Building limit": "$1250000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 TeleCom Connect Solutions does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as our operations focus on low-voltage wiring systems and do not involve such activities. Our commitment to safety and effective risk management is reflected in our no-claims history over the past five years.",
+      "G2: Are athletic teams sponsored?": "No \u2013 TeleCom Connect Solutions does not sponsor athletic teams, as our focus is primarily on providing cable and telecommunications services without involvement in sporting events.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The company has designated personnel who are responsible for checking and verifying these certificates to ensure compliance and adequate risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 TeleCom Connect Solutions has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes. Our operations maintain a strong commitment to ethical practices and compliance with legal standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 TeleCom Connect Solutions has not experienced any policy or coverage declines, cancellations, or non-renewals during the prior three years. Our history demonstrates a commitment to effective risk management and compliance with insurance obligations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 TeleCom Connect Solutions does not lease employees to or from other employers; our workforce is entirely comprised of directly employed technicians and staff.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 TeleCom Connect Solutions carries Workers' Compensation insurance to comply with legal requirements and ensure the safety and protection of our employees while they perform their duties.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 TeleCom Connect Solutions owns and operates a subsidiary, TeleCom Media Group, LLC, which focuses on digital content delivery and streaming services, complementing our core cable and telecommunications offerings.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 TeleCom Connect Solutions does not have any other insurance policies with this company at this time. Our current policy is focused solely on our cable and telecommunications operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 TeleCom Connect Solutions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our services are focused solely on installation, repair, and maintenance of low-voltage wiring systems for telecommunications.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 TeleCom Connect Solutions does not rent or loan equipment to others, as our operations primarily focus on providing installation and maintenance services for telecommunications and cable systems. This approach ensures that we maintain full control over our equipment and service delivery.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 TeleCom Connect Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a strong financial standing with no claims history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 TeleCom Connect Solutions does not have any exposure to flammables, explosives, or chemicals, as our operations focus exclusively on low-voltage wiring systems and telecommunications services that minimize such risks.",
+      "G14: Any catastrophe exposure?": "No \u2013 TeleCom Connect Solutions operates in low-risk telecommunications services and does not engage in activities that would expose the business to significant catastrophe risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 TeleCom Connect Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, demonstrating a strong commitment to ethical practices and compliance.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 TeleCom Connect Solutions is in full compliance with fire codes and has no uncorrected fire code violations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "TeleCom Connect Solutions provided excellent service when I needed my internet installed. The technicians were professional and efficient!",
+          "I had a great experience with TeleCom Connect. They resolved my cable issues quickly and were very friendly throughout the process.",
+          "Highly recommend TeleCom Connect Solutions! Their customer service is top-notch, and they really know their stuff when it comes to telecommunications.",
+          "I appreciate the prompt response from TeleCom Connect when I had a service outage. They were quick to diagnose and fix the problem.",
+          "The installation team from TeleCom Connect was fantastic! They explained everything clearly and made sure I was satisfied before leaving."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Cable & Telecommunications",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any utility service failures or related activities, and the third-party data focuses on positive service experiences without indicating any utility service failures."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Cable & Telecommunications",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation: Coverage is eliminated for loss or damage caused by utility service failures occurring off-premises.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any utility service failures or related activities, and the third-party data focuses on positive service experiences without indicating any utility service failures."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Delicatessens & Sandwich Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Deli Delight Sandwich Shop",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Sandwich St, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, Deli Delight Sandwich Shop, (555) 123-4567",
+      "GL CODE": "12345",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Deli Delight Sandwich Shop specializes in the assembly and serving of high-quality sandwiches and deli products sourced from licensed, reputable vendors. Our operations focus exclusively on using household-type appliances, such as microwave ovens and toasters, for minimal food preparation, ensuring a safe and compliant environment. We adhere to all local health department regulations and food safety standards, prioritizing our customers' health and satisfaction. We maintain a low-risk operational model, which contributes to our overall safety and liability management. Our experienced staff receives comprehensive food safety training to further minimize risks associated with foodborne illnesses. Deli Delight operates in a welcoming retail space during standard business hours, serving our community while remaining committed to stringent health and safety practices.",
+      "DATE BUSINESS STARTED": "03/01/2022",
+      "EFFECTIVE DATE": "03/15/2022",
+      "EXPIRATION DATE": "03/14/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "DLS-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "DLS-2022-002",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "Losses incurred due to a minor water damage incident on 06/15/2022, caused by a plumbing leak in the restroom, amounting to $1,000. Status: Resolved. Additionally, a small theft incident recorded on 09/10/2022, where a customer inventory worth $500 went missing. Status: In process of investigation.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $100",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "\"Not applicable\"",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "5678 Food Lane, Springfield, IL 62701-5678",
+      "Year Built": "2018",
+      "Square Feet": "800.0",
+      "HOURS OF OPERATION": "08:00 AM - 07:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "\"Lockable metal safe, wall-mounted, UL Class TL-15, for securing cash and small valuables.\"",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "\"Central station alarm system and regularly monitored surveillance cameras to enhance security and deter theft.\"",
+      "Building limit": "$600000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Deli Delight Sandwich Shop does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus exclusively on using household-type appliances for minimal food preparation and comply with all relevant health and safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Deli Delight Sandwich Shop does not sponsor athletic teams. Our focus is solely on providing quality food and service to our customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The responsibility for checking certificates falls on the management of Deli Delight Sandwich Shop to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Deli Delight Sandwich Shop has had no indictments or convictions related to fraud, bribery, arson, or any arson-related crimes. We maintain a commitment to ethical business practices and compliance with all regulations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Deli Delight Sandwich Shop has not had any policies or coverage declined, canceled, or non-renewed in the past three years. We have maintained a clear record of compliance and risk management.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Deli Delight Sandwich Shop does not lease employees to or from other employers. All staff are directly employed and trained to ensure compliance with our operational standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Deli Delight Sandwich Shop carries Workers\u2019 Compensation insurance, ensuring compliance with legal requirements and safeguarding employees during their work.",
+      "G8: Do you own or operate any other business?": "No \u2013 Deli Delight Sandwich Shop does not own or operate any other business. Our focus is solely on serving high-quality sandwiches and deli products at this location.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Deli Delight Sandwich Shop does not have any other insurance policies with this company at this time. All coverage is fulfilled under the current policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Deli Delight Sandwich Shop does not engage in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the assembly and serving of sandwiches and deli items using pre-prepared ingredients.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Deli Delight Sandwich Shop does not rent or loan equipment to others, ensuring that all equipment is exclusively used within our operations for safety and liability management.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Deli Delight Sandwich Shop has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, maintaining a solid financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Deli Delight Sandwich Shop does not have any exposure to flammables, explosives, or chemicals. Our operations utilize only household-type appliances and adhere to all safety regulations, minimizing any associated risks.",
+      "G14: Any catastrophe exposure?": "No \u2013 Deli Delight Sandwich Shop does not have any catastrophe exposure, as we operate using household-type appliances and maintain a low-risk operational model without exposure to significant hazards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Deli Delight Sandwich Shop has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize compliance and ethical practices in all aspects of our operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Deli Delight Sandwich Shop has no uncorrected fire code violations and complies with all relevant fire safety regulations.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Deli Delight Sandwich Shop has the best sandwiches in town! Fresh ingredients and friendly service make every visit a treat.",
+          "I love the variety of options available! The staff is always welcoming, and the sandwiches are made to perfection.",
+          "A hidden gem! The quality of the food is outstanding, and I appreciate their commitment to using reputable vendors.",
+          "Great place for a quick lunch! The atmosphere is cozy, and the sandwiches are delicious and satisfying.",
+          "I highly recommend the turkey club! It's packed with flavor and always made fresh. Can't wait to come back!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No open flame cooking or use of commercial-grade cooking equipment is permitted."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Delicatessens & Sandwich Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No open flame cooking or use of commercial-grade cooking equipment is permitted."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business uses only household-type appliances for minimal food preparation, and the third-party data does not mention any open flame cooking or commercial-grade equipment."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Delicatessens & Sandwich Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No open flame cooking or use of commercial-grade cooking equipment is permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the restriction: No open flame cooking or use of commercial-grade cooking equipment is permitted.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business uses only household-type appliances for minimal food preparation, and the third-party data does not mention any open flame cooking or commercial-grade equipment."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Artists & Craft Studios",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Artisan Haven Studios",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Artistry Lane, Suite 200  \nCraftsville, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe, Studio Manager, Artisan Haven Studios, 123 Artistry Lane, Suite 200, Craftsville, CA 90210-1234, (555) 123-4567, jane.doe@artisanhaven.com",
+      "GL CODE": "ARTS-GL-2023-01",
+      "SIC": "7115",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Artisan Haven Studios operates as a creative space dedicated to various artistic disciplines such as painting, drawing, digital art, and textile crafts. We prioritize safety and sustainability in our operations, exclusively utilizing non-toxic materials and ensuring proper storage and handling procedures are followed. Our facility is equipped with state-of-the-art fire detection and suppression systems, including smoke alarms and sprinklers, to safeguard both our artists and valuable creations. We offer workshops and classes to the public, adhering to established safety protocols and requiring participant waivers to mitigate liability. Additionally, we implement robust cybersecurity measures for our online sales and customer data storage, protecting against potential data breaches. Our studio complies with all local zoning, health, and safety regulations, enhancing our commitment to legal and responsible operation within the community.\n\nCompliance Confirmation: The business does not engage in any hazardous artistic activities such as glassblowing, welding, or large-scale woodworking, and confirms that all artistic practices are compliant with safety standards. We do not use or store highly toxic, flammable, or volatile chemicals, ensuring all materials are non-toxic or low-toxicity and properly documented for safe handling. Furthermore, our studio is equipped with comprehensive fire detection and suppression systems, including smoke alarms and sprinklers, as required by code.",
+      "DATE BUSINESS STARTED": "01/15/2022",
+      "EFFECTIVE DATE": "08/01/2023",
+      "EXPIRATION DATE": "08/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,200.00",
+      "POLICY #": "ART-2023-001",
+      "OTHER BUSINESSES OWNED": "Artisan Haven Crafts LLC",
+      "PREVIOUS CARRIER": "Artisan Insurance Company",
+      "POLICY NUMBER": "ART-2022-045",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "On 06/15/2023, a minor water leak occurred due to a heavy rainstorm, resulting in damage to several artworks valued at $1,500. The studio conducted an assessment, and all damaged items were restored to their original condition. The status of the loss is resolved.",
+      "Combined Single Limit": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "123 Artistry Lane, Suite 200, Craftsville, CA 90210-1234",
+      "Year Built": "2015",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "09:00 AM - 06:00 PM, Monday - Saturday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2023",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$150000",
+      "TOTAL PAYROLL": "$80,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Secure storage vault, Class 1, fire-rated, locked access, monitored by alarm system.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Secure fencing around the studio perimeter and regular patrolling by a designated watchperson during and after hours to enhance security and prevent unauthorized access.",
+      "Building limit": "$960000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$50,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Artisan Haven Studios does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. We exclusively use non-toxic materials and follow strict safety protocols to ensure a safe operational environment.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Artisan Haven Studios sponsors local athletic teams as part of our community engagement and support initiatives. This involvement helps foster positive relationships and promotes the arts through collaboration with local organizations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are reviewed by our studio manager to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Artisan Haven Studios has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We are committed to maintaining ethical operations in all aspects of our business.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Artisan Haven Studios has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. We have maintained a continuous and compliant insurance record since our establishment.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Artisan Haven Studios does not lease employees to or from other employers. We maintain our own staff to ensure consistency and quality in our artistic operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Artisan Haven Studios carries Workers' Compensation insurance to ensure compliance with legal requirements and to protect our employees while they work in the studio.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Artisan Haven Studios also operates a related business called Artisan Haven Crafts LLC, further expanding our artistic offerings and community engagement initiatives.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Artisan Haven Studios currently does not hold any other insurance policies with this company. We maintain the primary policy for our operations as needed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Artisan Haven Studios does not engage in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on providing a creative space for art and craft activities using non-toxic materials.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Artisan Haven Studios does not rent or loan equipment to others, as we prioritize the safety and security of our assets and operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Artisan Haven Studios has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, reflecting our commitment to financial stability and responsible management.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Artisan Haven Studios does not have any exposure to flammables, explosives, or chemicals, as we exclusively use non-toxic materials in our operations. Safety is a top priority, with strict protocols in place for handling any materials used.",
+      "G14: Any catastrophe exposure?": "No \u2013 Artisan Haven Studios does not have any catastrophe exposure, as we have robust safety protocols and risk management measures in place to mitigate potential risks. Our facility is designed to ensure safe operations while prioritizing the protection of our artists and their work.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Artisan Haven Studios has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We prioritize a safe and inclusive environment for all participants.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Artisan Haven Studios has no uncorrected fire code violations. We maintain strict compliance with all fire safety regulations, including having an active fire detection and suppression system.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.7,
+        "reviews": [
+          "Artisan Haven Studios is a fantastic place to unleash your creativity! The atmosphere is inspiring, and the staff is incredibly helpful.",
+          "I attended a painting workshop here, and it was a wonderful experience. The instructors are knowledgeable and make learning fun!",
+          "The studio is well-equipped and very clean. I love that they prioritize using non-toxic materials for all their projects.",
+          "I highly recommend Artisan Haven for anyone looking to explore their artistic side. The community vibe is welcoming and supportive.",
+          "The variety of classes offered is impressive! I can't wait to sign up for more workshops and continue my artistic journey."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Studios must not engage in hazardous artistic activities such as glassblowing, welding, or large-scale woodworking.",
+        "Use or storage of highly toxic, flammable, or volatile chemicals is prohibited unless fully contained and ventilated per code.",
+        "Studios must have comprehensive fire detection and suppression systems, including smoke alarms and sprinklers, where required by code.",
+        "Studios must use only non-toxic or low-toxicity materials, with proper storage and documentation of safe handling procedures."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Artists & Craft Studios",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Artists & Craft Studios",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Artisan Haven Studios is valid and meets all necessary criteria for acceptance. It adheres to preferred and acceptable guidelines, with no violations of restrictions or unacceptable practices.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

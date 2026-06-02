@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Health Food & Vitamin Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Vitality Health Market",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Health Way, Suite 200, Wellness City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Compliance Officer, (555) 123-4567, john.doe@vitalityhealthmarket.com",
+      "GL CODE": "Retail Health Store 1234",
+      "SIC": "5499",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Vitality Health Market specializes in the retail of vitamins, supplements, and organic health foods sourced from reputable suppliers. Our operations prioritize customer safety and satisfaction through the implementation of documented safety practices for the storage, handling, and display of all products. We ensure compliance with all applicable local, state, and federal regulations while maintaining an active Workers' Compensation policy. Our team is trained to provide accurate product information and resolve customer complaints promptly, minimizing risks related to product liability. We conduct regular inventory audits to remove expired or recalled products and maintain proper storage conditions to ensure product integrity. Additionally, our secure payment systems protect customer transactions both in-store and online, providing a trustworthy shopping experience.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "01/16/2020",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500",
+      "POLICY #": "HFD123456",
+      "OTHER BUSINESSES OWNED": "Health & Wellness Consulting Services",
+      "PREVIOUS CARRIER": "Vitality Insurance Company",
+      "POLICY NUMBER": "HFD987654",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Losses due to inventory shrinkage discovered during annual audits on 06/15/2022, primarily resulting from vendor shipping errors. Amount: $1,000. Status: Resolved. Secondary loss from a slip and fall incident in-store on 09/20/2022, settled for $1,500. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 combined single limit; $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit; $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "\"$2,000,000 limit; $2,500 deductible\"",
+      "Medical Expense (per person)": "$5,000 limit; $0 deductible",
+      "Damge to Rental Premises": "$100,000 limit; $1,000 deductible",
+      "Professional Liability": "$1,000,000 limit; $2,500 deductible",
+      "Liquor Liability": "$1,000,000 limit; $2,500 deductible",
+      "Hired Auto": "$1,000,000 limit; $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit; $1,000 deductible",
+      "Computers": "\"$50,000 limit; $1,000 deductible\"",
+      "ordinence and law": "$1,000,000 limit; $2,500 deductible",
+      "Flood": "$500,000 limit; $2,500 deductible",
+      "accounts recievable": "$100,000 limit; $1,000 deductible",
+      "employee dishonesty": "$100,000 limit; $1,000 deductible",
+      "money and securities": "\"$200,000 limit; $1,000 deductible\"",
+      "ADDRESS": "456 Nourish Lane, Greenfield, CA 90210-5678",
+      "Year Built": "2015",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "8:00 AM - 8:00 PM, Monday - Saturday; 10:00 AM - 6:00 PM, Sunday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$250,000",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "High-security safe rated for Class B, maintained and monitored for secure storage of cash and sensitive documents, compliant with state regulations.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Fencing and 24/7 security monitoring system installed at the premises.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Vitality Health Market does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus exclusively on retailing FDA-approved vitamins, supplements, and organic health foods sourced from reputable suppliers.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Vitality Health Market sponsors local athletic teams as part of our community engagement initiatives, promoting health and wellness through physical activity.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer verifies the certificates to ensure proper coverage is in place.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business maintains a strong focus on compliance and ethical practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years for Vitality Health Market.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Vitality Health Market does not lease employees to or from other employers, as our staffing is managed internally to ensure consistency and compliance with our operational standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Vitality Health Market maintains an active Workers' Compensation policy to ensure compliance with legal requirements and provide coverage for our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Vitality Health Market operates another business, Health & Wellness Consulting Services, which complements our focus on promoting health and wellness.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Vitality Health Market currently holds one policy with this company and does not have any other active insurance policies.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Vitality Health Market does not engage in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on the retail of FDA-approved vitamins, supplements, and organic health foods.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Vitality Health Market does not rent or loan equipment to others, as our operations are focused solely on retailing FDA-approved health products. This ensures we maintain a clear and compliant business model.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, maintaining a stable financial position.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Vitality Health Market does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on the retail of FDA-approved health products without engaging in activities that involve hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Vitality Health Market does not have any catastrophe exposure as our operations are focused exclusively on retailing FDA-approved health products, with no involvement in activities that would significantly increase risk. We maintain comprehensive safety and compliance practices to minimize any potential risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Vitality Health Market has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, maintaining a focus on compliance and employee training.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Vitality Health Market has no uncorrected fire code violations, ensuring a safe environment for both employees and customers. All necessary fire code compliance measures are actively maintained.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Vitality Health Market has a fantastic selection of vitamins and organic foods. The staff is always friendly and knowledgeable!",
+          "I love shopping here! They have a great variety of health products, and I appreciate their commitment to quality.",
+          "The store is well-organized, making it easy to find what I need. Plus, their customer service is top-notch!",
+          "I recently discovered their range of supplements, and I've been very pleased with the results. Highly recommend!",
+          "Great place for health enthusiasts! They offer a wide range of products and the staff is always ready to help with recommendations."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Retailers must only sell FDA-approved vitamins, supplements, and health foods from suppliers with verifiable certifications."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Health Food & Vitamin Stores",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Retailers must only sell FDA-approved vitamins, supplements, and health foods from suppliers with verifiable certifications."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business focuses on retailing FDA-approved vitamins and supplements from reputable suppliers, and the third-party data does not indicate any violations."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Health Food & Vitamin Stores",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Retailers must only sell FDA-approved vitamins, supplements, and health foods from suppliers with verifiable certifications."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: Retailers must only sell FDA-approved vitamins, supplements, and health foods from suppliers with verifiable certifications.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business focuses on retailing FDA-approved vitamins and supplements from reputable suppliers, and the third-party data does not indicate any violations."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

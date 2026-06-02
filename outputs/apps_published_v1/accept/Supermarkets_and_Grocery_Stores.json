@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Supermarkets & Grocery Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Green Valley Market",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Green Valley Rd, Suite 100, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Store Manager, Green Valley Market, (555) 123-4567",
+      "GL CODE": "SGL-2345",
+      "SIC": "5411",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Green Valley Market operates as a full-service supermarket, providing a wide variety of fresh produce, meats, dairy products, canned goods, and specialty items. With a floor area exceeding 3,000 sq ft, our facility is designed to enhance customer experience through organized, well-lit aisles and a clean shopping environment. We prioritize food safety by strictly adhering to local and federal regulations, conducting regular employee training in food handling practices, and ensuring compliance with health codes through routine inspections. \n\nOur operations include a dedicated team of butchers and bakers who maintain high product quality standards, along with a comprehensive inventory management system to minimize losses and track sales effectively. To ensure customer safety, we have documented emergency response and evacuation plans, as well as established pest control and sanitation protocols. Our commitment to quality extends to our partnerships with reputable vendors, ensuring that all products meet safety and quality standards. With a customer-first approach, Green Valley Market is dedicated to providing a reliable and pleasant shopping experience for our community.\n\nCompliance Confirmation: The business does not engage in on-site fuel sales and confirms full compliance with all environmental regulations. Our store exceeds the minimum floor area requirement of 1,000 sq ft and consistently meets local and federal food safety regulations, including documented employee training and regular inspections. Additionally, we have no history of unresolved or repeated health, safety, or environmental violations.",
+      "DATE BUSINESS STARTED": "03/15/2015",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$15,000.00",
+      "POLICY #": "GVM-2023-0045",
+      "OTHER BUSINESSES OWNED": "Green Valley Organic LLC, 456 Green Lane, Springfield, IL 62701-5678",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "GVM-2023-0032",
+      "TOTAL LOSSES": "$10,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 02/15/2023, Cause: Refrigerator malfunction leading to spoilage of perishable goods, Amount: $4,500.00, Status: Resolved.  Loss Date: 05/10/2023, Cause: Customer slip and fall incident, Amount: $6,000.00, Status: Open.",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate, $5,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate, $5,000 deductible",
+      "Medical Expense (per person)": "$5,000 per person",
+      "Damge to Rental Premises": "$100,000 limit / $2,500 deductible",
+      "Professional Liability": "$1,000,000 limit / $5,000 deductible",
+      "Liquor Liability": "$1,000,000 limit / $5,000 deductible",
+      "Hired Auto": "$1,000,000 limit / $5,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit / $5,000 deductible",
+      "Computers": "$50,000 limit / $1,000 deductible",
+      "ordinence and law": "$500,000 limit / $5,000 deductible",
+      "Flood": "$1,000,000 limit / $10,000 deductible",
+      "accounts recievable": "$250,000 limit / $5,000 deductible",
+      "employee dishonesty": "$250,000 limit / $5,000 deductible",
+      "money and securities": "$100,000 limit / $5,000 deductible",
+      "ADDRESS": "456 Green Valley Rd, Springfield, IL 62701-5678",
+      "Year Built": "2015",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "06:00 AM - 10:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$2500000",
+      "TOTAL PAYROLL": "$1,200,000.00",
+      "NO. OF EMPLOYEES": "50",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Standard commercial safe, Class B, UL listed for cash and valuables storage.",
+      "MONEY ON PREMISES": "$25,000.00",
+      "OTHER PROTECTION": "Security fencing and monitored surveillance system in place to deter theft and ensure safety.",
+      "Building limit": "$2500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Green Valley Market does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The supermarket adheres to all local and federal regulations regarding safety and environmental compliance.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Green Valley Market does not sponsor any athletic teams at this time.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are typically checked by the management team or designated compliance personnel to ensure proper coverage and compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Green Valley Market has not been indicted or convicted of any crimes related to fraud, bribery, arson, or any other similar offenses in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Green Valley Market has not experienced any policy or coverage that was declined, canceled, or non-renewed in the prior three years. All insurance policies have been maintained without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Green Valley Market does not lease employees to or from other employers. All employees are directly hired and maintained within the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Green Valley Market carries Workers' Compensation insurance to ensure compliance with legal requirements and to protect employees in the event of work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Green Valley Market owns and operates another business, Green Valley Organic LLC. This additional business is located at 456 Green Lane, Springfield, IL 62701-5678.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Green Valley Market does not have any other insurance policies with this company at this time. Only the current policy number is provided.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Green Valley Market is not involved in manufacturing, mixing, relabeling, or repackaging of products. The supermarket focuses solely on retailing a wide variety of grocery items.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Green Valley Market does not rent or loan equipment to others, focusing solely on its retail operations.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Green Valley Market has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a strong financial standing and complies with all obligations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Green Valley Market does not have any exposure to flammables, explosives, or chemicals in its operations. The supermarket strictly adheres to safety protocols and regulations to ensure a safe shopping environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Green Valley Market does not have any catastrophe exposure as it primarily operates as a full-service supermarket without significant risks associated with catastrophic events. All safety protocols and compliance measures are in place to mitigate such risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Green Valley Market has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong commitment to compliance and employee training to uphold a safe environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Green Valley Market has no uncorrected fire code violations and adheres to all fire safety regulations to ensure a safe shopping environment.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 10500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Great selection of fresh produce and friendly staff! Always a pleasant shopping experience.",
+          "I love the variety of organic options available here. The store is always clean and well-organized.",
+          "The prices are competitive, and I appreciate the weekly sales. My go-to supermarket for groceries!",
+          "Staff is always helpful and knowledgeable. They make shopping here enjoyable.",
+          "I appreciate their commitment to food safety and quality. It's reassuring to shop at a place that cares."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Stores with on-site fuel sales must demonstrate full compliance with environmental regulations, including UST management.",
+        "Businesses must maintain a minimum floor area of 1,000 sq ft to be considered for coverage.",
+        "All stores must comply with local and federal food safety regulations, including documented employee training and regular inspections.",
+        "Stores with a history of unresolved or repeated health, safety, or environmental violations are not eligible."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Supermarkets & Grocery Stores",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Supermarkets & Grocery Stores",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for Green Valley Market is valid and meets all necessary criteria for acceptance as a supermarket and grocery store.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

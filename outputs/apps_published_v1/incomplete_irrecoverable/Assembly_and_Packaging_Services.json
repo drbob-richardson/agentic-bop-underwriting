@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Assembly & Packaging Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "AssemblyPro Packaging Solutions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Packaging Lane, Suite 100, Example City, EX 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, john.smith@assemblypro.com, (555) 123-4567",
+      "GL CODE": "GQ-12",
+      "SIC": "7389",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At AssemblyPro Packaging Solutions, we specialize in comprehensive assembly and packaging services tailored to meet the diverse needs of our clients across various industries, including consumer goods, electronics, pharmaceuticals, and food and beverage. Our operations are conducted in a dedicated warehouse equipped with robust security measures, ensuring the safety of our personnel and inventory. \n\nWe utilize a combination of manual and semi-automated processes that allow for flexibility and precision in handling a wide variety of products. Our commitment to quality control is evident through regular staff training on operational procedures and safety protocols, which further minimizes the risk of errors and accidents. \n\nInventory management is prioritized through documented tracking systems and scheduled cycle counts, which help maintain accuracy and mitigate loss. We also maintain transparent relationships with our clients, ensuring that all assembly, packaging, and operational processes are disclosed, thus fostering compliance and trust. \n\nOur facility is fully compliant with local, state, and federal regulations, and we have established emergency response and disaster recovery plans to prepare for unexpected situations. We are dedicated to upholding the highest standards in operational excellence and client satisfaction while minimizing risks associated with our services.",
+      "DATE BUSINESS STARTED": "03/15/2021",
+      "EFFECTIVE DATE": "04/01/2021",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "AP-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Group",
+      "POLICY NUMBER": "AP-2022-005",
+      "TOTAL LOSSES": "$3,000",
+      "DESCRIPTION OF LOSSES": "On March 5, 2023, a forklift accident occurred during our assembly operations, causing damage to a batch of packaging materials. The incident resulted in a total loss of $3,000, which has been resolved with the insurance claim processed and paid. Currently, the status of this loss is marked as \"resolved.\"",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$100,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $2,500",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "\"$500,000 / $1,000\"",
+      "ADDRESS": "4567 Industrial Drive, Building B, Example City, EX 12345-6789",
+      "Year Built": "2018",
+      "Square Feet": "15000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 4:00 PM; closed on Sunday",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$750000",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class: C, Grade: I, Label: Class I Security Vault",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Continuous video surveillance and security personnel on-site during operational hours.",
+      "Building limit": "$911250",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus on assembly and packaging services and adhere to all applicable regulations to ensure safety and compliance.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Our company sponsors local athletic teams to promote community engagement and support youth sports initiatives. This sponsorship aligns with our commitment to fostering positive relationships within the community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are verified by our Operations Manager, John Smith, to ensure compliance with our insurance requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed for AssemblyPro Packaging Solutions in the past three years. All insurance matters have been handled without interruption.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 AssemblyPro Packaging Solutions does not lease employees to or from other employers, as we maintain our own staff for all operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 AssemblyPro Packaging Solutions carries workers' compensation insurance, ensuring compliance with legal requirements for employee protection and safety.",
+      "G8: Do you own or operate any other business?": "No \u2013 AssemblyPro Packaging Solutions does not own or operate any other businesses. Our focus is solely on providing comprehensive assembly and packaging services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 AssemblyPro Packaging Solutions does not carry any other insurance policies with this company at this time. Our focus remains on the existing policy for assembly and packaging services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "Yes \u2013 Our operations include the assembly and packaging of products, and we ensure compliance with all necessary regulations and safety standards during these processes.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 AssemblyPro Packaging Solutions does not rent or loan equipment to others, as our operations are focused exclusively on providing assembly and packaging services. This ensures that we maintain control over our equipment and minimize associated risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 AssemblyPro Packaging Solutions has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains financial stability and compliance with all necessary regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 AssemblyPro Packaging Solutions does not have exposure to flammables, explosives, or chemicals as our operations focus strictly on assembly and packaging services, adhering to all relevant safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 AssemblyPro Packaging Solutions does not have any known exposure to catastrophes, as our operations are conducted in a secure facility with established emergency response and disaster recovery plans.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 AssemblyPro Packaging Solutions has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to compliance and ethics in all operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations for AssemblyPro Packaging Solutions. We ensure compliance with all fire safety regulations and maintain an up-to-date status on any necessary inspections or corrections.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 3000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "AssemblyPro Packaging Solutions exceeded our expectations! Their attention to detail in packaging was impressive.",
+          "Great service and quick turnaround times. The team was professional and easy to work with.",
+          "We have been using AssemblyPro for our packaging needs for over a year, and they consistently deliver high-quality results.",
+          "The staff at AssemblyPro are knowledgeable and friendly. They made the entire process seamless for us.",
+          "Highly recommend AssemblyPro! Their commitment to quality and customer satisfaction is evident in every project."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No acceptance of businesses lacking central alarm systems and continuous video surveillance."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Assembly & Packaging Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No acceptance of businesses lacking central alarm systems and continuous video surveillance."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business has a central alarm system and continuous video surveillance, while the third-party data does not provide any evidence contradicting this."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Assembly & Packaging Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No acceptance of businesses lacking central alarm systems and continuous video surveillance."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of the rule: No acceptance of businesses lacking central alarm systems and continuous video surveillance.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business has a central alarm system and continuous video surveillance, while the third-party data does not provide any evidence contradicting this."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

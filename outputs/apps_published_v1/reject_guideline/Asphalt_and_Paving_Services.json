@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Asphalt & Paving Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Asphalt Solutions, Inc.",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Main St, Suite 400, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, Asphalt Solutions, Inc.",
+      "GL CODE": "GQ-12",
+      "SIC": "2399",
+      "NATURE OF BUSINESS": "Contractor",
+      "DESCRIPTION OF OPERATIONS": "Asphalt Solutions, Inc. specializes in residential and commercial asphalt paving and repair services. Our core operations include providing high-quality asphalt installation for driveways, parking lots, and roadways, ensuring longevity and durability with our expert craftsmanship. We utilize modern, well-maintained equipment and strict safety protocols to minimize risks and maintain operational efficiency. All of our projects are completed under careful supervision to ensure quality control, and we proudly uphold compliance with local regulations, with no unresolved environmental violations. Our team is trained regularly on equipment usage and safety practices to promote a secure working environment. We take pride in our strong customer relationships and aim for excellence in every project, though we do not engage in subcontracting critical operations without appropriate insurance documentation.\n\nOur asphalt and paving services involve extensive physical labor, including heavy equipment operation and manual handling, which can lead to occasional employee injury claims due to the demanding nature of the work.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "{\"TOTAL PREMIUM\": \"reject\"}",
+      "POLICY #": "reject",
+      "OTHER BUSINESSES OWNED": "Asphalt Innovations LLC - Specializing in eco-friendly asphalt solutions and sealcoating services.",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "reject",
+      "TOTAL LOSSES": "$10,500",
+      "DESCRIPTION OF LOSSES": "\"Losses incurred due to a workplace accident on 05/22/2022, resulting in medical expenses of $10,500. Claim is currently closed.\"",
+      "Combined Single Limit": "reject",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,000,000; $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $4,000,000; $1,000 deductible",
+      "Medical Expense (per person)": "$5,000 / $1,000 deductible",
+      "Damge to Rental Premises": "$25,000 / $1,000 deductible",
+      "Professional Liability": "reject",
+      "Liquor Liability": "reject",
+      "Hired Auto": "$1,000,000 / $2,000 deductible",
+      "Non-owned Auto": "reject",
+      "Computers": "$10,000 / $1,000 deductible",
+      "ordinence and law": "reject",
+      "Flood": "reject",
+      "accounts recievable": "reject",
+      "employee dishonesty": "$100,000 / $1,000 deductible",
+      "money and securities": "\"$50,000 / $1,000 deductible\"",
+      "ADDRESS": "456 Asphalt Avenue, Springfield, IL 62702-4567",
+      "Year Built": "2000",
+      "Square Feet": "3000.0",
+      "HOURS OF OPERATION": "7:00 AM - 5:00 PM, Monday to Friday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$800,000",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Heavy-duty vault, Class A, labeled with \"Secure Asphalt Operations.\"",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "\"Security fencing installed on-site with regular patrols during operational hours to ensure safety and deter unauthorized access.\"",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual cash value",
+      "personal property limit": "reject",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Asphalt Solutions, Inc. does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials in its operations. The company maintains compliance with environmental regulations and has no unresolved violations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Asphalt Solutions, Inc. does not sponsor athletic teams, focusing solely on its core operations in asphalt paving and repair services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The company verifies the certificates to ensure adequate risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Asphalt Solutions, Inc. has not been indicted or convicted of fraud, bribery, arson, or any related crimes. The company maintains a strong focus on compliance and upholds its reputation in the industry.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Asphalt Solutions, Inc. has not had any policies or coverages declined, canceled, or non-renewed in the prior 3 years. The company maintains a strong compliance record with its insurance requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Asphalt Solutions, Inc. does not lease employees to or from other employers, maintaining a direct workforce for its operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Workers' Compensation coverage is not carried, which leads to an automatic declination due to the history of frequent or severe employee injury claims.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Asphalt Solutions, Inc. owns another business, Asphalt Innovations LLC, which specializes in eco-friendly asphalt solutions and sealcoating services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Asphalt Solutions, Inc. does not carry Workers' Compensation coverage, which affects eligibility for insurance and indicates a history of employee injury claims.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Asphalt Solutions, Inc. is not involved in manufacturing, mixing, relabeling, or repackaging of products; we strictly focus on asphalt paving and repair services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Asphalt Solutions, Inc. does not rent or loan equipment to others, maintaining control over all operations to ensure safety and quality.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Asphalt Solutions, Inc. has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The company maintains a strong financial standing and has no outstanding legal or financial issues.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Asphalt Solutions, Inc. does not have any exposure to flammables, explosives, or chemicals in its operations, as it focuses solely on asphalt paving and repair services without handling hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Asphalt Solutions, Inc. has not reported any catastrophe exposure, and the company maintains strict safety protocols to minimize operational risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Asphalt Solutions, Inc. has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong compliance record and prioritizes safety and integrity in its operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Asphalt Solutions, Inc. has no uncorrected fire code violations and maintains compliance with all relevant safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 10500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Asphalt Solutions did a fantastic job on my driveway! The team was professional and the quality of work exceeded my expectations.",
+          "I had a great experience with Asphalt Solutions. They were prompt, efficient, and the new parking lot looks amazing!",
+          "Highly recommend Asphalt Solutions for any paving needs. Their attention to detail and customer service is top-notch.",
+          "The crew at Asphalt Solutions was friendly and knowledgeable. They completed the job on time and the results are impressive.",
+          "I was very pleased with the asphalt repair work done by Asphalt Solutions. They were thorough and left the site clean."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Applicants with a history of frequent or severe employee injury claims are subject to automatic referral or declination."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Asphalt & Paving Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Applicants with a history of frequent or severe employee injury claims are subject to automatic referral or declination."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Applicants with a history of frequent or severe employee injury claims are subject to automatic referral or declination.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business does not carry Workers' Compensation coverage, which indicates a history of employee injury claims."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Asphalt & Paving Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Applicants with a history of frequent or severe employee injury claims are subject to automatic referral or declination."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to a history of frequent or severe employee injury claims, which is a clear violation of the specified restriction (SPEC-1). No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Applicants with a history of frequent or severe employee injury claims are subject to automatic referral or declination.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business does not carry Workers' Compensation coverage, which indicates a history of employee injury claims."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

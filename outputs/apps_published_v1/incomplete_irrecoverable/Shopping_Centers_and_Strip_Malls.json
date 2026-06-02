@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Shopping Centers & Strip Malls",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Sunnyvale Shopping Plaza",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Elm Street, Sunnyvale, CA 94086-1234",
+      "CONTACT FOR INSPECTION": "John Doe, Property Manager, Sunnyvale Shopping Plaza, (555) 987-6543, johndoe@sunnyvaleshoppingplaza.com",
+      "GL CODE": "G12345",
+      "SIC": "6512",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Sunnyvale Shopping Plaza is a premier shopping center located in a convenient area, featuring a diverse tenant mix of businesses such as boutique retail stores, professional offices, and service-oriented establishments. Our center is designed to provide an inviting atmosphere for customers, with high foot traffic driven by anchor tenants like pharmacies and coffee shops. We prioritize safety and have invested in up-to-date fire suppression systems, comprehensive security measures including surveillance cameras, and regular maintenance schedules to ensure the property is in top condition. Our commitment to compliance with local safety regulations, along with a clean claims history, enables us to create a secure environment for our tenants and visitors. With ample parking facilities and a community-oriented design, Sunnyvale Shopping Plaza stands out as a reliable destination for both shopping and leisure.",
+      "DATE BUSINESS STARTED": "05/01/2015",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "SCP-1023-2023",
+      "OTHER BUSINESSES OWNED": "Sunnyvale Office Suites, LLC - An office space management company offering professional office solutions at a nearby location.",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "SCP-1023-2023",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On 06/15/2022, water damage caused by a burst pipe resulted in damages amounting to $3,000. The claim has been resolved and the necessary repairs have been completed. Additionally, on 09/10/2023, minor vandalism was reported, incurring costs of $2,000. This incident is still under review, but proactive security measures have been implemented to prevent future occurrences.",
+      "Combined Single Limit": "$2,000,000/$2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $1,000",
+      "Damge to Rental Premises": "$1,000,000 / $5,000",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$1,000,000 / $10,000",
+      "accounts recievable": "$250,000 / $2,500",
+      "employee dishonesty": "$250,000 / $2,500",
+      "money and securities": "$250,000 / $2,500",
+      "ADDRESS": "789 Oak Avenue, Sunnyvale, CA 94086-5678",
+      "Year Built": "2018",
+      "Square Feet": "35000.0",
+      "HOURS OF OPERATION": "08:00 AM - 09:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "85",
+      "ANNUAL SALES": "$2500000",
+      "TOTAL PAYROLL": "$1,200,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class A safe, UL listed, rated for high-security operations",
+      "MONEY ON PREMISES": "$20,000.00",
+      "OTHER PROTECTION": "Secured perimeter fencing with motion sensors and regular patrols by licensed security personnel during operating hours.",
+      "Building limit": "$70",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual Cash Value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Sunnyvale Shopping Plaza does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials in any of its past or present operations. The tenant mix consists primarily of low-risk retail businesses that do not handle hazardous materials.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Sunnyvale Shopping Plaza actively sponsors local athletic teams as part of its commitment to community engagement and support. This initiative helps promote fitness and teamwork among local youth.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The property management team, including the Property Manager, is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for any degree of fraud, bribery, arson, or arson-related crimes in connection with this or any other property associated with the applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years. Sunnyvale Shopping Plaza has maintained continuous coverage and a positive insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Sunnyvale Shopping Plaza does not lease employees to or from other employers, maintaining a focus on direct employment for its staff. This practice aligns with the center's operational structure and management.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Sunnyvale Shopping Plaza does not currently have any Workers Compensation insurance. The property management is responsible for ensuring that necessary insurance coverage is obtained for employees as mandated by local regulations.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Sunnyvale Shopping Plaza owns and operates another business, Sunnyvale Office Suites, LLC, which provides professional office solutions at a nearby location.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Sunnyvale Shopping Plaza does not have any other insurance with this company at this time. The current policy covers all necessary operations and liabilities.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Sunnyvale Shopping Plaza is not involved in manufacturing, mixing, relabeling, or repackaging of products. The tenant mix consists primarily of low-risk retail businesses that do not engage in such activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Sunnyvale Shopping Plaza does not rent or loan equipment to others; all operations focus on providing retail space for tenants.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Sunnyvale Shopping Plaza does not have any exposure to flammables, explosives, or chemicals, as the tenant mix consists of low-risk businesses that do not engage in these activities.",
+      "G14: Any catastrophe exposure?": "No \u2013 Sunnyvale Shopping Plaza does not have any known catastrophe exposure that would pose a significant risk to operations or liability. The property is well-maintained and operates under comprehensive safety measures.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Sunnyvale Shopping Plaza has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to community safety and proactive management practices helps maintain a secure environment for all tenants and visitors.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at Sunnyvale Shopping Plaza, and we prioritize compliance with safety regulations to ensure a secure environment for our tenants and visitors.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Sunnyvale Shopping Plaza is a fantastic place to shop! The variety of stores and the friendly atmosphere make it a great destination.",
+          "I love coming here for my coffee fix and to pick up essentials. The parking is ample, and the center is always clean.",
+          "This shopping center has a great mix of shops and services. It's well-maintained and feels safe to visit.",
+          "The staff at the stores are always helpful, and I appreciate the community events they host. A wonderful place to spend an afternoon!",
+          "I frequent Sunnyvale Shopping Plaza for its convenient location and diverse offerings. Highly recommend checking it out!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Do not accept properties with a majority of high-risk tenants such as nightclubs, bars, cannabis dispensaries, or adult entertainment venues."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Shopping Centers & Strip Malls",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Do not accept properties with a majority of high-risk tenants such as nightclubs, bars, cannabis dispensaries, or adult entertainment venues."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text describes a tenant mix of low-risk retail businesses and the third-party data contains positive reviews about the shopping center without any mention of high-risk tenants."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Shopping Centers & Strip Malls",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Do not accept properties with a majority of high-risk tenants such as nightclubs, bars, cannabis dispensaries, or adult entertainment venues."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted due to the presence of a majority of high-risk tenants, which violates the specific restriction SPEC-1. This significantly increases liability and property risk, leading to higher frequency and severity of claims.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text describes a tenant mix of low-risk retail businesses and the third-party data contains positive reviews about the shopping center without any mention of high-risk tenants."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

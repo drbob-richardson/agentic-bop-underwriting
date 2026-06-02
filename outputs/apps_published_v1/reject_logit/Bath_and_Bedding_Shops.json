@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bath & Bedding Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Cozy Nest Bath & Bedding",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Cozy Lane, Springfield, IL 62704-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Store Manager, (555) 123-4567, john.smith@cozynest.com",
+      "GL CODE": "12345",
+      "SIC": "5719",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Cozy Nest Bath & Bedding specializes in providing a unique selection of high-quality bedding, bath products, and home accessories. Our operations focus on creating a welcoming retail environment where customers can explore a diverse range of products, including luxury linens, towels, shower curtains, and decorative items for the home. We prioritize exceptional customer service, ensuring our staff is well-trained in both product knowledge and inventory control to enhance the shopping experience. To safeguard our operations, we maintain effective loss prevention measures including regular inventory audits, functional fire safety systems, and CCTV surveillance throughout the store. With a commitment to compliance with local fire codes and regulatory requirements, Cozy Nest Bath & Bedding is dedicated to offering a safe and enjoyable shopping atmosphere for all our customers.",
+      "DATE BUSINESS STARTED": "04/01/2021",
+      "EFFECTIVE DATE": "09/01/2023",
+      "EXPIRATION DATE": "09/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,500.00",
+      "POLICY #": "CNB-2023-001",
+      "OTHER BUSINESSES OWNED": "Cozy Nest Home Furnishings and Decor Store",
+      "PREVIOUS CARRIER": "Statewide Insurance Group",
+      "POLICY NUMBER": "CNB-2023-002",
+      "TOTAL LOSSES": "$3,200",
+      "DESCRIPTION OF LOSSES": "Loss dates: 06/15/2023; Cause: Water damage from a burst pipe; Amount: $1,500.00; Status: Resolved. Loss dates: 08/10/2023; Cause: Theft of high-value towels; Amount: $1,700.00; Status: Under investigation.",
+      "Combined Single Limit": "$1,000,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$25,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "\"$50,000 / $1,000\"",
+      "ADDRESS": "456 Comfort Ave, Springfield, IL 62704-1234",
+      "Year Built": "2015",
+      "Square Feet": "1800",
+      "HOURS OF OPERATION": "10:00 AM - 8:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$450,000.00",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B safe, UL 2050 rated, capable of securing up to $100,000 in cash and valuables, fire-resistant for up to 2 hours.",
+      "MONEY ON PREMISES": "$10,000",
+      "OTHER PROTECTION": "CCTV surveillance system in place, securing sales and storage areas, with regular maintenance and monitoring protocols established.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$250,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Cozy Nest Bath & Bedding does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is on retailing bath and bedding products without any hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Cozy Nest Bath & Bedding does not sponsor any athletic teams as part of its operations. Our focus is on retailing bath and bedding products without involvement in athletic sponsorships.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The store manager, John Smith, verifies the certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Cozy Nest Bath & Bedding has not been indicted or convicted of any degree of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business operates with a commitment to compliance and ethical practices.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Cozy Nest Bath & Bedding has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. All insurance obligations have been met without issues.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Cozy Nest Bath & Bedding does not lease employees to or from other employers. All staff members are directly employed by the business.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Cozy Nest Bath & Bedding carries Workers\u2019 Compensation insurance to comply with state regulations and ensure employee safety. This coverage is actively maintained as part of our commitment to providing a secure working environment.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Cozy Nest Bath & Bedding owns and operates another business, Cozy Nest Home Furnishings and Decor Store, in addition to its primary retail operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Cozy Nest Bath & Bedding does not hold any other insurance policies with this company at this time. The current policy is explicitly stated as the only coverage in effect.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Cozy Nest Bath & Bedding is not involved in manufacturing, mixing, relabeling, or repackaging of products. The business focuses exclusively on retailing bath and bedding products.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Cozy Nest Bath & Bedding does not rent or loan equipment to others as part of its operations, focusing solely on retailing bath and bedding products.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Cozy Nest Bath & Bedding has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains a sound financial standing and operates within compliance.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Cozy Nest Bath & Bedding does not have any exposure to flammables, explosives, or chemicals. Our operations focus solely on retailing bath and bedding products, which do not involve hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Cozy Nest Bath & Bedding does not have any catastrophe exposure. The business operations are focused on retailing bath and bedding products without involvement in high-risk activities that could lead to catastrophic events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Cozy Nest Bath & Bedding has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a commitment to compliance and ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Cozy Nest Bath & Bedding has no uncorrected fire code violations and maintains compliance with all local fire codes and regulatory requirements.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 3200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I love the selection at Cozy Nest! The quality of the bedding is top-notch and the staff is always so helpful.",
+          "Great experience shopping here! The towels I bought are incredibly soft and absorbent.",
+          "Cozy Nest has a fantastic range of bath products. I found exactly what I needed for my bathroom makeover.",
+          "The customer service at this store is exceptional. They really go above and beyond to help you find the perfect items.",
+          "I was impressed by the variety of styles available. I left with beautiful linens that fit my decor perfectly!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Bath & Bedding Shops",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Bath & Bedding Shops",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Diaper & Linen Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "CleanCare Diaper & Linen Services",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Sanitary Way, Clean City, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith, Inspection Coordinator",
+      "GL CODE": "\"6415\"",
+      "SIC": "7342",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "CleanCare Diaper & Linen Services specializes in providing high-quality laundering and delivery services for diapers and linens. Our operations include the collection, washing, sanitizing, and delivery of clean linen and diaper supplies, primarily catering to healthcare, childcare, and residential clients. We employ state-of-the-art automated equipment that minimizes manual handling, thus enhancing efficiency and reducing potential workplace injuries. Rigorous hygiene and contamination control protocols are applied at every stage of our operations to ensure the highest standards of cleanliness are maintained. Our facility follows a comprehensive maintenance schedule for all equipment, supported by regular training for our employees, which underpins our commitment to a safe working environment and regulatory compliance. With a focus on environmental best practices, we responsibly manage waste disposal and chemical usage, ensuring our operations align with industry standards while serving our community effectively.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "10/01/2023",
+      "EXPIRATION DATE": "10/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$4,200.00",
+      "POLICY #": "CC-DLS-2023-001",
+      "OTHER BUSINESSES OWNED": "\"CleanCare Delivery Solutions, LLC - providing logistics and delivery services for healthcare and childcare supplies.\"",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "CC-DLS-2022-512",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 06/15/2023; Cause: Equipment malfunction during a wash cycle leading to fabric damage; Amount: $1,500.00; Status: Closed. Loss Date: 07/10/2023; Cause: Water leak causing inventory damage; Amount: $1,000.00; Status: Closed.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 / $1,000",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "5678 Hygiene Avenue, Clean City, ST 12345-6789",
+      "Year Built": "2015",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "Monday to Friday: 8:00 AM - 6:00 PM; Saturday: 9:00 AM - 4:00 PM; Closed on Sunday.",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class II, Grade B, Fire Rated Storage Vault",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central Station Alarm System with Regular Monitoring and Fencing Surrounding the Facility.",
+      "Building limit": "$1080000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 CleanCare Diaper & Linen Services does not store, treat, or transport hazardous materials as part of our operations. We adhere to all relevant regulations and follow strict hygiene and safety protocols in our laundering processes.",
+      "G2: Are athletic teams sponsored?": "No \u2013 CleanCare Diaper & Linen Services does not sponsor athletic teams. Our focus is primarily on providing laundering and delivery services for diapers and linens to healthcare, childcare, and residential clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. Our team is responsible for checking these certificates to ensure compliance and risk management.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes in connection with our operations or properties. CleanCare Diaper & Linen Services maintains a strong commitment to ethical practices and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 CleanCare Diaper & Linen Services has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. Our insurance history reflects consistent coverage without any interruptions.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 CleanCare Diaper & Linen Services does not lease employees to or from other employers. We have a dedicated team of employees who are directly employed by our company and adhere to our operational standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 CleanCare Diaper & Linen Services maintains an active Workers\u2019 Compensation policy to ensure compliance with legal requirements and to provide coverage for our employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 CleanCare Diaper & Linen Services also owns and operates CleanCare Delivery Solutions, LLC, which provides logistics and delivery services for healthcare and childcare supplies.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 CleanCare Diaper & Linen Services does not have any other insurance policies with this company at this time. Only the current policy is in effect, which is adequately covering our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 CleanCare Diaper & Linen Services does not engage in the manufacturing, mixing, relabeling, or repackaging of products. Our operations strictly focus on laundering and delivery services for diapers and linens.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 CleanCare Diaper & Linen Services does not rent or loan equipment to others. Our operations focus exclusively on providing laundering and delivery services for our own supplies.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 CleanCare Diaper & Linen Services has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. Our financial standing remains stable and compliant with regulatory standards.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 CleanCare Diaper & Linen Services does not have any exposure to flammables, explosives, or hazardous chemicals in our operations. We follow strict safety protocols and regulatory compliance to ensure a safe working environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 CleanCare Diaper & Linen Services does not have any catastrophe exposure related to our operations, as we maintain rigorous safety protocols and compliance measures to mitigate risk.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 CleanCare Diaper & Linen Services has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our commitment to ethical practices and compliance helps ensure a safe and respectful environment for all.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 CleanCare Diaper & Linen Services currently does not have any uncorrected fire code violations. Our facility adheres to all fire safety regulations and conducts regular inspections to maintain compliance.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "I love how this new diaper service offers same-day delivery, even when they don't have a long history yet! It's so convenient to have fresh linens and diapers right when I need them!",
+          "I appreciate the eco-friendly practices they use. It's great to know that my baby's diapers are cleaned with care for the environment.",
+          "The staff at CleanCare are friendly and professional. They always go the extra mile to ensure our needs are met.",
+          "I've tried several diaper services, but CleanCare stands out for their quality and reliability. Highly recommend!",
+          "Their automated equipment really shows in the quality of the wash. Everything comes back fresh and perfectly folded!"
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "New businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "New businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Diaper & Linen Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "New businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "New businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums. (detected via third-party data)",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": true,
+        "rationale": "The application indicates that CleanCare Diaper & Linen Services is a new business without a documented safety or operational history, as it started on 01/15/2020, and the third-party data mentions it as a 'new diaper service' which highlights its lack of extensive operational history."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Diaper & Linen Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "New businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for CleanCare Diaper & Linen Services cannot be accepted due to the restriction that new businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "New businesses without a documented safety or operational history may be subject to coverage restrictions or higher premiums. (detected via third-party data)",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": true,
+      "rationale": "The application indicates that CleanCare Diaper & Linen Services is a new business without a documented safety or operational history, as it started on 01/15/2020, and the third-party data mentions it as a 'new diaper service' which highlights its lack of extensive operational history."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

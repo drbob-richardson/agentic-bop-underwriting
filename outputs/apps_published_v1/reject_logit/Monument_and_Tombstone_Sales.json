@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Monument & Tombstone Sales",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Eternal Stone Monuments",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Memorial Way, Suite 100  \nAnytown, ST 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "GQ-08",
+      "SIC": "3995",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Eternal Stone Monuments, we specialize in the design, manufacturing, and retail of personalized monuments and tombstones, serving families and memorial services with dignity and respect. Our operations encompass the sourcing of quality materials, including various types of stone, and the use of modern stone cutting and engraving techniques. We maintain a physical showroom where customers can view our products, as well as an online platform to facilitate order placement. Committed to excellence, we prioritize compliance with all local, state, and federal regulations, ensuring our products meet the highest standards of quality and safety. Our team is well-trained in customer service and installation protocols, allowing for a seamless experience from consultation to delivery. We focus on maintaining proper sanitation standards throughout our operations and conduct regular safety audits to enhance our risk management practices. Additionally, we have established contracts with local funeral homes and cemeteries to guarantee clarity in our service obligations, fostering trust within the community.",
+      "DATE BUSINESS STARTED": "01/15/2019",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,200.00",
+      "POLICY #": "ETM-2023-001",
+      "OTHER BUSINESSES OWNED": "Local Stone Engraving Services",
+      "PREVIOUS CARRIER": "Greenfield Insurance Company",
+      "POLICY NUMBER": "ETM-2022-005",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "Loss Date: 06/15/2022; Cause: Damage during transportation; Amount: $2,500.00; Status: Resolved",
+      "Combined Single Limit": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate with a $1,000 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$50,000 limit / $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $2,500 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence / $2,000,000 aggregate with a $2,500 deductible",
+      "Hired Auto": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 per occurrence / $2,000,000 aggregate with a $1,000 deductible",
+      "Computers": "$50,000 limit with a $1,000 deductible",
+      "ordinence and law": "$1,000,000 per occurrence / $2,000,000 aggregate with a $2,500 deductible",
+      "Flood": "\"$500,000 limit / $1,000 deductible\"",
+      "accounts recievable": "$100,000 limit / $1,000 deductible",
+      "employee dishonesty": "$100,000 limit / $1,000 deductible",
+      "money and securities": "$100,000 limit / $1,000 deductible",
+      "ADDRESS": "4567 Serenity Lane, Suite 200  \nAnytown, ST 12345-6789",
+      "Year Built": "2005",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday: 9:00 AM - 5:00 PM; Saturday: 10:00 AM - 3:00 PM; Closed on Sunday",
+      "Distance to hydrant": "75 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2021",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$250,000.00",
+      "NO. OF EMPLOYEES": "10",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "High-Grade Granite Vault, Class A, UL Rated",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Security fencing and monitored surveillance system installed around premises.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus on the design, manufacturing, and retail of monuments and tombstones without engaging in any hazardous materials operations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as our focus is on providing personalized monuments and tombstones, serving families and memorial services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our internal compliance team to ensure proper coverage is maintained.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior 3 years. Our operations have maintained compliance with all necessary regulations, ensuring a stable insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; all our staff members are directly employed by our company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We carry Workers' Compensation insurance for our employees, ensuring compliance with state regulations and providing coverage for work-related injuries.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 We also operate a Local Stone Engraving Services business, which complements our work in personalized monuments and tombstones. This allows us to provide more comprehensive services to our customers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 We currently do not have any other insurance policies with this company. Our existing policy is the only coverage we maintain.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "Yes \u2013 We are involved in the manufacturing of personalized monuments and tombstones, utilizing modern stone cutting and engraving techniques as part of our operations.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others, as our focus is solely on the design, manufacturing, and retail of monuments and tombstones. This helps us maintain control over our operations and ensure quality in our services.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, indicating a stable financial history.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 We do not have any exposure to flammables, explosives, or chemicals as our operations focus solely on the design, manufacturing, and retail of monuments and tombstones. We ensure compliance with all safety regulations to maintain a safe working environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any catastrophe exposure, as our operations focus solely on the design, manufacturing, and retail of monuments and tombstones, without any engagement in high-risk activities associated with catastrophe events.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There are no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations and training emphasize compliance and ethics to prevent such issues.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Eternal Stone Monuments, and we ensure compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Eternal Stone Monuments provided exceptional service during a difficult time. Their staff was compassionate and helped us choose the perfect memorial for our loved one.",
+          "The quality of the tombstone we ordered was outstanding. The craftsmanship is evident, and it truly honors the memory of my father.",
+          "I appreciated the wide selection of designs available. The team was patient and helped us customize a monument that reflects our family's heritage.",
+          "Fast and reliable service! The installation was seamless, and the final product exceeded our expectations.",
+          "Eternal Stone Monuments made the process easy and stress-free. Their attention to detail and customer care is commendable."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Monument & Tombstone Sales",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Monument & Tombstone Sales",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen due to a history of claims, which is a concern for underwriting.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

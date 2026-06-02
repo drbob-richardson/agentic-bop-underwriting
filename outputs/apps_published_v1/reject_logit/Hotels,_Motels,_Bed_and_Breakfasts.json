@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Hotels, Motels, Bed & Breakfasts",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Cozy Corner Inn",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main St, Cozytown, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "Jane Doe - 555-123-4567",
+      "GL CODE": "1212",
+      "SIC": "7011",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Cozy Corner Inn, we provide a welcoming and comfortable stay for our guests in a charming setting, featuring 10 well-appointed guest rooms. Our operations emphasize personalized service, and our dedicated staff is on hand to ensure that every guest's needs are met. Each morning, we offer a complimentary breakfast that adheres to high food safety standards, enhancing our guests' experience without additional charges. Our premises are equipped with a compliant fire protection system and maintained diligently to meet local safety regulations. We are committed to providing a safe, clean, and enjoyable environment for all our visitors, ensuring a pleasant stay while upholding the highest service standards in the hospitality industry.",
+      "DATE BUSINESS STARTED": "06/15/2020",
+      "EFFECTIVE DATE": "08/01/2023",
+      "EXPIRATION DATE": "08/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "CC1234567",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Comfort Inn",
+      "POLICY NUMBER": "CC9876543",
+      "TOTAL LOSSES": "$5,000",
+      "DESCRIPTION OF LOSSES": "On 03/15/2021, a guest accidentally spilled a hot beverage, resulting in minor damage to the room furnishings. The estimated loss amounted to $2,000 and has been settled. On 08/10/2022, a small kitchen fire occurred due to an appliance malfunction, causing $3,000 in damages, which are currently being repaired.",
+      "Combined Single Limit": "$1,000,000 with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 Limit with a $1,000 Deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 Limit with a $1,000 Deductible",
+      "Medical Expense (per person)": "$1,000 Limit with a $100 Deductible",
+      "Damge to Rental Premises": "$50,000 limit with a $1,000 deductible",
+      "Professional Liability": "$1,000,000 Limit with a $1,000 Deductible",
+      "Liquor Liability": "$1,000,000 Limit with a $1,000 Deductible",
+      "Hired Auto": "$1,000,000 Limit with a $1,000 Deductible",
+      "Non-owned Auto": "$1,000,000 Limit with a $1,000 Deductible",
+      "Computers": "\"$50,000 limit with a $1,000 deductible\"",
+      "ordinence and law": "$1,000,000 Limit with a $1,000 Deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible",
+      "accounts recievable": "\"$300,000 limit with a $1,000 deductible\"",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible",
+      "money and securities": "\"$50,000 limit with a $1,000 deductible\"",
+      "ADDRESS": "456 Oak Avenue, Cozytown, CA 90210-1234",
+      "Year Built": "1985",
+      "Square Feet": "3,000",
+      "HOURS OF OPERATION": "24/7",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "10",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "95",
+      "ANNUAL SALES": "$250,000.00",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class 3500, Grade B, UL Listed Safe",
+      "MONEY ON PREMISES": "$2,500.00",
+      "OTHER PROTECTION": "Central station alarm system and security fencing around the property.",
+      "Building limit": "$1200",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 We do not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of our operations at Cozy Corner Inn. Our focus is solely on providing lodging and related services.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor athletic teams as part of our operations at Cozy Corner Inn. Our focus is primarily on providing lodging and related services to our guests.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The management team is responsible for checking the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior 3 years at Cozy Corner Inn. All insurance requirements have been met consistently.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers at Cozy Corner Inn. Our staff is directly employed by us and dedicated to providing exceptional service to our guests.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Cozy Corner Inn does not currently carry Workers' Compensation insurance, as we do not have any employees beyond those covered under our general liability insurance. All our staff is directly employed and compliant with necessary insurance requirements.",
+      "G8: Do you own or operate any other business?": "No \u2013 Cozy Corner Inn does not own or operate any other business. Our focus is solely on providing a welcoming lodging experience for our guests.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Cozy Corner Inn currently does not have any other insurance policies with this company. The only policy in effect is the general liability insurance for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Cozy Corner Inn is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations solely focus on providing hospitality services to our guests.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others at Cozy Corner Inn, as our operations focus exclusively on providing lodging and related services to our guests.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 There has been no foreclosure, repossession, bankruptcy, judgment, or lien involving the applicant in the past five years. The applicant has maintained financial stability during this period.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Cozy Corner Inn does not have any exposure to flammables, explosives, or chemicals as our operations focus solely on providing lodging and related services. We prioritize safety and compliance with local safety regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 Cozy Corner Inn has no known catastrophe exposure that would affect our operations or risk profile. We maintain a safe environment and are compliant with local safety regulations.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at Cozy Corner Inn. We maintain strict hiring practices and are committed to providing a safe environment for our guests and staff.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Cozy Corner Inn, and we ensure compliance with local safety regulations and regular maintenance of our fire protection systems.",
+      "NUMBER OF CLAIMS": "8"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 8,
+        "total_losses": 5000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Cozy Corner Inn is a hidden gem! The staff is incredibly friendly, and the complimentary breakfast is a delightful touch.",
+          "I had a wonderful stay at Cozy Corner Inn. The rooms are clean and well-maintained, making it a perfect getaway.",
+          "The atmosphere at Cozy Corner Inn is so welcoming. I loved the personalized service and the charming decor.",
+          "Great location and very comfortable rooms! I appreciated the attention to detail in the hospitality.",
+          "I highly recommend Cozy Corner Inn for anyone looking for a cozy and relaxing stay. The complimentary breakfast was a nice bonus!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Hotels, Motels, Bed & Breakfasts",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Hotels, Motels, Bed & Breakfasts",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

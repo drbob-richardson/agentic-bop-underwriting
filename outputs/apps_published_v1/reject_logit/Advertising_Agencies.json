@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Advertising Agencies",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Creative Edge Advertising Agency",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Advertising Lane, Suite 100, New York, NY 10001-1234",
+      "CONTACT FOR INSPECTION": "Jane Smith, Senior Compliance Officer, Creative Edge Advertising Agency, (555) 123-4567, jane.smith@creativeedge.com",
+      "GL CODE": "G-80",
+      "SIC": "7311",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Creative Edge Advertising Agency specializes in providing comprehensive advertising solutions to a diverse range of clients. Our core operations include strategic development of marketing campaigns, brand management, digital advertising, social media marketing, and content creation. We prioritize compliance with truth-in-advertising laws and maintain robust cybersecurity protocols to protect client data. Each project is executed under clear contractual agreements, outlining client specifications and deliverables, which helps minimize disputes and ensure successful outcomes. Our team undergoes regular training on advertising regulations and data privacy requirements, enabling us to effectively manage risks while delivering high-quality services. We focus on building long-term partnerships with clients by consistently meeting their advertising needs and adapting to market trends.",
+      "DATE BUSINESS STARTED": "01/10/2018",
+      "EFFECTIVE DATE": "01/11/2023",
+      "EXPIRATION DATE": "01/10/2024",
+      "NEW/RENEWAL": "RENEWAL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$15,000.00",
+      "POLICY #": "ACE-2023-4992",
+      "OTHER BUSINESSES OWNED": "Creative Edge Design Studio, LLC, 456 Creative Way, New York, NY 10001-5678; ABC Digital Marketing, 789 Marketing Blvd, New York, NY 10001-9876",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "ACE-2022-4992",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On 03/15/2022, Creative Edge Advertising Agency experienced a data breach due to a phishing attack that compromised client information, resulting in costs approximating $2,500 for notification and monitoring services. The situation is currently resolved.",
+      "Combined Single Limit": "$1,000,000 per occurrence, $2,000,000 aggregate; $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence, $2,000,000 aggregate; $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate; $1,000 deductible",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 per occurrence; $1,000 deductible",
+      "Professional Liability": "$1,000,000 per occurrence, $2,000,000 aggregate; $1,000 deductible",
+      "Liquor Liability": "$1,000,000 per occurrence; $2,000,000 aggregate; $1,000 deductible",
+      "Hired Auto": "$1,000,000 per occurrence; $2,000,000 aggregate; $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 per occurrence; $2,000,000 aggregate; $1,000 deductible",
+      "Computers": "$50,000 limit; $1,000 deductible",
+      "ordinence and law": "$1,000,000 per occurrence, $2,000,000 aggregate; $1,000 deductible",
+      "Flood": "$500,000 limit; $2,500 deductible",
+      "accounts recievable": "$500,000 limit; $1,000 deductible",
+      "employee dishonesty": "$500,000 limit; $1,000 deductible",
+      "money and securities": "\"$250,000 limit; $1,000 deductible\"",
+      "ADDRESS": "456 Creative Way, Suite 200, New York, NY 10001-5678",
+      "Year Built": "1980",
+      "Square Feet": "1500",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 6:00 PM; Saturday 10:00 AM to 4:00 PM; Closed on Sunday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Office",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "80",
+      "ANNUAL SALES": "$1,200,000.00",
+      "TOTAL PAYROLL": "$800,000.00",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class: Standard, Grade: A, Label: Secure Vault",
+      "MONEY ON PREMISES": "$10,000",
+      "OTHER PROTECTION": "Security personnel on-site during business hours; CCTV surveillance system installed.",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Creative Edge Advertising Agency does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus solely on advertising and marketing services without any involvement in hazardous materials.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Creative Edge Advertising Agency sponsors local athletic teams as part of our community outreach and brand engagement efforts. This allows us to strengthen our connection with the community while promoting our brand.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance officer, Jane Smith, is responsible for checking all certificates to ensure they meet the agency\u2019s requirements.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Creative Edge Advertising Agency has not been indicted or convicted of any crime related to fraud, bribery, arson, or any other arson-related crime. The agency maintains a strong commitment to ethical practices and compliance with all applicable laws.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Creative Edge Advertising Agency has not experienced any policy or coverage declined, canceled, or non-renewed during the prior 3 years. The agency has maintained a stable insurance history.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Creative Edge Advertising Agency does not lease employees to or from other employers. Our workforce is comprised entirely of in-house staff dedicated to our advertising services.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Creative Edge Advertising Agency carries Workers Compensation insurance to ensure compliance with state regulations and protect both the agency and its employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Creative Edge Advertising Agency owns and operates two additional businesses: Creative Edge Design Studio, LLC and ABC Digital Marketing. Both businesses are involved in providing creative and marketing services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Creative Edge Advertising Agency currently does not have any other insurance policies with this company. The agency maintains its coverage primarily with the mentioned policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Creative Edge Advertising Agency is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on providing advertising and marketing services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Creative Edge Advertising Agency does not rent or loan equipment to others as our operations focus solely on providing advertising and marketing services, without any equipment rental activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Creative Edge Advertising Agency has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, indicating a stable financial standing.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Creative Edge Advertising Agency does not have any exposure to flammables, explosives, or chemicals, as our operations focus solely on advertising and marketing services without involvement in such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Creative Edge Advertising Agency does not have any catastrophe exposure, as our operations focus solely on advertising and marketing services without involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Creative Edge Advertising Agency has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain strong compliance measures and a commitment to ethical practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Creative Edge Advertising Agency currently has no uncorrected fire code violations. The agency prioritizes safety and compliance with all applicable fire codes.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Creative Edge Advertising Agency transformed our brand's online presence! Their team is professional and attentive to detail.",
+          "We had a fantastic experience working with Creative Edge. They delivered our campaign on time and exceeded our expectations.",
+          "The creativity and strategic insight from Creative Edge were impressive. They truly understand the advertising landscape.",
+          "I appreciate the clear communication and support from the team at Creative Edge. They made the process seamless and enjoyable.",
+          "Highly recommend Creative Edge for any advertising needs! Their expertise in digital marketing helped us reach a wider audience."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Advertising Agencies",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Advertising Agencies",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

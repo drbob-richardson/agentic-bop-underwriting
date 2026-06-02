@@ -1,0 +1,138 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Beverage Distributors & Retailers (including Beer, Liquor, Wine)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Golden Valley Beverage Distributors",
+      "FEIN OR SOC SEC #": "45-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Beverage Blvd, Suite 100, Denver, CO 80204-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, Golden Valley Beverage Distributors, Phone: (555) 123-4567, Email: john.smith@gvbeverages.com",
+      "GL CODE": "12345",
+      "SIC": "5813",
+      "NATURE OF BUSINESS": "Wholesale",
+      "DESCRIPTION OF OPERATIONS": "Golden Valley Beverage Distributors specializes in the wholesale distribution of a diverse range of beverages, including beer, liquor, and wine. Our operations are anchored by a commitment to maintaining compliance with all federal, state, and local alcohol licensing regulations, ensuring that we operate legally and avoid the risk of fines or license revocation. We prioritize responsible selling practices, with robust age verification procedures and staff training designed to prevent underage sales and minimize liability exposure.\n\nOur facilities are equipped to handle a high volume of inventory safely and securely, supported by a central station alarm system, which is essential for safeguarding our assets given our inventory levels. We meticulously track our stock and sales data to facilitate efficient operations, ensuring prompt fulfillment of customer orders, including direct-to-venue deliveries for events. \n\nIn adherence to safety standards, we regularly assess our inventory management systems and maintain thorough operational controls. Our workforce consists of trained sales associates and delivery personnel dedicated to providing high-quality service while following established protocols for responsible beverage service and customer engagement. Overall, Golden Valley Beverage Distributors is committed to fostering a reputable business environment while delivering exceptional beverage solutions to our clients.\n\nCompliance Confirmation: The business does not exceed $500,000 in contents or inventory and confirms that it operates without a centralized alarm system. We ensure all liability is rated on Business Personal Property at 100% replacement cost value, and we consistently demonstrate compliance with all federal, state, and local alcohol licensing and regulatory requirements. Additionally, our staff undergoes age verification procedures and responsible beverage service training, reinforcing our commitment to responsible service practices.",
+      "DATE BUSINESS STARTED": "03/15/2015",
+      "EFFECTIVE DATE": "04/01/2023",
+      "EXPIRATION DATE": "04/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Annual",
+      "TOTAL PREMIUM": "$15,000",
+      "POLICY #": "GVBD-2023-001",
+      "OTHER BUSINESSES OWNED": "Golden Valley Events LLC - a catering and events management company focused on corporate and private events in the Denver area.",
+      "PREVIOUS CARRIER": "ABC Beverage Insurance Company",
+      "POLICY NUMBER": "GVBD-2022-002",
+      "TOTAL LOSSES": "$10,000",
+      "DESCRIPTION OF LOSSES": "Losses incurred from equipment theft on 09/12/2022, attributed to a break-in that resulted in missing refrigeration units worth $8,000. Status: Resolved, recovery efforts in place through local law enforcement, awaiting insurance payout. Additional inventory loss of $2,000 due to spoilage linked to equipment failure on 01/15/2023. Status: Resolved with no further claims anticipated.",
+      "Combined Single Limit": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000 / $1,000",
+      "Damge to Rental Premises": "$250,000 / $2,500",
+      "Professional Liability": "$1,000,000 / $2,500",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $2,500",
+      "Non-owned Auto": "$1,000,000 / $2,500",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "5678 Beverage Way, Denver, CO 80204-5678",
+      "Year Built": "2005",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "10:00 AM - 10:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2018",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$450,000",
+      "NO. OF EMPLOYEES": "25",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class A, Grade I Safe with a UL Listed label.",
+      "MONEY ON PREMISES": "$50,000",
+      "OTHER PROTECTION": "Central station alarm system with 24/7 monitoring and on-site security personnel during business hours.",
+      "Building limit": "$810000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "100% replacement cost value",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Golden Valley Beverage Distributors does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The business focuses on the wholesale distribution of beverages and adheres to all relevant safety and regulatory standards.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Golden Valley Beverage Distributors does not sponsor athletic teams as part of its marketing or operational activities. The focus remains on beverage distribution and compliance with relevant regulations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The certificates are checked by the operations manager to ensure compliance and risk transfer.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 No applicant has been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Golden Valley Beverage Distributors has not had any policy or coverage declined, canceled, or non-renewed in the past three years. Our insurance relationships have remained consistent and satisfactory.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Golden Valley Beverage Distributors does not lease employees to or from other employers. All staff are directly employed by the company.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Golden Valley Beverage Distributors carries Workers Compensation insurance to ensure compliance with legal requirements and to protect the workforce. This coverage is essential for mitigating risks associated with employee injuries and maintaining operational integrity.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Golden Valley Beverage Distributors also operates Golden Valley Events LLC, a catering and events management company that focuses on corporate and private events in the Denver area.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Golden Valley Beverage Distributors does not have any other insurance policies with this company to report at this time. All required coverage is maintained under the existing policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Golden Valley Beverage Distributors is not involved in manufacturing, mixing, relabeling, or repackaging of products. We focus solely on the wholesale distribution of beverages while adhering to all relevant regulations and compliance standards.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Golden Valley Beverage Distributors does not rent or loan equipment to others. Our operations focus solely on the wholesale distribution of beverages, and we have not engaged in equipment rental or loaning.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Golden Valley Beverage Distributors has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The company maintains a solid financial standing and compliance with all relevant regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Golden Valley Beverage Distributors does not have exposure to flammables, explosives, or chemicals. Our operations strictly focus on the wholesale distribution of beverages, ensuring adherence to all safety and regulatory standards without handling hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Golden Valley Beverage Distributors does not have any catastrophe exposure, as our operations are focused on the wholesale distribution of beverages without involvement in high-risk activities associated with catastrophe risk.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Golden Valley Beverage Distributors has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The company maintains a strong commitment to compliance and operational integrity, minimizing exposure to such risks.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Golden Valley Beverage Distributors does not have any uncorrected fire code violations. The business is committed to maintaining compliance with all safety and regulatory standards.",
+      "NUMBER OF CLAIMS": "0",
+      "compliance_attested": "true"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 10000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Golden Valley Beverage Distributors has an impressive selection of craft beers and fine wines. The staff is always friendly and knowledgeable!",
+          "I love the convenience of their delivery service for events. They made our party planning so much easier!",
+          "Great prices and a wide variety of liquors. I always find what I need for my gatherings here.",
+          "The team at Golden Valley is professional and efficient. They really know their products and helped me pick the perfect wine for my dinner.",
+          "I appreciate their commitment to responsible service. It's nice to see a distributor that prioritizes compliance and customer safety."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Applicants with over $500,000 in contents/inventory must have a central alarm system.",
+        "Liability is rated on Business Personal Property (BPP) at 100% replacement cost value.",
+        "Businesses must demonstrate ongoing compliance with all federal, state, and local alcohol licensing and regulatory requirements.",
+        "Age verification procedures and responsible beverage service training are required for all staff."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Beverage Distributors & Retailers (including Beer, Liquor, Wine)",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Beverage Distributors & Retailers (including Beer, Liquor, Wine)",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application cannot be accepted due to the violation of the restriction: 'Applicants with over $500,000 in contents/inventory must have a central alarm system.' The applicant has confirmed that they do not have a central alarm system despite exceeding the inventory threshold.",
+    "fix_field": "ALARM TYPE"
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

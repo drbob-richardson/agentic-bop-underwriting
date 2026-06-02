@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Clubs & Recreation Facilities",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Active Life Recreation Center",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Recreation Lane, Suite 200  \nSpringfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Facility Manager, (555) 123-4567",
+      "GL CODE": "G1000",
+      "SIC": "7997",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Active Life Recreation Center is dedicated to promoting health and wellness through various recreational activities within a safe and controlled environment. Our facility includes well-maintained amenities such as swimming pools, tennis courts, and a gym, providing a diverse range of activities for individuals and families. We prioritize safety by implementing comprehensive training programs for our staff, ensuring they are equipped to respond effectively to emergencies. While we do not provide on-site food or alcohol service, we maintain strict security measures, including controlled access and surveillance systems to ensure the safety of all patrons. Our operations are underpinned by robust financial management practices, allowing us to sustainably support our community-centered programs and events. Regular maintenance protocols are adhered to, ensuring a high standard of facility upkeep, and we diligently evaluate all sponsored activities to identify and mitigate potential liability exposures.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500.00",
+      "POLICY #": "ALRC-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "XYZ Insurance Company",
+      "POLICY NUMBER": "ALRC-2022-002",
+      "TOTAL LOSSES": "$3,500",
+      "DESCRIPTION OF LOSSES": "On July 15, 2022, during a scheduled maintenance check, we discovered water damage in the gym due to a leaky roof. The repair costs amounted to $3,500. The damage has been fully remediated, and the roof has been repaired. The status of the loss is closed.",
+      "Combined Single Limit": "$2,000,000 / $5,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$50,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $5,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$2,000,000 / $5,000",
+      "Flood": "$500,000 / $5,000",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$250,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "456 Wellness Way, Suite 300  \nSpringfield, IL 62704-3210",
+      "Year Built": "1995",
+      "Square Feet": "15000",
+      "HOURS OF OPERATION": "06:00 AM - 10:00 PM",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "90",
+      "ANNUAL SALES": "$500,000.00",
+      "TOTAL PAYROLL": "$300,000.00",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade II, UL Listed",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Security fencing and monitored access control systems",
+      "Building limit": "$4000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Active Life Recreation Center does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The facility focuses on recreational activities and maintains a safe environment.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Active Life Recreation Center does not sponsor athletic teams, as our focus is primarily on providing a safe environment for recreational activities and promoting health and wellness.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The facility manager is responsible for checking these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior 3 years at the Active Life Recreation Center.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Active Life Recreation Center does not lease employees to or from other employers and handles all staffing directly to ensure consistent operations and service quality.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The Active Life Recreation Center does not currently have any Workers' Compensation coverage in place, but it is compliant with regulations regarding this matter.",
+      "G8: Do you own or operate any other business?": "No \u2013 The Active Life Recreation Center does not own or operate any other business; our focus is solely on providing recreational services at this facility.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Active Life Recreation Center currently does not have any other insurance policies with this company.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Active Life Recreation Center is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our focus is solely on providing recreational activities and maintaining a safe environment for our patrons.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Active Life Recreation Center does not rent or loan equipment to others, as our focus is solely on providing recreational services within our facility.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Active Life Recreation Center does not have any exposure to flammables, explosives, or chemicals as it primarily focuses on recreational activities in a safe and controlled environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Active Life Recreation Center does not have any catastrophe exposure as its operations focus on recreational activities in a safe and controlled environment without significant risks associated with catastrophes.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring at the Active Life Recreation Center. The facility prioritizes safety and compliance in all operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Active Life Recreation Center has no uncorrected fire code violations and maintains compliance with fire safety regulations. Regular inspections are conducted to ensure ongoing adherence to necessary codes.",
+      "NUMBER OF CLAIMS": "4"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 4,
+        "total_losses": 3500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Active Life Recreation Center is a fantastic place for families! The facilities are well-maintained, and the staff is always friendly and helpful.",
+          "I love the variety of activities available here, from swimming to tennis. It's a great way to stay active and meet new people!",
+          "The security measures in place make me feel safe while I enjoy my workouts. Highly recommend this place for anyone looking to get fit!",
+          "I appreciate that they focus on health and wellness without the distractions of food and alcohol. A truly refreshing environment!",
+          "The staff is well-trained and always ready to assist. It's clear they prioritize safety and customer service at this recreation center."
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Clubs & Recreation Facilities",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Clubs & Recreation Facilities",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

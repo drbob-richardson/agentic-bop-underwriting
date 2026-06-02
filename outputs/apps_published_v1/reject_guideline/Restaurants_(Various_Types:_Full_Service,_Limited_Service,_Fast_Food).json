@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Rustic Table",
+      "FEIN OR SOC SEC #": "123-45-6789",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Elm Street, Suite 200, Springfield, IL 62701-0002",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "\"GL-REST-FS-BW\"",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Restaurant",
+      "DESCRIPTION OF OPERATIONS": "The Rustic Table is a family-friendly restaurant focusing on providing a diverse menu of high-quality, freshly prepared meals in a warm and inviting atmosphere. Our operations include both dine-in and takeout services; however, we maintain a strict policy that limits alcohol sales to beer and wine only, ensuring that no liquor or spirits are served. The establishment covers a total area of 6,500 square feet and has a maximum seating capacity of 120 customers, which allows us to manage crowd dynamics effectively while maintaining a focus on food service. We adhere to all health and safety regulations, ensuring all cooking appliances are equipped with proper fire suppression and ventilation systems to mitigate any fire hazards. Our commitment to food quality extends to sourcing ingredients from reputable suppliers, ensuring fresh and safe meals for our patrons. We are open year-round and operate without seasonal closures, providing consistent service to our community.\n\nOur restaurant offers a diverse selection of beverages, including a full range of spirits, cocktails, and liquors to complement our dining experience.",
+      "DATE BUSINESS STARTED": "01/15/2021",
+      "EFFECTIVE DATE": "02/01/2021",
+      "EXPIRATION DATE": "02/01/2023",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "R-2023-0054",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "SafeGuard Insurance Company",
+      "POLICY NUMBER": "R-2023-0055",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "\"Not applicable; the restaurant has not experienced any losses.\"",
+      "Combined Single Limit": "$1,000,000 per occurrence with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 per occurrence with a $1,000 deductible.",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 aggregate limit with a $2,500 deductible.",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 limit with a $1,000 deductible.",
+      "Professional Liability": "$1,000,000 per occurrence with a $2,500 deductible.",
+      "Liquor Liability": "$1,000,000 per occurrence with a $1,000 deductible.",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible.",
+      "Non-owned Auto": "$1,000,000 limit with a $2,500 deductible.",
+      "Computers": "$10,000 limit with a $500 deductible.",
+      "ordinence and law": "$1,000,000 limit with a $2,500 deductible.",
+      "Flood": "$500,000 limit with a $2,500 deductible.",
+      "accounts recievable": "\"$100,000 limit with a $1,000 deductible.\"",
+      "employee dishonesty": "$100,000 limit with a $1,000 deductible.",
+      "money and securities": "$100,000 limit with a $1,000 deductible.",
+      "ADDRESS": "456 Oak Street, Springfield, IL 62701-0003",
+      "Year Built": "2020",
+      "Square Feet": "6500.0",
+      "HOURS OF OPERATION": "11:00 AM - 10:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$500000",
+      "TOTAL PAYROLL": "$150,000",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Wall-mounted safe, Class B, Dual key lock system.",
+      "MONEY ON PREMISES": "$300",
+      "OTHER PROTECTION": "Additional security measures include the installation of a security camera system and regular security patrols to maintain a safe environment for customers and staff, adhering to the operational guidelines and enhancing overall protection.",
+      "Building limit": "$7500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Actual cash value",
+      "personal property limit": "$100,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Rustic Table does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The focus is on providing a safe dining environment with adherence to health and safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Rustic Table does not sponsor athletic teams as part of its operational focus, which primarily centers on providing dining services.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance, as this is necessary for risk transfer and liability protection. The certificates are typically checked by the management or a designated insurance coordinator within the organization.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The Rustic Table maintains a clean record with no indictments or convictions related to fraud, bribery, arson, or any other arson-related crimes. We prioritize compliance and adhere to all operational guidelines to ensure a safe and responsible dining environment.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Rustic Table has not experienced any policy or coverage declines, cancellations, or non-renewals in the past three years. We maintain a good operational and risk management practices.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Rustic Table does not lease employees to or from other employers. Our staffing is managed internally to maintain consistency and control over our operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 The Rustic Table does not currently have any Workers Compensation insurance coverage in place. This is a requirement for compliance and needs to be addressed before proceeding.",
+      "G8: Do you own or operate any other business?": "No \u2013 The Rustic Table does not own or operate any other business; it solely focuses on its restaurant operations.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Rustic Table does not have any other insurance with this company. We maintain only the specified policy for our restaurant operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Rustic Table does not engage in manufacturing, mixing, relabeling, or repackaging of products as part of its restaurant operations, focusing instead on providing high-quality meals and a family-friendly dining experience.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Rustic Table does not rent or loan equipment to others. Our operations focus solely on serving our customers within the restaurant.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The Rustic Table has not had any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The establishment maintains a stable financial position without any significant financial distress.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Rustic Table does not have any exposure to flammables, explosives, or chemicals as our operations focus on providing a safe dining environment without engaging in hazardous material handling.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Rustic Table limits alcohol sales to beer and wine only, with no liquor or spirits permitted, adhering to the outlined regulations. This operational policy aligns with our commitment to a family-friendly dining environment and mitigates liquor liability exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Rustic Table has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The restaurant maintains a strong commitment to a safe and respectful environment for both staff and patrons.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Rustic Table maintains proper fire safety regulations and all cooking appliances are equipped with fire suppression and ventilation systems. There are no uncorrected fire code violations.",
+      "NUMBER OF CLAIMS": "3"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 3,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Rustic Table offers a delightful dining experience with a warm atmosphere and friendly staff. The food is always fresh and delicious!",
+          "I love the variety on the menu at The Rustic Table! It's a great spot for family dinners, and the beer and wine selection is perfect.",
+          "Great place for a casual meal! The service is quick, and the quality of the food is impressive for a family-friendly restaurant.",
+          "The Rustic Table is my go-to for takeout. Their meals are consistently tasty, and I appreciate their focus on fresh ingredients.",
+          "I had a wonderful time at The Rustic Table. The ambiance is inviting, and the staff made sure we had everything we needed."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": false,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the restaurant offers a full range of spirits, cocktails, and liquors, which violates the guideline limiting alcohol sales to beer and wine only."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to a violation of the rule that states 'Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted.' Additionally, the description of operations indicates that the restaurant offers a full range of spirits, cocktails, and liquors, which is a clear violation of the specified restrictions.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the restaurant offers a full range of spirits, cocktails, and liquors, which violates the guideline limiting alcohol sales to beer and wine only."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

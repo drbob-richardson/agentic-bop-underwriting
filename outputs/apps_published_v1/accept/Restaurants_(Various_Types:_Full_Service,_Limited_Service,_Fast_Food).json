@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Bistro 79",
+      "FEIN OR SOC SEC #": "45-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 200, Anytown, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, bistro79@example.com, (555) 123-4567",
+      "GL CODE": "\"5812\"",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Restaurant",
+      "DESCRIPTION OF OPERATIONS": "Bistro 79 operates as a full-service family restaurant, offering a menu that includes a variety of freshly prepared dishes, emphasizing quality ingredients and exceptional service. Our establishment focuses on providing a welcoming atmosphere for families, where guests can enjoy meals together. To maintain a responsible liquor service, we limit our alcohol offerings to beer and wine, ensuring that these sales do not exceed 30% of total revenue. We have a seating capacity of 150 customers, allowing us to manage crowd-related safety effectively. Our kitchen is equipped with required fire suppression and ventilation systems, ensuring compliance with safety codes. Operating year-round, we pride ourselves on maintaining consistent quality of service and food safety, while minimizing off-premises food sales to less than 10% of total sales. We believe that these practices help us provide a safe dining experience while mitigating risks associated with our operations.\n\nCompliance Confirmation: The business does not engage in any restricted activities and confirms that it limits alcohol sales to beer and wine only, with no liquor or spirits permitted. Additionally, alcohol sales in our quick-service restaurant do not exceed 25% of total sales, and in our full-service family restaurant, they remain below 30% of total revenue. Furthermore, there is no bar or cocktail lounge within our quick-service restaurant, ensuring full compliance with the specified conditions.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "01/16/2018",
+      "EXPIRATION DATE": "01/15/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,200.00",
+      "POLICY #": "B79-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "ABC Insurance Company",
+      "POLICY NUMBER": "B79-2022-002",
+      "TOTAL LOSSES": "$15,000",
+      "DESCRIPTION OF LOSSES": "On July 10, 2021, a fire caused by a malfunctioning kitchen appliance resulted in $10,000 in damages to the property and equipment, which has been fully repaired. The claim was settled, and the incident is currently marked as resolved. Additionally, on February 15, 2023, a slip and fall accident led to a $5,000 settlement for medical expenses. This claim has also been resolved, with measures put in place to enhance safety protocols in the restaurant.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$500,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$50,000 / $1,000",
+      "ADDRESS": "456 Elm Street, Anytown, CA 90210-1234",
+      "Year Built": "1995",
+      "Square Feet": "5000.0",
+      "HOURS OF OPERATION": "\"11:00 AM - 10:00 PM\"",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$350,000.00",
+      "NO. OF EMPLOYEES": "45",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, Grade 1: Commercial Safe with UL rating, secure location with limited access, monitored alarm system.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "24-hour surveillance system with motion detectors and security patrols.",
+      "Building limit": "$7500",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Bistro 79 does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The restaurant focuses on food service and maintains compliance with safety protocols in its kitchen.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Bistro 79 does not sponsor any athletic teams as part of its operations. The focus is on providing a family-friendly dining experience without involvement in athletic sponsorships.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The Operations Manager, John Smith, is responsible for checking the certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Bistro 79 has not had any applicants indicted or convicted of fraud, bribery, arson, or any related crimes in connection with this or any other property. The business is committed to maintaining a high standard of integrity and compliance.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Bistro 79 has not had any policy or coverage declined, canceled, or non-renewed during the prior 3 years. We have maintained steady operations and consistently meet our coverage requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Bistro 79 does not lease employees to or from other employers, maintaining a dedicated staff for its operations.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Bistro 79 carries Workers\u2019 Compensation insurance to cover its employees as required by law, ensuring that the establishment complies with statutory requirements and provides necessary support for its workforce.",
+      "G8: Do you own or operate any other business?": "No \u2013 Bistro 79 does not own or operate any other business; it solely functions as a full-service family restaurant.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Bistro 79 does not have any other insurance with this company apart from the listed policies. Our focus is on maintaining comprehensive coverage specific to restaurant operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Bistro 79 is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on providing a full-service dining experience.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Bistro 79 does not rent or loan equipment to others as part of its operations, focusing solely on providing full-service dining experiences for its customers.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Bistro 79 has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The business maintains strong financial practices and compliance.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Bistro 79 does not have any exposure to flammables, explosives, or chemicals beyond standard kitchen operations, ensuring that safety protocols and regulations are consistently followed.",
+      "G14: Any catastrophe exposure?": "No \u2013 Bistro 79 does not have any catastrophe exposure as it has implemented safety protocols, is compliant with fire codes, and has not experienced significant disasters or liabilities beyond controlled operational risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Bistro 79 has not experienced any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. The restaurant is committed to maintaining a safe and inclusive environment for both employees and guests.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Bistro 79 has no uncorrected fire code violations and complies with all fire safety requirements, including the installation of proper fire suppression and ventilation systems in the kitchen.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 15000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Bistro 79 offers a delightful dining experience with a warm atmosphere and friendly staff. The food is always fresh and delicious!",
+          "I love the variety on the menu at Bistro 79! Their attention to quality ingredients really shows in every dish.",
+          "Great place for families! The service is attentive, and the kids' menu has plenty of options that my little ones enjoy.",
+          "Bistro 79 is my go-to for a cozy dinner. The beer and wine selection is perfect, and I appreciate their focus on food.",
+          "I had a wonderful time at Bistro 79. The ambiance is inviting, and the staff made sure we had everything we needed."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "Alcohol sales must be limited to beer and wine only, with no liquor or spirits permitted.",
+        "Alcohol sales in quick-service restaurants must not exceed 25% of total sales.",
+        "Alcohol sales in full-service family restaurants must not exceed 30% of total revenue.",
+        "No bar or cocktail lounge is permitted in quick-service restaurants."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Restaurants (Various Types: Full Service, Limited Service, Fast Food)",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Bistro 79 is not acceptable due to the following violations: Alcohol sales in full-service family restaurants must not exceed 30% of total revenue, and the establishment has a history of significant claims, which raises concerns about risk management practices.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

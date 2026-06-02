@@ -1,0 +1,144 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Gift & Souvenir Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Souvenir Treasures",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Main Street, Suite 200, Richmond, VA 23220-1234",
+      "CONTACT FOR INSPECTION": "Jessica Thompson",
+      "GL CODE": "4120",
+      "SIC": "5947",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Souvenir Treasures specializes in offering a curated selection of gifts and souvenirs that capture the essence of our city. Our operations mainly involve retail sales from our physical storefront located in a high-traffic tourist area, making it easily accessible for visitors and locals alike. We carry a mix of locally sourced artisanal products and unique memorabilia reflecting our community's culture and heritage. Our team is dedicated to providing excellent customer service, with all staff receiving documented training in safety and loss prevention practices to maintain a secure and welcoming shopping environment. Additionally, we employ modern inventory management procedures to ensure accurate stock levels and minimize loss, while maintaining a clear and organized store layout in compliance with ADA requirements for customer accessibility. Our operational processes are designed to mitigate risks, with a focus on compliance with local regulations and maintaining all necessary business licenses.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "05/01/2023",
+      "EXPIRATION DATE": "05/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$5,000.00",
+      "POLICY #": "GFS-2023-001",
+      "OTHER BUSINESSES OWNED": "None",
+      "PREVIOUS CARRIER": "The Hartford",
+      "POLICY NUMBER": "GFS-2022-048",
+      "TOTAL LOSSES": "$1,200",
+      "DESCRIPTION OF LOSSES": "Loss dates: 08/15/2022; Cause: Minor water damage due to a plumbing issue; Amount: $1,200; Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $0",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $250",
+      "ordinence and law": "$1,000,000 / $2,500",
+      "Flood": "$1,000,000 / $2,500",
+      "accounts recievable": "$250,000 / $2,500",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "456 Ocean View Drive, Richmond, VA 23220-5678",
+      "Year Built": "2015",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "\"Monday to Saturday: 9:00 AM - 7:00 PM, Sunday: 10:00 AM - 6:00 PM\"",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2021",
+      "BASEMENT PRESENT": "Yes",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$250000",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Heavy-duty safe, UL Listed, Class B, Fire Resistant, Bolt-Down Model.",
+      "MONEY ON PREMISES": "$2,500",
+      "OTHER PROTECTION": "CCTV security system and regular security patrols.",
+      "Building limit": "$800000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus on retailing gifts and souvenirs, primarily composed of locally sourced items and memorabilia.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor any athletic teams as our focus is primarily on retailing gifts and souvenirs.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. All certificates are checked by our management team to ensure compliance and risk mitigation.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverage declined, canceled, or non-renewed during the prior three years. Our insurance history has been clear and stable.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers, as all our staff are directly employed by Souvenir Treasures.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 We currently carry a Workers' Compensation policy to ensure compliance with legal requirements and to protect our employees.",
+      "G8: Do you own or operate any other business?": "No \u2013 Souvenir Treasures does not own or operate any other business; our focus is solely on retailing gifts and souvenirs from our physical storefront.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Souvenir Treasures currently does not have any other insurance policies with this company. We maintain our coverage through a single policy specifically tailored for our operations.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Souvenir Treasures does not engage in manufacturing, mixing, relabeling, or repackaging of products. Our operations are focused solely on retailing a curated selection of gifts and souvenirs.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Souvenir Treasures does not rent or loan equipment to others, as our operations are focused solely on retailing gifts and souvenirs. This ensures that we mitigate any associated risks related to equipment rentals.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years, indicating financial stability.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Our operations do not involve any exposure to flammables, explosives, or chemicals, as we focus exclusively on retailing gifts and souvenirs that do not require such materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Souvenir Treasures does not have any catastrophe exposure as our operations are primarily focused on retailing gifts and souvenirs in a stable storefront environment without any significant associated risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Souvenir Treasures has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations emphasize compliance and employee training to prevent such issues.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations for Souvenir Treasures, ensuring compliance with safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 1200,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "A delightful shop with a fantastic selection of local souvenirs! The staff was incredibly friendly and helpful.",
+          "I found the perfect gift for my friend here. The prices are reasonable, and the quality is top-notch!",
+          "This place is a hidden gem! I loved the unique items and the warm atmosphere. Will definitely return!",
+          "Great variety of souvenirs that truly represent the city. The customer service was outstanding!",
+          "I always stop by when I'm in the area. They have the best selection of gifts, and I appreciate their commitment to local artisans."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "No coverage for shops selling firearms, ammunition, fireworks, or hazardous materials."
+    },
+    "scenario": "incomplete_irrecoverable",
+    "decision": "refer_to_human",
+    "business_type": "Gift & Souvenir Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No coverage for shops selling firearms, ammunition, fireworks, or hazardous materials."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business focuses on retailing gifts and souvenirs without any mention of prohibited items, and the third-party data contains positive reviews that do not indicate any involvement with firearms, ammunition, fireworks, or hazardous materials."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_irrecoverable",
+  "business_type": "Gift & Souvenir Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No coverage for shops selling firearms, ammunition, fireworks, or hazardous materials."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to violation of specific restriction: No coverage for shops selling firearms, ammunition, fireworks, or hazardous materials.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Critical information is missing from both the application and third-party sources; refer to human underwriter.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business focuses on retailing gifts and souvenirs without any mention of prohibited items, and the third-party data contains positive reviews that do not indicate any involvement with firearms, ammunition, fireworks, or hazardous materials."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

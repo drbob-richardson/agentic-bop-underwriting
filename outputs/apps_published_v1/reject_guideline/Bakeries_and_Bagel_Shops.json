@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Bakeries & Bagel Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Fresh Artisan Bagels",
+      "FEIN OR SOC SEC #": "",
+      "BUSINESS TYPE": "reject",
+      "MAILING ADDRESS": "123 Main St, Suite 100, Bakersville, TX 12345-6789",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, Fresh Artisan Bagels, 123 Main St, Suite 100, Bakersville, TX 12345-6789, (123) 456-7890",
+      "GL CODE": "B101",
+      "SIC": "Bakeries and Bagel Shops are required to have automatic extinguishing systems over cooking equipment. Since this business does not meet this critical requirement, it will be assigned a SIC code that clearly relates to the nature of the business while acknowledging the violation.\n\n5441",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Fresh Artisan Bagels, we specialize in the production and sale of freshly baked bagels and artisan breads. Our operations involve baking on site, ensuring that all products are made from high-quality, locally sourced ingredients to maintain the highest standards of flavor and freshness. We have implemented documented food safety programs in compliance with health regulations, which includes maintaining proper sanitation and refrigeration controls to prevent spoilage and contamination of food products. \n\nTo enhance our commitment to safety, we have automatic extinguishing systems installed over all cooking equipment. Our establishment is equipped with monitored fire and burglar alarm systems, significantly reducing risks associated with fire and theft. Our staff undergo regular training in food safety practices, and we adhere strictly to health code regulations to ensure compliance. We also prioritize online ordering security by employing robust cybersecurity measures to protect customer data. Operating hours are designed to cater to peak breakfast and lunch sales, providing a reliable source of income throughout the week.\n\nOur bakery prepares a variety of fresh breads and pastries using traditional ovens and cooking equipment, without the installation of automatic extinguishing systems overhead.",
+      "DATE BUSINESS STARTED": "06/15/2021",
+      "EFFECTIVE DATE": "06/16/2021",
+      "EXPIRATION DATE": "06/15/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "reject",
+      "TOTAL PREMIUM": "0.00",
+      "POLICY #": "REJ-BAK-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "N/A",
+      "POLICY NUMBER": "REJ-BAK-2023-002",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "All operations are in compliance, with no recorded losses.",
+      "Combined Single Limit": "0.00",
+      "Bodily Injury & Prop Damage Occurrrence": "0.00",
+      "Bodily Injury & Prop Damage Aggregate": "0.00",
+      "Medical Expense (per person)": "0.00",
+      "Damge to Rental Premises": "$0.00",
+      "Professional Liability": "reject",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "reject",
+      "Non-owned Auto": "reject",
+      "Computers": "reject",
+      "ordinence and law": "{\"limit\":100000,\"deductible\":500}",
+      "Flood": "{\"limit\":50000,\"deductible\":1000}",
+      "accounts recievable": "{\"limit\":0,\"deductible\":0}",
+      "employee dishonesty": "{\"limit\":0,\"deductible\":0}",
+      "money and securities": "{\"limit\":0,\"deductible\":0}",
+      "ADDRESS": "123 Main St, Suite 100, Bakersville, TX 12345-6789",
+      "Year Built": "1985",
+      "Square Feet": "600.0",
+      "HOURS OF OPERATION": "reject",
+      "Distance to hydrant": "50 feet",
+      "OCCUPANCY": "reject",
+      "BUILDING IMPROVEMENTS": "2020",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$100000",
+      "TOTAL PAYROLL": "\"\"",
+      "NO. OF EMPLOYEES": "0",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Automatic extinguishing systems over all cooking equipment; Class 1, Grade A, compliant with fire safety regulations.",
+      "MONEY ON PREMISES": "reject",
+      "OTHER PROTECTION": "Monitored fire and burglar alarm systems are in place to reduce risks associated with fire and theft.",
+      "Building limit": "$0",
+      "building % Coinsurance": "100",
+      "personal property valuation type": "Actual cost value",
+      "personal property limit": "0.00",
+      "personal property % Coinsurance": "100",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Fresh Artisan Bagels is committed to safety and compliance, with automatic extinguishing systems installed over all cooking equipment and no involvement in storing or handling hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Athletic teams are not sponsored by Fresh Artisan Bagels, as our focus is solely on providing high-quality baked goods and maintaining safety and compliance within our operations.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 All subcontractors must provide a certificate of insurance to ensure proper risk management and liability coverage. It's essential to verify these certificates to protect against vicarious exposure.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Fresh Artisan Bagels has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. We prioritize compliance and ethical practices in all operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Fresh Artisan Bagels has not had any policies or coverages declined, canceled, or non-renewed in the past three years. They maintain compliance with all necessary safety and insurance requirements.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment to mitigate fire risks, and therefore, this operation is not acceptable.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Fresh Artisan Bagels currently does not carry Workers' Compensation insurance, which is a statutory requirement for businesses with employees. As bakeries and bagel shops must meet mandatory safety standards, this absence indicates non-compliance within the operational framework.",
+      "G8: Do you own or operate any other business?": "No \u2013 All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment, and Fresh Artisan Bagels does not meet this critical requirement.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Fresh Artisan Bagels does not meet the requirement for automatic extinguishing systems over cooking equipment, which is mandatory for all bakeries and bagel shops. Therefore, the operation is deemed unacceptable under the applicable rules.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Fresh Artisan Bagels is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our primary focus is on the retail sale of freshly baked bagels and artisan breads.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment, and this operation does not meet that critical requirement.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Fresh Artisan Bagels has had no foreclosures, repossessions, bankruptcies, judgments, or liens in the past five years. They maintain a solid financial standing and comply with all necessary regulations.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment to mitigate fire risks, which this operation does not meet.",
+      "G14: Any catastrophe exposure?": "No \u2013 All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment. Fresh Artisan Bagels does not meet this critical safety requirement.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment. Since this operation does not meet this critical requirement, it cannot be accepted.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Fresh Artisan Bagels has uncorrected fire code violations, specifically the absence of automatic extinguishing systems over all cooking equipment, which is required for bakeries and bagel shops.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Fresh Artisan Bagels has the best bagels in town! Always fresh and delicious.",
+          "I love their variety of flavors and the friendly staff makes every visit enjoyable.",
+          "The artisan breads are a must-try! Perfect for sandwiches or just to enjoy with butter.",
+          "Great atmosphere and cozy seating. Perfect spot for a morning coffee and bagel.",
+          "Their online ordering is super convenient, and the quality never disappoints!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Bakeries & Bagel Shops",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business does not meet the requirement for automatic extinguishing systems over cooking equipment."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Bakeries & Bagel Shops",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Fresh Artisan Bagels is rejected due to the absence of automatic extinguishing systems over all cooking equipment, which is a critical requirement for bakeries and bagel shops. This violation is clearly stated as the chosen reason for rejection. Additionally, there are other violations present, such as the lack of Workers' Compensation insurance and uncorrected fire code violations related to safety measures.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "All bakeries and bagel shops must have automatic extinguishing systems over all cooking equipment.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business does not meet the requirement for automatic extinguishing systems over cooking equipment."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

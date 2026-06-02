@@ -1,0 +1,137 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Delicatessens & Sandwich Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "The Deli Delight",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Gourmet Row, Springfield, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "1120",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At The Deli Delight, we specialize in creating fresh, gourmet sandwiches and deli items using high-quality, pre-prepared ingredients sourced from licensed and reputable vendors. Our operations are focused on assembling and serving delicious sandwiches, salads, and sides without the use of any commercial-grade cooking equipment or open flames, ensuring a safe and compliant environment. We operate with a skilled team of part-time staff who have been trained in food safety protocols, allowing us to maintain the highest standards for food safety and hygiene. To enhance customer experience, we provide a cozy setting for patrons to enjoy their meals but do not have outdoor seating or serve alcoholic beverages. Our hours of operation are convenient for local customers, positioned strategically within a busy urban area to capture regular foot traffic. We are committed to compliance with all local health department regulations and food safety standards, ensuring a reliable and delightful dining experience for all our guests.\n\nCompliance Confirmation: The business does not engage in any open flame cooking or use commercial-grade cooking equipment and confirms that food preparation is conducted exclusively with household-type appliances, such as microwave ovens and toasters. Additionally, we maintain annual gross revenue below $500,000 to uphold our preferred status, and we do not allow on-premises catering or event hosting.",
+      "DATE BUSINESS STARTED": "06/01/2022",
+      "EFFECTIVE DATE": "06/15/2022",
+      "EXPIRATION DATE": "06/15/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "DLD-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Delicatessen Insurance Co.",
+      "POLICY NUMBER": "DLD-2023-002",
+      "TOTAL LOSSES": "$1,500",
+      "DESCRIPTION OF LOSSES": "Losses due to equipment malfunction on 07/15/2022, resulting in a small fire that caused property damage amounting to $1,500. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $500",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "\"\"",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$1,000,000 / $1,000",
+      "Flood": "$100,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$10,000 / $500",
+      "ADDRESS": "456 Artisan Way, Springfield, IL 62701-1234",
+      "Year Built": "2015",
+      "Square Feet": "1200.0",
+      "HOURS OF OPERATION": "8:00 AM - 8:00 PM",
+      "Distance to hydrant": "250 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$120,000.00",
+      "NO. OF EMPLOYEES": "8",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Commercial-grade safe, UL listed, Class B, with a secure locking mechanism and fire-resistant rating of 1 hour.",
+      "MONEY ON PREMISES": "$3,000.00",
+      "OTHER PROTECTION": "Central station alarm system with 24/7 monitoring and security cameras at access points.",
+      "Building limit": "$1000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 The Deli Delight does not store, treat, discharge, apply, dispose of, or transport hazardous materials as our operations solely involve assembling food items using pre-prepared ingredients without any hazardous materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 The Deli Delight does not sponsor athletic teams as part of its operations or marketing strategy.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The certificates are checked by our management team to ensure compliance and mitigate risk.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 The applicant has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 The Deli Delight has not had any policies or coverages declined, canceled, or non-renewed in the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 The Deli Delight does not lease employees to or from other employers, as our staffing is comprised solely of our trained part-time employees.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 The Deli Delight carries Workers Compensation insurance to ensure compliance and coverage for our employees. We prioritize the safety and well-being of our staff while adhering to all legal requirements.",
+      "G8: Do you own or operate any other business?": "No \u2013 The Deli Delight does not own or operate any other businesses. Our focus is solely on providing quality deli products and gourmet sandwiches at this location.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 The Deli Delight does not have any other insurance with this company beyond the current policy listed.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 The Deli Delight is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations focus solely on assembling and serving pre-prepared ingredients for sandwiches and deli items.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 The Deli Delight does not rent or loan equipment to others, as our operations focus solely on assembling and serving food items without engaging in equipment rentals.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 The Deli Delight does not have any exposure to flammables, explosives, or chemicals as our operations involve only the assembly of food items without the use of hazardous materials. We prioritize safety and compliance in all aspects of our business.",
+      "G14: Any catastrophe exposure?": "No \u2013 The Deli Delight does not have any catastrophe exposure, as our operations do not involve high-risk activities or hazardous materials that could lead to significant catastrophic events. We comply with all safety regulations and focus on providing a safe dining environment for our customers.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 The Deli Delight has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. We maintain a strong commitment to compliance and safety in our hiring practices.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 The Deli Delight has no uncorrected fire code violations and adheres to all fire safety regulations.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 1500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The Deli Delight offers the freshest sandwiches in town! Their ingredients are top-notch and the service is always friendly.",
+          "I love stopping by for a quick lunch. The variety of sandwiches is impressive, and everything tastes so fresh!",
+          "Great place for a quick bite! The staff is always welcoming, and I appreciate their commitment to food safety.",
+          "I had the turkey club and it was delicious! Generous portions and a cozy atmosphere make it a must-visit.",
+          "The Deli Delight never disappoints! Their salads are just as good as their sandwiches, and I love the clean, inviting space."
+        ]
+      }
+    },
+    "_checks": {
+      "compliance_attested": true,
+      "attested_restrictions": [
+        "No open flame cooking or use of commercial-grade cooking equipment is permitted.",
+        "Annual gross revenue must not exceed $500,000 for preferred status.",
+        "Only household-type appliances (microwave ovens, toasters) may be used for food preparation.",
+        "No on-premises catering or event hosting is allowed."
+      ]
+    },
+    "scenario": "accept",
+    "decision": "accept",
+    "business_type": "Delicatessens & Sandwich Shops",
+    "ground_truth": {
+      "decision": "ACCEPT",
+      "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "accept",
+  "business_type": "Delicatessens & Sandwich Shops",
+  "chosen_reason": {
+    "rule_id": "",
+    "reason": ""
+  },
+  "validation": {
+    "ok": true,
+    "message": "The application for The Deli Delight is valid and meets all the necessary criteria for acceptance. It adheres to the preferred restrictions and does not violate any unacceptable conditions.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "ACCEPT",
+    "reason": "Application is compliant with guidelines and passes the logistic risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Day Care & Child Care Centers",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Bright Futures Child Care Center",
+      "FEIN OR SOC SEC #": "11-1111111",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Meadowbrook Lane, Springfield, IL 62704-5678",
+      "CONTACT FOR INSPECTION": "Sarah Johnson, Center Director, phone: (555) 555-1234, email: sarah.johnson@brightfutures.com",
+      "GL CODE": "123456",
+      "SIC": "8351",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Bright Futures Child Care Center is dedicated to providing a safe and nurturing environment for children aged six weeks to five years. Our operations are grounded in state-mandated guidelines and best practices in early childhood education. We maintain a low staff-to-child ratio to ensure individualized attention and support, fostering each child's social, emotional, and cognitive development through structured activities, play, and exploration.\n\nOur facility is equipped with secure entry systems and child-proofed spaces to guarantee the safety of all children in our care. We conduct regular safety drills, and our emergency procedures are well-documented and communicated to staff and parents. The center emphasizes a hygienic and healthy environment by adhering to strict sanitation protocols and food allergy management guidelines.\n\nBright Futures is committed to staff training, ensuring our educators are certified in child development and emergency response, and all staff members undergo comprehensive background checks. We prioritize strong communication with parents, providing regular updates and maintaining thorough documentation of attendance and incidents. Our center is positioned in a welcoming neighborhood, allowing us to focus entirely on the wellbeing and growth of the children and reassuring parents of a secure and enriching environment.",
+      "DATE BUSINESS STARTED": "01/15/2020",
+      "EFFECTIVE DATE": "03/01/2023",
+      "EXPIRATION DATE": "03/01/2024",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "12500",
+      "POLICY #": "BFCC-2023-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Statewide Insurance Group",
+      "POLICY NUMBER": "BFCC-2022-002",
+      "TOTAL LOSSES": "$150",
+      "DESCRIPTION OF LOSSES": "On September 15, 2022, a minor incident occurred when a child tripped during playtime, resulting in a small scrape on the knee. The total cost incurred for treatment was $150. The incident was addressed promptly, and parents were notified. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,500",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000/$5,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$500,000/$1,000",
+      "Professional Liability": "$1,000,000/$2,500",
+      "Liquor Liability": "$1,000,000/$2,500",
+      "Hired Auto": "$1,000,000/$1,000",
+      "Non-owned Auto": "$1,000,000/$1,000",
+      "Computers": "$10,000/$500",
+      "ordinence and law": "$1,000,000/$2,500",
+      "Flood": "$500,000/$5,000",
+      "accounts recievable": "$100,000/$1,000",
+      "employee dishonesty": "$100,000/$1,000",
+      "money and securities": "$50,000/$1,000",
+      "ADDRESS": "456 Elmwood Drive, Springfield, IL 62704-8901",
+      "Year Built": "2015",
+      "Square Feet": "4000.0",
+      "HOURS OF OPERATION": "Monday to Friday, 7:00 AM to 6:00 PM",
+      "Distance to hydrant": "500 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$300,000",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "$2,000",
+      "OTHER PROTECTION": "Secure fenced play area with monitored entry points and staff patrols during outdoor activities.",
+      "Building limit": "$3000000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Bright Futures Child Care Center does not engage in storing, treating, discharging, applying, disposing, or transporting hazardous materials as part of its operations. The center focuses on providing a safe environment for children, adhering to state-mandated guidelines and best practices.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Bright Futures Child Care Center does not sponsor athletic teams as it primarily focuses on early childhood education and care for children aged six weeks to five years.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The center's management is responsible for checking and verifying these certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes associated with Bright Futures Child Care Center or its applicants. The center is committed to maintaining a safe and compliant environment for children.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Bright Futures Child Care Center has not had any policies or coverage declined, canceled, or non-renewed during the prior three years. We maintain a strong record of compliance and insurance continuity.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Bright Futures Child Care Center does not lease employees to or from other employers, as we maintain a dedicated staff for the care and education of the children at our facility.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Bright Futures Child Care Center carries Workers' Compensation insurance, ensuring compliance with state-mandated requirements for employee coverage.",
+      "G8: Do you own or operate any other business?": "No \u2013 Bright Futures Child Care Center does not own or operate any other business. We are solely focused on providing dedicated child care and early childhood education services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Bright Futures Child Care Center currently holds one active policy with this company, and does not have any additional insurance policies.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Bright Futures Child Care Center is not involved in manufacturing, mixing, relabeling, or repackaging of products; we solely provide child care and early childhood education services.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Bright Futures Child Care Center does not rent or loan equipment to others as our focus is solely on providing care and education for children. We prioritize maintaining a safe and secure environment without engaging in equipment rental or loan activities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Bright Futures Child Care Center has not had any foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. The center maintains a stable financial status and compliance with all regulatory requirements.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Bright Futures Child Care Center has no exposure to flammables, explosives, or chemicals as our operations focus solely on providing a safe environment for young children, with adherence to strict safety protocols.",
+      "G14: Any catastrophe exposure?": "No \u2013 Bright Futures Child Care Center does not have any catastrophe exposure. The center operates in a safe suburban neighborhood with appropriate safety measures in place to mitigate risks.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Bright Futures Child Care Center has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The center prioritizes safety and conducts thorough background checks on all staff.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations at Bright Futures Child Care Center. The center maintains compliance with all fire safety regulations and conducts regular inspections to ensure safety.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 150,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "I love how this daycare takes extra precautions with their advanced security measures! It's such a relief knowing my little one is safe and sound while I\u2019m at work.",
+          "I appreciate the safe environment and the low staff-to-child ratio. My daughter has thrived here and looks forward to going every day!",
+          "The communication from the staff is excellent. They keep me updated on my child's progress and any activities happening at the center.",
+          "I feel confident leaving my child at Bright Futures. The facility is clean, and the staff is well-trained and friendly.",
+          "My son has made great friends and learned so much since starting here. I highly recommend Bright Futures for any parent looking for quality child care."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Do not accept centers located in high-crime or high-risk urban areas without advanced security measures."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Do not accept centers located in high-crime or high-risk urban areas without advanced security measures."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Day Care & Child Care Centers",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Do not accept centers located in high-crime or high-risk urban areas without advanced security measures."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not indicate any high-crime or high-risk urban location, and the third-party data highlights advanced security measures and positive reviews without mentioning any security concerns."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Day Care & Child Care Centers",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Do not accept centers located in high-crime or high-risk urban areas without advanced security measures."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application for Bright Futures Child Care Center cannot be accepted due to its location in a high-crime or high-risk urban area without advanced security measures, which is a clear violation of the specified restriction.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not indicate any high-crime or high-risk urban location, and the third-party data highlights advanced security measures and positive reviews without mentioning any security concerns."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Ambulance & Emergency Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Rapid Response Ambulance Services",
+      "FEIN OR SOC SEC #": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "123 Emergency Lane, Suite 101, Anytown, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Lead Inspection Coordinator",
+      "GL CODE": "1000",
+      "SIC": "6219",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Rapid Response Ambulance Services specializes in providing emergency medical transport to hospitals and trauma centers, ensuring that all patients receive the highest standard of urgent care during transport. Our operations are managed by a team of certified EMTs and paramedics, all of whom hold current certifications and licenses, to guarantee qualified personnel deliver critical medical assistance. We maintain a modern fleet of ambulances that are regularly maintained and inspected according to applicable regulatory guidelines to ensure patient safety. Our dispatch services operate 24/7, allowing for immediate response to emergency calls. In compliance with legal requirements, we strictly document all patient transports and dispatch activities to ensure accuracy and accountability in our operations. Additionally, we have implemented a formal quality assurance program and incident reporting system, enabling us to continuously improve patient care and operational efficiency. Compliance with all relevant local, state, and federal guidelines is a top priority for us, ensuring we operate within established legal frameworks to maintain service excellence and avoid any unresolved regulatory violations.\n\nOur ambulance and emergency services include providing essential medications and treatments during transport, which may involve dispensing pharmaceuticals to patients in critical need.",
+      "DATE BUSINESS STARTED": "01/15/2015",
+      "EFFECTIVE DATE": "01/20/2015",
+      "EXPIRATION DATE": "01/20/2026",
+      "NEW/RENEWAL": "RNWL",
+      "PAYMENT PLAN": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "TOTAL PREMIUM": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "POLICY #": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "POLICY NUMBER": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "TOTAL LOSSES": "$250,000",
+      "DESCRIPTION OF LOSSES": "The ambulance service reported three incidents over the past year. The first incident occurred on March 5, 2023, when the ambulance was involved in a minor collision while responding to an emergency. The cost of repairs amounted to $5,000, and this claim is currently resolved. The second incident took place on June 14, 2023, involving equipment damage during an emergency call, resulting in a loss of $10,000, which is still under review. Finally, on September 20, 2023, a patient transport resulted in a claim of $235,000 due to alleged negligence; this case is currently in litigation.",
+      "Combined Single Limit": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000 Aggregate Limit / $5,000 Deductible",
+      "Medical Expense (per person)": "$5,000 Per Person Limit / $500 Deductible",
+      "Damge to Rental Premises": "$100,000 Limit / $1,000 Deductible",
+      "Professional Liability": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "Liquor Liability": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "Hired Auto": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "Non-owned Auto": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "Computers": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "ordinence and law": "$250,000 Limit / $5,000 Deductible",
+      "Flood": "$250,000 Limit / $5,000 Deductible",
+      "accounts recievable": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "employee dishonesty": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "money and securities": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "ADDRESS": "456 Hero Way, Suite 200, Anytown, CA 90210-5678",
+      "Year Built": "1985",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "24/7",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "1995",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$1200000",
+      "TOTAL PAYROLL": "$800,000",
+      "NO. OF EMPLOYEES": "50",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "N/A",
+      "MONEY ON PREMISES": "REJECTED: Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "OTHER PROTECTION": "Fencing and security personnel for patient transport operations.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value",
+      "personal property limit": "$250,000 Limit / $5,000 Deductible",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Rapid Response Ambulance Services does not engage in operations involving storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our focus is solely on emergency medical transport to hospitals and trauma centers.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Rapid Response Ambulance Services does not sponsor athletic teams as part of its operations, which focus exclusively on emergency medical transport.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The responsibility for checking certificates typically lies with the designated risk manager or compliance officer within the organization.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Rapid Response Ambulance Services has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Rapid Response Ambulance Services has not had any policy or coverage declined, canceled, or non-renewed during the prior three years. All insurance coverage remains active and compliant with current regulations.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Rapid Response Ambulance Services does not lease employees to or from other employers, focusing solely on internal staffing for their operations.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Rapid Response Ambulance Services does not carry workers compensation as it has been determined to be ineligible due to offering ancillary services that fall outside the emergency medical transport scope.",
+      "G8: Do you own or operate any other business?": "No \u2013 Rapid Response Ambulance Services does not own or operate any other business outside of providing emergency medical transport. The focus remains solely on delivering urgent care during transport to hospitals and trauma centers.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Rapid Response Ambulance Services does not have any other insurance with this company, as we specialize solely in emergency medical transport and do not offer ancillary services.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Rapid Response Ambulance Services is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our operations focus solely on emergency medical transport to hospitals and trauma centers.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Rapid Response Ambulance Services does not rent or loan equipment to others, as the operation focuses solely on providing emergency medical transport. This helps maintain compliance with the coverage requirements and limit risks associated with equipment transfer.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Rapid Response Ambulance Services has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years. All financial matters have been handled responsibly and there have been no significant financial difficulties.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Rapid Response Ambulance Services does not have any exposure to flammables, explosives, or chemicals, as our operations are focused exclusively on emergency medical transport to hospitals and trauma centers. We do not engage in activities that would involve handling hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Rapid Response Ambulance Services does not offer any ancillary services that would involve catastrophe exposure beyond standard emergency medical transport. Our operations are focused solely on transporting patients to hospitals and trauma centers.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Rapid Response Ambulance Services has not reported any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. All operational practices comply with regulatory standards to ensure patient and employee safety.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Rapid Response Ambulance Services does not have any uncorrected fire code violations, as we maintain strict compliance with all safety regulations and conduct regular inspections of our facilities.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 250000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The team at Rapid Response Ambulance Services was incredibly professional and caring during my emergency. I felt safe and well taken care of.",
+          "Fast response time and knowledgeable staff made a stressful situation much easier. Highly recommend their services!",
+          "I had to call for an ambulance recently, and I was impressed by how quickly they arrived. The EMTs were friendly and efficient.",
+          "Great service! The paramedics were attentive and made sure I was comfortable during the ride to the hospital.",
+          "I appreciate the dedication of the staff at Rapid Response. They truly care about their patients and provide excellent care."
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Ambulance & Emergency Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the ambulance service provides essential medications and treatments during transport, which involves dispensing pharmaceuticals to patients in critical need, thus violating the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Ambulance & Emergency Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible."
+  },
+  "validation": {
+    "ok": false,
+    "message": "The application is rejected due to the violation of the specific rule regarding ancillary services. The chosen reason is clearly present, and there are no other violations that contradict this rejection.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Providers offering ancillary services such as body piercing, pharmacy dispensing, or cosmetic procedures are ineligible.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the ambulance service provides essential medications and treatments during transport, which involves dispensing pharmaceuticals to patients in critical need, thus violating the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

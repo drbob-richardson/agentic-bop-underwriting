@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Food & Grocery Stores",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Green Valley Grocers",
+      "FEIN OR SOC SEC #": "45-1234567",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Green Valley Road, Suite 100, Springfield, IL 62701-5678",
+      "CONTACT FOR INSPECTION": "John Smith, Compliance Manager",
+      "GL CODE": "2111",
+      "SIC": "5411",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "Green Valley Grocers operates a retail grocery store located in Springfield, Illinois, providing a wide range of food products including fresh produce, canned goods, dairy, and meats. Our store occupies a spacious area of over 3,000 square feet, designed to enhance customer experience and facilitate efficient inventory management. We prioritize food safety compliance; all staff undergo regular training to meet health regulations and uphold sanitation standards. Our operations do not include extensive on-site cooking to minimize fire hazards, ensuring a safe shopping environment. We maintain a reliable supply chain through established vendor relationships and ensure rigorous inventory turnover, which helps reduce spoilage and guarantees product availability. Moreover, we have implemented effective pest control measures and remain compliant with all local food safety regulations, reinforcing our commitment to public health and operational integrity.",
+      "DATE BUSINESS STARTED": "05/01/2015",
+      "EFFECTIVE DATE": "05/01/2024",
+      "EXPIRATION DATE": "05/01/2025",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$2,500.00",
+      "POLICY #": "GVG-2024-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Acme Insurance Group",
+      "POLICY NUMBER": "GVG-2023-002",
+      "TOTAL LOSSES": "$3,000",
+      "DESCRIPTION OF LOSSES": "On 02/15/2023, a minor electrical issue caused a localized fire in the storage area, leading to the disposal of spoiled inventory. The total loss amounted to $3,000. The situation was promptly addressed, with repairs made and local fire department inspections passed, ensuring compliance with safety standards. Status: Resolved.",
+      "Combined Single Limit": "$1,000,000 combined single limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 limit with a $1,000 deductible",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 limit with a $2,500 deductible",
+      "Medical Expense (per person)": "$5,000 combined limit with a $100 deductible",
+      "Damge to Rental Premises": "$50,000 limit with a $1,000 deductible",
+      "Professional Liability": "\"$1,000,000 limit with a $2,500 deductible\"",
+      "Liquor Liability": "$1,000,000 limit with a $1,000 deductible",
+      "Hired Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Non-owned Auto": "$1,000,000 limit with a $1,000 deductible",
+      "Computers": "$20,000 limit with a $500 deductible",
+      "ordinence and law": "$1,000,000 limit with a $1,000 deductible",
+      "Flood": "$500,000 limit with a $1,000 deductible",
+      "accounts recievable": "\"$250,000 limit with a $1,000 deductible\"",
+      "employee dishonesty": "$500,000 limit with a $1,000 deductible",
+      "money and securities": "\"$250,000 limit with a $1,000 deductible\"",
+      "ADDRESS": "456 Meadowbrook Lane, Springfield, IL 62701-5678",
+      "Year Built": "2010",
+      "Square Feet": "3500",
+      "HOURS OF OPERATION": "07:00 AM - 10:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2019",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "100",
+      "ANNUAL SALES": "$1,200,000.00",
+      "TOTAL PAYROLL": "$450,000.00",
+      "NO. OF EMPLOYEES": "30",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Class B, UL Listed Safe, Grade 1, with electronic lock and time-delay features.",
+      "MONEY ON PREMISES": "$5,000.00",
+      "OTHER PROTECTION": "Central Station Alarm System with Regular Monitoring and 24/7 Security Patrols",
+      "Building limit": "$1500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost, actual cost value of inventory",
+      "personal property limit": "$300,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Green Valley Grocers does not store, treat, discharge, apply, dispose of, or transport hazardous materials as part of its operations. The grocery store focuses on retail food sales and implements effective safety and sanitation measures.",
+      "G2: Are athletic teams sponsored?": "Yes \u2013 Green Valley Grocers sponsors local athletic teams as part of their community engagement initiatives. This involvement supports youth sports and fosters a positive relationship with the community.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The compliance manager, John Smith, is responsible for checking these certificates.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Green Valley Grocers has not had any applicant indicted or convicted of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business maintains a strong commitment to compliance and integrity in its operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Green Valley Grocers has not had any policies or coverage declined, canceled, or non-renewed during the prior 3 years. The business maintains a good standing with its insurance provider.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Green Valley Grocers does not lease employees to or from other employers, as all staffing is managed internally to ensure compliance with labor practices and operational standards.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Green Valley Grocers carries Workers Compensation insurance, ensuring compliance with legal requirements and providing coverage for employees in case of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Green Valley Grocers does not own or operate any other businesses. Their operations are solely focused on the retail grocery store located in Springfield, Illinois.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Green Valley Grocers does not have any other insurance policies with this company at this time. The only current policy listed is for general liability coverage.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Green Valley Grocers is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations are focused solely on retail food sales without extensive processing activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Green Valley Grocers does not rent or loan equipment to others as part of its operations. The focus is solely on retail grocery sales, minimizing any associated liabilities.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Green Valley Grocers has not experienced a foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business maintains a stable financial status with no such legal or financial issues on record.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Green Valley Grocers does not have any exposure to flammables, explosives, or chemicals as their operations focus solely on retail food sales without the handling of hazardous materials.",
+      "G14: Any catastrophe exposure?": "No \u2013 Green Valley Grocers does not have any catastrophe exposure as their operations focus solely on retail grocery sales, and they have implemented effective risk management protocols to address potential hazards.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Green Valley Grocers has not had any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. The business maintains a strong ethical standard and commitment to compliance in all operations.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Green Valley Grocers has no uncorrected fire code violations and maintains compliance with all safety standards.",
+      "NUMBER OF CLAIMS": "2"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 2,
+        "total_losses": 3000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "Green Valley Grocers has a fantastic selection of fresh produce and the staff is always friendly and helpful!",
+          "I love shopping here! The store is clean, well-organized, and they have great weekly deals.",
+          "This grocery store has everything I need, and I appreciate their commitment to food safety and quality.",
+          "The layout of the store makes it easy to find what I'm looking for, and the checkout process is quick.",
+          "I highly recommend Green Valley Grocers for their excellent customer service and fresh food options!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Food & Grocery Stores",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Food & Grocery Stores",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

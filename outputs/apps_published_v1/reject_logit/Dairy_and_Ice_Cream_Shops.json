@@ -1,0 +1,132 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Dairy & Ice Cream Shops",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Creamy Delights Dairy Shop",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "123 Creamy Lane, Suite 101, Ice Cream City, IL 62701-1234",
+      "CONTACT FOR INSPECTION": "John Smith",
+      "GL CODE": "2050",
+      "SIC": "5812",
+      "NATURE OF BUSINESS": "Retail",
+      "DESCRIPTION OF OPERATIONS": "At Creamy Delights Dairy Shop, we specialize in providing a delightful selection of dairy products and handmade ice cream in a welcoming retail environment. Our operations focus on crafting high-quality ice cream using fresh, locally sourced ingredients, while adhering to strict food safety and health regulations. We have implemented a comprehensive staff training program to ensure that all employees, including seasonal workers, are well-versed in food safety practices, customer service, and allergen awareness. Our store maintains a clean and inviting atmosphere, backed by documented equipment maintenance and cleaning schedules to prevent any operational risks. Moreover, we are committed to conducting annual risk assessments to proactively identify and mitigate potential hazards. By fostering a strong relationship with reputable suppliers and maintaining high standards of ingredient labeling, we minimize product liability exposure and prioritize our customers' health and safety.",
+      "DATE BUSINESS STARTED": "06/01/2022",
+      "EFFECTIVE DATE": "11/01/2023",
+      "EXPIRATION DATE": "11/01/2024",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$3,500.00",
+      "POLICY #": "CDS-2023-ACCEPT-001",
+      "OTHER BUSINESSES OWNED": "N/A",
+      "PREVIOUS CARRIER": "Sweet Cream Insurance Company",
+      "POLICY NUMBER": "CDS-2023-NEW-002",
+      "TOTAL LOSSES": "$2,500",
+      "DESCRIPTION OF LOSSES": "On 07/15/2023, a malfunction in the freezer unit caused a loss of inventory amounting to $2,000. The issue was promptly resolved, and the affected products were replaced. Status: Closed.",
+      "Combined Single Limit": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000 / $1,000",
+      "Bodily Injury & Prop Damage Aggregate": "$2,000,000 / $2,500",
+      "Medical Expense (per person)": "$5,000 / $250",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $1,000",
+      "Liquor Liability": "$1,000,000 / $1,000",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$10,000 / $500",
+      "ordinence and law": "$500,000 / $1,000",
+      "Flood": "$500,000 / $1,000",
+      "accounts recievable": "$100,000 / $1,000",
+      "employee dishonesty": "$50,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "456 Creamy Avenue, Ice Cream City, IL 62701-1234",
+      "Year Built": "1995",
+      "Square Feet": "1200",
+      "HOURS OF OPERATION": "10:00 AM - 10:00 PM",
+      "Distance to hydrant": "150 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2015",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$450,000.00",
+      "TOTAL PAYROLL": "$150,000.00",
+      "NO. OF EMPLOYEES": "12",
+      "ALARM TYPE": "Central Station",
+      "SAFE/VAULT DETAILS": "Heavy-duty commercial safe with UL Class 350 fire rating, suitable for cash and important documents, installed in a secure area of the shop.",
+      "MONEY ON PREMISES": "$2,500.00",
+      "OTHER PROTECTION": "Surveillance camera system installed, backed by a maintenance plan.",
+      "Building limit": "$1200000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$150,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Creamy Delights Dairy Shop does not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. Our operations focus on safely producing and selling dairy products and ice cream, adhering to all relevant food safety regulations.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Creamy Delights Dairy Shop does not sponsor any athletic teams. Our focus is primarily on providing high-quality dairy products and ice cream to our customers.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance, and the certificates are verified by our management team to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any related crimes in connection with Creamy Delights Dairy Shop or any of its operations.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 Creamy Delights Dairy Shop has not had any policy or coverage declined, canceled, or non-renewed in the prior 3 years. We have maintained a good standing with our previous insurance provider.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Creamy Delights Dairy Shop does not lease employees to or from other employers. Our team is comprised solely of our own trained staff.",
+      "G7: Any Workers Compensation carried?": "Yes \u2013 Creamy Delights Dairy Shop carries Workers' Compensation insurance to ensure compliance with legal requirements and provide coverage for employees in the event of work-related injuries.",
+      "G8: Do you own or operate any other business?": "No \u2013 Creamy Delights Dairy Shop does not own or operate any other business. Our focus is dedicated solely to providing high-quality dairy products and ice cream.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Creamy Delights Dairy Shop does not have any other insurance policies with this company. All required insurance coverage is adequately maintained through the current policy.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Creamy Delights Dairy Shop is not involved in manufacturing, mixing, relabeling, or repackaging products beyond incidental retail private label. Our operations focus solely on retailing dairy products and handmade ice cream.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Creamy Delights Dairy Shop does not rent or loan equipment to others. Our operations focus solely on providing our own quality products to customers without involving equipment rental.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Creamy Delights Dairy Shop has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years. The business maintains financial stability and adheres to sound financial practices.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Creamy Delights Dairy Shop does not have any exposure to flammables, explosives, or chemicals as our operations are focused on the safe production and sale of dairy products and ice cream. We adhere to all relevant safety regulations to ensure a secure environment.",
+      "G14: Any catastrophe exposure?": "No \u2013 Creamy Delights Dairy Shop does not have any catastrophe exposure, as our operations are focused solely on retailing dairy products and handmade ice cream without involvement in high-risk activities.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Creamy Delights Dairy Shop has not had any past losses or claims related to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations prioritize a safe and inclusive environment for both staff and customers.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 Creamy Delights Dairy Shop has no uncorrected fire code violations and is committed to maintaining compliance with all fire safety regulations.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 2500,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The ice cream here is absolutely delicious! I love the variety of flavors and the friendly staff.",
+          "Creamy Delights is my go-to spot for a sweet treat. Their handmade ice cream is always fresh and creamy.",
+          "Great atmosphere and even better ice cream! The seasonal flavors are a must-try.",
+          "I appreciate their commitment to quality ingredients. Every scoop is a delight!",
+          "The service is always quick and friendly. Perfect place to cool off on a hot day!"
+        ]
+      }
+    },
+    "scenario": "reject_logit",
+    "decision": "reject_logit",
+    "business_type": "Dairy & Ice Cream Shops",
+    "chosen_reason": {
+      "rule_id": "LOGISTIC",
+      "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "Application passes guidelines but fails the statistical risk screen.",
+      "visibility": null,
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_logit",
+  "business_type": "Dairy & Ice Cream Shops",
+  "chosen_reason": {
+    "rule_id": "LOGISTIC",
+    "reason": "Application satisfies explicit guidelines but fails the statistical risk screen."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application satisfies explicit guidelines but fails the statistical risk screen.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "Application passes guidelines but fails the statistical risk screen.",
+    "visibility": null,
+    "method": "llm_visibility_check_v1"
+  }
+}

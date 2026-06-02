@@ -1,0 +1,146 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Embroidery & Custom Apparel",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Embroidered Expressions",
+      "FEIN OR SOC SEC #": "12-3456789",
+      "BUSINESS TYPE": "LLC",
+      "MAILING ADDRESS": "1234 Custom St, Suite 100, Creative City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, Operations Manager, (555) 123-4567, johnsmith@embroideredexpressions.com",
+      "GL CODE": "\"8141\"",
+      "SIC": "nordic",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "Embroidered Expressions specializes in high-quality embroidery and custom apparel production, serving a diverse clientele that includes organizations, schools, and corporate clients. Our operations involve the use of commercial-grade embroidery and screen printing equipment, which is meticulously maintained to ensure safety and efficiency. We prioritize quality and reliability by sourcing materials from established vendors and have implemented rigorous health and safety protocols for our staff. Our production area is distinctly separate from administrative spaces to streamline workflow and minimize the risk of cross-contamination. We operate within the bounds of local zoning and occupancy regulations, maintaining compliance with safety codes to ensure a secure environment for our operations. With a commitment to excellence, we also maintain a documented quality control process to minimize customer complaints and returns.",
+      "DATE BUSINESS STARTED": "01/15/2022",
+      "EFFECTIVE DATE": "03/01/2022",
+      "EXPIRATION DATE": "03/01/2023",
+      "NEW/RENEWAL": "NEW",
+      "PAYMENT PLAN": "Monthly",
+      "TOTAL PREMIUM": "$12,500",
+      "POLICY #": "POLICY-EMB-2023-001",
+      "OTHER BUSINESSES OWNED": "Custom Creations LLC - A local business specializing in personalized gifts and custom screen printing services.",
+      "PREVIOUS CARRIER": "StitchSafe Insurance Co.",
+      "POLICY NUMBER": "POLICY-EMB-2022-002",
+      "TOTAL LOSSES": "$3,000",
+      "DESCRIPTION OF LOSSES": "On 08/15/2023, a malfunction in the embroidery machine caused damage to several fabric rolls and incurred repair costs amounting to $3,000. Status: Resolved, all repairs completed and equipment is operational now.",
+      "Combined Single Limit": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Occurrrence": "$1,000,000/$2,000",
+      "Bodily Injury & Prop Damage Aggregate": "$1,000,000/$2,000",
+      "Medical Expense (per person)": "$5,000",
+      "Damge to Rental Premises": "$100,000 / $1,000",
+      "Professional Liability": "$1,000,000 / $5,000",
+      "Liquor Liability": "$1,000,000 / $2,500",
+      "Hired Auto": "$1,000,000 / $1,000",
+      "Non-owned Auto": "$1,000,000 / $1,000",
+      "Computers": "$50,000 / $1,000",
+      "ordinence and law": "$500,000 / $2,500",
+      "Flood": "$500,000 / $2,500",
+      "accounts recievable": "$250,000 / $1,000",
+      "employee dishonesty": "$100,000 / $1,000",
+      "money and securities": "$100,000 / $1,000",
+      "ADDRESS": "5678 Stitch Ave, Suite 200, Creative City, CA 90210-1234",
+      "Year Built": "2018",
+      "Square Feet": "2000.0",
+      "HOURS OF OPERATION": "Monday to Friday, 9:00 AM to 6:00 PM; Saturday, 10:00 AM to 4:00 PM; Closed on Sunday",
+      "Distance to hydrant": "300 feet",
+      "OCCUPANCY": "Retail",
+      "BUILDING IMPROVEMENTS": "2023",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "75",
+      "ANNUAL SALES": "$450000",
+      "TOTAL PAYROLL": "$200,000",
+      "NO. OF EMPLOYEES": "15",
+      "ALARM TYPE": "Local",
+      "SAFE/VAULT DETAILS": "Commercial-grade safe, class U, grade B, UL listed for cash and valuables storage.",
+      "MONEY ON PREMISES": "$5,000",
+      "OTHER PROTECTION": "Local security patrol service on weekends to reduce theft risk.",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "Replacement cost",
+      "personal property limit": "$500,000",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Our operations do not involve storing, treating, discharging, applying, disposing, or transporting hazardous materials. We focus exclusively on embroidery and custom apparel production, which does not utilize such materials.",
+      "G2: Are athletic teams sponsored?": "No \u2013 We do not sponsor any athletic teams as our primary focus is on embroidery and custom apparel production for various organizations, schools, and corporate clients.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Subcontractors are not allowed to work without providing a certificate of insurance. The Operations Manager checks the certificates to ensure compliance.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 There have been no indictments or convictions for fraud, bribery, arson, or any other arson-related crime in connection with this or any other property associated with the applicant.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There have been no policies or coverages declined, canceled, or non-renewed during the prior three years.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 We do not lease employees to or from other employers; all our staff are directly employed by Embroidered Expressions.",
+      "G7: Any Workers Compensation carried?": "No \u2013 We currently carry a Workers' Compensation policy to ensure compliance with legal requirements and provide coverage for our employees.",
+      "G8: Do you own or operate any other business?": "Yes \u2013 Embroidered Expressions operates another business, Custom Creations LLC, which specializes in personalized gifts and custom screen printing services.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Currently, there is no other insurance policy with this company besides the existing policy number POLICY-EMB-2023-001. The only prior policy was POLICY-EMB-2022-002, which has since expired.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Embroidered Expressions is not involved in manufacturing, mixing, relabeling, or repackaging of products. Our primary focus is on embroidery and custom apparel production, which does not include those activities.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 We do not rent or loan equipment to others, as our focus is solely on providing embroidery and custom apparel production services for our clients. This ensures that we maintain control over our operations and minimize any associated risks.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 The applicant has not had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five years.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Our operations focus solely on embroidery and custom apparel production, and we do not use flammables, explosives, or chemicals in our processes. We prioritize safety and compliance with relevant regulations.",
+      "G14: Any catastrophe exposure?": "No \u2013 We do not have any exposure to catastrophes in our operations, as our focus is on embroidery and custom apparel production without involvement in high-risk activities or environments.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 There have been no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring. Our operations adhere to strict standards to ensure a safe and equitable environment.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are no uncorrected fire code violations for Embroidered Expressions. All safety codes and requirements are being met to ensure a secure operating environment.",
+      "NUMBER OF CLAIMS": "1"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 1,
+        "total_losses": 3000,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.8,
+        "reviews": [
+          "I was so impressed when I found out they offer customized logo designs with enhanced security features for our team's uniforms! It really adds a unique touch and makes us feel safe and professional on the job.",
+          "I love my new embroidered jacket! The attention to detail is fantastic, and it was ready ahead of schedule.",
+          "Great experience from start to finish. The team was professional and the final product exceeded my expectations.",
+          "Highly recommend! They have a wide selection of fabrics and the embroidery work is simply beautiful.",
+          "Fast service and excellent quality! I will definitely be coming back for more custom items in the future."
+        ],
+        "tpd_violation_seeded": true,
+        "tpd_violation_reason": "Strict adherence to local alarm and security requirements is mandatory."
+      }
+    },
+    "_checks": {
+      "violation_scrubbed": true,
+      "scrubbed_reason": "Strict adherence to local alarm and security requirements is mandatory."
+    },
+    "scenario": "incomplete_recoverable",
+    "decision": "reject_with_tpd",
+    "business_type": "Embroidery & Custom Apparel",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "Strict adherence to local alarm and security requirements is mandatory."
+    },
+    "ground_truth": {
+      "decision": "REFER_TO_HUMAN_REVIEW",
+      "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+      "visibility": {
+        "in_application": false,
+        "in_third_party": false,
+        "rationale": "The application text does not mention any violations of local alarm and security requirements, and the third-party data does not provide evidence of such violations either."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "incomplete_recoverable",
+  "business_type": "Embroidery & Custom Apparel",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "Strict adherence to local alarm and security requirements is mandatory."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application cannot be accepted due to violation of the rule: Strict adherence to local alarm and security requirements is mandatory.",
+    "fix_field": ""
+  },
+  "mode": "accept",
+  "ground_truth": {
+    "decision": "REFER_TO_HUMAN_REVIEW",
+    "reason": "Application omits the decisive detail and third-party data does not supply it; further investigation required.",
+    "visibility": {
+      "in_application": false,
+      "in_third_party": false,
+      "rationale": "The application text does not mention any violations of local alarm and security requirements, and the third-party data does not provide evidence of such violations either."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}

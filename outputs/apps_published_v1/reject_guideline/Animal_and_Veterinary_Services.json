@@ -1,0 +1,148 @@
+{
+  "app": {
+    "BUSINESS TYPE": "Animal & Veterinary Services",
+    "NAME": "",
+    "FIELDS": {
+      "NAME": "Pawsitive Care Veterinary Services",
+      "FEIN OR SOC SEC #": "REJECTED: Invalid input due to the requirement for a Federal Employer ID Number (FEIN) or Social Security Number (SOC SEC #) which cannot be generated as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "BUSINESS TYPE": "Partnership",
+      "MAILING ADDRESS": "1234 Pawsitive Lane, Suite 100, Veterinary City, CA 90210-1234",
+      "CONTACT FOR INSPECTION": "John Smith, DVM, Chief Veterinarian, Pawsitive Care Veterinary Services, JohnSmith@pawsitivecare.com, (555) 123-4567",
+      "GL CODE": "REJECTED: Due to the absence of a valid GL CODE that complies with the restriction of \"No history of veterinary licensing violations or unresolved regulatory actions.\"",
+      "SIC": "5411",
+      "NATURE OF BUSINESS": "Service",
+      "DESCRIPTION OF OPERATIONS": "At Pawsitive Care Veterinary Services, we specialize in providing routine medical care, diagnostics, and minor surgical procedures primarily for companion animals. Our core operations include wellness exams, vaccinations, dental care, and minor surgical interventions, all performed by our licensed veterinarians and credentialed staff. We prioritize animal safety and health by ensuring that our facilities are secure, well-maintained, and adherent to all local animal welfare standards. We have established robust waste handling protocols to manage biohazard and sharps disposal effectively. Additionally, we do not offer boarding services as a primary business line, although we are equipped to provide limited, short-term boarding in compliance with local regulations. Our commitment to ethical practices is reflected in our clean regulatory history, marked by no unresolved licensing violations or major malpractice claims over the past five years. We are dedicated to maintaining high standards of veterinary care while minimizing operational risks to our clients and their beloved pets.\n\nOur veterinary practice provides comprehensive animal care, including procedures for pets, despite occasionally facing regulatory inquiries that we address as part of our commitment to maintaining high standards of service.",
+      "DATE BUSINESS STARTED": "01/15/2018",
+      "EFFECTIVE DATE": "02/01/2023",
+      "EXPIRATION DATE": "02/01/2024",
+      "NEW/RENEWAL": "RENEWAL",
+      "PAYMENT PLAN": "REJECTED: Payment plan cannot be generated due to the absence of a valid payment structure as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "TOTAL PREMIUM": "REJECTED: Total premium cannot be generated due to the absence of a valid payment structure as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "POLICY #": "REJECTED: Policy number cannot be generated due to the absence of a valid policy structure as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "OTHER BUSINESSES OWNED": "None.",
+      "PREVIOUS CARRIER": "REJECTED: No previous insurance provider due to a clean regulatory history, indicating no prior veterinary licensing violations or unresolved regulatory actions.",
+      "POLICY NUMBER": "REJECTED: Policy number cannot be generated due to the absence of a valid policy structure as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "TOTAL LOSSES": "$0",
+      "DESCRIPTION OF LOSSES": "Due to a lack of historical claims related to malpractice or property damage, there are no reported losses for Pawsitive Care Veterinary Services.",
+      "Combined Single Limit": "REJECTED: Unable to generate a Combined Single Limit due to the absence of a valid insurance structure as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "Bodily Injury & Prop Damage Occurrrence": "REJECTED: Unable to provide a compliant value for Bodily Injury & Prop Damage Occurrence due to regulatory and historical issues.",
+      "Bodily Injury & Prop Damage Aggregate": "REJECTED: Unable to provide a compliant value for Bodily Injury & Prop Damage Aggregate due to regulatory and historical issues.",
+      "Medical Expense (per person)": "REJECTED: Unable to provide a compliant value for Medical Expense (per person) due to the absence of a valid insurance structure.",
+      "Damge to Rental Premises": "REJECTED: Unable to generate a compliant value for Damage to Rental Premises due to the absence of a valid insurance structure as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "Professional Liability": "REJECTED: Unable to provide a compliant value for Professional Liability due to a history of veterinary licensing violations or unresolved regulatory actions.",
+      "Liquor Liability": "REJECTED: Unable to provide a compliant value for Liquor Liability due to the absence of a valid insurance structure as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "Hired Auto": "REJECTED: Hired Auto coverage cannot be provided due to a history of veterinary licensing violations or unresolved regulatory actions.",
+      "Non-owned Auto": "REJECTED: Non-owned Auto coverage cannot be provided due to a history of veterinary licensing violations or unresolved regulatory actions.",
+      "Computers": "REJECTED: Coverage for Computers cannot be provided due to a history of veterinary licensing violations or unresolved regulatory actions.",
+      "ordinence and law": "REJECTED: Unable to provide a compliant value for Ordinance and Law coverage due to a history of veterinary licensing violations or unresolved regulatory actions.",
+      "Flood": "REJECTED: Flood coverage cannot be provided due to the absence of a valid insurance structure as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "accounts recievable": "REJECTED: Accounts receivable coverage cannot be provided due to a history of veterinary licensing violations or unresolved regulatory actions.",
+      "employee dishonesty": "REJECTED: Employee dishonesty coverage is unavailable due to the absence of a valid insurance structure, as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "money and securities": "REJECTED: Money and securities coverage cannot be provided due to the absence of a valid insurance structure as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "ADDRESS": "4567 Compassionate Way, Veterinary Valley, CA 90210-1234",
+      "Year Built": "2015",
+      "Square Feet": "1000.0",
+      "HOURS OF OPERATION": "REJECTED: Unable to provide compliant value for HOURS OF OPERATION due to a history of veterinary licensing violations or unresolved regulatory actions.",
+      "Distance to hydrant": "75 feet",
+      "OCCUPANCY": "Service",
+      "BUILDING IMPROVEMENTS": "REJECTED: Unable to provide a compliant value for BUILDING IMPROVEMENTS due to a history of veterinary licensing violations or unresolved regulatory actions.",
+      "BASEMENT PRESENT": "No",
+      "SPRINKLER PERCENTAGE": "0",
+      "ANNUAL SALES": "$300000",
+      "TOTAL PAYROLL": "REJECTED: Total payroll amount cannot be provided due to the absence of a valid financial structure, as the business has a history of veterinary licensing violations or unresolved regulatory actions.",
+      "NO. OF EMPLOYEES": "5",
+      "ALARM TYPE": "None",
+      "SAFE/VAULT DETAILS": "Safe Type: Class B Vault; Grade: 1; Label: High Security",
+      "MONEY ON PREMISES": "$1,000",
+      "OTHER PROTECTION": "\"Security fences and monitored surveillance systems to ensure the safety of animals and staff.\"",
+      "Building limit": "$500000",
+      "building % Coinsurance": "80",
+      "personal property valuation type": "REJECTED: Unable to provide a compliant personal property valuation type due to a history of veterinary licensing violations or unresolved regulatory actions.",
+      "personal property limit": "REJECTED: Unable to provide a compliant value for personal property limit due to a history of veterinary licensing violations or unresolved regulatory actions.",
+      "personal property % Coinsurance": "80",
+      "G1: Do/have past, present or discontinued operations involve(d) storing, treating, discharging, applying, disposing, or transporting hazardous material? (e.g., landfills, wastes, fuel tanks, etc.)": "No \u2013 Pawsitive Care Veterinary Services does not have any past, present, or discontinued operations involving the storage, treatment, discharge, application, disposal, or transportation of hazardous materials. The facility prioritizes compliance with local regulations and maintains strict waste handling protocols to ensure safety.",
+      "G2: Are athletic teams sponsored?": "No \u2013 Pawsitive Care Veterinary Services does not sponsor athletic teams, ensuring a focus on our primary veterinary services without engaging in sponsorship activities.",
+      "G3: Are sub-contractors allowed to work without providing a certificate of insurance? If not, who checks certificates?": "No \u2013 Sub-contractors are not allowed to work without providing a certificate of insurance. The responsible party for checking certificates is typically the primary contractor or the business management team.",
+      "G4: Has any applicant been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property?": "No \u2013 Pawsitive Care Veterinary Services has not been indicted or convicted of any degree of the crime of fraud, bribery, arson, or any other arson-related crime in connection with this or any other property. The business maintains a clean regulatory history, reflecting compliance with applicable laws and standards.",
+      "G5: Any policy or coverage declined, canceled, or non-renewed during the prior 3 years? (Not applicable in MO)": "No \u2013 There has been no policy or coverage declined, canceled, or non-renewed during the prior 3 years. Pawsitive Care Veterinary Services has maintained a clean insurance record.",
+      "G6: Do you lease employees to or from other employers?": "No \u2013 Pawsitive Care Veterinary Services does not lease employees to or from other employers, ensuring that all staff are directly employed and trained to provide high-quality veterinary care.",
+      "G7: Any Workers Compensation carried?": "No \u2013 Pawsitive Care Veterinary Services does not currently carry Workers' Compensation insurance, as they do not have active employees at this time.",
+      "G8: Do you own or operate any other business?": "No \u2013 Pawsitive Care Veterinary Services does not own or operate any other business. The focus remains solely on providing veterinary services for companion animals.",
+      "G9: Any other insurance with this company? (List policy numbers)": "No \u2013 Pawsitive Care Veterinary Services does not have any other insurance policies with this company. The business has maintained a clean regulatory history and has not engaged in multiple insurance agreements.",
+      "G10: Are you involved in manufacturing, mixing, relabeling, or repackaging of products?": "No \u2013 Pawsitive Care Veterinary Services is not involved in manufacturing, mixing, relabeling, or repackaging of products, as our operations focus solely on providing veterinary care for companion animals. We prioritize ethical veterinary practices and adhere to all regulatory standards.",
+      "G11: Do you rent or loan equipment to others?": "No \u2013 Pawsitive Care Veterinary Services does not rent or loan equipment to others, as we prioritize maintaining control over our resources to ensure the highest standards of care and safety for the animals we serve.",
+      "G12: Has applicant had a foreclosure, repossession, bankruptcy, judgment, or lien during the past five (5) years?": "No \u2013 Pawsitive Care Veterinary Services has not experienced any foreclosure, repossession, bankruptcy, judgment, or lien in the past five years, indicating stable financial management.",
+      "G13: Any exposure to flammables, explosives, or chemicals?": "No \u2013 Pawsitive Care Veterinary Services does not have any exposure to flammables, explosives, or chemicals, as our operations adhere to strict safety and compliance standards. We prioritize safe practices in all aspects of veterinary care.",
+      "G14: Any catastrophe exposure?": "No \u2013 Pawsitive Care Veterinary Services does not have any catastrophe exposure, as their operations focus solely on providing routine medical care and do not involve high-risk activities that would increase such exposure.",
+      "G15: Any past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring?": "No \u2013 Pawsitive Care Veterinary Services has no past losses or claims relating to sexual abuse or molestation allegations, discrimination, or negligent hiring, demonstrating a commitment to ethical practices and a strong risk management approach.",
+      "G16: Any uncorrected fire code violations?": "No \u2013 There are currently no uncorrected fire code violations at Pawsitive Care Veterinary Services, demonstrating a commitment to maintaining safety standards in the facility.",
+      "NUMBER OF CLAIMS": "0"
+    },
+    "THIRD PARTY": {
+      "CLAIMS_HISTORY": {
+        "num_claims": 0,
+        "total_losses": 0,
+        "lookback_years": 3
+      },
+      "GOOGLE_RATING": 4.5,
+      "GOOGLE_REVIEWS": {
+        "review_count": 100,
+        "average_rating": 4.5,
+        "reviews": [
+          "The staff at Pawsitive Care Veterinary Services are incredibly caring and attentive. They always take the time to answer my questions!",
+          "I appreciate the thoroughness of the wellness exams. My dog always comes out happy and healthy!",
+          "The facility is clean and well-maintained, which gives me peace of mind when bringing my pets in for care.",
+          "I had a great experience with the minor surgical procedure for my cat. The veterinarians are knowledgeable and compassionate.",
+          "Pawsitive Care has been my go-to for vaccinations and routine check-ups. Highly recommend their services!"
+        ]
+      }
+    },
+    "_checks": {
+      "violation_stated": true,
+      "manual_reason_included": true,
+      "manual_reason": {
+        "rule_id": "SPEC-1",
+        "reason": "No history of veterinary licensing violations or unresolved regulatory actions."
+      }
+    },
+    "scenario": "reject_guideline",
+    "decision": "reject_guideline",
+    "business_type": "Animal & Veterinary Services",
+    "chosen_reason": {
+      "rule_id": "SPEC-1",
+      "reason": "No history of veterinary licensing violations or unresolved regulatory actions."
+    },
+    "ground_truth": {
+      "decision": "REJECT",
+      "reason": "No history of veterinary licensing violations or unresolved regulatory actions.",
+      "visibility": {
+        "in_application": true,
+        "in_third_party": false,
+        "rationale": "The application text explicitly states that the business has a history of veterinary licensing violations or unresolved regulatory actions, which directly violates the underwriting guideline."
+      },
+      "method": "llm_visibility_check_v1"
+    }
+  },
+  "scenario": "reject_guideline",
+  "business_type": "Animal & Veterinary Services",
+  "chosen_reason": {
+    "rule_id": "SPEC-1",
+    "reason": "No history of veterinary licensing violations or unresolved regulatory actions."
+  },
+  "validation": {
+    "ok": false,
+    "message": "Application rejected due to a history of veterinary licensing violations or unresolved regulatory actions, as indicated by the chosen reject reason. No other violations exist.",
+    "fix_field": ""
+  },
+  "mode": "reject",
+  "ground_truth": {
+    "decision": "REJECT",
+    "reason": "No history of veterinary licensing violations or unresolved regulatory actions.",
+    "visibility": {
+      "in_application": true,
+      "in_third_party": false,
+      "rationale": "The application text explicitly states that the business has a history of veterinary licensing violations or unresolved regulatory actions, which directly violates the underwriting guideline."
+    },
+    "method": "llm_visibility_check_v1"
+  }
+}
